@@ -1,0 +1,10 @@
+{
+    "name": "Tether USD",
+    "symbol": "USDT.e",
+    "contractType": "ERC-20",
+    "decimals": 6,
+    "logoUrl": "https://snowtrace.io/token/images/tether_32.png",
+    "assetType": "Stablecoin",
+    "officialSite": "https://tether.to/",
+    "resourceLinks": []
+}
