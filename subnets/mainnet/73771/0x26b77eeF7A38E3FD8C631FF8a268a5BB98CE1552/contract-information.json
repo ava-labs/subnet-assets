@@ -32,5 +32,6 @@
         {
             "coingecko": "https://www.coingecko.com/en/coins/treasure-under-sea"
         }
-    ]
+    ],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-explorer-assets/subnets/mainnet/73771/0x26b77eeF7A38E3FD8C631FF8a268a5BB98CE1552/92fd4871-9890-4d13-bf1c-ec58111bed39.png"
 }
