@@ -1,0 +1,36 @@
+{
+    "address": "0x57bf0eCe401d3126d37B3c23d35b1c1EE3EaE733",
+    "name": "Wrapped TUS",
+    "symbol": "WTUS",
+    "description": "An ERC-20 version of the native TUS token.",
+    "contractType": "ERC-20",
+    "decimals": 18,
+    "assetType": "Unlimited Cap",
+    "officialSite": "https: //www.crabada.com",
+    "resourceLinks": [
+        {
+            "blog": "https: //medium.com/@PlayCrabada"
+        },
+        {
+            "twitter": "https: //twitter.com/playcrabada"
+        },
+        {
+            "github": "https: //github.com/crabada"
+        },
+        {
+            "telegram": "https: //t.me/playcrabada"
+        },
+        {
+            "discord": "https: //discord.gg/Djy57Zhau9"
+        },
+        {
+            "whitepaper": "https: //docs.crabada.com/"
+        },
+        {
+            "coinMarketCap": "https: //coinmarketcap.com/currencies/treasure-under-sea/"
+        },
+        {
+            "coingecko": "https: //www.coingecko.com/en/coins/treasure-under-sea"
+        }
+    ]
+}
