@@ -1,0 +1,9 @@
+{
+    "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
+    "name": "Dai Stablecoin",
+    "symbol": "DAI.e",
+    "contractType": "ERC-20",
+    "decimals": 18,
+    "logoUrl": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xd586E7F844cEa2F87f50152665BCbc2C279D8d70/logo.png",
+    "resourceLinks": []
+}

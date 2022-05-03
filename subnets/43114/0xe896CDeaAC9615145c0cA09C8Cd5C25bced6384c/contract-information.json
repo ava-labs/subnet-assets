@@ -1,0 +1,9 @@
+{
+    "address": "0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c",
+    "name": "Penguin Finance",
+    "symbol": "PEFI",
+    "contractType": "ERC-20",
+    "decimals": 18,
+    "logoUrl": "https://raw.githubusercontent.com/Penguin-Finance/png-files/main/PEFILOGOPNG.png",
+    "resourceLinks": []
+}

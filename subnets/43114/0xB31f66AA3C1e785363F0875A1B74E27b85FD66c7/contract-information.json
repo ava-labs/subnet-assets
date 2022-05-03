@@ -1,0 +1,60 @@
+{
+    "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+    "name": "Wrapped AVAX",
+    "symbol": "WAVAX",
+    "contractType": "ERC-20",
+    "decimals": 18,
+    "assetType": "Fixed Cap",
+    "logoUrl": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
+    "officialSite": "https://www.avax.network/",
+    "resourceLinks": [
+        {
+            "type": "Blog",
+            "url": "https://medium.com/avalancheavax"
+        },
+        {
+            "type": "Reddit",
+            "url": "https://www.reddit.com/r/Avax/"
+        },
+        {
+            "type": "Facebook",
+            "url": "https://www.facebook.com/avalabsofficial/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https://twitter.com/avalancheavax"
+        },
+        {
+            "type": "Github",
+            "url": "https://github.com/ava-labs"
+        },
+        {
+            "type": "Telegram",
+            "url": "https://t.me/avalancheavax"
+        },
+        {
+            "type": "LinkedIn",
+            "url": "https://www.linkedin.com/company/avalabsofficial/mycompany/"
+        },
+        {
+            "type": "Discord",
+            "url": "https://discord.com/invite/RwXY7P6"
+        },
+        {
+            "type": "Whitepaper",
+            "url": "https://www.avalabs.org/whitepapers"
+        },
+        {
+            "type": "Support",
+            "url": "https://support.avax.network/en/"
+        },
+        {
+            "type": "CoinMarketCap",
+            "url": "https://coinmarketcap.com/currencies/avalanche/"
+        },
+        {
+            "type": "CoinGecko",
+            "url": "https://www.coingecko.com/en/coins/avalanche"
+        }
+    ]
+}
