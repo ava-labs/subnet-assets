@@ -1,8 +1,0 @@
-{
-    "name": "Wrapped BTC",
-    "symbol": "WBTC.e",
-    "contractType": "ERC-20",
-    "decimals": 8,
-    "logoUrl": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WBTC/logo.png",
-    "resourceLinks": []
-}
