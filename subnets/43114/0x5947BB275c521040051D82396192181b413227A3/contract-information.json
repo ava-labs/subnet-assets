@@ -1,4 +1,5 @@
 {
+    "address": "0x5947BB275c521040051D82396192181b413227A3",
     "name": "ChainLink Token",
     "symbol": "LINK.e",
     "contractType": "ERC-20",
