@@ -1,4 +1,5 @@
 {
+    "address": "0x50b7545627a5162F82A992c33b87aDc75187B218",
     "name": "Wrapped BTC",
     "symbol": "WBTC.e",
     "contractType": "ERC-20",
