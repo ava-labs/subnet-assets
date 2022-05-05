@@ -1,13 +1,12 @@
 {
-    "address": "0xe56cb40A104cf2783EA912859B4Ca7dE77cdC961",
-    "name": "Crabada",
-    "symbol": "Crabada",
-    "description": "Crabada can be bred and used in games to earn cryptocurrencies with real value. All Crabada live on the blockchain so players have full control of their assets.",
-    "contractType": "ERC-721",
+    "address": "0x26b77eeF7A38E3FD8C631FF8a268a5BB98CE1552",
+    "name": "CRA",
+    "symbol": "CRA",
+    "description": "CRA is a governance token which is rewarded via staking, and playing the game during the incentive period.",
+    "contractType": "ERC-20",
     "decimals": 18,
-    "assetType": "NFT",
-    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-explorer-assets/main/subnets/73771/0xe56cb40A104cf2783EA912859B4Ca7dE77cdC961/57e9bef529e042a8a858fe086f57f8e0.png",
-    "officialSite": "https://www.crabada.com",
+    "assetType": "Fixed Cap",
+    "officialSite": "https://www.crabada.com/",
     "resourceLinks": [
         {
             "blog": "https://medium.com/@PlayCrabada"
@@ -33,5 +32,6 @@
         {
             "coingecko": "https://www.coingecko.com/en/coins/treasure-under-sea"
         }
-    ]
+    ],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/73771/0x26b77eeF7A38E3FD8C631FF8a268a5BB98CE1552/92fd487198904d13bf1cec58111bed39.png"
 }
