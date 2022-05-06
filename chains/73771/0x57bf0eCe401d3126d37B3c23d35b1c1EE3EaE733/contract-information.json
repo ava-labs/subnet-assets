@@ -10,28 +10,36 @@
     "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/73771/0x57bf0eCe401d3126d37B3c23d35b1c1EE3EaE733/logo.png",
     "resourceLinks": [
         {
-            "blog": "https://medium.com/@PlayCrabada"
+            "type": "Blog",
+            "url": "https://medium.com/@PlayCrabada"
         },
         {
-            "twitter": "https://twitter.com/playcrabada"
+            "type": "Twitter",
+            "url": "https://twitter.com/playcrabada"
         },
         {
-            "github": "https://github.com/crabada"
+            "type": "Github",
+            "url": "https://github.com/crabada"
         },
         {
-            "telegram": "https://t.me/playcrabada"
+            "type": "Telegram",
+            "url": "https://t.me/playcrabada"
         },
         {
-            "discord": "https://discord.gg/Djy57Zhau9"
+            "type": "Discord",
+            "url": "https://discord.gg/Djy57Zhau9"
         },
         {
-            "whitepaper": "https://docs.crabada.com/"
+            "type": "Whitepaper",
+            "url": "https://docs.crabada.com/"
         },
         {
-            "coinMarketCap": "https://coinmarketcap.com/currencies/treasure-under-sea/"
+            "type": "CoinMarketCap",
+            "url": "https://coinmarketcap.com/currencies/treasure-under-sea/"
         },
         {
-            "coingecko": "https://www.coingecko.com/en/coins/treasure-under-sea"
+            "type": "CoinGecko",
+            "url": "https://www.coingecko.com/en/coins/treasure-under-sea"
         }
     ]
 }
