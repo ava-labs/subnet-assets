@@ -1,0 +1,309 @@
+{
+  "tokens": {
+    "43114": [
+      {
+        "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
+        "name": "Wrapped ETH",
+        "symbol": "WETH.e",
+        "contractType": "ERC-20",
+        "decimals": 18,
+        "logoUrl": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WETH/logo.png",
+        "resourceLinks": []
+      },
+      {
+        "address": "0x50b7545627a5162F82A992c33b87aDc75187B218",
+        "name": "Wrapped BTC",
+        "symbol": "WBTC.e",
+        "contractType": "ERC-20",
+        "decimals": 8,
+        "logoUrl": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WBTC/logo.png",
+        "resourceLinks": []
+      },
+      {
+        "address": "0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7",
+        "name": "Yield Yak",
+        "symbol": "YAK",
+        "contractType": "ERC-20",
+        "decimals": 18,
+        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7/logo.png",
+        "resourceLinks": []
+      },
+      {
+        "address": "0x5947BB275c521040051D82396192181b413227A3",
+        "name": "ChainLink Token",
+        "symbol": "LINK.e",
+        "contractType": "ERC-20",
+        "decimals": 18,
+        "logoUrl": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/LINK/logo.png",
+        "resourceLinks": []
+      },
+      {
+        "address": "0x60781C2586D68229fde47564546784ab3fACA982",
+        "name": "Pangolin",
+        "symbol": "PNG",
+        "contractType": "ERC-20",
+        "decimals": 18,
+        "logoUrl": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x60781C2586D68229fde47564546784ab3fACA982/logo.png",
+        "resourceLinks": []
+      },
+      {
+        "address": "0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE",
+        "name": "Avaware",
+        "symbol": "AVE",
+        "contractType": "ERC-20",
+        "decimals": 18,
+        "logoUrl": "https://raw.githubusercontent.com/avaware/avaware/main/logo.png",
+        "resourceLinks": []
+      },
+      {
+        "address": "0x81440C939f2C1E34fc7048E518a637205A632a74",
+        "name": "Cycle Protocol",
+        "symbol": "CYCLE",
+        "contractType": "ERC-20",
+        "decimals": 18,
+        "logoUrl": "https://raw.githubusercontent.com/CycleProtocol/assets/master/cycle-logo-round-small.png",
+        "resourceLinks": []
+      },
+      {
+        "address": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
+        "name": "BENQI",
+        "symbol": "QI",
+        "contractType": "ERC-20",
+        "decimals": 18,
+        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5/logo.png",
+        "resourceLinks": []
+      },
+      {
+        "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+        "name": "Wrapped AVAX",
+        "symbol": "WAVAX",
+        "contractType": "ERC-20",
+        "decimals": 18,
+        "assetType": "Fixed Cap",
+        "logoUrl": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
+        "officialSite": "https://www.avax.network/",
+        "resourceLinks": [
+          {
+            "type": "Blog",
+            "url": "https://medium.com/avalancheavax"
+          },
+          {
+            "type": "Reddit",
+            "url": "https://www.reddit.com/r/Avax/"
+          },
+          {
+            "type": "Facebook",
+            "url": "https://www.facebook.com/avalabsofficial/"
+          },
+          {
+            "type": "Twitter",
+            "url": "https://twitter.com/avalancheavax"
+          },
+          {
+            "type": "Github",
+            "url": "https://github.com/ava-labs"
+          },
+          {
+            "type": "Telegram",
+            "url": "https://t.me/avalancheavax"
+          },
+          {
+            "type": "LinkedIn",
+            "url": "https://www.linkedin.com/company/avalabsofficial/mycompany/"
+          },
+          {
+            "type": "Discord",
+            "url": "https://discord.com/invite/RwXY7P6"
+          },
+          {
+            "type": "Whitepaper",
+            "url": "https://www.avalabs.org/whitepapers"
+          },
+          {
+            "type": "Support",
+            "url": "https://support.avax.network/en/"
+          },
+          {
+            "type": "CoinMarketCap",
+            "url": "https://coinmarketcap.com/currencies/avalanche/"
+          },
+          {
+            "type": "CoinGecko",
+            "url": "https://www.coingecko.com/en/coins/avalanche"
+          }
+        ]
+      },
+      {
+        "address": "0xC38f41A296A4493Ff429F1238e030924A1542e50",
+        "name": "Snowball",
+        "symbol": "SNOB",
+        "contractType": "ERC-20",
+        "decimals": 18,
+        "logoUrl": "https://raw.githubusercontent.com/Snowball-Finance/Assets/main/Uphill%20snowball.png",
+        "resourceLinks": []
+      },
+      {
+        "address": "0xF675a87397a6239eAF95Ad948670a5b19D076c59",
+        "name": "Particle_Love_Is_In_The_Air",
+        "symbol": "LIITA",
+        "contractType": "ERC-721",
+        "resourceLinks": []
+      },
+      {
+        "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
+        "name": "Tether USD",
+        "symbol": "USDT.e",
+        "contractType": "ERC-20",
+        "decimals": 6,
+        "logoUrl": "https://snowtrace.io/token/images/tether_32.png",
+        "assetType": "Stablecoin",
+        "officialSite": "https://tether.to/",
+        "resourceLinks": []
+      },
+      {
+        "address": "0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4",
+        "name": "Avalaunch",
+        "symbol": "XAVA",
+        "contractType": "ERC-20",
+        "decimals": 18,
+        "logoUrl": "https://raw.githubusercontent.com/avalaunch-app/xava-protocol/master/logo.png",
+        "resourceLinks": []
+      },
+      {
+        "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
+        "name": "Dai Stablecoin",
+        "symbol": "DAI.e",
+        "contractType": "ERC-20",
+        "decimals": 18,
+        "logoUrl": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xd586E7F844cEa2F87f50152665BCbc2C279D8d70/logo.png",
+        "resourceLinks": []
+      },
+      {
+        "address": "0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c",
+        "name": "Penguin Finance",
+        "symbol": "PEFI",
+        "contractType": "ERC-20",
+        "decimals": 18,
+        "logoUrl": "https://raw.githubusercontent.com/Penguin-Finance/png-files/main/PEFILOGOPNG.png",
+        "resourceLinks": []
+      }
+    ],
+    "73771": [
+      {
+        "address": "0x26b77eeF7A38E3FD8C631FF8a268a5BB98CE1552",
+        "name": "CRA",
+        "symbol": "CRA",
+        "description": "CRA is a governance token which is rewarded via staking, and playing the game during the incentive period.",
+        "contractType": "ERC-20",
+        "decimals": 18,
+        "assetType": "Fixed Cap",
+        "officialSite": "https://www.crabada.com/",
+        "resourceLinks": [
+          {
+            "blog": "https://medium.com/@PlayCrabada"
+          },
+          {
+            "twitter": "https://twitter.com/playcrabada"
+          },
+          {
+            "github": "https://github.com/crabada"
+          },
+          {
+            "telegram": "https://t.me/playcrabada"
+          },
+          {
+            "discord": "https://discord.gg/Djy57Zhau9"
+          },
+          {
+            "whitepaper": "https://docs.crabada.com/"
+          },
+          {
+            "coinMarketCap": "https://coinmarketcap.com/currencies/treasure-under-sea/"
+          },
+          {
+            "coingecko": "https://www.coingecko.com/en/coins/treasure-under-sea"
+          }
+        ],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/73771/0x26b77eeF7A38E3FD8C631FF8a268a5BB98CE1552/92fd487198904d13bf1cec58111bed39.png"
+      },
+      {
+        "address": "0x57bf0eCe401d3126d37B3c23d35b1c1EE3EaE733",
+        "name": "Wrapped TUS",
+        "symbol": "WTUS",
+        "description": "An ERC-20 version of the native TUS token.",
+        "contractType": "ERC-20",
+        "decimals": 18,
+        "assetType": "Unlimited Cap",
+        "officialSite": "https: //www.crabada.com",
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/73771/0x57bf0eCe401d3126d37B3c23d35b1c1EE3EaE733/019cf43b59774411b7761f1b9493e351.png",
+        "resourceLinks": [
+          {
+            "blog": "https://medium.com/@PlayCrabada"
+          },
+          {
+            "twitter": "https://twitter.com/playcrabada"
+          },
+          {
+            "github": "https://github.com/crabada"
+          },
+          {
+            "telegram": "https://t.me/playcrabada"
+          },
+          {
+            "discord": "https://discord.gg/Djy57Zhau9"
+          },
+          {
+            "whitepaper": "https://docs.crabada.com/"
+          },
+          {
+            "coinMarketCap": "https://coinmarketcap.com/currencies/treasure-under-sea/"
+          },
+          {
+            "coingecko": "https://www.coingecko.com/en/coins/treasure-under-sea"
+          }
+        ]
+      },
+      {
+        "address": "0x88586dF1EB949E2b7b9A8b7DB468aF2251908465",
+        "name": "Crabada: Game"
+      },
+      {
+        "address": "0xe56cb40A104cf2783EA912859B4Ca7dE77cdC961",
+        "name": "Crabada",
+        "symbol": "Crabada",
+        "description": "Crabada can be bred and used in games to earn cryptocurrencies with real value. All Crabada live on the blockchain so players have full control of their assets.",
+        "contractType": "ERC-721",
+        "decimals": 18,
+        "assetType": "NFT",
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/73771/0xe56cb40A104cf2783EA912859B4Ca7dE77cdC961/57e9bef529e042a8a858fe086f57f8e0.png",
+        "officialSite": "https://www.crabada.com",
+        "resourceLinks": [
+          {
+            "blog": "https://medium.com/@PlayCrabada"
+          },
+          {
+            "twitter": "https://twitter.com/playcrabada"
+          },
+          {
+            "github": "https://github.com/crabada"
+          },
+          {
+            "telegram": "https://t.me/playcrabada"
+          },
+          {
+            "discord": "https://discord.gg/Djy57Zhau9"
+          },
+          {
+            "whitepaper": "https://docs.crabada.com/"
+          },
+          {
+            "coinMarketCap": "https://coinmarketcap.com/currencies/treasure-under-sea/"
+          },
+          {
+            "coingecko": "https://www.coingecko.com/en/coins/treasure-under-sea"
+          }
+        ]
+      }
+    ]
+  }
+}
