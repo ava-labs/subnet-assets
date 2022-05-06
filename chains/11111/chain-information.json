@@ -1,0 +1,18 @@
+{
+  "chainName": "WAGMI",
+  "description": "The WAGMI (\"We're All Going to Make It\") Subnet Demo is a high throughput testbed for EVM (Ethereum Virtual Machine) optimizations. It is parameterized to run at a factor more capacity than Fuji/Mainnet C-Chain and will be used to experiment with release candidates before they make it into an official coreth release.",
+  "chainId": 11111,
+  "platformChainId": "2ebCneCbwthjQ1rYT41nhd7M76Hc6YmosMAQrTFhBq8qeqh6tt",
+  "subnetId": "28nrH5T2BMvNrWecFcV3mfccjs6axM1TVyqe79MCv2Mhs8kxiY",
+  "vmId": "srEXiWaHuhNyGwPUi444Tu47ZEDwxTWrbQiuD7FmgSAQ6X7Dy",
+  "vmName": "EVM",
+  "rpcUrl": "https://subnets.avax.network/wagmi/wagmi-chain-testnet/rpc",
+  "wsUrl": "wss://subnets.avax.network/wagmi/wagmi-chain-testnet/ws",
+  "multicallAddress": "0x7e5f336f8baFc0bf775DafE091133A37244C285c",
+  "isTestnet": true,
+  "networkToken": {
+    "name": "Wagmi",
+    "symbol": "WGM",
+    "decimals": 18
+  }
+}
