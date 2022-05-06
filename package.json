@@ -1,11 +1,6 @@
 {
-  "name": "subnet-assets",
-    "version": "1.0.0",
-    "description": "repo containing info for subnets in the Avalanche ecosystem",
-    "repository": "git@github.com:ava-labs/subnet-assets.git",
-    "author": "Dov Brand <dov.brand@avalabs.org>",
-    "license": "MIT",
-    "type": "module",
+  "type": "module",
+  "private": true,
   "scripts": {
     "format": "node format.mjs"
   },
