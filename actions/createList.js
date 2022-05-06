@@ -23,7 +23,7 @@ const __dirname = dirname(fileURLToPath(
 const chainPath = path.join(__dirname, "../chains")
 
 
-const parseJSONFile = (path, chainId) => {
+const parseJSONFile = (path) => {
     try {
         const file = fs.readFileSync(path, 'utf8')
         return JSON.parse(file)
@@ -42,11 +42,11 @@ files.forEach((fileName => {
     const chainId = fileName.match('chains/[0-9]+')[0].split('/')[1]
     if (chainIdMap.has(chainId)){
       let arrayOfTokens = chainIdMap.get(chainId)
-      arrayOfTokens.push(parseJSONFile(fileName, chainId))
+      arrayOfTokens.push(parseJSONFile(fileName))
       chainIdMap.set(chainId, arrayOfTokens)
     }
     else{
-      let arrayOfTokens = [parseJSONFile(fileName, chainId)]
+      let arrayOfTokens = [parseJSONFile(fileName)]
       chainIdMap.set(chainId, arrayOfTokens)
     }
 
