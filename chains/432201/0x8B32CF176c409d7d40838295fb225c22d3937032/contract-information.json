@@ -1,0 +1,9 @@
+{
+  "address": "0x8B32CF176c409d7d40838295fb225c22d3937032",
+  "name": "Mock AVAX",
+  "symbol": "AVAX",
+  "description": "Mock Avax Token",
+  "contractType": "ERC-20",
+  "decimals": 18,
+  "assetType": "Fixed Cap"
+}
