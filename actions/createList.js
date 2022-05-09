@@ -49,25 +49,25 @@ let chainIdMap = new Map()
 files.forEach((fileName => {
   const isChainInfo = String(fileName).endsWith('chain-information.json')
   const chainId = fileName.match('chains/[0-9]+')[0].split('/')[1]
-  if (chainIdMap.has(chainId)) {
-    let contentsMap = chainIdMap.get(chainId)
-    if (isChainInfo) {
-      contentsMap.set('chain-information', parseJSONFile(fileName))
+  if (chainIdMap.has(chainId)) { // Check if chain Id is in map
+    let chainContentsMap = chainIdMap.get(chainId) // Contents map is a map containing the token information and chain information
+    if (isChainInfo) { // If the current file is a chainId file, set the chain-information in the contents
+      chainContentsMap.set('chain-information', parseJSONFile(fileName))
     }
     else {
-      if (contentsMap.has('tokens')) {
-        let arrayOfTokens = contentsMap.get('tokens')
+      if (chainContentsMap.has('tokens')) { // If there are tokens in the chain-contents map, get the array and push to it
+        let arrayOfTokens = chainContentsMap.get('tokens')
         arrayOfTokens.push(parseJSONFile(fileName))
-        contentsMap.set('tokens', arrayOfTokens)
+        chainContentsMap.set('tokens', arrayOfTokens)
       }
-      else {
+      else { // If there are no tokens in the chain-contents map, create the array and add the token
         let arrayOfTokens = [parseJSONFile(fileName)]
-        contentsMap.set('tokens', arrayOfTokens)
+        chainContentsMap.set('tokens', arrayOfTokens)
       }
     }
-    chainIdMap.set(chainId, contentsMap)
+    chainIdMap.set(chainId, chainContentsMap)
   }
-  else {
+  else { // If the chain-contents map does not yet exist, create it and add the information
     let contentsMap = new Map()
     if (isChainInfo) {
       contentsMap.set('chain-information', parseJSONFile(fileName))
