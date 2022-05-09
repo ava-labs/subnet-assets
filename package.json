@@ -2,7 +2,8 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "format": "node format.mjs"
+    "format": "node format.mjs",
+    "createList": "node actions/createList.js"
   },
   "devDependencies": {
     "@ethersproject/address": "5.6.0",
