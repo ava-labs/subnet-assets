@@ -1,0 +1,9 @@
+{
+  "address": "0x0b0E3a1F937F59359795E1ACfb9FC744F21a6894",
+  "name": "Mock USDT.e",
+  "symbol": "USDT.e",
+  "description": "Mock USDT.e Token",
+  "contractType": "ERC-20",
+  "decimals": 6,
+  "assetType": "Fixed Cap"
+}

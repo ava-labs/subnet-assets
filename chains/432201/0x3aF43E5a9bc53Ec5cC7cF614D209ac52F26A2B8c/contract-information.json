@@ -1,0 +1,10 @@
+{
+  "address": "0x3aF43E5a9bc53Ec5cC7cF614D209ac52F26A2B8c",
+  "name": "Mock LFG",
+  "symbol": "LFG",
+  "description": "Mock LFG Token",
+  "contractType": "ERC-20",
+  "decimals": 18,
+  "assetType": "Fixed Cap",
+  "logoUrl": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/fuji_battle_icons/lfg.png"
+}
