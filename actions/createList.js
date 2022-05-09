@@ -7,10 +7,10 @@ function getAllFiles(dirPath, arrayOfFiles) {
 
   arrayOfFiles = arrayOfFiles || []
 
-  files.forEach(function(file) {
+  files.forEach(function (file) {
     if (fs.statSync(dirPath + "/" + file).isDirectory()) {
       arrayOfFiles = getAllFiles(dirPath + "/" + file, arrayOfFiles)
-    } else if (path.extname(file) == '.json'){
+    } else if (path.extname(file) == '.json') {
       arrayOfFiles.push(path.join(dirPath, "/", file))
     }
   })
@@ -18,20 +18,28 @@ function getAllFiles(dirPath, arrayOfFiles) {
   return arrayOfFiles
 }
 
+function replacer(key, value) {
+  if(value instanceof Map) {
+    return  Object.fromEntries(value) ;
+  } else {
+    return value;
+  }
+}
+
 const __dirname = dirname(fileURLToPath(
-    import.meta.url));
+  import.meta.url));
 const chainPath = path.join(__dirname, "../chains")
 
 
 const parseJSONFile = (path) => {
-    try {
-        const file = fs.readFileSync(path, 'utf8')
-        return JSON.parse(file)
-    } catch (e) {
-        console.error(`error parsing ${path}`)
-        console.error(e)
-        process.exit(1)
-    }
+  try {
+    const file = fs.readFileSync(path, 'utf8')
+    return JSON.parse(file)
+  } catch (e) {
+    console.error(`error parsing ${path}`)
+    console.error(e)
+    process.exit(1)
+  }
 }
 
 const currentTokenListPath = path.join(__dirname, '../tokenList.json')
@@ -39,26 +47,50 @@ const currentList = parseJSONFile(currentTokenListPath)
 const files = getAllFiles(chainPath)
 let chainIdMap = new Map()
 files.forEach((fileName => {
-    const chainId = fileName.match('chains/[0-9]+')[0].split('/')[1]
-    if (chainIdMap.has(chainId)){
-      let arrayOfTokens = chainIdMap.get(chainId)
-      arrayOfTokens.push(parseJSONFile(fileName))
-      chainIdMap.set(chainId, arrayOfTokens)
+  const isChainInfo = String(fileName).endsWith('chain-information.json')
+  const chainId = fileName.match('chains/[0-9]+')[0].split('/')[1]
+  if (chainIdMap.has(chainId)) {
+    let contentsMap = chainIdMap.get(chainId)
+    if (isChainInfo) {
+      contentsMap.set('chain-information', parseJSONFile(fileName))
     }
-    else{
+    else {
+      if (contentsMap.has('tokens')) {
+        let arrayOfTokens = contentsMap.get('tokens')
+        arrayOfTokens.push(parseJSONFile(fileName))
+        contentsMap.set('tokens', arrayOfTokens)
+      }
+      else {
+        let arrayOfTokens = [parseJSONFile(fileName)]
+        contentsMap.set('tokens', arrayOfTokens)
+      }
+    }
+    chainIdMap.set(chainId, contentsMap)
+  }
+  else {
+    let contentsMap = new Map()
+    if (isChainInfo) {
+      contentsMap.set('chain-information', parseJSONFile(fileName))
+    }
+    else {
       let arrayOfTokens = [parseJSONFile(fileName)]
-      chainIdMap.set(chainId, arrayOfTokens)
+      contentsMap.set('tokens', arrayOfTokens)
     }
+    chainIdMap.set(chainId, contentsMap)
+  }
+
 
 }))
 const validateTokens = (tokens) => {
-    const existingAddress = new Set()
-    tokens.forEach((token) => {
-        if (existingAddress.has(token.address)) {
-            console.error(`${token.address} is repeated`)
-            process.exit(1)
-        }
-    })
+  const existingAddress = new Set()
+  tokens.forEach((token) => {
+    if (existingAddress.has(token.address)) {
+      console.error(`${token.address} is repeated`)
+      process.exit(1)
+    }
+  })
 }
 
-fs.writeFileSync(currentTokenListPath, JSON.stringify({ tokens: Object.fromEntries(chainIdMap) }, null, 2))
+
+
+fs.writeFileSync(currentTokenListPath, JSON.stringify({ chains: Object.fromEntries(chainIdMap) }, replacer , 2))
