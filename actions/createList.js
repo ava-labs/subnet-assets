@@ -1,96 +1,65 @@
-import fs from 'fs';
-import path, { dirname } from 'path';
-import { fileURLToPath } from 'url';
+import fs from "fs";
+import path, { dirname } from "path";
 
-function getAllFiles(dirPath, arrayOfFiles) {
-  let files = fs.readdirSync(dirPath)
+const ROOT_PATH = path.resolve("./chains");
+const CHAIN_INFO_FILE = "chain-information.json";
+const CHAIN_LOGO_FILE = "chain-logo.png";
+const NATIVE_TOKEN_LOGO_FILE = "token-logo.png";
+const CONTRACT_TOKEN_INFO_FILE = "contract-information.json";
+const CHAINS_FOLDER_URL =
+  "https://github.com/ava-labs/subnet-assets/tree/main/chains";
+const __dirname = dirname(fileURLToPath(import.meta.url));
+const TOKEN_LIST_FILE = path.resolve(__dirname, "../tokenList.json");
+import { fileURLToPath } from "url";
 
-  arrayOfFiles = arrayOfFiles || []
-
-  files.forEach(function (file) {
-    if (fs.statSync(dirPath + "/" + file).isDirectory()) {
-      arrayOfFiles = getAllFiles(dirPath + "/" + file, arrayOfFiles)
-    } else if (path.extname(file) == '.json') {
-      arrayOfFiles.push(path.join(dirPath, "/", file))
-    }
-  })
-
-  return arrayOfFiles
+function getTokens(chainId, chainTokenIds) {
+  return fs
+    .readdirSync(chainTokenIds)
+    .filter(
+      (pathValue) =>
+        ![CHAIN_INFO_FILE, CHAIN_LOGO_FILE, NATIVE_TOKEN_LOGO_FILE].includes(
+          pathValue
+        )
+    )
+    .map((tokenPath) =>
+      JSON.parse(
+        fs.readFileSync(
+          path.resolve(ROOT_PATH, chainId, tokenPath, CONTRACT_TOKEN_INFO_FILE),
+          "utf8"
+        )
+      )
+    );
 }
 
-function replacer(key, value) {
-  if(value instanceof Map) {
-    return  Object.fromEntries(value) ;
-  } else {
-    return value;
-  }
+function createChain(chainId, chainTokenIds) {
+  const chainInfo = JSON.parse(
+    fs.readFileSync(path.resolve(ROOT_PATH, chainId, CHAIN_INFO_FILE), "utf8")
+  );
+  const nativeTokenLogoFilePath = `${CHAINS_FOLDER_URL}/${chainId}/${NATIVE_TOKEN_LOGO_FILE}`;
+  const chainLogoFilePath = `${CHAINS_FOLDER_URL}/${chainId}/${CHAIN_LOGO_FILE}`;
+  return {
+    ...chainInfo,
+    logoUrl: nativeTokenLogoFilePath,
+    networkToken: {
+      ...chainInfo.networkToken,
+      logoUrl: chainLogoFilePath,
+    },
+    tokens: getTokens(chainId, chainTokenIds),
+  };
 }
 
-const __dirname = dirname(fileURLToPath(
-  import.meta.url));
-const chainPath = path.join(__dirname, "../chains")
+const chains = fs.readdirSync(ROOT_PATH).reduce((acc, chainId) => {
+  // this is all chain paths. ie.../subnet-assets/chains/11111
+  const chainTokenIds = path.resolve(ROOT_PATH, chainId);
 
+  const chain = {
+    ...createChain(chainId, chainTokenIds),
+    tokens: getTokens(chainId, chainTokenIds).filter(
+      (token) => token.contractType === "ERC-20"
+    ),
+  };
 
-const parseJSONFile = (path) => {
-  try {
-    const file = fs.readFileSync(path, 'utf8')
-    return JSON.parse(file)
-  } catch (e) {
-    console.error(`error parsing ${path}`)
-    console.error(e)
-    process.exit(1)
-  }
-}
+  return { ...acc, [chain.chainId]: chain };
+}, {});
 
-const currentTokenListPath = path.join(__dirname, '../tokenList.json')
-const currentList = parseJSONFile(currentTokenListPath)
-const files = getAllFiles(chainPath)
-let chainIdMap = new Map()
-files.forEach((fileName => {
-  const isChainInfo = String(fileName).endsWith('chain-information.json')
-  const chainId = fileName.match('chains/[0-9]+')[0].split('/')[1]
-  if (chainIdMap.has(chainId)) { // Check if chain Id is in map
-    let chainContentsMap = chainIdMap.get(chainId) // Contents map is a map containing the token information and chain information
-    if (isChainInfo) { // If the current file is a chainId file, set the chain-information in the contents
-      chainContentsMap.set('chain-information', parseJSONFile(fileName))
-    }
-    else {
-      if (chainContentsMap.has('tokens')) { // If there are tokens in the chain-contents map, get the array and push to it
-        let arrayOfTokens = chainContentsMap.get('tokens')
-        arrayOfTokens.push(parseJSONFile(fileName))
-        chainContentsMap.set('tokens', arrayOfTokens)
-      }
-      else { // If there are no tokens in the chain-contents map, create the array and add the token
-        let arrayOfTokens = [parseJSONFile(fileName)]
-        chainContentsMap.set('tokens', arrayOfTokens)
-      }
-    }
-    chainIdMap.set(chainId, chainContentsMap)
-  }
-  else { // If the chain-contents map does not yet exist, create it and add the information
-    let contentsMap = new Map()
-    if (isChainInfo) {
-      contentsMap.set('chain-information', parseJSONFile(fileName))
-    }
-    else {
-      let arrayOfTokens = [parseJSONFile(fileName)]
-      contentsMap.set('tokens', arrayOfTokens)
-    }
-    chainIdMap.set(chainId, contentsMap)
-  }
-
-
-}))
-const validateTokens = (tokens) => {
-  const existingAddress = new Set()
-  tokens.forEach((token) => {
-    if (existingAddress.has(token.address)) {
-      console.error(`${token.address} is repeated`)
-      process.exit(1)
-    }
-  })
-}
-
-
-
-fs.writeFileSync(currentTokenListPath, JSON.stringify({ chains: Object.fromEntries(chainIdMap) }, replacer , 2))
+fs.writeFileSync(TOKEN_LIST_FILE, JSON.stringify(chains, null, 2));
