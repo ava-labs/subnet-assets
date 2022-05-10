@@ -11,6 +11,7 @@
   "multicallAddress": "0x5b24224dC16508DAD755756639E420817DD4c99E",
   "isTestnet": true,
   "mainnetChainId": 53935,
+  "coingeckoAssetPlatformId": "defi-kingdoms-blockchain",
   "networkToken": {
     "name": "JEWEL",
     "symbol": "JEWEL",
