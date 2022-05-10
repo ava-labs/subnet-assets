@@ -10,6 +10,7 @@
   "wsUrl": "wss://subnets.avax.network/swimmer/mainnet/ws",
   "multicallAddress": "0xd46175048c125eae5a7694BDa6C723b76D24e428",
   "isTestnet": false,
+  "testnetChainId": 73771,
   "networkToken": {
     "name": "Treasure Under Sea",
     "symbol": "TUS",
