@@ -98,6 +98,69 @@
         }
       }
     },
+    "43112": {
+      "chain-information": {
+        "chainName": "C-Chain Local",
+        "description": "The Contract Chain on Avalanche's primary subnet.",
+        "chainId": 43112,
+        "platformChainId": "yH8D7ThNJkxmtkuv2jgBa4P1Rn3Qpr4pPr7QYNfcdoS6k6HWp",
+        "subnetId": "11111111111111111111111111111111LpoYY",
+        "vmId": "mgj786NP7uDwBCcq6YwThhaN8FLyybkCa4zBWTQbNgmK6k9A6",
+        "vmName": "EVM",
+        "rpcUrl": "https://localhost:9650/ext/bc/C/rpc",
+        "wsUrl": "ws://127.0.0.1:9650/ext/bc/C/ws",
+        "isTestnet": true,
+        "mainnetChainId": 43114,
+        "coingeckoAssetPlatformId": "avalanche",
+        "networkToken": {
+          "name": "Avalanche",
+          "symbol": "AVAX",
+          "decimals": 18,
+          "coingeckoId": "avalanche-2"
+        }
+      }
+    },
+    "43113": {
+      "tokens": [
+        {
+          "address": "0x0b9d5D9136855f6FEc3c0993feE6E9CE8a297846",
+          "name": "ChainLink Token",
+          "symbol": "LINK",
+          "contractType": "ERC-20",
+          "decimals": 18,
+          "resourceLinks": []
+        },
+        {
+          "address": "0xAFDa926d549a67229D8DB529638E0BAFCDb66458",
+          "name": "Tether USD",
+          "symbol": "USDT",
+          "contractType": "ERC-20",
+          "decimals": 18,
+          "resourceLinks": []
+        }
+      ],
+      "chain-information": {
+        "chainName": "C-Chain",
+        "description": "The Contract Chain on Avalanche's primary subnet.",
+        "chainId": 43113,
+        "platformChainId": "yH8D7ThNJkxmtkuv2jgBa4P1Rn3Qpr4pPr7QYNfcdoS6k6HWp",
+        "subnetId": "11111111111111111111111111111111LpoYY",
+        "vmId": "mgj786NP7uDwBCcq6YwThhaN8FLyybkCa4zBWTQbNgmK6k9A6",
+        "vmName": "EVM",
+        "rpcUrl": "https://api.avax-test.network/ext/bc/C/rpc",
+        "wsUrl": "wss://api.avax-test.network/ext/bc/C/ws",
+        "multicallAddress": "0xE898101ffEF388A8DA16205249a7E4977d4F034c",
+        "isTestnet": true,
+        "mainnetChainId": 43114,
+        "coingeckoAssetPlatformId": "avalanche",
+        "networkToken": {
+          "name": "Avalanche",
+          "symbol": "AVAX",
+          "decimals": 18,
+          "coingeckoId": "avalanche-2"
+        }
+      }
+    },
     "43114": {
       "tokens": [
         {
@@ -286,7 +349,28 @@
           "logoUrl": "https://raw.githubusercontent.com/Penguin-Finance/png-files/main/PEFILOGOPNG.png",
           "resourceLinks": []
         }
-      ]
+      ],
+      "chain-information": {
+        "chainName": "C-Chain",
+        "description": "The Contract Chain on Avalanche's primary subnet.",
+        "chainId": 43114,
+        "platformChainId": "2q9e4r6Mu3U68nU1fYjgbR6JvwrRx36CohpAX5UQxse55x1Q5",
+        "subnetId": "11111111111111111111111111111111LpoYY",
+        "vmId": "mgj786NP7uDwBCcq6YwThhaN8FLyybkCa4zBWTQbNgmK6k9A6",
+        "vmName": "EVM",
+        "rpcUrl": "https://api.avax.network/ext/bc/C/rpc",
+        "wsUrl": "wss://api.avax.network/ext/bc/C/ws",
+        "multicallAddress": "0xed386Fe855C1EFf2f843B910923Dd8846E45C5A4",
+        "isTestnet": false,
+        "mainnetChainId": 43113,
+        "coingeckoAssetPlatformId": "avalanche",
+        "networkToken": {
+          "name": "Avalanche",
+          "symbol": "AVAX",
+          "decimals": 18,
+          "coingeckoId": "avalanche-2"
+        }
+      }
     },
     "53935": {
       "tokens": [

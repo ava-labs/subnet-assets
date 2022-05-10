@@ -1,0 +1,8 @@
+{
+  "address": "0xAFDa926d549a67229D8DB529638E0BAFCDb66458",
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "contractType": "ERC-20",
+  "decimals": 18,
+  "resourceLinks": []
+}
