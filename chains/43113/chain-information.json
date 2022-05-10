@@ -1,0 +1,21 @@
+{
+  "chainName": "C-Chain",
+  "description": "The Contract Chain on Avalanche's primary subnet.",
+  "chainId": 43113,
+  "platformChainId": "yH8D7ThNJkxmtkuv2jgBa4P1Rn3Qpr4pPr7QYNfcdoS6k6HWp",
+  "subnetId": "11111111111111111111111111111111LpoYY",
+  "vmId": "mgj786NP7uDwBCcq6YwThhaN8FLyybkCa4zBWTQbNgmK6k9A6",
+  "vmName": "EVM",
+  "rpcUrl": "https://api.avax-test.network/ext/bc/C/rpc",
+  "wsUrl": "wss://api.avax-test.network/ext/bc/C/ws",
+  "multicallAddress": "0xE898101ffEF388A8DA16205249a7E4977d4F034c",
+  "isTestnet": true,
+  "mainnetChainId": 43114,
+  "coingeckoAssetPlatformId": "avalanche",
+  "networkToken": {
+    "name": "Avalanche",
+    "symbol": "AVAX",
+    "decimals": 18,
+    "coingeckoId": "avalanche-2"
+  }
+}
