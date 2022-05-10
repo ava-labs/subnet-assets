@@ -1,9 +1,8 @@
 {
-  "address": "0xB767287A7143759f294CfB7b1Adbca1140F3de71",
-  "name": "Wrapped ETH",
-  "symbol": "WETH.e",
+  "address": "0x0b9d5D9136855f6FEc3c0993feE6E9CE8a297846",
+  "name": "ChainLink Token",
+  "symbol": "LINK",
   "contractType": "ERC-20",
   "decimals": 18,
-  "logoUrl": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WETH/logo.png",
   "resourceLinks": []
 }
