@@ -10,6 +10,8 @@
   "wsUrl": "wss://subnets.avax.network/defi-kingdoms/dfk-chain/ws",
   "multicallAddress": "0x5b24224dC16508DAD755756639E420817DD4c99E",
   "isTestnet": false,
+  "testnetChainId": 335,
+  "coingeckoAssetPlatformId": "defi-kingdoms-blockchain",
   "networkToken": {
     "name": "JEWEL",
     "symbol": "JEWEL",
