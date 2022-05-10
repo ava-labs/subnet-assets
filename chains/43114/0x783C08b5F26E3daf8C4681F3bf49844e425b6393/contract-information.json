@@ -1,0 +1,10 @@
+{
+  "address": "0x783C08b5F26E3daf8C4681F3bf49844e425b6393",
+  "chainId": 43114,
+  "name": "Avaware USD",
+  "symbol": "AUSD",
+  "decimals": 18,
+  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x783C08b5F26E3daf8C4681F3bf49844e425b6393/logo.png",
+  "contractType": "ERC-20",
+  "resourceLinks": []
+}

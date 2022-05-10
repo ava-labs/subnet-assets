@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084",
+  "decimals": 18,
+  "name": "LydiaFinance Token",
+  "symbol": "LYD",
+  "logoUrl": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084/logo.png",
+  "contractType": "ERC-20",
+  "resourceLinks": []
+}

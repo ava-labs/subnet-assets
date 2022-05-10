@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0x98443B96EA4b0858FDF3219Cd13e98C7A4690588",
+  "decimals": 18,
+  "name": "Basic Attention Token",
+  "symbol": "BAT.e",
+  "logoUrl": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/BAT/logo.png",
+  "contractType": "ERC-20",
+  "resourceLinks": []
+}

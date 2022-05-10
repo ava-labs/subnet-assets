@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0xfC108f21931576a21D0b4b301935DAc80d9E5086",
+  "decimals": 18,
+  "name": "Iron Finance ICE Token",
+  "symbol": "IronICE",
+  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xfC108f21931576a21D0b4b301935DAc80d9E5086/logo.png",
+  "contractType": "ERC-20",
+  "resourceLinks": []
+}

@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0xd501281565bf7789224523144Fe5D98e8B28f267",
+  "decimals": 18,
+  "name": "1INCH Token",
+  "symbol": "1INCH.e",
+  "logoUrl": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/1INCH/logo.png",
+  "contractType": "ERC-20",
+  "resourceLinks": []
+}

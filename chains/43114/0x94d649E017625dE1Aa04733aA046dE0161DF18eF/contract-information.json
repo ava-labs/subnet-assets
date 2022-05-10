@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0x94d649E017625dE1Aa04733aA046dE0161DF18eF",
+  "decimals": 18,
+  "name": "King Shares",
+  "symbol": "KSHARE",
+  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x94d649E017625dE1Aa04733aA046dE0161DF18eF/logo.png",
+  "contractType": "ERC-20",
+  "resourceLinks": []
+}

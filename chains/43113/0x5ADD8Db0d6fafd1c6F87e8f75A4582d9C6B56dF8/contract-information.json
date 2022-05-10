@@ -1,0 +1,10 @@
+{
+  "chainId": 43113,
+  "address": "0x5ADD8Db0d6fafd1c6F87e8f75A4582d9C6B56dF8",
+  "symbol": "DAS",
+  "name": "Das Coin",
+  "decimals": 18,
+  "logoUrl": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/dasCoin.png",
+  "contractType": "ERC-20",
+  "resourceLinks": []
+}

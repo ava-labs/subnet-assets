@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0xe19A1684873faB5Fb694CfD06607100A632fF21c",
+  "decimals": 18,
+  "name": "BavaToken",
+  "symbol": "BAVA",
+  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xe19A1684873faB5Fb694CfD06607100A632fF21c/logo.png",
+  "contractType": "ERC-20",
+  "resourceLinks": []
+}

@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0x8a0cAc13c7da965a312f08ea4229c37869e85cB9",
+  "decimals": 18,
+  "name": "Graph Token",
+  "symbol": "GRT.e",
+  "logoUrl": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/GRT/logo.png",
+  "contractType": "ERC-20",
+  "resourceLinks": []
+}

@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0x01C2086faCFD7aA38f69A6Bd8C91BEF3BB5adFCa",
+  "decimals": 18,
+  "name": "YAY Games",
+  "symbol": "YAY",
+  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x01C2086faCFD7aA38f69A6Bd8C91BEF3BB5adFCa/logo.png",
+  "contractType": "ERC-20",
+  "resourceLinks": []
+}

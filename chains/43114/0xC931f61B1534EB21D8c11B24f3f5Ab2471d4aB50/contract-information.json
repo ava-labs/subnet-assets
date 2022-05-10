@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0xC931f61B1534EB21D8c11B24f3f5Ab2471d4aB50",
+  "decimals": 8,
+  "name": "Blocknet",
+  "symbol": "aaBLOCK",
+  "logoUrl": "https://github.com/blocknetdx/documentation/blob/master/docs/img/icons/Blocknet_symbol_dark_RGB.png",
+  "contractType": "ERC-20",
+  "resourceLinks": []
+}

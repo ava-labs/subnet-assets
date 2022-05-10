@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0xcA220F1e486A8e35d6F1DCD62073Ad8DD04659ED",
+  "decimals": 6,
+  "name": "BiAltin",
+  "symbol": "GLDB",
+  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xcA220F1e486A8e35d6F1DCD62073Ad8DD04659ED/logo.png",
+  "contractType": "ERC-20",
+  "resourceLinks": []
+}

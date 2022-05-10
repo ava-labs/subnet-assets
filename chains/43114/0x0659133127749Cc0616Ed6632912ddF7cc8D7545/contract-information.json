@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0x0659133127749Cc0616Ed6632912ddF7cc8D7545",
+  "decimals": 18,
+  "name": "DefiLaunch Token",
+  "symbol": "DLAUNCH",
+  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x0659133127749Cc0616Ed6632912ddF7cc8D7545/logo.png",
+  "contractType": "ERC-20",
+  "resourceLinks": []
+}

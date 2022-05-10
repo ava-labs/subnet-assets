@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0x9Fda7cEeC4c18008096C2fE2B85F05dc300F94d0",
+  "decimals": 18,
+  "name": "MarginSwap",
+  "symbol": "MFI",
+  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x9Fda7cEeC4c18008096C2fE2B85F05dc300F94d0/logo.png",
+  "contractType": "ERC-20",
+  "resourceLinks": []
+}

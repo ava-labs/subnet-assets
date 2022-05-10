@@ -1,0 +1,10 @@
+{
+  "chainId": 43113,
+  "address": "0x83080D4b5fC60e22dFFA8d14AD3BB41Dde48F199",
+  "symbol": "PNG",
+  "name": "Pangolin",
+  "decimals": 18,
+  "logoUrl": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/0xa79FD4Aa2bdD5Df395Ad82FA61dB2B2201244188/logo.png",
+  "contractType": "ERC-20",
+  "resourceLinks": []
+}

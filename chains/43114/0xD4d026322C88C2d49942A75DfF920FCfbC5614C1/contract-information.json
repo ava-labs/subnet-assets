@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0xD4d026322C88C2d49942A75DfF920FCfbC5614C1",
+  "decimals": 18,
+  "name": "DEAPCOIN",
+  "symbol": "DEP",
+  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xD4d026322C88C2d49942A75DfF920FCfbC5614C1/logo.png",
+  "contractType": "ERC-20",
+  "resourceLinks": []
+}

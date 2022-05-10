@@ -1,0 +1,10 @@
+{
+  "address": "0x346A59146b9b4a77100D369a3d18E8007A9F46a6",
+  "chainId": 43114,
+  "name": "AVAI",
+  "symbol": "AVAI",
+  "decimals": 18,
+  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x346A59146b9b4a77100D369a3d18E8007A9F46a6/logo.png",
+  "contractType": "ERC-20",
+  "resourceLinks": []
+}

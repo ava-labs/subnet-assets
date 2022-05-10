@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0x390ba0fb0Bd3Aa2a5484001606329701148074e6",
+  "decimals": 18,
+  "name": "THORChain ETH.RUNE",
+  "symbol": "RUNE",
+  "logoUrl": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x390ba0fb0Bd3Aa2a5484001606329701148074e6/logo.png",
+  "contractType": "ERC-20",
+  "resourceLinks": []
+}

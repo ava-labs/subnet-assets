@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0x7f041ce89A2079873693207653b24C15B5e6A293",
+  "decimals": 18,
+  "name": "LOOT",
+  "symbol": "LOOT",
+  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x7f041ce89A2079873693207653b24C15B5e6A293/logo.png",
+  "contractType": "ERC-20",
+  "resourceLinks": []
+}

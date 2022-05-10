@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0xDC42728B0eA910349ed3c6e1c9Dc06b5FB591f98",
+  "decimals": 18,
+  "name": "Frax - Anyswap",
+  "symbol": "FRAX",
+  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xDC42728B0eA910349ed3c6e1c9Dc06b5FB591f98/logo.png",
+  "contractType": "ERC-20",
+  "resourceLinks": []
+}

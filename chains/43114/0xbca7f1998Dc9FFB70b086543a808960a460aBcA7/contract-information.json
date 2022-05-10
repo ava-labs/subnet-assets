@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0xbca7f1998Dc9FFB70b086543a808960a460aBcA7",
+  "decimals": 18,
+  "name": "Kitty",
+  "symbol": "KITTY",
+  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xbca7f1998Dc9FFB70b086543a808960a460aBcA7/logo.png",
+  "contractType": "ERC-20",
+  "resourceLinks": []
+}

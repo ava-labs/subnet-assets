@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+  "decimals": 18,
+  "name": "JoeToken",
+  "symbol": "JOE",
+  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd/logo.png",
+  "contractType": "ERC-20",
+  "resourceLinks": []
+}

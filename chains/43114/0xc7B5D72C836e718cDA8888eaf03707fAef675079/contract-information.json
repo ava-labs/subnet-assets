@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0xc7B5D72C836e718cDA8888eaf03707fAef675079",
+  "decimals": 18,
+  "name": "TrustSwap Token",
+  "symbol": "SWAP.e",
+  "logoUrl": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/SWAP/logo.png",
+  "contractType": "ERC-20",
+  "resourceLinks": []
+}

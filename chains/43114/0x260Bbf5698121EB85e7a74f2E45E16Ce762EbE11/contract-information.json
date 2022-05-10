@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0x260Bbf5698121EB85e7a74f2E45E16Ce762EbE11",
+  "decimals": 6,
+  "name": "Axelar Wrapped UST",
+  "symbol": "UST",
+  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x260Bbf5698121EB85e7a74f2E45E16Ce762EbE11/logo.png",
+  "contractType": "ERC-20",
+  "resourceLinks": []
+}

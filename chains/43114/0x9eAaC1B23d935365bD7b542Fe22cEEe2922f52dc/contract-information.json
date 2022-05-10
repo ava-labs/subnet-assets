@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0x9eAaC1B23d935365bD7b542Fe22cEEe2922f52dc",
+  "decimals": 18,
+  "name": "yearn.finance",
+  "symbol": "YFI.e",
+  "logoUrl": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/YFI/logo.png",
+  "contractType": "ERC-20",
+  "resourceLinks": []
+}

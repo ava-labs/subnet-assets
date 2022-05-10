@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0x1C20E891Bab6b1727d14Da358FAe2984Ed9B59EB",
+  "decimals": 18,
+  "name": "TrueUSD",
+  "symbol": "TUSD",
+  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x1C20E891Bab6b1727d14Da358FAe2984Ed9B59EB/logo.png",
+  "contractType": "ERC-20",
+  "resourceLinks": []
+}

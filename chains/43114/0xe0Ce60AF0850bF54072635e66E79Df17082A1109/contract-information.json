@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0xe0Ce60AF0850bF54072635e66E79Df17082A1109",
+  "decimals": 18,
+  "name": "IceToken",
+  "symbol": "ICE",
+  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xe0Ce60AF0850bF54072635e66E79Df17082A1109/logo.png",
+  "contractType": "ERC-20",
+  "resourceLinks": []
+}

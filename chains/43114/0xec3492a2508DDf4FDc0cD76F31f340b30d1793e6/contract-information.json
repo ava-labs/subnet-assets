@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0xec3492a2508DDf4FDc0cD76F31f340b30d1793e6",
+  "decimals": 18,
+  "name": "Colony Token",
+  "symbol": "CLY",
+  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xec3492a2508DDf4FDc0cD76F31f340b30d1793e6/logo.png",
+  "contractType": "ERC-20",
+  "resourceLinks": []
+}

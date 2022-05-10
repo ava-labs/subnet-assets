@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0x1fE4751d9bDabaC8D90067056cB45AB6823d2C12",
+  "decimals": 18,
+  "name": "ArgonToken",
+  "symbol": "ARGON",
+  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x1fE4751d9bDabaC8D90067056cB45AB6823d2C12/logo.png",
+  "contractType": "ERC-20",
+  "resourceLinks": []
+}

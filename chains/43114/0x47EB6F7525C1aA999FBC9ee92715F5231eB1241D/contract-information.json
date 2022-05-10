@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0x47EB6F7525C1aA999FBC9ee92715F5231eB1241D",
+  "decimals": 18,
+  "name": "Defrost Finance Token",
+  "symbol": "MELT",
+  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x47EB6F7525C1aA999FBC9ee92715F5231eB1241D/logo.png",
+  "contractType": "ERC-20",
+  "resourceLinks": []
+}

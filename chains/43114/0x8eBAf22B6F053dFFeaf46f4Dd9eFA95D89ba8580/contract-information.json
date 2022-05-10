@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0x8eBAf22B6F053dFFeaf46f4Dd9eFA95D89ba8580",
+  "decimals": 18,
+  "name": "Uniswap",
+  "symbol": "UNI.e",
+  "logoUrl": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/UNI/logo.png",
+  "contractType": "ERC-20",
+  "resourceLinks": []
+}

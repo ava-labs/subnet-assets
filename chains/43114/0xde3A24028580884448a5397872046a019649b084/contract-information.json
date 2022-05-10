@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0xde3A24028580884448a5397872046a019649b084",
+  "decimals": 6,
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "logoUrl": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xde3A24028580884448a5397872046a019649b084/logo.png",
+  "contractType": "ERC-20",
+  "resourceLinks": []
+}

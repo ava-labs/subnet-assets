@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0xaBC9547B534519fF73921b1FBA6E672b5f58D083",
+  "decimals": 18,
+  "name": "Wootrade Network",
+  "symbol": "WOO.e",
+  "logoUrl": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WOO/logo.png",
+  "contractType": "ERC-20",
+  "resourceLinks": []
+}

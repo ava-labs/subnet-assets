@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0x321E7092a180BB43555132ec53AaA65a5bF84251",
+  "decimals": 18,
+  "name": "Governance OHM",
+  "symbol": "gOHM",
+  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x321E7092a180BB43555132ec53AaA65a5bF84251/logo.png",
+  "contractType": "ERC-20",
+  "resourceLinks": []
+}

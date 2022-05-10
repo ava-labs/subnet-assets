@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0x4f60a160D8C2DDdaAfe16FCC57566dB84D674BD6",
+  "decimals": 18,
+  "name": "Jewels",
+  "symbol": "JEWEL",
+  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x4f60a160D8C2DDdaAfe16FCC57566dB84D674BD6/logo.png",
+  "contractType": "ERC-20",
+  "resourceLinks": []
+}

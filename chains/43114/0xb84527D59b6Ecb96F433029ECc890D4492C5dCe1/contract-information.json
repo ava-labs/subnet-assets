@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0xb84527D59b6Ecb96F433029ECc890D4492C5dCe1",
+  "decimals": 18,
+  "name": "Tomb",
+  "symbol": "TOMB",
+  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xb84527D59b6Ecb96F433029ECc890D4492C5dCe1/logo.png",
+  "contractType": "ERC-20",
+  "resourceLinks": []
+}

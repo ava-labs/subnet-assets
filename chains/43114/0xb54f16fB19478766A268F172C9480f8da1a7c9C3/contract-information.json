@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0xb54f16fB19478766A268F172C9480f8da1a7c9C3",
+  "decimals": 9,
+  "name": "Time",
+  "symbol": "TIME",
+  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xb54f16fB19478766A268F172C9480f8da1a7c9C3/logo.png",
+  "contractType": "ERC-20",
+  "resourceLinks": []
+}

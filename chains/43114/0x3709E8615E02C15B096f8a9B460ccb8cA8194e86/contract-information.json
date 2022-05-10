@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0x3709E8615E02C15B096f8a9B460ccb8cA8194e86",
+  "decimals": 18,
+  "name": "Vee",
+  "symbol": "VEE",
+  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x3709E8615E02C15B096f8a9B460ccb8cA8194e86/logo.png",
+  "contractType": "ERC-20",
+  "resourceLinks": []
+}

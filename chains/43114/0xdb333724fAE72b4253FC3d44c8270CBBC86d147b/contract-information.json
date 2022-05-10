@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0xdb333724fAE72b4253FC3d44c8270CBBC86d147b",
+  "decimals": 18,
+  "name": "Cabbage.Cash",
+  "symbol": "CABAG",
+  "logoUrl": "https://raw.githubusercontent.com/qualitycabbage/token/main/logo.png",
+  "contractType": "ERC-20",
+  "resourceLinks": []
+}
