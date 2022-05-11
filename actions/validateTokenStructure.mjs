@@ -9,17 +9,26 @@ import {
   TOKEN_LOGO_FILE,
 } from "./constants.mjs";
 
+export const tokenValidationKeys = [
+  "logoUri",
+  "address",
+  "name",
+  "description",
+  "contractType",
+  "assetType",
+  "officialSite",
+  "resourceLinks",
+  "symbol",
+  "hasLogo",
+];
+
 function validateToken(token, tokenContractInfoPath, tokenDirPath) {
+  const valuesRes = tokenValidationKeys.reduce((acc, key) => {
+    return { ...acc, [key]: token.hasOwnProperty(key) };
+  }, {});
+
   const values = {
-    logoUri: token.hasOwnProperty("logoUri"),
-    address: token.hasOwnProperty("address"),
-    name: token.hasOwnProperty("name"),
-    description: token.hasOwnProperty("description"),
-    contractType: token.hasOwnProperty("contractType"),
-    assetType: token.hasOwnProperty("assetType"),
-    officialSite: token.hasOwnProperty("officialSite"),
-    resourceLinks: token.hasOwnProperty("resourceLinks"),
-    symbol: token.hasOwnProperty("symbol"),
+    ...valuesRes,
     hasLogo: fs.existsSync(path.resolve(tokenDirPath, TOKEN_LOGO_FILE)),
   };
 
@@ -63,7 +72,23 @@ function getInvalidTokens(chainId, chainTokenIds) {
     );
 }
 
-export const invalidTokens = fs.readdirSync(ROOT_PATH).map((chainId) => {
-  // this is all chain paths. ie.../subnet-assets/chains/11111
-  return getInvalidTokens(chainId, path.resolve(ROOT_PATH, chainId));
-});
+export const invalidTokensList = fs
+  .readdirSync(ROOT_PATH)
+  .reduce((acc, chainId) => {
+    // this is all chain paths. ie.../subnet-assets/chains/11111
+    const invalidToks = getInvalidTokens(
+      chainId,
+      path.resolve(ROOT_PATH, chainId)
+    );
+
+    return [...invalidToks, ...acc];
+  }, []);
+
+export const invalidTokensBuckets = tokenValidationKeys.reduce((acc, key) => {
+  return {
+    ...acc,
+    [key]: invalidTokensList.filter((validationStatus) => {
+      return !validationStatus.values[key];
+    }),
+  };
+}, {});
