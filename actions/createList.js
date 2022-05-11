@@ -1,16 +1,14 @@
 import fs from "fs";
-import path, { dirname } from "path";
-
-const ROOT_PATH = path.resolve("./chains");
-const CHAIN_INFO_FILE = "chain-information.json";
-const CHAIN_LOGO_FILE = "chain-logo.png";
-const NATIVE_TOKEN_LOGO_FILE = "token-logo.png";
-const CONTRACT_TOKEN_INFO_FILE = "contract-information.json";
-const CHAINS_FOLDER_URL =
-  "https://github.com/ava-labs/subnet-assets/tree/main/chains";
-const __dirname = dirname(fileURLToPath(import.meta.url));
-const TOKEN_LIST_FILE = path.resolve(__dirname, "../tokenList.json");
-import { fileURLToPath } from "url";
+import path from "path";
+import {
+  ROOT_PATH,
+  CHAIN_INFO_FILE,
+  CHAIN_LOGO_FILE,
+  NATIVE_TOKEN_LOGO_FILE,
+  CHAINS_FOLDER_URL,
+  TOKEN_LIST_FILE,
+  CONTRACT_TOKEN_INFO_FILE,
+} from "./constants.mjs";
 
 function getTokens(chainId, chainTokenIds) {
   return fs

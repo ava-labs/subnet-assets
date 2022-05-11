@@ -1,12 +1,12 @@
 import axios from "axios";
 import fs from "fs";
-import path, { dirname } from "path";
-import { fileURLToPath } from "url";
-
-const CONTRACT_TOKEN_INFO_FILE = "contract-information.json";
-const MAINNET_CHAIN_ID = 43114;
-const FUJI_CHAIN_ID = 43113;
-const __dirname = dirname(fileURLToPath(import.meta.url));
+import path from "path";
+import {
+  __dirname,
+  CONTRACT_TOKEN_INFO_FILE,
+  FUJI_CHAIN_ID,
+  MAINNET_CHAIN_ID,
+} from "./constants.mjs";
 
 export const MAINNET_TOKENLIST_URLS = [
   "https://raw.githubusercontent.com/pangolindex/tokenlists/main/top15.tokenlist.json",
