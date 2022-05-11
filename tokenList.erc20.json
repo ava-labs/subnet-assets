@@ -97,7 +97,9 @@
         "symbol": "LINK",
         "contractType": "ERC-20",
         "decimals": 18,
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://github.com/ava-labs/subnet-assets/tree/main/chains/43113/logo.png",
+        "chainId": "43113"
       },
       {
         "address": "0x34B6C87bb59Eb37EFe35C8d594a234Cd8C654D50",
@@ -105,9 +107,9 @@
         "name": "Dai Stablecoin",
         "symbol": "DAI",
         "decimals": 18,
-        "logoUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
       },
       {
         "chainId": 43113,
@@ -115,9 +117,9 @@
         "symbol": "DAS",
         "name": "Das Coin",
         "decimals": 18,
-        "logoUrl": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/dasCoin.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/dasCoin.png"
       },
       {
         "chainId": 43113,
@@ -125,9 +127,9 @@
         "symbol": "SUSHI",
         "name": "SushiSwap",
         "decimals": 18,
-        "logoUrl": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/0x72C14f7fB8B14040dA6E5b1B9D1B9438ebD85F58/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/0x72C14f7fB8B14040dA6E5b1B9D1B9438ebD85F58/logo.png"
       },
       {
         "address": "0x7fCDc2C1EF3e4A0bCC8155a558bB20a7218f2b05",
@@ -135,9 +137,9 @@
         "name": "Wrapped Ether",
         "symbol": "WETH",
         "decimals": 18,
-        "logoUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
       },
       {
         "chainId": 43113,
@@ -145,9 +147,9 @@
         "symbol": "PNG",
         "name": "Pangolin",
         "decimals": 18,
-        "logoUrl": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/0xa79FD4Aa2bdD5Df395Ad82FA61dB2B2201244188/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/0xa79FD4Aa2bdD5Df395Ad82FA61dB2B2201244188/logo.png"
       },
       {
         "address": "0xAFDa926d549a67229D8DB529638E0BAFCDb66458",
@@ -155,7 +157,9 @@
         "symbol": "USDT",
         "contractType": "ERC-20",
         "decimals": 18,
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://github.com/ava-labs/subnet-assets/tree/main/chains/43113/logo.png",
+        "chainId": "43113"
       },
       {
         "chainId": 43113,
@@ -163,9 +167,9 @@
         "symbol": "JOE",
         "name": "Joe Coin",
         "decimals": 18,
-        "logoUrl": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/0xEa81F6972aDf76765Fd1435E119Acc0Aafc80BeA/logo.jpeg",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/0xEa81F6972aDf76765Fd1435E119Acc0Aafc80BeA/logo.jpeg"
       },
       {
         "chainId": 43113,
@@ -173,9 +177,9 @@
         "symbol": "CON",
         "name": "Connor Coin",
         "decimals": 18,
-        "logoUrl": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/connorCoin.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/connorCoin.png"
       },
       {
         "address": "0xd00ae08403B9bbb9124bB305C09058E32C39A48c",
@@ -183,9 +187,9 @@
         "name": "Wrapped AVAX",
         "symbol": "WAVAX",
         "decimals": 18,
-        "logoUrl": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/avalanche_token_round_inverted.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/avalanche_token_round_inverted.png"
       },
       {
         "address": "0xf4E0A9224e8827dE91050b528F34e2F99C82Fbf6",
@@ -193,9 +197,9 @@
         "name": "Uniswap",
         "symbol": "UNI",
         "decimals": 18,
-        "logoUrl": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
       }
     ]
   },
@@ -228,9 +232,9 @@
         "decimals": 18,
         "name": "Arable Protocol",
         "symbol": "ACRE",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x00EE200Df31b869a321B10400Da10b561F3ee60d/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x00EE200Df31b869a321B10400Da10b561F3ee60d/logo.png"
       },
       {
         "chainId": 43114,
@@ -238,9 +242,9 @@
         "decimals": 18,
         "name": "YAY Games",
         "symbol": "YAY",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x01C2086faCFD7aA38f69A6Bd8C91BEF3BB5adFCa/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x01C2086faCFD7aA38f69A6Bd8C91BEF3BB5adFCa/logo.png"
       },
       {
         "chainId": 43114,
@@ -248,9 +252,9 @@
         "decimals": 18,
         "name": "Defrost Finance H2O",
         "symbol": "H2O",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x026187BdbC6b751003517bcb30Ac7817D5B766f8/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x026187BdbC6b751003517bcb30Ac7817D5B766f8/logo.png"
       },
       {
         "chainId": 43114,
@@ -258,9 +262,9 @@
         "decimals": 9,
         "name": "Ampleforth",
         "symbol": "AMPL",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x027dbcA046ca156De9622cD1e2D907d375e53aa7/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x027dbcA046ca156De9622cD1e2D907d375e53aa7/logo.png"
       },
       {
         "chainId": 43114,
@@ -268,9 +272,9 @@
         "decimals": 18,
         "name": "SHIBA INU",
         "symbol": "SHIB.e",
-        "logoUrl": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/SHIB/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/SHIB/logo.png"
       },
       {
         "chainId": 43114,
@@ -278,9 +282,9 @@
         "decimals": 18,
         "name": "DefiLaunch Token",
         "symbol": "DLAUNCH",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x0659133127749Cc0616Ed6632912ddF7cc8D7545/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x0659133127749Cc0616Ed6632912ddF7cc8D7545/logo.png"
       },
       {
         "chainId": 43114,
@@ -288,9 +292,9 @@
         "decimals": 18,
         "name": "TEDDY",
         "symbol": "TEDDY",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x094bd7B2D99711A1486FB94d4395801C6d0fdDcC/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x094bd7B2D99711A1486FB94d4395801C6d0fdDcC/logo.png"
       },
       {
         "chainId": 43114,
@@ -298,9 +302,9 @@
         "decimals": 18,
         "name": "OpenOcean",
         "symbol": "OOE",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x0ebd9537A25f56713E34c45b38F421A1e7191469/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x0ebd9537A25f56713E34c45b38F421A1e7191469/logo.png"
       },
       {
         "chainId": 43114,
@@ -308,9 +312,9 @@
         "decimals": 18,
         "name": "Moremoney USD",
         "symbol": "MONEY",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x0f577433Bf59560Ef2a79c124E9Ff99fCa258948/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x0f577433Bf59560Ef2a79c124E9Ff99fCa258948/logo.png"
       },
       {
         "chainId": 43114,
@@ -318,9 +322,9 @@
         "decimals": 18,
         "name": "Hoopoe Ventures",
         "symbol": "HOOP",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x0fEc6d8A84A85b79A1FFE0E28c1902E08b653EFE/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x0fEc6d8A84A85b79A1FFE0E28c1902E08b653EFE/logo.png"
       },
       {
         "chainId": 43114,
@@ -328,9 +332,9 @@
         "decimals": 18,
         "name": "Dragon Crypto Aurum",
         "symbol": "DCAU",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x100Cc3a819Dd3e8573fD2E46D1E66ee866068f30/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x100Cc3a819Dd3e8573fD2E46D1E66ee866068f30/logo.png"
       },
       {
         "chainId": 43114,
@@ -338,9 +342,9 @@
         "decimals": 6,
         "name": "Axelar Wrapped LUNA",
         "symbol": "LUNA",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x120AD3e5A7c796349e591F1570D9f7980F4eA9cb/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x120AD3e5A7c796349e591F1570D9f7980F4eA9cb/logo.png"
       },
       {
         "address": "0x130966628846BFd36ff31a822705796e8cb8C18D",
@@ -348,9 +352,9 @@
         "name": "Magic Internet Money",
         "symbol": "MIM",
         "decimals": 18,
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x130966628846BFd36ff31a822705796e8cb8C18D/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x130966628846BFd36ff31a822705796e8cb8C18D/logo.png"
       },
       {
         "chainId": 43114,
@@ -358,9 +362,9 @@
         "decimals": 6,
         "name": "ENXT Token",
         "symbol": "ENXT",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x164334Ed9E63FbEdC8B52E6dbD408Af4F051419f/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x164334Ed9E63FbEdC8B52E6dbD408Af4F051419f/logo.png"
       },
       {
         "chainId": 43114,
@@ -368,9 +372,9 @@
         "decimals": 18,
         "name": "Binance USD",
         "symbol": "BUSD.e",
-        "logoUrl": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/BUSD/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/BUSD/logo.png"
       },
       {
         "chainId": 43114,
@@ -378,9 +382,9 @@
         "decimals": 18,
         "name": "TrueUSD",
         "symbol": "TUSD",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x1C20E891Bab6b1727d14Da358FAe2984Ed9B59EB/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x1C20E891Bab6b1727d14Da358FAe2984Ed9B59EB/logo.png"
       },
       {
         "chainId": 43114,
@@ -388,9 +392,9 @@
         "decimals": 18,
         "name": "Dogeon Token",
         "symbol": "DON",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x1DB749847C4abB991d8B6032102383e6BfD9B1c7/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x1DB749847C4abB991d8B6032102383e6BfD9B1c7/logo.png"
       },
       {
         "chainId": 43114,
@@ -398,9 +402,9 @@
         "decimals": 18,
         "name": "AVME",
         "symbol": "AVME",
-        "logoUrl": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x1ECd47FF4d9598f89721A2866BFEb99505a413Ed/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x1ECd47FF4d9598f89721A2866BFEb99505a413Ed/logo.png"
       },
       {
         "chainId": 43114,
@@ -408,9 +412,9 @@
         "decimals": 18,
         "name": "ArgonToken",
         "symbol": "ARGON",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x1fE4751d9bDabaC8D90067056cB45AB6823d2C12/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x1fE4751d9bDabaC8D90067056cB45AB6823d2C12/logo.png"
       },
       {
         "chainId": 43114,
@@ -418,9 +422,9 @@
         "decimals": 18,
         "name": "AlphaToken",
         "symbol": "ALPHA.e",
-        "logoUrl": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/ALPHA/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/ALPHA/logo.png"
       },
       {
         "chainId": 43114,
@@ -428,9 +432,9 @@
         "decimals": 18,
         "name": "Frax Share",
         "symbol": "FXS",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x214DB107654fF987AD859F34125307783fC8e387/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x214DB107654fF987AD859F34125307783fC8e387/logo.png"
       },
       {
         "chainId": 43114,
@@ -438,9 +442,9 @@
         "decimals": 18,
         "name": "TundraToken",
         "symbol": "TUNDRA",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x21c5402C3B7d40C89Cc472C9dF5dD7E51BbAb1b1/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x21c5402C3B7d40C89Cc472C9dF5dD7E51BbAb1b1/logo.png"
       },
       {
         "chainId": 43114,
@@ -448,9 +452,9 @@
         "decimals": 18,
         "name": "Platypus",
         "symbol": "PTP",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x22d4002028f537599bE9f666d1c4Fa138522f9c8/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x22d4002028f537599bE9f666d1c4Fa138522f9c8/logo.png"
       },
       {
         "chainId": 43114,
@@ -458,9 +462,9 @@
         "decimals": 18,
         "name": "Curve DAO Token",
         "symbol": "CRV.e",
-        "logoUrl": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/CRV/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/CRV/logo.png"
       },
       {
         "chainId": 43114,
@@ -468,9 +472,9 @@
         "decimals": 6,
         "name": "Axelar Wrapped UST",
         "symbol": "UST",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x260Bbf5698121EB85e7a74f2E45E16Ce762EbE11/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x260Bbf5698121EB85e7a74f2E45E16Ce762EbE11/logo.png"
       },
       {
         "chainId": 43114,
@@ -478,9 +482,9 @@
         "decimals": 18,
         "name": "Binance",
         "symbol": "BNB",
-        "logoUrl": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x264c1383EA520f73dd837F915ef3a732e204a493/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x264c1383EA520f73dd837F915ef3a732e204a493/logo.png"
       },
       {
         "chainId": 43114,
@@ -488,9 +492,9 @@
         "decimals": 18,
         "name": "Staked AVAX",
         "symbol": "sAVAX",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE/logo.png"
       },
       {
         "chainId": 43114,
@@ -498,9 +502,9 @@
         "decimals": 12,
         "name": "SwapXI Token",
         "symbol": "SWAPXI",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x312eE43Df66d1Fd1EA28e5b28F355Da84dCA13C2/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x312eE43Df66d1Fd1EA28e5b28F355Da84dCA13C2/logo.png"
       },
       {
         "chainId": 43114,
@@ -508,9 +512,9 @@
         "decimals": 18,
         "name": "Governance OHM",
         "symbol": "gOHM",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x321E7092a180BB43555132ec53AaA65a5bF84251/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x321E7092a180BB43555132ec53AaA65a5bF84251/logo.png"
       },
       {
         "chainId": 43114,
@@ -518,9 +522,9 @@
         "decimals": 18,
         "name": "Orbs",
         "symbol": "ORBS",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x340fE1D898ECCAad394e2ba0fC1F93d27c7b717A/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x340fE1D898ECCAad394e2ba0fC1F93d27c7b717A/logo.png"
       },
       {
         "address": "0x346A59146b9b4a77100D369a3d18E8007A9F46a6",
@@ -528,9 +532,9 @@
         "name": "AVAI",
         "symbol": "AVAI",
         "decimals": 18,
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x346A59146b9b4a77100D369a3d18E8007A9F46a6/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x346A59146b9b4a77100D369a3d18E8007A9F46a6/logo.png"
       },
       {
         "address": "0x3509f19581aFEDEff07c53592bc0Ca84e4855475",
@@ -538,9 +542,9 @@
         "name": "xDollar Stablecoin",
         "symbol": "xUSD",
         "decimals": 18,
-        "logoUrl": "https://raw.githubusercontent.com/xDollar-Finance/logo/master/logo_256x256.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/xDollar-Finance/logo/master/logo_256x256.png"
       },
       {
         "chainId": 43114,
@@ -548,9 +552,9 @@
         "decimals": 18,
         "name": "Vee",
         "symbol": "VEE",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x3709E8615E02C15B096f8a9B460ccb8cA8194e86/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x3709E8615E02C15B096f8a9B460ccb8cA8194e86/logo.png"
       },
       {
         "chainId": 43114,
@@ -558,9 +562,9 @@
         "decimals": 18,
         "name": "SushiToken",
         "symbol": "SUSHI.e",
-        "logoUrl": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/SUSHI/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/SUSHI/logo.png"
       },
       {
         "chainId": 43114,
@@ -568,9 +572,9 @@
         "decimals": 18,
         "name": "THORChain ETH.RUNE",
         "symbol": "RUNE",
-        "logoUrl": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x390ba0fb0Bd3Aa2a5484001606329701148074e6/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x390ba0fb0Bd3Aa2a5484001606329701148074e6/logo.png"
       },
       {
         "chainId": 43114,
@@ -578,9 +582,9 @@
         "decimals": 6,
         "name": "Avaxtars Token",
         "symbol": "AVXT",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x397bBd6A0E41bdF4C3F971731E180Db8Ad06eBc1/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x397bBd6A0E41bdF4C3F971731E180Db8Ad06eBc1/logo.png"
       },
       {
         "chainId": 43114,
@@ -588,9 +592,9 @@
         "decimals": 18,
         "name": "SushiToken",
         "symbol": "SUSHI",
-        "logoUrl": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc/logo.png"
       },
       {
         "chainId": 43114,
@@ -598,9 +602,9 @@
         "decimals": 18,
         "name": "UMA Voting Token v1",
         "symbol": "UMA.e",
-        "logoUrl": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/UMA/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/UMA/logo.png"
       },
       {
         "chainId": 43114,
@@ -608,9 +612,9 @@
         "decimals": 18,
         "name": "Islander",
         "symbol": "ISA",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x3EeFb18003D033661f84e48360eBeCD181A84709/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x3EeFb18003D033661f84e48360eBeCD181A84709/logo.png"
       },
       {
         "chainId": 43114,
@@ -618,9 +622,9 @@
         "decimals": 18,
         "name": "Catoshi",
         "symbol": "CATS",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x402FD175049e95CeF2cC9ca1FECdb6d9736e690d/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x402FD175049e95CeF2cC9ca1FECdb6d9736e690d/logo.png"
       },
       {
         "chainId": 43114,
@@ -628,9 +632,9 @@
         "decimals": 8,
         "name": "Wrapped BTC",
         "symbol": "WBTC",
-        "logoUrl": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x408D4cD0ADb7ceBd1F1A1C33A0Ba2098E1295bAB/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x408D4cD0ADb7ceBd1F1A1C33A0Ba2098E1295bAB/logo.png"
       },
       {
         "chainId": 43114,
@@ -638,9 +642,9 @@
         "decimals": 18,
         "name": "SHIBAVAX",
         "symbol": "SHIBX",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x440aBbf18c54b2782A4917b80a1746d3A2c2Cce1/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x440aBbf18c54b2782A4917b80a1746d3A2c2Cce1/logo.png"
       },
       {
         "chainId": 43114,
@@ -648,9 +652,9 @@
         "decimals": 18,
         "name": "ZeroSwapToken",
         "symbol": "ZEE",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x44754455564474A89358B2C2265883DF993b12F0/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x44754455564474A89358B2C2265883DF993b12F0/logo.png"
       },
       {
         "chainId": 43114,
@@ -658,9 +662,9 @@
         "decimals": 18,
         "name": "Hurricane Token",
         "symbol": "HCT",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x45C13620B55C35A5f539d26E88247011Eb10fDbd/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x45C13620B55C35A5f539d26E88247011Eb10fDbd/logo.png"
       },
       {
         "chainId": 43114,
@@ -668,9 +672,9 @@
         "decimals": 18,
         "name": "Graph Token",
         "symbol": "GRT",
-        "logoUrl": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x46C54b16aF7747067f412c78eBaDaE203a26aDa0/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x46C54b16aF7747067f412c78eBaDaE203a26aDa0/logo.png"
       },
       {
         "chainId": 43114,
@@ -678,9 +682,9 @@
         "decimals": 18,
         "name": "Defrost Finance Token",
         "symbol": "MELT",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x47EB6F7525C1aA999FBC9ee92715F5231eB1241D/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x47EB6F7525C1aA999FBC9ee92715F5231eB1241D/logo.png"
       },
       {
         "chainId": 43114,
@@ -688,9 +692,9 @@
         "decimals": 18,
         "name": "Skill Token",
         "symbol": "SKILL",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x483416eB3aFA601B9C6385f63CeC0C82B6aBf1fb/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x483416eB3aFA601B9C6385f63CeC0C82B6aBf1fb/logo.png"
       },
       {
         "chainId": 43114,
@@ -698,9 +702,9 @@
         "decimals": 18,
         "name": "YetiSwap",
         "symbol": "YTS",
-        "logoUrl": "https://raw.githubusercontent.com/YetiSwap/yetiswap.app/master/src/assets/image/YTSCoin.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/YetiSwap/yetiswap.app/master/src/assets/image/YTSCoin.png"
       },
       {
         "chainId": 43114,
@@ -708,9 +712,9 @@
         "decimals": 18,
         "name": "RICH",
         "symbol": "RICH",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x4960bc6032351ab87627B8F36b37B4938A44C7eF/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x4960bc6032351ab87627B8F36b37B4938A44C7eF/logo.png"
       },
       {
         "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
@@ -718,8 +722,9 @@
         "symbol": "WETH.e",
         "contractType": "ERC-20",
         "decimals": 18,
-        "logoUrl": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WETH/logo.png",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WETH/logo.png",
+        "chainId": "43114"
       },
       {
         "chainId": 43114,
@@ -727,9 +732,9 @@
         "decimals": 18,
         "name": "LydiaFinance Token",
         "symbol": "LYD",
-        "logoUrl": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084/logo.png"
       },
       {
         "chainId": 43114,
@@ -737,9 +742,9 @@
         "decimals": 18,
         "name": "Jewels",
         "symbol": "JEWEL",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x4f60a160D8C2DDdaAfe16FCC57566dB84D674BD6/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x4f60a160D8C2DDdaAfe16FCC57566dB84D674BD6/logo.png"
       },
       {
         "address": "0x4fbf0429599460D327BD5F55625E30E4fC066095",
@@ -747,9 +752,9 @@
         "name": "TSD",
         "symbol": "TSD",
         "decimals": 18,
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x4fbf0429599460D327BD5F55625E30E4fC066095/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x4fbf0429599460D327BD5F55625E30E4fC066095/logo.png"
       },
       {
         "address": "0x50b7545627a5162F82A992c33b87aDc75187B218",
@@ -757,8 +762,9 @@
         "symbol": "WBTC.e",
         "contractType": "ERC-20",
         "decimals": 8,
-        "logoUrl": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WBTC/logo.png",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WBTC/logo.png",
+        "chainId": "43114"
       },
       {
         "chainId": 43114,
@@ -766,9 +772,9 @@
         "decimals": 18,
         "name": "INSUR Token",
         "symbol": "INSUR",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x544c42fBB96B39B21DF61cf322b5EDC285EE7429/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x544c42fBB96B39B21DF61cf322b5EDC285EE7429/logo.png"
       },
       {
         "chainId": 43114,
@@ -776,9 +782,9 @@
         "decimals": 6,
         "name": "BiLira",
         "symbol": "TRYB",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x564A341Df6C126f90cf3ECB92120FD7190ACb401/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x564A341Df6C126f90cf3ECB92120FD7190ACb401/logo.png"
       },
       {
         "address": "0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7",
@@ -786,8 +792,9 @@
         "symbol": "YAK",
         "contractType": "ERC-20",
         "decimals": 18,
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7/logo.png",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7/logo.png",
+        "chainId": "43114"
       },
       {
         "address": "0x5947BB275c521040051D82396192181b413227A3",
@@ -795,8 +802,9 @@
         "symbol": "LINK.e",
         "contractType": "ERC-20",
         "decimals": 18,
-        "logoUrl": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/LINK/logo.png",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/LINK/logo.png",
+        "chainId": "43114"
       },
       {
         "chainId": 43114,
@@ -804,9 +812,9 @@
         "decimals": 18,
         "name": "Gaj Finance",
         "symbol": "GAJ",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x595c8481c48894771CE8FaDE54ac6Bf59093F9E8/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x595c8481c48894771CE8FaDE54ac6Bf59093F9E8/logo.png"
       },
       {
         "chainId": 43114,
@@ -814,9 +822,9 @@
         "decimals": 18,
         "name": "0x Protocol Token",
         "symbol": "ZRX.e",
-        "logoUrl": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/ZRX/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/ZRX/logo.png"
       },
       {
         "chainId": 43114,
@@ -824,9 +832,9 @@
         "decimals": 18,
         "name": "miMatic",
         "symbol": "MAI",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x5c49b268c9841AFF1Cc3B0a418ff5c3442eE3F3b/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x5c49b268c9841AFF1Cc3B0a418ff5c3442eE3F3b/logo.png"
       },
       {
         "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -834,8 +842,9 @@
         "symbol": "PNG",
         "contractType": "ERC-20",
         "decimals": 18,
-        "logoUrl": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x60781C2586D68229fde47564546784ab3fACA982/logo.png",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x60781C2586D68229fde47564546784ab3fACA982/logo.png",
+        "chainId": "43114"
       },
       {
         "chainId": 43114,
@@ -843,9 +852,9 @@
         "decimals": 18,
         "name": "Poly-Peg COOK",
         "symbol": "COOK",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x637afeff75ca669fF92e4570B14D6399A658902f/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x637afeff75ca669fF92e4570B14D6399A658902f/logo.png"
       },
       {
         "chainId": 43114,
@@ -853,9 +862,9 @@
         "decimals": 18,
         "name": "Aave Token",
         "symbol": "AAVE.e",
-        "logoUrl": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/AAVE/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/AAVE/logo.png"
       },
       {
         "chainId": 43114,
@@ -863,9 +872,9 @@
         "decimals": 18,
         "name": "Husky",
         "symbol": "HUSKY",
-        "logoUrl": "https://raw.githubusercontent.com/safepoint-be/project-husky/main/img/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/safepoint-be/project-husky/main/img/logo.png"
       },
       {
         "chainId": 43114,
@@ -873,9 +882,9 @@
         "decimals": 18,
         "name": "Synthetix Network Token",
         "symbol": "SNX",
-        "logoUrl": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x68e44C4619db40ae1a0725e77C02587bC8fBD1c9/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x68e44C4619db40ae1a0725e77C02587bC8fBD1c9/logo.png"
       },
       {
         "chainId": 43114,
@@ -883,9 +892,9 @@
         "decimals": 18,
         "name": "Ankr Avalanche Reward Earning Bond",
         "symbol": "aAVAXb",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x6C6f910A79639dcC94b4feEF59Ff507c2E843929/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x6C6f910A79639dcC94b4feEF59Ff507c2E843929/logo.png"
       },
       {
         "chainId": 43114,
@@ -893,9 +902,9 @@
         "decimals": 18,
         "name": "Basic Attention Token",
         "symbol": "BAT",
-        "logoUrl": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x6b329326E0F6b95B93b52229b213334278D6f277/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x6b329326E0F6b95B93b52229b213334278D6f277/logo.png"
       },
       {
         "chainId": 43114,
@@ -903,9 +912,9 @@
         "decimals": 9,
         "name": "Spore",
         "symbol": "SPORE",
-        "logoUrl": "https://raw.githubusercontent.com/sporeproject/Spore-frontend/master/src/utils/SPORE.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/sporeproject/Spore-frontend/master/src/utils/SPORE.png"
       },
       {
         "chainId": 43114,
@@ -913,9 +922,9 @@
         "decimals": 18,
         "name": "JoeToken",
         "symbol": "JOE",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd/logo.png"
       },
       {
         "chainId": 43114,
@@ -923,9 +932,9 @@
         "decimals": 18,
         "name": "agEUR",
         "symbol": "AGEUR",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x6feFd97F328342a8A840546A55FDcfEe7542F9A8/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x6feFd97F328342a8A840546A55FDcfEe7542F9A8/logo.png"
       },
       {
         "chainId": 43114,
@@ -933,9 +942,9 @@
         "decimals": 18,
         "name": "RaceX",
         "symbol": "RACEX",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x7086e045b78E1e72F741F25231c08d238812CF8a/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x7086e045b78E1e72F741F25231c08d238812CF8a/logo.png"
       },
       {
         "chainId": 43114,
@@ -943,9 +952,9 @@
         "decimals": 18,
         "name": "MilkyWay Token by SpaceSwap v2",
         "symbol": "MILK2",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x721C299E6BF7D6a430d9bEA3364Ea197314bcE09/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x721C299E6BF7D6a430d9bEA3364Ea197314bcE09/logo.png"
       },
       {
         "chainId": 43114,
@@ -953,9 +962,9 @@
         "decimals": 18,
         "name": "chikn egg",
         "symbol": "EGG",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x7761E2338B35bCEB6BdA6ce477EF012bde7aE611/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x7761E2338B35bCEB6BdA6ce477EF012bde7aE611/logo.png"
       },
       {
         "address": "0x783C08b5F26E3daf8C4681F3bf49844e425b6393",
@@ -963,9 +972,9 @@
         "name": "Avaware USD",
         "symbol": "AUSD",
         "decimals": 18,
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x783C08b5F26E3daf8C4681F3bf49844e425b6393/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x783C08b5F26E3daf8C4681F3bf49844e425b6393/logo.png"
       },
       {
         "address": "0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE",
@@ -973,8 +982,9 @@
         "symbol": "AVE",
         "contractType": "ERC-20",
         "decimals": 18,
-        "logoUrl": "https://raw.githubusercontent.com/avaware/avaware/main/logo.png",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/avaware/avaware/main/logo.png",
+        "chainId": "43114"
       },
       {
         "chainId": 43114,
@@ -982,9 +992,9 @@
         "decimals": 9,
         "name": "Maximizer",
         "symbol": "MAXI",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x7C08413cbf02202a1c13643dB173f2694e0F73f0/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x7C08413cbf02202a1c13643dB173f2694e0F73f0/logo.png"
       },
       {
         "chainId": 43114,
@@ -992,9 +1002,9 @@
         "decimals": 6,
         "name": "DGC Token",
         "symbol": "DGC",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x7F29e7086453ed97283893E763aE0989F4B70f8d/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x7F29e7086453ed97283893E763aE0989F4B70f8d/logo.png"
       },
       {
         "chainId": 43114,
@@ -1002,9 +1012,9 @@
         "decimals": 18,
         "name": "Pollen",
         "symbol": "PLN",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x7b2B702706D9b361dfE3f00bD138C0CFDA7FB2Cf/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x7b2B702706D9b361dfE3f00bD138C0CFDA7FB2Cf/logo.png"
       },
       {
         "chainId": 43114,
@@ -1012,9 +1022,9 @@
         "decimals": 18,
         "name": "LOOT",
         "symbol": "LOOT",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x7f041ce89A2079873693207653b24C15B5e6A293/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x7f041ce89A2079873693207653b24C15B5e6A293/logo.png"
       },
       {
         "address": "0x81440C939f2C1E34fc7048E518a637205A632a74",
@@ -1022,8 +1032,9 @@
         "symbol": "CYCLE",
         "contractType": "ERC-20",
         "decimals": 18,
-        "logoUrl": "https://raw.githubusercontent.com/CycleProtocol/assets/master/cycle-logo-round-small.png",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/CycleProtocol/assets/master/cycle-logo-round-small.png",
+        "chainId": "43114"
       },
       {
         "chainId": 43114,
@@ -1031,9 +1042,9 @@
         "decimals": 18,
         "name": "VersoToken",
         "symbol": "VSO",
-        "logoUrl": "https://raw.githubusercontent.com/VersoOfficial/pr/master/icon_blue.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/VersoOfficial/pr/master/icon_blue.png"
       },
       {
         "address": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
@@ -1041,8 +1052,9 @@
         "symbol": "QI",
         "contractType": "ERC-20",
         "decimals": 18,
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5/logo.png",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5/logo.png",
+        "chainId": "43114"
       },
       {
         "chainId": 43114,
@@ -1050,9 +1062,9 @@
         "decimals": 18,
         "name": "Maker",
         "symbol": "MKR.e",
-        "logoUrl": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/MKR/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/MKR/logo.png"
       },
       {
         "chainId": 43114,
@@ -1060,9 +1072,9 @@
         "decimals": 18,
         "name": "Maximus",
         "symbol": "MAXI",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x885d748C00A279B67A7749EC6b03301700dd0455/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x885d748C00A279B67A7749EC6b03301700dd0455/logo.png"
       },
       {
         "chainId": 43114,
@@ -1070,9 +1082,9 @@
         "decimals": 18,
         "name": "OrcaDAO",
         "symbol": "ORCA",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x8B1d98A91F853218ddbb066F20b8c63E782e2430/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x8B1d98A91F853218ddbb066F20b8c63E782e2430/logo.png"
       },
       {
         "chainId": 43114,
@@ -1080,9 +1092,9 @@
         "decimals": 18,
         "name": "Canary",
         "symbol": "CNR",
-        "logoUrl": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x8D88e48465F30Acfb8daC0b3E35c9D6D7d36abaf/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x8D88e48465F30Acfb8daC0b3E35c9D6D7d36abaf/logo.png"
       },
       {
         "chainId": 43114,
@@ -1090,9 +1102,9 @@
         "decimals": 18,
         "name": "Graph Token",
         "symbol": "GRT.e",
-        "logoUrl": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/GRT/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/GRT/logo.png"
       },
       {
         "chainId": 43114,
@@ -1100,9 +1112,9 @@
         "decimals": 18,
         "name": "CRAFT",
         "symbol": "CRAFT",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x8aE8be25C23833e0A01Aa200403e826F611f9CD2/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x8aE8be25C23833e0A01Aa200403e826F611f9CD2/logo.png"
       },
       {
         "chainId": 43114,
@@ -1110,9 +1122,9 @@
         "decimals": 18,
         "name": "Aave Token",
         "symbol": "AAVE",
-        "logoUrl": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x8cE2Dee54bB9921a2AE0A63dBb2DF8eD88B91dD9/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x8cE2Dee54bB9921a2AE0A63dBb2DF8eD88B91dD9/logo.png"
       },
       {
         "chainId": 43114,
@@ -1120,9 +1132,9 @@
         "decimals": 18,
         "name": "Uniswap",
         "symbol": "UNI.e",
-        "logoUrl": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/UNI/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/UNI/logo.png"
       },
       {
         "chainId": 43114,
@@ -1130,9 +1142,9 @@
         "decimals": 9,
         "name": "Good Bridging",
         "symbol": "GB",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x90842eb834cFD2A1DB0b1512B254a18E4D396215/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x90842eb834cFD2A1DB0b1512B254a18E4D396215/logo.png"
       },
       {
         "chainId": 43114,
@@ -1140,9 +1152,9 @@
         "decimals": 18,
         "name": "MetaBrands",
         "symbol": "MAGE",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x921f99719Eb6C01b4B8f0BA7973A7C24891e740A/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x921f99719Eb6C01b4B8f0BA7973A7C24891e740A/logo.png"
       },
       {
         "chainId": 43114,
@@ -1150,9 +1162,9 @@
         "decimals": 18,
         "name": "Ape In",
         "symbol": "APEIN",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x938FE3788222A74924E062120E7BFac829c719Fb/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x938FE3788222A74924E062120E7BFac829c719Fb/logo.png"
       },
       {
         "chainId": 43114,
@@ -1160,9 +1172,9 @@
         "decimals": 18,
         "name": "King Shares",
         "symbol": "KSHARE",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x94d649E017625dE1Aa04733aA046dE0161DF18eF/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x94d649E017625dE1Aa04733aA046dE0161DF18eF/logo.png"
       },
       {
         "chainId": 43114,
@@ -1170,9 +1182,9 @@
         "decimals": 18,
         "name": "DeFiYieldProtocol",
         "symbol": "DYP",
-        "logoUrl": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17/logo.png"
       },
       {
         "chainId": 43114,
@@ -1180,9 +1192,9 @@
         "decimals": 6,
         "name": "TetherToken",
         "symbol": "USDT",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7/logo.png"
       },
       {
         "chainId": 43114,
@@ -1190,9 +1202,9 @@
         "decimals": 18,
         "name": "Basic Attention Token",
         "symbol": "BAT.e",
-        "logoUrl": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/BAT/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/BAT/logo.png"
       },
       {
         "chainId": 43114,
@@ -1200,9 +1212,9 @@
         "decimals": 18,
         "name": "yearn.finance",
         "symbol": "YFI",
-        "logoUrl": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x99519AcB025a0e0d44c3875A4BbF03af65933627/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x99519AcB025a0e0d44c3875A4BbF03af65933627/logo.png"
       },
       {
         "chainId": 43114,
@@ -1210,9 +1222,9 @@
         "decimals": 18,
         "name": "Hertz Token",
         "symbol": "HTZ",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x9C8E99eb130AED653Ef90fED709D9C3E9cC8b269/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x9C8E99eb130AED653Ef90fED709D9C3E9cC8b269/logo.png"
       },
       {
         "chainId": 43114,
@@ -1220,9 +1232,9 @@
         "decimals": 18,
         "name": "Wrapped AllianceBlock Token",
         "symbol": "WALBT",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x9E037dE681CaFA6E661e6108eD9c2bd1AA567Ecd/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x9E037dE681CaFA6E661e6108eD9c2bd1AA567Ecd/logo.png"
       },
       {
         "chainId": 43114,
@@ -1230,9 +1242,9 @@
         "decimals": 18,
         "name": "NFTrade Token",
         "symbol": "NFTD",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x9E3Ca00f2d4A9E5d4f0add0900de5f15050812cF/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x9E3Ca00f2d4A9E5d4f0add0900de5f15050812cF/logo.png"
       },
       {
         "chainId": 43114,
@@ -1240,9 +1252,9 @@
         "decimals": 18,
         "name": "MarginSwap",
         "symbol": "MFI",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x9Fda7cEeC4c18008096C2fE2B85F05dc300F94d0/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x9Fda7cEeC4c18008096C2fE2B85F05dc300F94d0/logo.png"
       },
       {
         "chainId": 43114,
@@ -1250,9 +1262,9 @@
         "decimals": 18,
         "name": "yearn.finance",
         "symbol": "YFI.e",
-        "logoUrl": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/YFI/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/YFI/logo.png"
       },
       {
         "chainId": 43114,
@@ -1260,9 +1272,9 @@
         "decimals": 18,
         "name": "CRA",
         "symbol": "CRA",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xA32608e873F9DdEF944B24798db69d80Bbb4d1ed/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xA32608e873F9DdEF944B24798db69d80Bbb4d1ed/logo.png"
       },
       {
         "chainId": 43114,
@@ -1270,9 +1282,9 @@
         "decimals": 18,
         "name": "WOWSwap",
         "symbol": "WOW",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xA384Bc7Cdc0A93e686da9E7B8C0807cD040F4E0b/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xA384Bc7Cdc0A93e686da9E7B8C0807cD040F4E0b/logo.png"
       },
       {
         "chainId": 43114,
@@ -1280,9 +1292,9 @@
         "decimals": 6,
         "name": "USD Coin",
         "symbol": "USDC.e",
-        "logoUrl": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDC/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDC/logo.png"
       },
       {
         "chainId": 43114,
@@ -1290,9 +1302,9 @@
         "decimals": 18,
         "name": "Stabilize USD",
         "symbol": "SUSD",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xAafd2577Fb67366d3C89DB0d627C49D769ee2e5D/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xAafd2577Fb67366d3C89DB0d627C49D769ee2e5D/logo.png"
       },
       {
         "chainId": 43114,
@@ -1300,9 +1312,9 @@
         "decimals": 18,
         "name": "Boo Finance Token",
         "symbol": "BOOFI",
-        "logoUrl": "https://raw.githubusercontent.com/BooFinance/assets/main/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/BooFinance/assets/main/logo.png"
       },
       {
         "chainId": 43114,
@@ -1310,9 +1322,9 @@
         "decimals": 18,
         "name": "OddzToken",
         "symbol": "ODDZ",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xB0a6e056B587D0a85640b39b1cB44086F7a26A1E/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xB0a6e056B587D0a85640b39b1cB44086F7a26A1E/logo.png"
       },
       {
         "chainId": 43114,
@@ -1320,9 +1332,9 @@
         "decimals": 18,
         "name": "Weble Ecosystem Token",
         "symbol": "WET",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xB1466d4cf0DCfC0bCdDcf3500F473cdACb88b56D/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xB1466d4cf0DCfC0bCdDcf3500F473cdACb88b56D/logo.png"
       },
       {
         "chainId": 43114,
@@ -1330,9 +1342,9 @@
         "decimals": 18,
         "name": "HERMES",
         "symbol": "HERMES",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xB15f02F9Da8CD1f99E9dd375F21dc96D25ddd82C/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xB15f02F9Da8CD1f99E9dd375F21dc96D25ddd82C/logo.png"
       },
       {
         "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
@@ -1341,7 +1353,6 @@
         "contractType": "ERC-20",
         "decimals": 18,
         "assetType": "Fixed Cap",
-        "logoUrl": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
         "officialSite": "https://www.avax.network/",
         "resourceLinks": [
           {
@@ -1392,7 +1403,9 @@
             "type": "CoinGecko",
             "url": "https://www.coingecko.com/en/coins/avalanche"
           }
-        ]
+        ],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
+        "chainId": "43114"
       },
       {
         "chainId": 43114,
@@ -1400,9 +1413,9 @@
         "decimals": 18,
         "name": "ChainLink Token",
         "symbol": "LINK",
-        "logoUrl": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xB3fe5374F67D7a22886A0eE082b2E2f9d2651651/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xB3fe5374F67D7a22886A0eE082b2E2f9d2651651/logo.png"
       },
       {
         "chainId": 43114,
@@ -1410,9 +1423,9 @@
         "decimals": 6,
         "name": "USD Coin",
         "symbol": "USDC",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E/logo.png"
       },
       {
         "chainId": 43114,
@@ -1420,9 +1433,9 @@
         "decimals": 18,
         "name": "iDeFiYieldProtocol",
         "symbol": "iDYP",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xBD100d061E120b2c67A24453CF6368E63f1Be056/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xBD100d061E120b2c67A24453CF6368E63f1Be056/logo.png"
       },
       {
         "chainId": 43114,
@@ -1430,9 +1443,9 @@
         "decimals": 18,
         "name": "Synthetix Network Token",
         "symbol": "SNX.e",
-        "logoUrl": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/SNX/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/SNX/logo.png"
       },
       {
         "chainId": 43114,
@@ -1440,9 +1453,9 @@
         "decimals": 18,
         "name": "SHAKE token by SpaceSwap v2",
         "symbol": "SHAKE",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xC1d02E488a9Ce2481BFdcd797d5373Dd2E70a9C2/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xC1d02E488a9Ce2481BFdcd797d5373Dd2E70a9C2/logo.png"
       },
       {
         "address": "0xC38f41A296A4493Ff429F1238e030924A1542e50",
@@ -1450,8 +1463,9 @@
         "symbol": "SNOB",
         "contractType": "ERC-20",
         "decimals": 18,
-        "logoUrl": "https://raw.githubusercontent.com/Snowball-Finance/Assets/main/Uphill%20snowball.png",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/Snowball-Finance/Assets/main/Uphill%20snowball.png",
+        "chainId": "43114"
       },
       {
         "chainId": 43114,
@@ -1459,9 +1473,9 @@
         "decimals": 18,
         "name": "HeroesChained",
         "symbol": "HeC",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xC7f4debC8072e23fe9259A5C0398326d8EfB7f5c/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xC7f4debC8072e23fe9259A5C0398326d8EfB7f5c/logo.png"
       },
       {
         "chainId": 43114,
@@ -1469,9 +1483,9 @@
         "decimals": 18,
         "name": "UMA Voting Token v1",
         "symbol": "UMA",
-        "logoUrl": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xC84d7bfF2555955b44BDF6A307180810412D751B/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xC84d7bfF2555955b44BDF6A307180810412D751B/logo.png"
       },
       {
         "chainId": 43114,
@@ -1479,9 +1493,9 @@
         "decimals": 8,
         "name": "Blocknet",
         "symbol": "aaBLOCK",
-        "logoUrl": "https://github.com/blocknetdx/documentation/blob/master/docs/img/icons/Blocknet_symbol_dark_RGB.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://github.com/blocknetdx/documentation/blob/master/docs/img/icons/Blocknet_symbol_dark_RGB.png"
       },
       {
         "chainId": 43114,
@@ -1489,9 +1503,9 @@
         "decimals": 18,
         "name": "Spell Token",
         "symbol": "SPELL",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xCE1bFFBD5374Dac86a2893119683F4911a2F7814/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xCE1bFFBD5374Dac86a2893119683F4911a2F7814/logo.png"
       },
       {
         "chainId": 43114,
@@ -1499,9 +1513,9 @@
         "decimals": 18,
         "name": "BRIBE",
         "symbol": "BRIBE",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xCe2fbed816E320258161CeD52c2d0CEBcdFd8136/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xCe2fbed816E320258161CeD52c2d0CEBcdFd8136/logo.png"
       },
       {
         "chainId": 43114,
@@ -1509,9 +1523,9 @@
         "decimals": 18,
         "name": "Frax",
         "symbol": "FRAX",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64/logo.png"
       },
       {
         "chainId": 43114,
@@ -1519,9 +1533,9 @@
         "decimals": 18,
         "name": "DEAPCOIN",
         "symbol": "DEP",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xD4d026322C88C2d49942A75DfF920FCfbC5614C1/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xD4d026322C88C2d49942A75DfF920FCfbC5614C1/logo.png"
       },
       {
         "chainId": 43114,
@@ -1529,9 +1543,9 @@
         "decimals": 18,
         "name": "Gondola",
         "symbol": "GDL",
-        "logoUrl": "https://raw.githubusercontent.com/gondola-finance/frontend-v2/master/src/assets/icons/colour.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/gondola-finance/frontend-v2/master/src/assets/icons/colour.png"
       },
       {
         "chainId": 43114,
@@ -1539,9 +1553,9 @@
         "decimals": 18,
         "name": "Frax Share",
         "symbol": "FXS",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454/logo.png"
       },
       {
         "chainId": 43114,
@@ -1549,9 +1563,9 @@
         "decimals": 18,
         "name": "Frax - Anyswap",
         "symbol": "FRAX",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xDC42728B0eA910349ed3c6e1c9Dc06b5FB591f98/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xDC42728B0eA910349ed3c6e1c9Dc06b5FB591f98/logo.png"
       },
       {
         "chainId": 43114,
@@ -1559,9 +1573,9 @@
         "decimals": 18,
         "name": "Akitavax",
         "symbol": "AKITAX",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xE06fba763C2104dB5027F57f6A5Be0a0D86308af/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xE06fba763C2104dB5027F57f6A5Be0a0D86308af/logo.png"
       },
       {
         "chainId": 43114,
@@ -1569,9 +1583,9 @@
         "decimals": 18,
         "name": "PolkastarterToken",
         "symbol": "POLS",
-        "logoUrl": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xE1463E8991c8A62e64b77b5Fb6B22F190344C2A9/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xE1463E8991c8A62e64b77b5Fb6B22F190344C2A9/logo.png"
       },
       {
         "chainId": 43114,
@@ -1579,9 +1593,9 @@
         "decimals": 18,
         "name": "1INCH Token",
         "symbol": "1INCH",
-        "logoUrl": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xE54EB2C3009Fa411BF24fB017F9725b973CE36F0/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xE54EB2C3009Fa411BF24fB017F9725b973CE36F0/logo.png"
       },
       {
         "chainId": 43114,
@@ -1589,9 +1603,9 @@
         "decimals": 18,
         "name": "ANGLE",
         "symbol": "ANGLE",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xE6B9d092223f39013656702A40dbE6B7DeCc5746/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xE6B9d092223f39013656702A40dbE6B7DeCc5746/logo.png"
       },
       {
         "chainId": 43114,
@@ -1599,9 +1613,9 @@
         "decimals": 18,
         "name": "HonToken",
         "symbol": "HON",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xEd2b42D3C9c6E97e11755BB37df29B6375ede3EB/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xEd2b42D3C9c6E97e11755BB37df29B6375ede3EB/logo.png"
       },
       {
         "chainId": 43114,
@@ -1609,9 +1623,9 @@
         "decimals": 18,
         "name": "Imperium Empires Token",
         "symbol": "IME",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xF891214fdcF9cDaa5fdC42369eE4F27F226AdaD6/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xF891214fdcF9cDaa5fdC42369eE4F27F226AdaD6/logo.png"
       },
       {
         "chainId": 43114,
@@ -1619,9 +1633,9 @@
         "decimals": 18,
         "name": "Sherpa",
         "symbol": "SHERPA",
-        "logoUrl": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xa5E59761eBD4436fa4d20E1A27cBa29FB2471Fc6/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xa5E59761eBD4436fa4d20E1A27cBa29FB2471Fc6/logo.png"
       },
       {
         "chainId": 43114,
@@ -1629,9 +1643,9 @@
         "decimals": 18,
         "name": "Wootrade Network",
         "symbol": "WOO.e",
-        "logoUrl": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WOO/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WOO/logo.png"
       },
       {
         "chainId": 43114,
@@ -1639,9 +1653,9 @@
         "decimals": 18,
         "name": "Binance USD",
         "symbol": "BUSD",
-        "logoUrl": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xaEb044650278731Ef3DC244692AB9F64C78FfaEA/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xaEb044650278731Ef3DC244692AB9F64C78FfaEA/logo.png"
       },
       {
         "chainId": 43114,
@@ -1649,9 +1663,9 @@
         "decimals": 18,
         "name": "chikn feed",
         "symbol": "FEED",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xab592d197ACc575D16C3346f4EB70C703F308D1E/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xab592d197ACc575D16C3346f4EB70C703F308D1E/logo.png"
       },
       {
         "chainId": 43114,
@@ -1659,9 +1673,9 @@
         "decimals": 8,
         "name": "TOK",
         "symbol": "TOK",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xae9d2385Ff2E2951Dd4fA061e74c4d3deDD24347/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xae9d2385Ff2E2951Dd4fA061e74c4d3deDD24347/logo.png"
       },
       {
         "chainId": 43114,
@@ -1669,9 +1683,9 @@
         "decimals": 18,
         "name": "Kalao Token",
         "symbol": "KLO",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xb27c8941a7Df8958A1778c0259f76D1F8B711C35/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xb27c8941a7Df8958A1778c0259f76D1F8B711C35/logo.png"
       },
       {
         "chainId": 43114,
@@ -1679,9 +1693,9 @@
         "decimals": 18,
         "name": "ROCO",
         "symbol": "ROCO",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xb2a85C5ECea99187A977aC34303b80AcbDdFa208/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xb2a85C5ECea99187A977aC34303b80AcbDdFa208/logo.png"
       },
       {
         "chainId": 43114,
@@ -1689,9 +1703,9 @@
         "decimals": 9,
         "name": "Time",
         "symbol": "TIME",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xb54f16fB19478766A268F172C9480f8da1a7c9C3/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xb54f16fB19478766A268F172C9480f8da1a7c9C3/logo.png"
       },
       {
         "chainId": 43114,
@@ -1699,9 +1713,9 @@
         "decimals": 18,
         "name": "Augmented Finance",
         "symbol": "AGF",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xb67a9374Da03d4114a6FB8f0E7F2b82b5cB34ee3/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xb67a9374Da03d4114a6FB8f0E7F2b82b5cB34ee3/logo.png"
       },
       {
         "chainId": 43114,
@@ -1709,9 +1723,9 @@
         "decimals": 18,
         "name": "Tomb",
         "symbol": "TOMB",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xb84527D59b6Ecb96F433029ECc890D4492C5dCe1/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xb84527D59b6Ecb96F433029ECc890D4492C5dCe1/logo.png"
       },
       {
         "chainId": 43114,
@@ -1719,9 +1733,9 @@
         "decimals": 18,
         "name": "Dai Stablecoin",
         "symbol": "DAI",
-        "logoUrl": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a/logo.png"
       },
       {
         "chainId": 43114,
@@ -1729,9 +1743,9 @@
         "decimals": 18,
         "name": "Kitty",
         "symbol": "KITTY",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xbca7f1998Dc9FFB70b086543a808960a460aBcA7/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xbca7f1998Dc9FFB70b086543a808960a460aBcA7/logo.png"
       },
       {
         "chainId": 43114,
@@ -1739,9 +1753,9 @@
         "decimals": 18,
         "name": "Blue Token",
         "symbol": "BLUE",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xc12e249FaBe1c5Eb7C558E5F50D187687a244E31/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xc12e249FaBe1c5Eb7C558E5F50D187687a244E31/logo.png"
       },
       {
         "chainId": 43114,
@@ -1749,9 +1763,9 @@
         "decimals": 18,
         "name": "Compound",
         "symbol": "COMP.e",
-        "logoUrl": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/COMP/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/COMP/logo.png"
       },
       {
         "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
@@ -1759,10 +1773,11 @@
         "symbol": "USDT.e",
         "contractType": "ERC-20",
         "decimals": 6,
-        "logoUrl": "https://snowtrace.io/token/images/tether_32.png",
         "assetType": "Stablecoin",
         "officialSite": "https://tether.to/",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://snowtrace.io/token/images/tether_32.png",
+        "chainId": "43114"
       },
       {
         "chainId": 43114,
@@ -1770,9 +1785,9 @@
         "decimals": 18,
         "name": "TrustSwap Token",
         "symbol": "SWAP.e",
-        "logoUrl": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/SWAP/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/SWAP/logo.png"
       },
       {
         "chainId": 43114,
@@ -1780,9 +1795,9 @@
         "decimals": 6,
         "name": "BiAltin",
         "symbol": "GLDB",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xcA220F1e486A8e35d6F1DCD62073Ad8DD04659ED/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xcA220F1e486A8e35d6F1DCD62073Ad8DD04659ED/logo.png"
       },
       {
         "address": "0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4",
@@ -1790,8 +1805,9 @@
         "symbol": "XAVA",
         "contractType": "ERC-20",
         "decimals": 18,
-        "logoUrl": "https://raw.githubusercontent.com/avalaunch-app/xava-protocol/master/logo.png",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/avalaunch-app/xava-protocol/master/logo.png",
+        "chainId": "43114"
       },
       {
         "chainId": 43114,
@@ -1799,9 +1815,9 @@
         "decimals": 18,
         "name": "1INCH Token",
         "symbol": "1INCH.e",
-        "logoUrl": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/1INCH/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/1INCH/logo.png"
       },
       {
         "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
@@ -1809,8 +1825,9 @@
         "symbol": "DAI.e",
         "contractType": "ERC-20",
         "decimals": 18,
-        "logoUrl": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xd586E7F844cEa2F87f50152665BCbc2C279D8d70/logo.png",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xd586E7F844cEa2F87f50152665BCbc2C279D8d70/logo.png",
+        "chainId": "43114"
       },
       {
         "chainId": 43114,
@@ -1818,9 +1835,9 @@
         "decimals": 18,
         "name": "More Token",
         "symbol": "MORE",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xd9D90f882CDdD6063959A9d837B05Cb748718A05/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xd9D90f882CDdD6063959A9d837B05Cb748718A05/logo.png"
       },
       {
         "chainId": 43114,
@@ -1828,9 +1845,9 @@
         "decimals": 18,
         "name": "Cabbage.Cash",
         "symbol": "CABAG",
-        "logoUrl": "https://raw.githubusercontent.com/qualitycabbage/token/main/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/qualitycabbage/token/main/logo.png"
       },
       {
         "chainId": 43114,
@@ -1838,9 +1855,9 @@
         "decimals": 6,
         "name": "Tether USD",
         "symbol": "USDT",
-        "logoUrl": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xde3A24028580884448a5397872046a019649b084/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xde3A24028580884448a5397872046a019649b084/logo.png"
       },
       {
         "chainId": 43114,
@@ -1848,9 +1865,9 @@
         "decimals": 18,
         "name": "IceToken",
         "symbol": "ICE",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xe0Ce60AF0850bF54072635e66E79Df17082A1109/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xe0Ce60AF0850bF54072635e66E79Df17082A1109/logo.png"
       },
       {
         "chainId": 43114,
@@ -1858,9 +1875,9 @@
         "decimals": 18,
         "name": "BavaToken",
         "symbol": "BAVA",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xe19A1684873faB5Fb694CfD06607100A632fF21c/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xe19A1684873faB5Fb694CfD06607100A632fF21c/logo.png"
       },
       {
         "address": "0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c",
@@ -1868,8 +1885,9 @@
         "symbol": "PEFI",
         "contractType": "ERC-20",
         "decimals": 18,
-        "logoUrl": "https://raw.githubusercontent.com/Penguin-Finance/png-files/main/PEFILOGOPNG.png",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/Penguin-Finance/png-files/main/PEFILOGOPNG.png",
+        "chainId": "43114"
       },
       {
         "chainId": 43114,
@@ -1877,9 +1895,9 @@
         "decimals": 18,
         "name": "IMX",
         "symbol": "IMX.a",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xeA6887e4a9CdA1B77E70129E5Fba830CdB5cdDef/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xeA6887e4a9CdA1B77E70129E5Fba830CdB5cdDef/logo.png"
       },
       {
         "chainId": 43114,
@@ -1887,9 +1905,9 @@
         "decimals": 18,
         "name": "Colony Token",
         "symbol": "CLY",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xec3492a2508DDf4FDc0cD76F31f340b30d1793e6/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xec3492a2508DDf4FDc0cD76F31f340b30d1793e6/logo.png"
       },
       {
         "chainId": 43114,
@@ -1897,9 +1915,9 @@
         "decimals": 18,
         "name": "YDragon",
         "symbol": "YDR",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xf03Dccaec9A28200A6708c686cf0b8BF26dDc356/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xf03Dccaec9A28200A6708c686cf0b8BF26dDc356/logo.png"
       },
       {
         "chainId": 43114,
@@ -1907,9 +1925,9 @@
         "decimals": 18,
         "name": "Ether",
         "symbol": "ETH",
-        "logoUrl": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15/logo.png"
       },
       {
         "chainId": 43114,
@@ -1917,9 +1935,9 @@
         "decimals": 18,
         "name": "Kassandra",
         "symbol": "KACY",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xf32398dae246C5f672B52A54e9B413dFFcAe1A44/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xf32398dae246C5f672B52A54e9B413dFFcAe1A44/logo.png"
       },
       {
         "chainId": 43114,
@@ -1927,9 +1945,9 @@
         "decimals": 18,
         "name": "Uniswap",
         "symbol": "UNI",
-        "logoUrl": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xf39f9671906d8630812f9d9863bBEf5D523c84Ab/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xf39f9671906d8630812f9d9863bBEf5D523c84Ab/logo.png"
       },
       {
         "chainId": 43114,
@@ -1937,9 +1955,9 @@
         "decimals": 18,
         "name": "KING",
         "symbol": "KING",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xf3EC49ACb3084618121741e4BBB20996D383E9b2/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xf3EC49ACb3084618121741e4BBB20996D383E9b2/logo.png"
       },
       {
         "chainId": 43114,
@@ -1947,9 +1965,9 @@
         "decimals": 18,
         "name": "Treasure Under Sea",
         "symbol": "TUS",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xf693248F96Fe03422FEa95aC0aFbBBc4a8FdD172/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xf693248F96Fe03422FEa95aC0aFbBBc4a8FdD172/logo.png"
       },
       {
         "chainId": 43114,
@@ -1957,9 +1975,9 @@
         "decimals": 6,
         "name": "NFTSoccerGames",
         "symbol": "NFSG",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xf69c2fcd9128d49DfA22348C69177f9380438eB8/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xf69c2fcd9128d49DfA22348C69177f9380438eB8/logo.png"
       },
       {
         "chainId": 43114,
@@ -1967,9 +1985,9 @@
         "decimals": 18,
         "name": "Iron Finance ICE Token",
         "symbol": "IronICE",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xfC108f21931576a21D0b4b301935DAc80d9E5086/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xfC108f21931576a21D0b4b301935DAc80d9E5086/logo.png"
       },
       {
         "chainId": 43114,
@@ -1977,9 +1995,9 @@
         "decimals": 18,
         "name": "HERMES Shares",
         "symbol": "HSHARES",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xfa4B6db72A650601E7Bd50a0A9f537c9E98311B2/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xfa4B6db72A650601E7Bd50a0A9f537c9E98311B2/logo.png"
       },
       {
         "chainId": 43114,
@@ -1987,9 +2005,9 @@
         "decimals": 18,
         "name": "FIRE",
         "symbol": "FIRE",
-        "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xfcc6CE74f4cd7eDEF0C5429bB99d38A3608043a5/logo.png",
         "contractType": "ERC-20",
-        "resourceLinks": []
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xfcc6CE74f4cd7eDEF0C5429bB99d38A3608043a5/logo.png"
       }
     ]
   },
@@ -2083,7 +2101,9 @@
             "type": "CoinGecko",
             "url": "https://www.coingecko.com/en/coins/crabada"
           }
-        ]
+        ],
+        "logoUri": "https://github.com/ava-labs/subnet-assets/tree/main/chains/73771/logo.png",
+        "chainId": "73771"
       },
       {
         "address": "0x57bf0eCe401d3126d37B3c23d35b1c1EE3EaE733",
@@ -2127,7 +2147,9 @@
             "type": "CoinGecko",
             "url": "https://www.coingecko.com/en/coins/treasure-under-sea"
           }
-        ]
+        ],
+        "logoUri": "https://github.com/ava-labs/subnet-assets/tree/main/chains/73771/logo.png",
+        "chainId": "73771"
       }
     ]
   },
@@ -2196,7 +2218,9 @@
             "type": "CoinGecko",
             "url": "https://www.coingecko.com/en/coins/treasure-under-sea"
           }
-        ]
+        ],
+        "logoUri": "https://github.com/ava-labs/subnet-assets/tree/main/chains/73772/logo.png",
+        "chainId": "73772"
       },
       {
         "address": "0xC1a1F40D558a3E82C3981189f61EF21e17d6EB48",
@@ -2240,7 +2264,9 @@
             "type": "CoinGecko",
             "url": "https://www.coingecko.com/en/coins/crabada"
           }
-        ]
+        ],
+        "logoUri": "https://github.com/ava-labs/subnet-assets/tree/main/chains/73772/logo.png",
+        "chainId": "73772"
       }
     ]
   },
@@ -2272,7 +2298,9 @@
         "description": "Mock USDT.e Token",
         "contractType": "ERC-20",
         "decimals": 6,
-        "assetType": "Fixed Cap"
+        "assetType": "Fixed Cap",
+        "logoUri": "https://github.com/ava-labs/subnet-assets/tree/main/chains/432201/logo.png",
+        "chainId": "432201"
       },
       {
         "address": "0x2B21b816e82A4f186c4e9a8C9ae654ba353B91A2",
@@ -2281,7 +2309,9 @@
         "description": "Mock SER Token",
         "contractType": "ERC-20",
         "decimals": 18,
-        "assetType": "Fixed Cap"
+        "assetType": "Fixed Cap",
+        "logoUri": "https://github.com/ava-labs/subnet-assets/tree/main/chains/432201/logo.png",
+        "chainId": "432201"
       },
       {
         "address": "0x3aF43E5a9bc53Ec5cC7cF614D209ac52F26A2B8c",
@@ -2291,7 +2321,8 @@
         "contractType": "ERC-20",
         "decimals": 18,
         "assetType": "Fixed Cap",
-        "logoUrl": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/fuji_battle_icons/lfg.png"
+        "logoUri": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/fuji_battle_icons/lfg.png",
+        "chainId": "432201"
       },
       {
         "address": "0x8B32CF176c409d7d40838295fb225c22d3937032",
@@ -2300,7 +2331,9 @@
         "description": "Mock Avax Token",
         "contractType": "ERC-20",
         "decimals": 18,
-        "assetType": "Fixed Cap"
+        "assetType": "Fixed Cap",
+        "logoUri": "https://github.com/ava-labs/subnet-assets/tree/main/chains/432201/logo.png",
+        "chainId": "432201"
       }
     ]
   }
