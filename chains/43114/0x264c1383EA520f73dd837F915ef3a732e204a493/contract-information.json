@@ -4,7 +4,7 @@
   "decimals": 18,
   "name": "Binance",
   "symbol": "BNB",
-  "logoUrl": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x264c1383EA520f73dd837F915ef3a732e204a493/logo.png",
   "contractType": "ERC-20",
-  "resourceLinks": []
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x264c1383EA520f73dd837F915ef3a732e204a493/logo.png"
 }

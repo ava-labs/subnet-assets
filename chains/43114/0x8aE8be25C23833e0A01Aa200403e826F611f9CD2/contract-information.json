@@ -4,7 +4,7 @@
   "decimals": 18,
   "name": "CRAFT",
   "symbol": "CRAFT",
-  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x8aE8be25C23833e0A01Aa200403e826F611f9CD2/logo.png",
   "contractType": "ERC-20",
-  "resourceLinks": []
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x8aE8be25C23833e0A01Aa200403e826F611f9CD2/logo.png"
 }

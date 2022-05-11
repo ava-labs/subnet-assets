@@ -4,7 +4,7 @@
   "decimals": 18,
   "name": "PolkastarterToken",
   "symbol": "POLS",
-  "logoUrl": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xE1463E8991c8A62e64b77b5Fb6B22F190344C2A9/logo.png",
   "contractType": "ERC-20",
-  "resourceLinks": []
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xE1463E8991c8A62e64b77b5Fb6B22F190344C2A9/logo.png"
 }

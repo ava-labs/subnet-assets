@@ -1,14 +1,7 @@
 import fs from "fs";
 import path from "path";
-import {
-  ROOT_PATH,
-  CHAIN_INFO_FILE,
-  CHAIN_LOGO_FILE,
-  NATIVE_TOKEN_LOGO_FILE,
-  CONTRACT_TOKEN_INFO_FILE,
-  TOKEN_LOGO_FILE,
-} from "./constants.mjs";
-
+import { ROOT_PATH, TOKEN_LOGO_FILE } from "./constants.mjs";
+import { getTokens } from "./getTokens.mjs";
 export const tokenValidationKeys = [
   "logoUri",
   "address",
@@ -20,9 +13,10 @@ export const tokenValidationKeys = [
   "resourceLinks",
   "symbol",
   "hasLogo",
+  "chainId",
 ];
 
-function validateToken(token, tokenContractInfoPath, tokenDirPath) {
+function validateToken(token, tokenContractInfoPath, tokenDirPath, chainId) {
   const valuesRes = tokenValidationKeys.reduce((acc, key) => {
     return { ...acc, [key]: token.hasOwnProperty(key) };
   }, {});
@@ -42,27 +36,19 @@ function validateToken(token, tokenContractInfoPath, tokenDirPath) {
     token,
     tokenContractInfoPath,
     tokenDirPath,
+    chainId,
   };
 }
 
 function getInvalidTokens(chainId, chainTokenIds) {
-  return fs
-    .readdirSync(chainTokenIds)
-    .filter(
-      (pathValue) =>
-        ![CHAIN_INFO_FILE, CHAIN_LOGO_FILE, NATIVE_TOKEN_LOGO_FILE].includes(
-          pathValue
-        )
-    )
-    .map((tokenId) =>
-      path.resolve(ROOT_PATH, chainId, tokenId, CONTRACT_TOKEN_INFO_FILE)
-    )
+  return getTokens(chainId, chainTokenIds)
     .map((tokenPath) => {
       const token = JSON.parse(fs.readFileSync(tokenPath, "utf8"));
       return validateToken(
         token,
         tokenPath,
-        path.resolve(ROOT_PATH, chainId, token.address)
+        path.resolve(ROOT_PATH, chainId, token.address),
+        chainId
       );
     })
     .filter(

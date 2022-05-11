@@ -4,7 +4,7 @@
   "decimals": 6,
   "name": "Axelar Wrapped LUNA",
   "symbol": "LUNA",
-  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x120AD3e5A7c796349e591F1570D9f7980F4eA9cb/logo.png",
   "contractType": "ERC-20",
-  "resourceLinks": []
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x120AD3e5A7c796349e591F1570D9f7980F4eA9cb/logo.png"
 }

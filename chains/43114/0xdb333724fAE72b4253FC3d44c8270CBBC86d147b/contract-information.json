@@ -4,7 +4,7 @@
   "decimals": 18,
   "name": "Cabbage.Cash",
   "symbol": "CABAG",
-  "logoUrl": "https://raw.githubusercontent.com/qualitycabbage/token/main/logo.png",
   "contractType": "ERC-20",
-  "resourceLinks": []
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/qualitycabbage/token/main/logo.png"
 }

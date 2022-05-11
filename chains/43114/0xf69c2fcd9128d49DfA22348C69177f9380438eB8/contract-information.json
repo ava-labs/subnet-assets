@@ -4,7 +4,7 @@
   "decimals": 6,
   "name": "NFTSoccerGames",
   "symbol": "NFSG",
-  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xf69c2fcd9128d49DfA22348C69177f9380438eB8/logo.png",
   "contractType": "ERC-20",
-  "resourceLinks": []
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xf69c2fcd9128d49DfA22348C69177f9380438eB8/logo.png"
 }

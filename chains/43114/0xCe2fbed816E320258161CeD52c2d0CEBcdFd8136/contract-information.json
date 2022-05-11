@@ -4,7 +4,7 @@
   "decimals": 18,
   "name": "BRIBE",
   "symbol": "BRIBE",
-  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xCe2fbed816E320258161CeD52c2d0CEBcdFd8136/logo.png",
   "contractType": "ERC-20",
-  "resourceLinks": []
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xCe2fbed816E320258161CeD52c2d0CEBcdFd8136/logo.png"
 }

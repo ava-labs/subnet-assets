@@ -4,7 +4,7 @@
   "decimals": 18,
   "name": "yearn.finance",
   "symbol": "YFI.e",
-  "logoUrl": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/YFI/logo.png",
   "contractType": "ERC-20",
-  "resourceLinks": []
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/YFI/logo.png"
 }

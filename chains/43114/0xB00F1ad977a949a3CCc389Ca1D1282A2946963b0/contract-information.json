@@ -4,7 +4,7 @@
   "decimals": 18,
   "name": "Boo Finance Token",
   "symbol": "BOOFI",
-  "logoUrl": "https://raw.githubusercontent.com/BooFinance/assets/main/logo.png",
   "contractType": "ERC-20",
-  "resourceLinks": []
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/BooFinance/assets/main/logo.png"
 }

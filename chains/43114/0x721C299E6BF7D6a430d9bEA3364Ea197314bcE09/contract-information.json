@@ -4,7 +4,7 @@
   "decimals": 18,
   "name": "MilkyWay Token by SpaceSwap v2",
   "symbol": "MILK2",
-  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x721C299E6BF7D6a430d9bEA3364Ea197314bcE09/logo.png",
   "contractType": "ERC-20",
-  "resourceLinks": []
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x721C299E6BF7D6a430d9bEA3364Ea197314bcE09/logo.png"
 }

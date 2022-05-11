@@ -4,7 +4,7 @@
   "decimals": 18,
   "name": "Ape In",
   "symbol": "APEIN",
-  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x938FE3788222A74924E062120E7BFac829c719Fb/logo.png",
   "contractType": "ERC-20",
-  "resourceLinks": []
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x938FE3788222A74924E062120E7BFac829c719Fb/logo.png"
 }

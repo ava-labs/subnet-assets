@@ -40,5 +40,7 @@
       "type": "CoinGecko",
       "url": "https://www.coingecko.com/en/coins/crabada"
     }
-  ]
+  ],
+  "logoUri": "https://github.com/ava-labs/subnet-assets/tree/main/chains/73772/logo.png",
+  "chainId": "73772"
 }

@@ -10,7 +10,10 @@ export const NATIVE_TOKEN_LOGO_FILE = "token-logo.png";
 export const TOKEN_LOGO_FILE = "logo.png";
 export const CHAINS_FOLDER_URL =
   "https://github.com/ava-labs/subnet-assets/tree/main/chains";
-export const TOKEN_LIST_FILE = path.resolve(__dirname, "../tokenList.json");
+export const ERC20_TOKEN_LIST_FILE = path.resolve(
+  __dirname,
+  "../tokenList.erc20.json"
+);
 export const CONTRACT_TOKEN_INFO_FILE = "contract-information.json";
 export const MAINNET_CHAIN_ID = 43114;
 export const FUJI_CHAIN_ID = 43113;

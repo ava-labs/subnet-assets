@@ -4,7 +4,7 @@
   "decimals": 18,
   "name": "Frax",
   "symbol": "FRAX",
-  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64/logo.png",
   "contractType": "ERC-20",
-  "resourceLinks": []
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64/logo.png"
 }

@@ -4,7 +4,7 @@
   "decimals": 18,
   "name": "KING",
   "symbol": "KING",
-  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xf3EC49ACb3084618121741e4BBB20996D383E9b2/logo.png",
   "contractType": "ERC-20",
-  "resourceLinks": []
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xf3EC49ACb3084618121741e4BBB20996D383E9b2/logo.png"
 }

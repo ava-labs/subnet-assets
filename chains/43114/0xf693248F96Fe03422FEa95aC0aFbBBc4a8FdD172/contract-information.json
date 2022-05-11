@@ -4,7 +4,7 @@
   "decimals": 18,
   "name": "Treasure Under Sea",
   "symbol": "TUS",
-  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xf693248F96Fe03422FEa95aC0aFbBBc4a8FdD172/logo.png",
   "contractType": "ERC-20",
-  "resourceLinks": []
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xf693248F96Fe03422FEa95aC0aFbBBc4a8FdD172/logo.png"
 }

@@ -4,7 +4,7 @@
   "decimals": 18,
   "name": "Dogeon Token",
   "symbol": "DON",
-  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x1DB749847C4abB991d8B6032102383e6BfD9B1c7/logo.png",
   "contractType": "ERC-20",
-  "resourceLinks": []
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x1DB749847C4abB991d8B6032102383e6BfD9B1c7/logo.png"
 }

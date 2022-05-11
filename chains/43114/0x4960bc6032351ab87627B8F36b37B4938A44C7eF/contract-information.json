@@ -4,7 +4,7 @@
   "decimals": 18,
   "name": "RICH",
   "symbol": "RICH",
-  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x4960bc6032351ab87627B8F36b37B4938A44C7eF/logo.png",
   "contractType": "ERC-20",
-  "resourceLinks": []
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x4960bc6032351ab87627B8F36b37B4938A44C7eF/logo.png"
 }

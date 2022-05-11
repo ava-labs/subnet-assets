@@ -4,7 +4,7 @@
   "decimals": 18,
   "name": "YDragon",
   "symbol": "YDR",
-  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xf03Dccaec9A28200A6708c686cf0b8BF26dDc356/logo.png",
   "contractType": "ERC-20",
-  "resourceLinks": []
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xf03Dccaec9A28200A6708c686cf0b8BF26dDc356/logo.png"
 }

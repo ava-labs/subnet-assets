@@ -4,7 +4,7 @@
   "decimals": 18,
   "name": "Hurricane Token",
   "symbol": "HCT",
-  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x45C13620B55C35A5f539d26E88247011Eb10fDbd/logo.png",
   "contractType": "ERC-20",
-  "resourceLinks": []
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x45C13620B55C35A5f539d26E88247011Eb10fDbd/logo.png"
 }

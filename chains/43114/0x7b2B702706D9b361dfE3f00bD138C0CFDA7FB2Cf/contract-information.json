@@ -4,7 +4,7 @@
   "decimals": 18,
   "name": "Pollen",
   "symbol": "PLN",
-  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x7b2B702706D9b361dfE3f00bD138C0CFDA7FB2Cf/logo.png",
   "contractType": "ERC-20",
-  "resourceLinks": []
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x7b2B702706D9b361dfE3f00bD138C0CFDA7FB2Cf/logo.png"
 }

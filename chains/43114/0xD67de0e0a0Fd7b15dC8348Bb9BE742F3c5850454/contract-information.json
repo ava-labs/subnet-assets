@@ -4,7 +4,7 @@
   "decimals": 18,
   "name": "Frax Share",
   "symbol": "FXS",
-  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454/logo.png",
   "contractType": "ERC-20",
-  "resourceLinks": []
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454/logo.png"
 }

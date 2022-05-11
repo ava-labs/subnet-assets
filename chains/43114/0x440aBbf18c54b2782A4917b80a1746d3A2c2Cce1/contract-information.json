@@ -4,7 +4,7 @@
   "decimals": 18,
   "name": "SHIBAVAX",
   "symbol": "SHIBX",
-  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x440aBbf18c54b2782A4917b80a1746d3A2c2Cce1/logo.png",
   "contractType": "ERC-20",
-  "resourceLinks": []
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x440aBbf18c54b2782A4917b80a1746d3A2c2Cce1/logo.png"
 }

@@ -4,7 +4,7 @@
   "decimals": 18,
   "name": "Catoshi",
   "symbol": "CATS",
-  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x402FD175049e95CeF2cC9ca1FECdb6d9736e690d/logo.png",
   "contractType": "ERC-20",
-  "resourceLinks": []
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x402FD175049e95CeF2cC9ca1FECdb6d9736e690d/logo.png"
 }

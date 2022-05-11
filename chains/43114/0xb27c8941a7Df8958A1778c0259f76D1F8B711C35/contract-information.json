@@ -4,7 +4,7 @@
   "decimals": 18,
   "name": "Kalao Token",
   "symbol": "KLO",
-  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xb27c8941a7Df8958A1778c0259f76D1F8B711C35/logo.png",
   "contractType": "ERC-20",
-  "resourceLinks": []
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xb27c8941a7Df8958A1778c0259f76D1F8B711C35/logo.png"
 }

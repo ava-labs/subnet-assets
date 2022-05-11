@@ -4,7 +4,7 @@
   "decimals": 18,
   "name": "TundraToken",
   "symbol": "TUNDRA",
-  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x21c5402C3B7d40C89Cc472C9dF5dD7E51BbAb1b1/logo.png",
   "contractType": "ERC-20",
-  "resourceLinks": []
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x21c5402C3B7d40C89Cc472C9dF5dD7E51BbAb1b1/logo.png"
 }

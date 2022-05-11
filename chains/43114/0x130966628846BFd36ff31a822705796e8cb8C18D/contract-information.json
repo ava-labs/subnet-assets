@@ -4,7 +4,7 @@
   "name": "Magic Internet Money",
   "symbol": "MIM",
   "decimals": 18,
-  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x130966628846BFd36ff31a822705796e8cb8C18D/logo.png",
   "contractType": "ERC-20",
-  "resourceLinks": []
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x130966628846BFd36ff31a822705796e8cb8C18D/logo.png"
 }

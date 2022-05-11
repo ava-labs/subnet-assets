@@ -4,7 +4,7 @@
   "symbol": "JOE",
   "name": "Joe Coin",
   "decimals": 18,
-  "logoUrl": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/0xEa81F6972aDf76765Fd1435E119Acc0Aafc80BeA/logo.jpeg",
   "contractType": "ERC-20",
-  "resourceLinks": []
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/0xEa81F6972aDf76765Fd1435E119Acc0Aafc80BeA/logo.jpeg"
 }

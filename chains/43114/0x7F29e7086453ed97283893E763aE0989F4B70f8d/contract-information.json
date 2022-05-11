@@ -4,7 +4,7 @@
   "decimals": 6,
   "name": "DGC Token",
   "symbol": "DGC",
-  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x7F29e7086453ed97283893E763aE0989F4B70f8d/logo.png",
   "contractType": "ERC-20",
-  "resourceLinks": []
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x7F29e7086453ed97283893E763aE0989F4B70f8d/logo.png"
 }

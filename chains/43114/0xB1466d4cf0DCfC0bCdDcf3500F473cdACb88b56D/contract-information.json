@@ -4,7 +4,7 @@
   "decimals": 18,
   "name": "Weble Ecosystem Token",
   "symbol": "WET",
-  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xB1466d4cf0DCfC0bCdDcf3500F473cdACb88b56D/logo.png",
   "contractType": "ERC-20",
-  "resourceLinks": []
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xB1466d4cf0DCfC0bCdDcf3500F473cdACb88b56D/logo.png"
 }

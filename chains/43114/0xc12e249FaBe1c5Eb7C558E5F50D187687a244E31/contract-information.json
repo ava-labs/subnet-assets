@@ -4,7 +4,7 @@
   "decimals": 18,
   "name": "Blue Token",
   "symbol": "BLUE",
-  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xc12e249FaBe1c5Eb7C558E5F50D187687a244E31/logo.png",
   "contractType": "ERC-20",
-  "resourceLinks": []
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xc12e249FaBe1c5Eb7C558E5F50D187687a244E31/logo.png"
 }

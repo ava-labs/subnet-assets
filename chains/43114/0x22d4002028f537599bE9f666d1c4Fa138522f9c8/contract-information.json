@@ -4,7 +4,7 @@
   "decimals": 18,
   "name": "Platypus",
   "symbol": "PTP",
-  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x22d4002028f537599bE9f666d1c4Fa138522f9c8/logo.png",
   "contractType": "ERC-20",
-  "resourceLinks": []
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x22d4002028f537599bE9f666d1c4Fa138522f9c8/logo.png"
 }

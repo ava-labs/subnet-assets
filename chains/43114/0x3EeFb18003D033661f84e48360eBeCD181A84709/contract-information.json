@@ -4,7 +4,7 @@
   "decimals": 18,
   "name": "Islander",
   "symbol": "ISA",
-  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x3EeFb18003D033661f84e48360eBeCD181A84709/logo.png",
   "contractType": "ERC-20",
-  "resourceLinks": []
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x3EeFb18003D033661f84e48360eBeCD181A84709/logo.png"
 }

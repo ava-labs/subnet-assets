@@ -4,7 +4,7 @@
   "decimals": 18,
   "name": "Wrapped AllianceBlock Token",
   "symbol": "WALBT",
-  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x9E037dE681CaFA6E661e6108eD9c2bd1AA567Ecd/logo.png",
   "contractType": "ERC-20",
-  "resourceLinks": []
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x9E037dE681CaFA6E661e6108eD9c2bd1AA567Ecd/logo.png"
 }

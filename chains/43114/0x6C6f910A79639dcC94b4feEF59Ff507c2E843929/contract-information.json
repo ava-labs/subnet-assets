@@ -4,7 +4,7 @@
   "decimals": 18,
   "name": "Ankr Avalanche Reward Earning Bond",
   "symbol": "aAVAXb",
-  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x6C6f910A79639dcC94b4feEF59Ff507c2E843929/logo.png",
   "contractType": "ERC-20",
-  "resourceLinks": []
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x6C6f910A79639dcC94b4feEF59Ff507c2E843929/logo.png"
 }

@@ -4,7 +4,7 @@
   "decimals": 18,
   "name": "Skill Token",
   "symbol": "SKILL",
-  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x483416eB3aFA601B9C6385f63CeC0C82B6aBf1fb/logo.png",
   "contractType": "ERC-20",
-  "resourceLinks": []
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x483416eB3aFA601B9C6385f63CeC0C82B6aBf1fb/logo.png"
 }

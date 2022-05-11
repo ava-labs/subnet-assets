@@ -4,7 +4,7 @@
   "decimals": 18,
   "name": "ZeroSwapToken",
   "symbol": "ZEE",
-  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x44754455564474A89358B2C2265883DF993b12F0/logo.png",
   "contractType": "ERC-20",
-  "resourceLinks": []
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x44754455564474A89358B2C2265883DF993b12F0/logo.png"
 }

@@ -4,7 +4,7 @@
   "decimals": 18,
   "name": "ROCO",
   "symbol": "ROCO",
-  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xb2a85C5ECea99187A977aC34303b80AcbDdFa208/logo.png",
   "contractType": "ERC-20",
-  "resourceLinks": []
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xb2a85C5ECea99187A977aC34303b80AcbDdFa208/logo.png"
 }

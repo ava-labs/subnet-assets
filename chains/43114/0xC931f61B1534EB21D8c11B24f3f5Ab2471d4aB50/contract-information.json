@@ -4,7 +4,7 @@
   "decimals": 8,
   "name": "Blocknet",
   "symbol": "aaBLOCK",
-  "logoUrl": "https://github.com/blocknetdx/documentation/blob/master/docs/img/icons/Blocknet_symbol_dark_RGB.png",
   "contractType": "ERC-20",
-  "resourceLinks": []
+  "resourceLinks": [],
+  "logoUri": "https://github.com/blocknetdx/documentation/blob/master/docs/img/icons/Blocknet_symbol_dark_RGB.png"
 }

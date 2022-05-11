@@ -4,7 +4,7 @@
   "decimals": 18,
   "name": "Poly-Peg COOK",
   "symbol": "COOK",
-  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x637afeff75ca669fF92e4570B14D6399A658902f/logo.png",
   "contractType": "ERC-20",
-  "resourceLinks": []
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x637afeff75ca669fF92e4570B14D6399A658902f/logo.png"
 }

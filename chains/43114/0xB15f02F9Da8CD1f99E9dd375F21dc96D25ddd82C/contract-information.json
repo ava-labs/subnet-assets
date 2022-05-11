@@ -4,7 +4,7 @@
   "decimals": 18,
   "name": "HERMES",
   "symbol": "HERMES",
-  "logoUrl": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xB15f02F9Da8CD1f99E9dd375F21dc96D25ddd82C/logo.png",
   "contractType": "ERC-20",
-  "resourceLinks": []
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xB15f02F9Da8CD1f99E9dd375F21dc96D25ddd82C/logo.png"
 }
