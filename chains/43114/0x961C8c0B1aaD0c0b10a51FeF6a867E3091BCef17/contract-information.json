@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17",
+  "decimals": 18,
+  "name": "DeFiYieldProtocol",
+  "symbol": "DYP",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17/logo.png"
+}

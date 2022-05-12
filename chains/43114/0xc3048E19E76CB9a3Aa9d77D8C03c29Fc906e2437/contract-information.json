@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0xc3048E19E76CB9a3Aa9d77D8C03c29Fc906e2437",
+  "decimals": 18,
+  "name": "Compound",
+  "symbol": "COMP.e",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/COMP/logo.png"
+}

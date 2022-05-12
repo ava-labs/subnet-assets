@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0x0f577433Bf59560Ef2a79c124E9Ff99fCa258948",
+  "decimals": 18,
+  "name": "Moremoney USD",
+  "symbol": "MONEY",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x0f577433Bf59560Ef2a79c124E9Ff99fCa258948/logo.png"
+}

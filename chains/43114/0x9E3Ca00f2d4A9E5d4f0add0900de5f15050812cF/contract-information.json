@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0x9E3Ca00f2d4A9E5d4f0add0900de5f15050812cF",
+  "decimals": 18,
+  "name": "NFTrade Token",
+  "symbol": "NFTD",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x9E3Ca00f2d4A9E5d4f0add0900de5f15050812cF/logo.png"
+}

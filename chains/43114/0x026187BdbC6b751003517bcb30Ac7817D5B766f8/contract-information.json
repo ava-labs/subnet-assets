@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0x026187BdbC6b751003517bcb30Ac7817D5B766f8",
+  "decimals": 18,
+  "name": "Defrost Finance H2O",
+  "symbol": "H2O",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x026187BdbC6b751003517bcb30Ac7817D5B766f8/logo.png"
+}

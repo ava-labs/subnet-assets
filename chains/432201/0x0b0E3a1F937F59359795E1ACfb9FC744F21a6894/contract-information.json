@@ -5,5 +5,7 @@
   "description": "Mock USDT.e Token",
   "contractType": "ERC-20",
   "decimals": 6,
-  "assetType": "Fixed Cap"
+  "assetType": "Fixed Cap",
+  "logoUri": "https://github.com/ava-labs/subnet-assets/tree/main/chains/432201/logo.png",
+  "chainId": "432201"
 }

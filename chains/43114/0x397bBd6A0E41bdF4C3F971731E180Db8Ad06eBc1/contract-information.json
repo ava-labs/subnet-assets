@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0x397bBd6A0E41bdF4C3F971731E180Db8Ad06eBc1",
+  "decimals": 6,
+  "name": "Avaxtars Token",
+  "symbol": "AVXT",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x397bBd6A0E41bdF4C3F971731E180Db8Ad06eBc1/logo.png"
+}

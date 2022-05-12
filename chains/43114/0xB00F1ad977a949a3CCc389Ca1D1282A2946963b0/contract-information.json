@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0xB00F1ad977a949a3CCc389Ca1D1282A2946963b0",
+  "decimals": 18,
+  "name": "Boo Finance Token",
+  "symbol": "BOOFI",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/BooFinance/assets/main/logo.png"
+}

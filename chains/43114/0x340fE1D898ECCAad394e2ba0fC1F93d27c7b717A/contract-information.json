@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0x340fE1D898ECCAad394e2ba0fC1F93d27c7b717A",
+  "decimals": 18,
+  "name": "Orbs",
+  "symbol": "ORBS",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x340fE1D898ECCAad394e2ba0fC1F93d27c7b717A/logo.png"
+}

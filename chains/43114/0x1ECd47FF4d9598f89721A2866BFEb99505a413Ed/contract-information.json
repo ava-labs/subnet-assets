@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0x1ECd47FF4d9598f89721A2866BFEb99505a413Ed",
+  "decimals": 18,
+  "name": "AVME",
+  "symbol": "AVME",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x1ECd47FF4d9598f89721A2866BFEb99505a413Ed/logo.png"
+}

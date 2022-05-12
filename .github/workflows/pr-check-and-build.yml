@@ -17,12 +17,12 @@ jobs:
 
       - uses: actions/setup-node@v2
         with:
-          node-version: '16'
+          node-version: "16"
       - name: Update List and validate
-        run: node actions/createList.js
+        run: node actions/createChainsAndERC20List.js
       - name: commit new file
         uses: EndBug/add-and-commit@v7
-        with: 
+        with:
           author_name: CI bot
           github_token: ${{ secrets.GITHUB_TOKEN }}
           push: true

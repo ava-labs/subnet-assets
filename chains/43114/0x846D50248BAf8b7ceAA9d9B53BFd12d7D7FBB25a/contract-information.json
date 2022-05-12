@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0x846D50248BAf8b7ceAA9d9B53BFd12d7D7FBB25a",
+  "decimals": 18,
+  "name": "VersoToken",
+  "symbol": "VSO",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/VersoOfficial/pr/master/icon_blue.png"
+}

@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0xA32608e873F9DdEF944B24798db69d80Bbb4d1ed",
+  "decimals": 18,
+  "name": "CRA",
+  "symbol": "CRA",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xA32608e873F9DdEF944B24798db69d80Bbb4d1ed/logo.png"
+}

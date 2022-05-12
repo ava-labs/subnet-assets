@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0x7761E2338B35bCEB6BdA6ce477EF012bde7aE611",
+  "decimals": 18,
+  "name": "chikn egg",
+  "symbol": "EGG",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x7761E2338B35bCEB6BdA6ce477EF012bde7aE611/logo.png"
+}

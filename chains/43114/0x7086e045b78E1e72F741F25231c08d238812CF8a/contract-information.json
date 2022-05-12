@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0x7086e045b78E1e72F741F25231c08d238812CF8a",
+  "decimals": 18,
+  "name": "RaceX",
+  "symbol": "RACEX",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x7086e045b78E1e72F741F25231c08d238812CF8a/logo.png"
+}

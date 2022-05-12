@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0xfa4B6db72A650601E7Bd50a0A9f537c9E98311B2",
+  "decimals": 18,
+  "name": "HERMES Shares",
+  "symbol": "HSHARES",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xfa4B6db72A650601E7Bd50a0A9f537c9E98311B2/logo.png"
+}
