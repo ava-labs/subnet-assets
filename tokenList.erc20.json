@@ -19,9 +19,9 @@
       "description": "JEWEL is the central token on the DFK Chain and used to pay gas for all transactions. While it is not natively minted on the DFK Chain, it is integral to the chain's function.",
       "decimals": 18,
       "coingeckoId": "defi-kingdoms",
-      "logoUrl": "https://github.com/ava-labs/subnet-assets/tree/main/chains/335/chain-logo.png"
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/335/chain-logo.png"
     },
-    "logoUrl": "https://github.com/ava-labs/subnet-assets/tree/main/chains/335/token-logo.png",
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/335/token-logo.png",
     "tokens": []
   },
   "11111": {
@@ -40,9 +40,9 @@
       "name": "Wagmi",
       "symbol": "WGM",
       "decimals": 18,
-      "logoUrl": "https://github.com/ava-labs/subnet-assets/tree/main/chains/11111/chain-logo.png"
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/11111/chain-logo.png"
     },
-    "logoUrl": "https://github.com/ava-labs/subnet-assets/tree/main/chains/11111/token-logo.png",
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/11111/token-logo.png",
     "tokens": []
   },
   "43112": {
@@ -63,9 +63,9 @@
       "symbol": "AVAX",
       "decimals": 18,
       "coingeckoId": "avalanche-2",
-      "logoUrl": "https://github.com/ava-labs/subnet-assets/tree/main/chains/43112/chain-logo.png"
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43112/chain-logo.png"
     },
-    "logoUrl": "https://github.com/ava-labs/subnet-assets/tree/main/chains/43112/token-logo.png",
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43112/token-logo.png",
     "tokens": []
   },
   "43113": {
@@ -87,9 +87,9 @@
       "symbol": "AVAX",
       "decimals": 18,
       "coingeckoId": "avalanche-2",
-      "logoUrl": "https://github.com/ava-labs/subnet-assets/tree/main/chains/43113/chain-logo.png"
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43113/chain-logo.png"
     },
-    "logoUrl": "https://github.com/ava-labs/subnet-assets/tree/main/chains/43113/token-logo.png",
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43113/token-logo.png",
     "tokens": [
       {
         "address": "0x0b9d5D9136855f6FEc3c0993feE6E9CE8a297846",
@@ -222,9 +222,9 @@
       "symbol": "AVAX",
       "decimals": 18,
       "coingeckoId": "avalanche-2",
-      "logoUrl": "https://github.com/ava-labs/subnet-assets/tree/main/chains/43114/chain-logo.png"
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/chain-logo.png"
     },
-    "logoUrl": "https://github.com/ava-labs/subnet-assets/tree/main/chains/43114/token-logo.png",
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/token-logo.png",
     "tokens": [
       {
         "chainId": 43114,
@@ -2031,9 +2031,9 @@
       "description": "JEWEL is the central token on the DFK Chain and used to pay gas for all transactions. While it is not natively minted on the DFK Chain, it is integral to the chain's function.",
       "decimals": 18,
       "coingeckoId": "defi-kingdoms",
-      "logoUrl": "https://github.com/ava-labs/subnet-assets/tree/main/chains/53935/chain-logo.png"
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/53935/chain-logo.png"
     },
-    "logoUrl": "https://github.com/ava-labs/subnet-assets/tree/main/chains/53935/token-logo.png",
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/53935/token-logo.png",
     "tokens": []
   },
   "73771": {
@@ -2055,9 +2055,9 @@
       "description": "TUS is the gas token on the Swimmer Chain and used to pay gas for all transactions.",
       "decimals": 18,
       "coingeckoId": "treasure-under-sea",
-      "logoUrl": "https://github.com/ava-labs/subnet-assets/tree/main/chains/73771/chain-logo.png"
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/73771/chain-logo.png"
     },
-    "logoUrl": "https://github.com/ava-labs/subnet-assets/tree/main/chains/73771/token-logo.png",
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/73771/token-logo.png",
     "tokens": [
       {
         "address": "0x26b77eeF7A38E3FD8C631FF8a268a5BB98CE1552",
@@ -2172,9 +2172,9 @@
       "description": "TUS is the gas token on the Swimmer Chain and used to pay gas for all transactions.",
       "decimals": 18,
       "coingeckoId": "treasure-under-sea",
-      "logoUrl": "https://github.com/ava-labs/subnet-assets/tree/main/chains/73772/chain-logo.png"
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/73772/chain-logo.png"
     },
-    "logoUrl": "https://github.com/ava-labs/subnet-assets/tree/main/chains/73772/token-logo.png",
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/73772/token-logo.png",
     "tokens": [
       {
         "address": "0x9c765eEE6Eff9CF1337A1846c0D93370785F6C92",
@@ -2287,9 +2287,9 @@
       "symbol": "ALOT",
       "decimals": 18,
       "coingeckoId": "dexalot",
-      "logoUrl": "https://github.com/ava-labs/subnet-assets/tree/main/chains/432201/chain-logo.png"
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/432201/chain-logo.png"
     },
-    "logoUrl": "https://github.com/ava-labs/subnet-assets/tree/main/chains/432201/token-logo.png",
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/432201/token-logo.png",
     "tokens": [
       {
         "address": "0x0b0E3a1F937F59359795E1ACfb9FC744F21a6894",

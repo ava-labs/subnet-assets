@@ -9,7 +9,7 @@ export const CHAIN_LOGO_FILE = "chain-logo.png";
 export const NATIVE_TOKEN_LOGO_FILE = "token-logo.png";
 export const TOKEN_LOGO_FILE = "logo.png";
 export const CHAINS_FOLDER_URL =
-  "https://github.com/ava-labs/subnet-assets/tree/main/chains";
+  "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains";
 export const ERC20_TOKEN_LIST_FILE = path.resolve(
   __dirname,
   "../tokenList.erc20.json"

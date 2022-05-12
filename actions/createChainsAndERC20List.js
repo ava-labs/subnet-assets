@@ -18,10 +18,10 @@ function createChain(chainId, chainTokenIds) {
   const chainLogoFilePath = `${CHAINS_FOLDER_URL}/${chainId}/${CHAIN_LOGO_FILE}`;
   return {
     ...chainInfo,
-    logoUrl: nativeTokenLogoFilePath,
+    logoUri: nativeTokenLogoFilePath,
     networkToken: {
       ...chainInfo.networkToken,
-      logoUrl: chainLogoFilePath,
+      logoUri: chainLogoFilePath,
     },
     tokens: getTokens(chainId, chainTokenIds),
   };

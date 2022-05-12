@@ -1,6 +1,10 @@
 import fs from "fs";
 import path from "path";
-import { ROOT_PATH, TOKEN_LOGO_FILE } from "./constants.mjs";
+import {
+  CONTRACT_TOKEN_INFO_FILE,
+  ROOT_PATH,
+  TOKEN_LOGO_FILE,
+} from "./constants.mjs";
 import { getTokens } from "./getTokens.mjs";
 export const tokenValidationKeys = [
   "logoUri",
@@ -42,11 +46,15 @@ function validateToken(token, tokenContractInfoPath, tokenDirPath, chainId) {
 
 function getInvalidTokens(chainId, chainTokenIds) {
   return getTokens(chainId, chainTokenIds)
-    .map((tokenPath) => {
-      const token = JSON.parse(fs.readFileSync(tokenPath, "utf8"));
+    .map((token) => {
       return validateToken(
         token,
-        tokenPath,
+        path.resolve(
+          ROOT_PATH,
+          chainId,
+          token.address,
+          CONTRACT_TOKEN_INFO_FILE
+        ),
         path.resolve(ROOT_PATH, chainId, token.address),
         chainId
       );
