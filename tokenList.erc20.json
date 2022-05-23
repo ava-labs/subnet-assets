@@ -215,7 +215,7 @@
     "wsUrl": "wss://api.avax.network/ext/bc/C/ws",
     "multicallAddress": "0xed386Fe855C1EFf2f843B910923Dd8846E45C5A4",
     "isTestnet": false,
-    "mainnetChainId": 43113,
+    "mainnetChainId": 43114,
     "coingeckoAssetPlatformId": "avalanche",
     "networkToken": {
       "name": "Avalanche",
