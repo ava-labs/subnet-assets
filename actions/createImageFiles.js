@@ -2,6 +2,7 @@ import { invalidTokensBuckets } from "./getTokenValidationBuckets.mjs";
 import axios from "axios";
 import fs from "fs";
 
+console.log(invalidTokensBuckets.hasLogo);
 const download_image = (url, image_path) =>
   axios({
     url,
