@@ -7,7 +7,6 @@ import addFormats from 'ajv-formats'
 import {
     ROOT_PATH,
     CHAIN_INFO_FILE,
-    CONTRACT_TOKEN_INFO_FILE
 } from "./constants.mjs";
 import Ajv from "ajv";
 import { getTokens } from "./getTokens.mjs";

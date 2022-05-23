@@ -16,4 +16,5 @@ jobs:
         with:
           node-version: "16"
       - name: Update List and validate
+        run: yarn add @actions/core
         run: node actions/validate.js
