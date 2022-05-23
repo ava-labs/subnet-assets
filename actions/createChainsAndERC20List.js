@@ -23,7 +23,6 @@ function createChain(chainId, chainTokenIds) {
       ...chainInfo.networkToken,
       logoUri: chainLogoFilePath,
     },
-    tokens: getTokens(chainId, chainTokenIds),
   };
 }
 
