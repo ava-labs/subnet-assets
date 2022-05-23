@@ -2,7 +2,7 @@ import fs from "fs";
 import path from "path";
 import chainInfoSchema from '../schema/chainInfoSchema.json'
 import contractInfoSchema from '../schema/contractInfoSchema.json'
-import core from '@actions/core'
+import * as core from '@actions/core'
 import addFormats from 'ajv-formats'
 import {
     ROOT_PATH,
