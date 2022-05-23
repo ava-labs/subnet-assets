@@ -1,0 +1,91 @@
+{
+  "$id": "/schemas/ChainInfoSchema.json",
+  "description": "Schema for chain infomation",
+  "additionalProperties": false,
+  "type": "object",
+  "properties": {
+    "chainName": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "platformChainId": {
+      "type": "string",
+      "pattern": "^[a-zA-Z0-9]+$"
+    },
+    "subnetId": {
+      "type": "string",
+      "pattern": "^[a-zA-Z0-9]+$"
+    },
+    "vmId": {
+      "type": "string",
+      "pattern": "^[a-zA-Z0-9]+$"
+    },
+    "vmName": {
+      "type": "string"
+    },
+    "rpcUrl": {
+      "type": "string",
+      "format": "uri"
+    },
+    "wsUrl": {
+      "type": "string",
+      "format": "uri"
+    },
+    "multicallAddress": {
+      "type": "string",
+      "pattern": "^0x[a-fA-F0-9]{40}$"
+    },
+    "isTestnet": {
+      "type": "boolean"
+    },
+    "networkToken": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "symbol": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "decimals": {
+          "type": "number"
+        },
+        "coingeckoId": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "name",
+        "symbol",
+        "description",
+        "decimals"
+      ]
+    },
+    "coingeckoAssetPlatformId": {
+      "type": "string"
+    },
+    "chainId": {
+      "type": "string",
+      "pattern": "^[0-9]+$"
+    }
+  },
+  "required": [
+    "chainName",
+    "description",
+    "platformChainId",
+    "subnetId",
+    "vmId",
+    "vmName",
+    "chainId",
+    "rpcUrl",
+    "wsUrl",
+    "multicallAddress",
+    "isTestnet",
+    "networkToken"
+  ]
+}

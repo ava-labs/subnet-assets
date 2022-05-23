@@ -1,0 +1,96 @@
+{
+  "$id": "/schemas/ContractInfoSchema.json",
+  "description": "Schema for contract infomation",
+  "additionalProperties": false,
+  "type": "object",
+  "properties": {
+    "address": {
+      "type": "string",
+      "pattern": "^0x[a-fA-F0-9]{40}$"
+    },
+    "description": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "symbol": {
+      "type": "string"
+    },
+    "contractType": {
+      "type": "string",
+      "enum": [
+        "ERC-20",
+        "ERC-721",
+        "Other"
+      ]
+    },
+    "assetType": {
+      "type": "string",
+      "enum": [
+        "Fixed Cap",
+        "Unlimited Cap",
+        "Stablecoin",
+        "NFT"
+      ]
+    },
+    "email": {
+      "type": "string",
+      "format": "email"
+    },
+    "officialSite": {
+      "type": "string",
+      "format": "uri"
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "chainId": {
+      "type": "string",
+      "pattern": "^[0-9]+$"
+    },
+    "logoUri": {
+      "type": "string",
+      "format": "uri"
+    },
+    "resourceLinks": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "type": {
+            "type": "string",
+            "enum": [
+              "Blog",
+              "Twitter",
+              "Github",
+              "Telegram",
+              "Discord",
+              "Whitepaper",
+              "CoinMarketCap",
+              "CoinGecko"
+            ]
+          },
+          "url": {
+            "type": "string",
+            "format": "uri"
+          }
+        },
+        "required": [
+          "type",
+          "url"
+        ]
+      }
+    }
+  },
+  "required": [
+    "address",
+    "contractType",
+    "description",
+    "email",
+    "officialSite"
+  ]
+}
