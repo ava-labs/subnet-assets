@@ -1,7 +1,5 @@
 import fs from "fs";
 import path from "path";
-import chainInfoSchema from '../schema/chainInfoSchema.json'
-import contractInfoSchema from '../schema/contractInfoSchema.json'
 import * as core from '@actions/core'
 import addFormats from 'ajv-formats'
 import {
@@ -10,6 +8,8 @@ import {
 } from "./constants.mjs";
 import Ajv from "ajv";
 import { getTokens } from "./getTokens.mjs";
+import chainInfoSchema from '../schema/chainInfoSchema.json' assert {type: 'json'};
+import contractInfoSchema from '../schema/contractInfoSchema.json' assert {type: 'json'};
 
 let ajv = new Ajv({allErrors: true})
 addFormats(ajv)
