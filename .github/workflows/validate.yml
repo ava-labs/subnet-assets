@@ -17,4 +17,4 @@ jobs:
           node-version: "16"
       - run: yarn add @actions/core
       - name: Update List and validate
-        run: node actions/validate.js
+        run: node actions/validate.js --experimental-json-modules
