@@ -1,5 +1,6 @@
 import { invalidTokensBuckets } from "./getTokenValidationBuckets.mjs";
 import axios from "axios";
+import fs from "fs";
 
 const download_image = (url, image_path) =>
   axios({
@@ -15,6 +16,15 @@ const download_image = (url, image_path) =>
       })
   );
 
-// invalidTokensBuckets.hasLogo.forEach((validation) => {
-//     download_image(validation.token.logoUri, validation.tokenDirPath)
-// });
+invalidTokensBuckets.hasLogo
+  .filter((validation) => !validation.token.logoUri.includes("ipfs"))
+  .forEach((validation) => {
+    download_image(
+      validation.token.logoUri,
+      `${validation.tokenDirPath}/logo.${
+        validation.token.logoUri.includes(".png") ? "png" : "jpeg"
+      }`
+    )
+      .then((res) => console.log("done: ", validation.token.logoUri))
+      .catch((res) => console.log("failed: ", validation.token.logoUri));
+  });
