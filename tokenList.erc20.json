@@ -102,6 +102,36 @@
         "chainId": "43113"
       },
       {
+        "address": "0x0f2071079315ba5a1c6d5b532a01a132c157ac83",
+        "chainId": 43113,
+        "name": "Bitcoin",
+        "symbol": "BTC.b",
+        "decimals": 18,
+        "contractType": "ERC-20",
+        "resourceLinks": [],
+        "logoUri": ""
+      },
+      {
+        "chainId": 43113,
+        "address": "0x1741b9c475e0861a43b03f984928082ac4f3fb95",
+        "symbol": "Link.e",
+        "name": "Chainlink Token",
+        "decimals": 18,
+        "contractType": "ERC-20",
+        "resourceLinks": [],
+        "logoUri": ""
+      },
+      {
+        "chainId": 43113,
+        "address": "0x2f10b211817694a2fa00c6b5481ac4a95b896643",
+        "symbol": "DAI",
+        "name": "Dai Stablecoin",
+        "decimals": 18,
+        "contractType": "ERC-20",
+        "resourceLinks": [],
+        "logoUri": ""
+      },
+      {
         "address": "0x34B6C87bb59Eb37EFe35C8d594a234Cd8C654D50",
         "chainId": 43113,
         "name": "Dai Stablecoin",
@@ -180,6 +210,26 @@
         "contractType": "ERC-20",
         "resourceLinks": [],
         "logoUri": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/connorCoin.png"
+      },
+      {
+        "chainId": 43113,
+        "address": "0xa0526df369774af18299deb370d66ae8723804d9",
+        "symbol": "WBTC.e",
+        "name": "Wrapped BTC",
+        "decimals": 18,
+        "contractType": "ERC-20",
+        "resourceLinks": [],
+        "logoUri": ""
+      },
+      {
+        "chainId": 43113,
+        "address": "0xbce59d73868899a7b7896b46da20a06f663baf10",
+        "symbol": "USDT.e",
+        "name": "Tether USD",
+        "decimals": 18,
+        "contractType": "ERC-20",
+        "resourceLinks": [],
+        "logoUri": ""
       },
       {
         "address": "0xd00ae08403B9bbb9124bB305C09058E32C39A48c",
