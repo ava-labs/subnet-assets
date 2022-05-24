@@ -1,0 +1,10 @@
+{
+    "chainId": 43113,
+    "address": "0xbce59d73868899a7b7896b46da20a06f663baf10",
+    "symbol": "USDT.e",
+    "name": "Tether USD",
+    "decimals": 18,
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": ""
+  }
