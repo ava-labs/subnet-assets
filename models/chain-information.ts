@@ -4,7 +4,7 @@ export interface ChainInformation {
   platformChainId: string
   subnetId: string
   vmId: string
-  vmName: string
+  vmName: string // EVM, BITCOIN, ETHEREUM
   rpcUrl: string // uri
   wsUrl?: string // uri
   multicallAddress?: string // ChecksumAddress
@@ -17,5 +17,5 @@ export interface ChainInformation {
     coingeckoId?: string
   }
   coingeckoAssetPlatformId?: string
-  chainId: string
+  chainId: number
 }

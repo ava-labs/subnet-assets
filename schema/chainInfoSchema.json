@@ -23,7 +23,10 @@
       "pattern": "^[a-zA-Z0-9]+$"
     },
     "vmName": {
-      "type": "string"
+      "type": "string",
+      "enum": [
+        "EVM", "BITCOIN", "ETHEREUM"
+      ]
     },
     "rpcUrl": {
       "type": "string",
@@ -70,8 +73,7 @@
       "type": "string"
     },
     "chainId": {
-      "type": "string",
-      "pattern": "^[0-9]+$"
+      "type": "number"
     }
   },
   "required": [
@@ -83,8 +85,6 @@
     "vmName",
     "chainId",
     "rpcUrl",
-    "wsUrl",
-    "multicallAddress",
     "isTestnet",
     "networkToken"
   ]

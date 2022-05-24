@@ -38,6 +38,10 @@
       "type": "string",
       "format": "uri"
     },
+    "email": {
+      "type": "string",
+      "format": "email"
+    },
     "tags": {
       "type": "array",
       "items": {
@@ -45,8 +49,10 @@
       }
     },
     "chainId": {
-      "type": "string",
-      "pattern": "^[0-9]+$"
+      "type": "number"
+    },
+    "decimals": {
+      "type": "number"
     },
     "logoUri": {
       "type": "string",
@@ -67,8 +73,7 @@
               "Discord",
               "Whitepaper",
               "CoinMarketCap",
-              "CoinGecko",
-              "Email"
+              "CoinGecko"
             ]
           },
           "url": {
@@ -86,8 +91,34 @@
   "required": [
     "address",
     "contractType",
-    "description",
-    "email",
-    "officialSite"
+    "name",
+    "description"
+  ],
+  "allOf": [
+    {
+      "if": {
+        "oneOf": [
+          {
+            "properties": {
+              "contractType": {
+                "const": "ERC-20"
+              }
+            }
+          },
+          {
+            "properties": {
+              "contractType": {
+                "const": "ERC-721"
+              }
+            }
+          }
+        ]
+      },
+      "then": {
+        "required": [
+          "symbol"
+        ]
+      }
+    }
   ]
 }
