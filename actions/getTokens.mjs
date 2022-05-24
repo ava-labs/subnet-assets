@@ -17,12 +17,17 @@ export function getTokens(chainId, chainTokenIds) {
           pathValue
         )
     )
-    .map((tokenPath) =>
-      JSON.parse(
+    .map((tokenPath) => {
+      return JSON.parse(
         fs.readFileSync(
-          path.resolve(ROOT_PATH, chainId, tokenPath, CONTRACT_TOKEN_INFO_FILE),
+          path.resolve(
+            ROOT_PATH,
+            chainId.toString(),
+            tokenPath,
+            CONTRACT_TOKEN_INFO_FILE
+          ),
           "utf8"
         )
-      )
-    );
+      );
+    });
 }

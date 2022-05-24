@@ -5,6 +5,6 @@
   "contractType": "ERC-20",
   "decimals": 18,
   "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WETH/logo.png",
+  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB/logo.png",
   "chainId": "43114"
 }
