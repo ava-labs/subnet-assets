@@ -34,10 +34,6 @@
         "NFT"
       ]
     },
-    "email": {
-      "type": "string",
-      "format": "email"
-    },
     "officialSite": {
       "type": "string",
       "format": "uri"
@@ -71,7 +67,8 @@
               "Discord",
               "Whitepaper",
               "CoinMarketCap",
-              "CoinGecko"
+              "CoinGecko",
+              "Email"
             ]
           },
           "url": {
