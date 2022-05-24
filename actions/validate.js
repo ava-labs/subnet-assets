@@ -8,8 +8,8 @@ import {
 } from "./constants.mjs";
 import Ajv from "ajv";
 import { getTokens } from "./getTokens.mjs";
-import chainInfoSchema from '../schema/chainInfoSchema.json' // assert {type: 'json'};
-import contractInfoSchema from '../schema/contractInfoSchema.json' // assert {type: 'json'};
+import chainInfoSchema from '../schema/chainInfoSchema.json' assert {type: 'json'};
+import contractInfoSchema from '../schema/contractInfoSchema.json'  assert {type: 'json'};
 
 let ajv = new Ajv({allErrors: true})
 addFormats(ajv)
@@ -34,7 +34,6 @@ const errors = fs.readdirSync(ROOT_PATH).reduce((acc, chainId) => {
 }, {});
 
 if(errors){
-    // core.setFailed(JSON.stringify(errors, null, 2))
-    console.log(JSON.stringify(errors, null, 2))
+    core.setFailed(JSON.stringify(errors, null, 2))
 }
 
