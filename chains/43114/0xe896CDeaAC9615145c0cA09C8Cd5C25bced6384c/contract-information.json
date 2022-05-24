@@ -5,6 +5,6 @@
   "contractType": "ERC-20",
   "decimals": 18,
   "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/Penguin-Finance/png-files/main/PEFILOGOPNG.png",
+  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c/logo.png",
   "chainId": "43114"
 }
