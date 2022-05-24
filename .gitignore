@@ -1,4 +1,6 @@
 /node_modules
 
+# file used to run updates locally but shouldnt be uploaded as these are one off changes
+/actions/updates.js
 # misc
 .DS_Store
