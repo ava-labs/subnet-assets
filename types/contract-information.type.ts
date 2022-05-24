@@ -1,5 +1,5 @@
 export type ContractInformation = {
-  address: string 
+  address: string // ChecksumAddress
   description: string
   name: string
   symbol: string

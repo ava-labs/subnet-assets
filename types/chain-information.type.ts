@@ -5,9 +5,9 @@ export type ChainInformation = {
   subnetId: string
   vmId: string
   vmName: string
-  rpcUrl: string
-  wsUrl: string
-  multicallAddress: string
+  rpcUrl: string // uri
+  wsUrl: string // uri
+  multicallAddress: string // ChecksumAddress
   isTestnet: boolean
   networkToken: {
     name: string
