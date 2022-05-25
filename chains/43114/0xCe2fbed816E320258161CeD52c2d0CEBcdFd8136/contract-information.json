@@ -1,10 +1,12 @@
 {
-  "chainId": 43114,
-  "address": "0xCe2fbed816E320258161CeD52c2d0CEBcdFd8136",
-  "decimals": 18,
-  "name": "BRIBE",
-  "symbol": "BRIBE",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xCe2fbed816E320258161CeD52c2d0CEBcdFd8136/logo.png"
+    "chainId": 43114,
+    "address": "0xCe2fbed816E320258161CeD52c2d0CEBcdFd8136",
+    "decimals": 18,
+    "name": "BRIBE",
+    "symbol": "BRIBE",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xCe2fbed816E320258161CeD52c2d0CEBcdFd8136/logo.png",
+    "description": "Police and Thief Game is a NFT P2E game on Avalanche, a Wolf Game derivative. The game incorporates probability based derivatives and decision making possibilities to allow players to make various decisions to come out on top. The collection is officially verified on NFTrade.",
+    "assetType": "Unlimited Cap"
 }

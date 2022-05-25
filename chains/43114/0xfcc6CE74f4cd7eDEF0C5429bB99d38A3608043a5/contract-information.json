@@ -1,10 +1,12 @@
 {
-  "chainId": 43114,
-  "address": "0xfcc6CE74f4cd7eDEF0C5429bB99d38A3608043a5",
-  "decimals": 18,
-  "name": "FIRE",
-  "symbol": "FIRE",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xfcc6CE74f4cd7eDEF0C5429bB99d38A3608043a5/logo.png"
+    "chainId": 43114,
+    "address": "0xfcc6CE74f4cd7eDEF0C5429bB99d38A3608043a5",
+    "decimals": 18,
+    "name": "FIRE",
+    "symbol": "FIRE",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xfcc6CE74f4cd7eDEF0C5429bB99d38A3608043a5/logo.png",
+    "description": "Phoenix Community Capital is a community investment project focused on using a shared asset pool to perform on-chain and off-chain investments into yield bearing instruments.  The large capital pool of community assets allows Phoenix Community Capital to pursue large scale and exclusive investments not available to the average investor.  As such, the returns on the investments are paid back to the community through a profit release into the token exchange for community members to take advantage of.\r\n\r\nThe biggest unique offering of Phoenix Community Capital is the in house incubation program where the management team works with individuals from the community to fund, create, and manage new projects and endeavors with high percentage profit sharing to the community.",
+    "assetType": "Fixed Cap"
 }

@@ -1,10 +1,12 @@
 {
-  "chainId": 43114,
-  "address": "0xc12e249FaBe1c5Eb7C558E5F50D187687a244E31",
-  "decimals": 18,
-  "name": "Blue Token",
-  "symbol": "BLUE",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xc12e249FaBe1c5Eb7C558E5F50D187687a244E31/logo.png"
+    "chainId": 43114,
+    "address": "0xc12e249FaBe1c5Eb7C558E5F50D187687a244E31",
+    "decimals": 18,
+    "name": "Blue Token",
+    "symbol": "BLUE",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xc12e249FaBe1c5Eb7C558E5F50D187687a244E31/logo.png",
+    "description": "Tip.Blue is a social media tip bot framework with useful features like tipping multiple people, all members and \"\"making it rain\"\" which drops tokens on recently visited members. Tipping is a great way to generate participation on social media platforms and reward participants for attending and contributing. Admins and all members can tip each other with Tip.Blue. The Tip.Blue bot is deployed on Discord and Telegram, Reddit and Twitter will follow. \r\n\r\nThe My.Tip.Blue dashboard shows all coins which are eligible for tipping, the amount of each token that you hold and has functionality for depositing and withdrawing the coins to a wallet. Farm.Tip.Blue provides two farm options 1) Paired with AVAX and 2) Single-sided BLUE farm.  The Tip.Blue bot is deployed on Discord and Telegram, Reddit and Twitter will follow. ",
+    "assetType": "Fixed Cap"
 }

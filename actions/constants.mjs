@@ -17,3 +17,9 @@ export const ERC20_TOKEN_LIST_FILE = path.resolve(
 export const CONTRACT_TOKEN_INFO_FILE = "contract-information.json";
 export const MAINNET_CHAIN_ID = 43114;
 export const FUJI_CHAIN_ID = 43113;
+
+
+export const chainIdDictionary = {
+  43114: 'avalanche',
+  53935: 'defi-kingdoms-blockchain'
+}
