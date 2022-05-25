@@ -14,6 +14,7 @@ export const ERC20_TOKEN_LIST_FILE = path.resolve(
   __dirname,
   "../tokenList.erc20.json"
 );
+export const CHAIN_LIST_FILE = path.resolve(__dirname, "../chainList.json");
 export const CONTRACT_TOKEN_INFO_FILE = "contract-information.json";
 export const MAINNET_CHAIN_ID = 43114;
 export const FUJI_CHAIN_ID = 43113;
