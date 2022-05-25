@@ -792,7 +792,9 @@
         "symbol": "LYD",
         "contractType": "ERC-20",
         "resourceLinks": [],
-        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084/logo.png"
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084/logo.png",
+        "description": "DeX and Yield Farming on Avalanche",
+        "assetType": "Unlimited Cap"
       },
       {
         "chainId": 43114,
@@ -812,7 +814,9 @@
         "decimals": 18,
         "contractType": "ERC-20",
         "resourceLinks": [],
-        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x4fbf0429599460D327BD5F55625E30E4fC066095/logo.png"
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x4fbf0429599460D327BD5F55625E30E4fC066095/logo.png",
+        "description": "Teddy Cash is a decentralized borrowing protocol that allows you to draw interest-free loans against AVAX used as collateral. Loans are paid out in TSD (a USD pegged stablecoin) and need to maintain a minimum collateral ratio of 110%. Learn more about these mechanisms in our documentation. https://docs.teddy.cash/\r\n\r\nThe Teddy Dollar (TSD) is the first stablecoin on the Avalanche network that uses AVAX as collateral. In addition to the collateral, the loans are secured by a Stability Pool containing TSD and by fellow borrowers collectively acting as guarantors of last resort. Teddy Cash as a protocol is non-custodial, immutable, and governance-free.\r\n\r\nThe Teddy Cash protocol offers interest-free loans and is more capital efficient than other borrowing systems (i.e. less collateral is needed for the same loan). Instead of selling AVAX to have liquid funds, you can use the protocol to lock up your AVAX, borrow against the collateral to withdraw TSD, and then repay your loan at a future date.",
+        "assetType": "Unlimited Cap"
       },
       {
         "address": "0x50b7545627a5162F82A992c33b87aDc75187B218",
@@ -852,7 +856,9 @@
         "decimals": 18,
         "resourceLinks": [],
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7/logo.png",
-        "chainId": "43114"
+        "chainId": "43114",
+        "description": "Yield Yak is an easy-to-use tool to earn more yield from DeFi farming on the Avalanche network. \r\n\r\nIt is a community-driven project. Our community compounds rewards, suggests new strategies, proposes key configuration updates and contributes to development. Yield Yak farms can run forever, without the team's involvement.\r\n\r\nStaked $YAK will receive $AVAX. YY network revenue (collected in tokens, usually) will be converted to AVAX and distributed to stakers.",
+        "assetType": "Fixed Cap"
       },
       {
         "address": "0x5947BB275c521040051D82396192181b413227A3",
@@ -872,7 +878,9 @@
         "symbol": "GAJ",
         "contractType": "ERC-20",
         "resourceLinks": [],
-        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x595c8481c48894771CE8FaDE54ac6Bf59093F9E8/logo.png"
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x595c8481c48894771CE8FaDE54ac6Bf59093F9E8/logo.png",
+        "description": "Gaj, previously known as PolyGaj, is a multichain platform covering the two most promising subsects of cryptocurrency namely DeFi and NFT. With a vision to be a one-stop solution for users who want to experience both DeFi and NFT and with humble beginnings, Gaj picked up steam due to its unique offerings, especially focused on users who now had a variety of options to earn \r\n\r\nThe team behind Gaj wanted the platform to be robust and quick so that the user experience could be enriched and hence the natively picked up Polygon protocol to built its platform as the protocol promised low transaction fees, extremely fast transactions, staking reward offerings, and enough headroom to scale. \r\n\r\nWith the rise in demand for Gaj and with a mission to expand its users base. Gaj slowly decided to expand to a multichain level, a giant step of the Gaj in the true sense. With the first bridge deployed already, Gaj opened its door to the Binance Smart Chain users with many more bridges to come. \r\n\r\nTo be a one-stop solution, Gaj launched a variety of products at the intersection of DeFi and NFT. These products were designed in a manner that the user can experience the power of both DeFi and the potential of  NFT’s along with great opportunities to earn additional income by staking hodling, and bidding. The range of products that Gaj is providing are all powered by its native token - $GAJ ",
+        "assetType": "Fixed Cap"
       },
       {
         "chainId": 43114,
@@ -902,7 +910,9 @@
         "decimals": 18,
         "resourceLinks": [],
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x60781C2586D68229fde47564546784ab3fACA982/logo.png",
-        "chainId": "43114"
+        "chainId": "43114",
+        "description": "Pangolin is a community-driven decentralized exchange for Avalanche and Ethereum assets with fast settlement, low transaction fees, and a democratic distribution–powered by Avalanche.",
+        "assetType": "Fixed Cap"
       },
       {
         "chainId": 43114,
@@ -932,7 +942,9 @@
         "symbol": "HUSKY",
         "contractType": "ERC-20",
         "resourceLinks": [],
-        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654/logo.png"
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654/logo.png",
+        "description": "First merchandise token on Avax, bridged now on BSC! Husky Avax is a token that was stealth-launched on May 12th, 2021 and runs on the Avalanche C-Chain. It features locked initial liquidity, a hard-capped supply, has no team allocation, and will have no airdrops. Husky benefits immensely by running on Avalanche, where secure and decentralized transactions are fast, cheap, and environmentally friendly.",
+        "assetType": "Fixed Cap"
       },
       {
         "chainId": 43114,
@@ -952,7 +964,9 @@
         "symbol": "aAVAXb",
         "contractType": "ERC-20",
         "resourceLinks": [],
-        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x6C6f910A79639dcC94b4feEF59Ff507c2E843929/logo.png"
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x6C6f910A79639dcC94b4feEF59Ff507c2E843929/logo.png",
+        "description": "",
+        "assetType": "Unlimited Cap"
       },
       {
         "chainId": 43114,
@@ -972,7 +986,9 @@
         "symbol": "SPORE",
         "contractType": "ERC-20",
         "resourceLinks": [],
-        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x6e7f5C0b9f4432716bDd0a77a3601291b9D9e985/logo.png"
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x6e7f5C0b9f4432716bDd0a77a3601291b9D9e985/logo.png",
+        "description": "Spore™ is an NFT platform on the Avalanche network and the developer of the hyperdeflationary SPORE currency.\r\n\r\nOur products include the first mass-adopted cross-chain bridge from Avalanche to Binance Smart Chain, NFT collections to commemorate special events, a next-generation NFT prediction market (in development), and several yet-to-be-announced services that will stand at the intersection of blockspace and physical events and help transition the planet to decentralized living.",
+        "assetType": "Unlimited Cap"
       },
       {
         "chainId": 43114,
@@ -982,7 +998,9 @@
         "symbol": "JOE",
         "contractType": "ERC-20",
         "resourceLinks": [],
-        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd/logo.png"
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd/logo.png",
+        "description": "Trader Joe is your one-stop decentralized trading platform on the Avalanche network. \r\n\r\nWe combine DEX services with DeFi lending to offer leveraged trading. \r\n\r\nOur products are community driven which allows us to give fees collected from liquidation and swaps back to the users via our JOE/xJOE staking mechanism.\r\n\r\nJOE is a governance token that also rewards its holders with a share of exchange revenues.",
+        "assetType": "Fixed Cap"
       },
       {
         "chainId": 43114,
@@ -1002,7 +1020,9 @@
         "symbol": "RACEX",
         "contractType": "ERC-20",
         "resourceLinks": [],
-        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x7086e045b78E1e72F741F25231c08d238812CF8a/logo.png"
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x7086e045b78E1e72F741F25231c08d238812CF8a/logo.png",
+        "description": "The first Play-2-Earn racing platform on the Avalanche ecosystem!\r\n\r\nThis is the first Avalanche Blockchain racing sim that will combine both real-world, on-the-road racing with virtual racing on a first of its kind simulation engine currently in development.\r\n\r\nDCRC Racing will use NFTs minted on this platform to represent the cars used in the simulation. These NFTs will be used in our advanced virtual racing simulator, allowing users to benefit from Race-2-Earn features on the platform. These NFTs will be fully upgradeable using burn and re-mint functionalities. The NFTs will also be upgradeable in terms of appearance by adding body kits, changing colors, adding decals, and changing the wheels and tires. Users will be able to construct their NFT and make it completely unique according to their vision! The NFTs can be upgraded in terms of performance too, as owners will be able to purchase performance upgrades to improve the ability of their race cars in the virtual races.",
+        "assetType": "Fixed Cap"
       },
       {
         "chainId": 43114,
@@ -1022,7 +1042,9 @@
         "symbol": "EGG",
         "contractType": "ERC-20",
         "resourceLinks": [],
-        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x7761E2338B35bCEB6BdA6ce477EF012bde7aE611/logo.png"
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x7761E2338B35bCEB6BdA6ce477EF012bde7aE611/logo.png",
+        "description": "chikn is Avalanche's premier platform for upgradable NFTs & dual-token economies, bridging the gap between gaming, DeFi and the Metaverse.\r\nchikn are also an original series of 10k upgradable NFTs that lay EGG.\r\n\r\nEGG is the native Governance & Utility token of the chikn ecosystem, and is the fuel that runs all features of the platform.\r\n\r\nThe chikn DAO governs a Treasury which originally holds 10% of the Total Supply of $feed, and increases over time.\r\n\r\nHow chikn egg is used:\r\n\r\nEGG tokens can be staked to receive FEED that can then be used to grow the chikn.\r\n\r\nThe EGG DAO governs a Treasury which holds 10% of the Total Supply of FEED, and increases over time.\r\n\r\nEGG is burned in a variety of methods, as a result of interacting with the chikn platform and the many products we offer. \r\n\r\nSome of these burning methods are: Breakage fees (8.33% of all staked EGG), FEED-swaps, CNS (the chikn naming service), Minting of future NFT collections, Upgrading future NFT series, chikn p2e & PVP game/s, Breeding, 3rd party NFT minting and more!",
+        "assetType": "Fixed Cap"
       },
       {
         "address": "0x783C08b5F26E3daf8C4681F3bf49844e425b6393",
@@ -1032,7 +1054,9 @@
         "decimals": 18,
         "contractType": "ERC-20",
         "resourceLinks": [],
-        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x783C08b5F26E3daf8C4681F3bf49844e425b6393/logo.png"
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x783C08b5F26E3daf8C4681F3bf49844e425b6393/logo.png",
+        "description": "Avaware USD (AUSD) is a 99% backed native stable coin and stable swap on the Avalanche network.",
+        "assetType": "Fixed Cap"
       },
       {
         "address": "0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE",
@@ -1042,7 +1066,9 @@
         "decimals": 18,
         "resourceLinks": [],
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE/logo.png",
-        "chainId": "43114"
+        "chainId": "43114",
+        "description": "Avaware is building a platform for growth. We're devoted to developing quality applications of the DeFi, Gaming, NFT, and information variety. It is our mission to build and maintain a portfolio of assets that add value to our token and the Avalanche community as a whole. Our team knows that the projects we develop and support reflect on us, therefor we take pride in building and supporting quality projects we truly believe add value to the ecosystem.\r\n\r\nWe believe our launchpad will bring value to the ecosystem. IFOs are an excellent method of distributing a new projects token into the community. We plan on obtaining tokens from new projects and providing the initial capital they need to operate effectively. These tokens will then be distributed to AVE holders through farming, ensuring an equal and open distrubiton anyone may partake in. We will also provide marketing through our web and social presence, ensuring the projects we launch have the visibility they need to succeed and thrive on Avalanche. This will give AVE holders the chance to farm and hold exciting new tokens on the Avalanche network before they even hit the market!",
+        "assetType": "Unlimited Cap"
       },
       {
         "chainId": 43114,
@@ -1052,7 +1078,9 @@
         "symbol": "MAXI",
         "contractType": "ERC-20",
         "resourceLinks": [],
-        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x7C08413cbf02202a1c13643dB173f2694e0F73f0/logo.png"
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x7C08413cbf02202a1c13643dB173f2694e0F73f0/logo.png",
+        "description": "Maximizer is a decentralized reserve currency protocol based on the MAXI token. Each MAXI token is backed by a basket of Avalanche assets in the Maximizer treasury, giving it an intrinsic value that it cannot fall below. Maximizer also introduces unique economic and game-theoretic dynamics into the market through staking and minting. \r\n\r\nMaximizer believes in building products that supports the entire ecosystem. The motivation of our decentralized reserve currency is so that we can grow together with the Avalanche ecosystem. We will allow Avalanche project tokens to be used as the principal tokens for minting of the MAXI token (capped). As our treasury grows, Avalanche projects' liquidity grows as well. This way, no one gets left behind.",
+        "assetType": "Unlimited Cap"
       },
       {
         "chainId": 43114,
@@ -1072,7 +1100,9 @@
         "symbol": "PLN",
         "contractType": "ERC-20",
         "resourceLinks": [],
-        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x7b2B702706D9b361dfE3f00bD138C0CFDA7FB2Cf/logo.png"
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x7b2B702706D9b361dfE3f00bD138C0CFDA7FB2Cf/logo.png",
+        "description": "Pollen DeFi, is a decentralized asset index where the community holds the power. It is a decentralized platform for managing tokenized asset pools. The merit-based DAO provides a reputation-based governance protocol with incentives that leverage the community’s collective wisdom to curate asset pools. In this system, all users of the platform stand to benefit from the contribution of the best-performing participants.",
+        "assetType": "Fixed Cap"
       },
       {
         "chainId": 43114,
@@ -1082,7 +1112,9 @@
         "symbol": "LOOT",
         "contractType": "ERC-20",
         "resourceLinks": [],
-        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x7f041ce89A2079873693207653b24C15B5e6A293/logo.png"
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x7f041ce89A2079873693207653b24C15B5e6A293/logo.png",
+        "description": "Police and Thief Game is a NFT P2E game on Avalanche, a Wolf Game derivative. The game incorporates probability based derivatives and decision making possibilities to allow players to make various decisions to come out on top. The collection is officially verified on NFTrade.",
+        "assetType": "Fixed Cap"
       },
       {
         "address": "0x81440C939f2C1E34fc7048E518a637205A632a74",
@@ -1092,7 +1124,9 @@
         "decimals": 18,
         "resourceLinks": [],
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x81440C939f2C1E34fc7048E518a637205A632a74/logo.png",
-        "chainId": "43114"
+        "chainId": "43114",
+        "description": "The Cycle Protocol is a yield optimizer, allowing you to auto-compound rewards from a variety of DEX/projects from the Avalanche C-chain, with it's own liquidity mining program attached to it.\r\n\r\nThe Cycle token will be used for governance, in order to give power to the community on the health and evolution of the protocol. It also receives part of the revenue generated to those who decide to stake it, in order to reward them.\r\n\r\nBenefiting from the Avalanche Network low gas fees and fast transaction speeds, Cycle allow easy on-boarding of new users through a ZAP function, allowing for one-click deposit into it's auto-compounders. Users are then earning our own token, $CYCLE, on top of the auto-compounding.\r\n\r\nUnlike many liquidity mining programs and yield farms, the Cycle Protocol reward distribution does not follow a block by block, time based or uncontrolled inflationary model. A portion of the vault compounding reinvest amount is used to generate the CYCLE for vault rewards instead.",
+        "assetType": "Fixed Cap"
       },
       {
         "chainId": 43114,
@@ -1102,7 +1136,9 @@
         "symbol": "VSO",
         "contractType": "ERC-20",
         "resourceLinks": [],
-        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x846D50248BAf8b7ceAA9d9B53BFd12d7D7FBB25a/logo.png"
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x846D50248BAf8b7ceAA9d9B53BFd12d7D7FBB25a/logo.png",
+        "description": "Verso is built for the regulated financial service industry and community-governed by its participants. It uses proprietary smart contracts to facilitate the distribution and product-specific money flow between financial service providers, regulated financial institutions, and their customers.",
+        "assetType": "Unlimited Cap"
       },
       {
         "address": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
@@ -1112,7 +1148,9 @@
         "decimals": 18,
         "resourceLinks": [],
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5/logo.png",
-        "chainId": "43114"
+        "chainId": "43114",
+        "description": "BENQI is a decentralized non-custodial liquidity market protocol, built on Avalanche. The protocol enables users to effortlessly lend, borrow, and earn interest with their digital assets. Depositors providing liquidity to the protocol may earn passive income, while borrowers are able to borrow in an over-collateralized manner.",
+        "assetType": "Fixed Cap"
       },
       {
         "chainId": 43114,
@@ -1132,7 +1170,9 @@
         "symbol": "MAXI",
         "contractType": "ERC-20",
         "resourceLinks": [],
-        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x885d748C00A279B67A7749EC6b03301700dd0455/logo.png"
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x885d748C00A279B67A7749EC6b03301700dd0455/logo.png",
+        "description": "Maximus is a new generation Yield Farming Aggregator & Optimizer for Avalanche!\r\nMaximus brings a new breath to the Avalanche ecosystem with its unique features and will be providing the most lucrative financial tools to the whole ecosystem through a new token architecture that keeps its price proportional to AVAX with auto buybacks and allows the best mechanisms for people who like to earn other tokens from other projects via various compounders and maximizers while providing a strong token utility and no sell pressure on other projects.",
+        "assetType": "Fixed Cap"
       },
       {
         "chainId": 43114,
@@ -1142,7 +1182,9 @@
         "symbol": "ORCA",
         "contractType": "ERC-20",
         "resourceLinks": [],
-        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x8B1d98A91F853218ddbb066F20b8c63E782e2430/logo.png"
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x8B1d98A91F853218ddbb066F20b8c63E782e2430/logo.png",
+        "description": "OrcaDAO is the first native Stablecoin (AVAI), and Governance token (ORCA) pair that allow for lending using crypto collateral at 0% interest, built on and for the Avalanche Network. The protocol centers around the production, maintenance, and sustained equilibrium of AVAI around a stable value, which will be used by the DeFi community for a multitude of use cases -  such as Loans and Yield Farming - with a high level of confidence. \r\n\r\nThe ORCA token is the big brother of the AVAI stablecoin, and is a governance token for the Orca DAO. ORCA is an ERC20 token, intended to make it's holders part owners of the DAO. It's primary function will be governance and ownership of the DAO, meaning governance abilities including proposing, and voting on initiatives intended to better the health and direction of the DAO. \r\n\r\nThe primary incentive for holding the ORCA token will be the reception of distributed revenue from ecosystem fees, and optimizing the DAO for long term sustainability. ",
+        "assetType": "Unlimited Cap"
       },
       {
         "chainId": 43114,
@@ -1152,7 +1194,9 @@
         "symbol": "CNR",
         "contractType": "ERC-20",
         "resourceLinks": [],
-        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x8D88e48465F30Acfb8daC0b3E35c9D6D7d36abaf/logo.png"
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x8D88e48465F30Acfb8daC0b3E35c9D6D7d36abaf/logo.png",
+        "description": "Canary Exchange is a decentralized exchange (DEX) which runs on Avalanche, the most promising and the fastest blockchain!\r\n\r\nCanary Exchange works with a model called AMM which is a game changing tech. Automated market makers (AMM) allow digital assets to be traded without permission and automatically by using liquidity pools instead of a traditional market of buyers and sellers.\r\n\r\nCanary features a token which is called CNR Token that is the official token of the Canary Exchange and other Canary Ecosystem dApps. You earn CNR Token by using Canary Exchange. If you wish, you can swap the tokens you earn to another cryptocurrency through Canary Exchange. Or if you wish, you can stake your CNR Tokens again and earn more CNR Tokens!\r\n\r\nCNR is capped at a maximum supply of 570 million tokens.\r\n\r\n✓ The first 90% of tokens (~512 million tokens) are dedicated to the community treasury, where they will initially be used to fund liquidity mining.\r\n\r\n✓ 5% (~29 million tokens) are dedicated to a community airdrop.\r\n\r\n✓ And the remaining %5 (~29 million tokens) are dedicated to developers. Developers will be able to receive their wages on monthly periods.",
+        "assetType": "Unlimited Cap"
       },
       {
         "chainId": 43114,
@@ -1172,7 +1216,9 @@
         "symbol": "CRAFT",
         "contractType": "ERC-20",
         "resourceLinks": [],
-        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x8aE8be25C23833e0A01Aa200403e826F611f9CD2/logo.png"
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x8aE8be25C23833e0A01Aa200403e826F611f9CD2/logo.png",
+        "description": "The First Crafting Game on Avalanche TaleCraft is a PVP, play-to-earn card board game, driven by a unique mint and craft mechanic, where players grow more powerful through gamified NFT alchemy. Elemental base cards are sold weekly, allowing only the most skilled alchemists to thrive and progress in this medieval metaverse. All NFT holders will receive AVAX yield generated by the game ecosystem, rewarding the most loyal and skilled holders.",
+        "assetType": "Fixed Cap"
       },
       {
         "chainId": 43114,
@@ -1202,7 +1248,9 @@
         "symbol": "GB",
         "contractType": "ERC-20",
         "resourceLinks": [],
-        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x90842eb834cFD2A1DB0b1512B254a18E4D396215/logo.png"
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x90842eb834cFD2A1DB0b1512B254a18E4D396215/logo.png",
+        "description": "$GB a fair launch community coin built on Avalanche. ",
+        "assetType": "Unlimited Cap"
       },
       {
         "chainId": 43114,
@@ -1222,7 +1270,9 @@
         "symbol": "APEIN",
         "contractType": "ERC-20",
         "resourceLinks": [],
-        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x938FE3788222A74924E062120E7BFac829c719Fb/logo.png"
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x938FE3788222A74924E062120E7BFac829c719Fb/logo.png",
+        "description": "The ape metaverse where defi meets nfts.",
+        "assetType": "Unlimited Cap"
       },
       {
         "chainId": 43114,
@@ -1232,7 +1282,9 @@
         "symbol": "KSHARE",
         "contractType": "ERC-20",
         "resourceLinks": [],
-        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x94d649E017625dE1Aa04733aA046dE0161DF18eF/logo.png"
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x94d649E017625dE1Aa04733aA046dE0161DF18eF/logo.png",
+        "description": "KING Shares (KSHARE) are one of the ways to measure the value of the KING Protocol and shareholder trust in its ability to maintain KING close to peg.",
+        "assetType": "Unlimited Cap"
       },
       {
         "chainId": 43114,
@@ -1332,7 +1384,9 @@
         "symbol": "CRA",
         "contractType": "ERC-20",
         "resourceLinks": [],
-        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xA32608e873F9DdEF944B24798db69d80Bbb4d1ed/logo.png"
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xA32608e873F9DdEF944B24798db69d80Bbb4d1ed/logo.png",
+        "description": "Crabada is an exciting play-and-earn NFT game based in a world filled with fierce fighting Hermit-Crabs called Crabada (the NFTs).\r\n\r\nCRA is a governance token which is rewarded via staking and playing the game during the incentive period.",
+        "assetType": "Fixed Cap"
       },
       {
         "chainId": 43114,
@@ -1352,7 +1406,9 @@
         "symbol": "USDC.e",
         "contractType": "ERC-20",
         "resourceLinks": [],
-        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664/logo.png"
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664/logo.png",
+        "description": "",
+        "assetType": "Fixed Cap"
       },
       {
         "chainId": 43114,
@@ -1362,7 +1418,9 @@
         "symbol": "SUSD",
         "contractType": "ERC-20",
         "resourceLinks": [],
-        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xAafd2577Fb67366d3C89DB0d627C49D769ee2e5D/logo.png"
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xAafd2577Fb67366d3C89DB0d627C49D769ee2e5D/logo.png",
+        "description": "Stabilize is a decentralized borrowing protocol2.0 that allows you to draw interest-free loans against basic asset & ibTKNs used as collaterals.",
+        "assetType": "Fixed Cap"
       },
       {
         "chainId": 43114,
@@ -1372,7 +1430,9 @@
         "symbol": "BOOFI",
         "contractType": "ERC-20",
         "resourceLinks": [],
-        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xB00F1ad977a949a3CCc389Ca1D1282A2946963b0/logo.png"
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xB00F1ad977a949a3CCc389Ca1D1282A2946963b0/logo.png",
+        "description": "BooFinance is an upcoming #Avalanche project developing innovative yield farming strategies, deflationary #NFTs, and an all-encompassing DAO. ",
+        "assetType": "Unlimited Cap"
       },
       {
         "chainId": 43114,
@@ -1392,7 +1452,9 @@
         "symbol": "WET",
         "contractType": "ERC-20",
         "resourceLinks": [],
-        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xB1466d4cf0DCfC0bCdDcf3500F473cdACb88b56D/logo.png"
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xB1466d4cf0DCfC0bCdDcf3500F473cdACb88b56D/logo.png",
+        "description": "New decentralized blockchain networks can settle world-wide payments in less than a second. These breakthroughs open the way to disruptive visions such as the IoV (Internet of Value) : an open internet of assets where anything can be instantly tokenized and exchanged without the supervision of centralized traditional finance systems.\r\n\r\nWeble GMBH is specialized in IoT (Internet of Things) and building automation protocols. The company produces Universal IoT Gateways supporting main industrial M2M communication standards. Adding cryptocurrencies wallets and other mean of payments to our supported protocols permits our customers to easily integrate financial services.\r\n\r\nThe Weble Ecosystem Token (WET) aims to play a central role in our products and services. It also gives anyone the opportunity to invest in our company success.",
+        "assetType": "Fixed Cap"
       },
       {
         "chainId": 43114,
@@ -1402,7 +1464,9 @@
         "symbol": "HERMES",
         "contractType": "ERC-20",
         "resourceLinks": [],
-        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xB15f02F9Da8CD1f99E9dd375F21dc96D25ddd82C/logo.png"
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xB15f02F9Da8CD1f99E9dd375F21dc96D25ddd82C/logo.png",
+        "description": "Welcome to Hermes Finance\r\nOne of The first algorithmic stablecoin on Avalanche C Chain, pegged to the price of 1 AVAX via seigniorage.\r\n\r\nStake your HERMES-AVAX LP in the Crete to earn HSHARE rewards. Then stake your earned HSHARE in the Olympus to earn more HERMES!",
+        "assetType": "Unlimited Cap"
       },
       {
         "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
@@ -1463,7 +1527,8 @@
           }
         ],
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
-        "chainId": "43114"
+        "chainId": "43114",
+        "description": ""
       },
       {
         "chainId": 43114,
