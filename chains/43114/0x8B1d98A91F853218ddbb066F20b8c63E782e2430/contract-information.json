@@ -1,10 +1,12 @@
 {
-  "chainId": 43114,
-  "address": "0x8B1d98A91F853218ddbb066F20b8c63E782e2430",
-  "decimals": 18,
-  "name": "OrcaDAO",
-  "symbol": "ORCA",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x8B1d98A91F853218ddbb066F20b8c63E782e2430/logo.png"
+    "chainId": 43114,
+    "address": "0x8B1d98A91F853218ddbb066F20b8c63E782e2430",
+    "decimals": 18,
+    "name": "OrcaDAO",
+    "symbol": "ORCA",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x8B1d98A91F853218ddbb066F20b8c63E782e2430/logo.png",
+    "description": "OrcaDAO is the first native Stablecoin (AVAI), and Governance token (ORCA) pair that allow for lending using crypto collateral at 0% interest, built on and for the Avalanche Network. The protocol centers around the production, maintenance, and sustained equilibrium of AVAI around a stable value, which will be used by the DeFi community for a multitude of use cases -  such as Loans and Yield Farming - with a high level of confidence. \r\n\r\nThe ORCA token is the big brother of the AVAI stablecoin, and is a governance token for the Orca DAO. ORCA is an ERC20 token, intended to make it's holders part owners of the DAO. It's primary function will be governance and ownership of the DAO, meaning governance abilities including proposing, and voting on initiatives intended to better the health and direction of the DAO. \r\n\r\nThe primary incentive for holding the ORCA token will be the reception of distributed revenue from ecosystem fees, and optimizing the DAO for long term sustainability. ",
+    "assetType": "Unlimited Cap"
 }

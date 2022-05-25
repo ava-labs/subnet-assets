@@ -1,10 +1,12 @@
 {
-  "chainId": 43114,
-  "address": "0x7b2B702706D9b361dfE3f00bD138C0CFDA7FB2Cf",
-  "decimals": 18,
-  "name": "Pollen",
-  "symbol": "PLN",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x7b2B702706D9b361dfE3f00bD138C0CFDA7FB2Cf/logo.png"
+    "chainId": 43114,
+    "address": "0x7b2B702706D9b361dfE3f00bD138C0CFDA7FB2Cf",
+    "decimals": 18,
+    "name": "Pollen",
+    "symbol": "PLN",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x7b2B702706D9b361dfE3f00bD138C0CFDA7FB2Cf/logo.png",
+    "description": "Pollen DeFi, is a decentralized asset index where the community holds the power. It is a decentralized platform for managing tokenized asset pools. The merit-based DAO provides a reputation-based governance protocol with incentives that leverage the community’s collective wisdom to curate asset pools. In this system, all users of the platform stand to benefit from the contribution of the best-performing participants.",
+    "assetType": "Fixed Cap"
 }
