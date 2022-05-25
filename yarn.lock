@@ -23,7 +23,7 @@
   dependencies:
     "@avalabs/utils-sdk" "2.3.0"
 
-"@avalabs/utils-sdk@2.3.0", "@avalabs/utils-sdk@^2.3.0":
+"@avalabs/utils-sdk@2.3.0":
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/@avalabs/utils-sdk/-/utils-sdk-2.3.0.tgz#7664b8b1d4c6495bf7bcaa2f83e9e7917ca7425f"
   integrity sha512-h7uo+APO7N9wWcfOEKsMEGdiQQ+EBw86jnCpk63EiUOfT6dka921fRv2BBDvThabmwRNEpY/9kgQmaD3AzQnnQ==
