@@ -22,6 +22,8 @@ jobs:
         run: node actions/createChainsAndERC20List.js
       - name: Create Chains List
         run: node actions/createChainsList.js
+      - name: Create Address List
+        run: node actions/createAddressList.js
       - name: commit new file
         uses: EndBug/add-and-commit@v7
         with:
