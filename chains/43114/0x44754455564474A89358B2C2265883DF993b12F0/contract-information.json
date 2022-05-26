@@ -1,10 +1,11 @@
 {
-  "chainId": 43114,
-  "address": "0x44754455564474A89358B2C2265883DF993b12F0",
-  "decimals": 18,
-  "name": "ZeroSwapToken",
-  "symbol": "ZEE",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x44754455564474A89358B2C2265883DF993b12F0/logo.png"
+    "chainId": 43114,
+    "address": "0x44754455564474A89358B2C2265883DF993b12F0",
+    "decimals": 18,
+    "name": "ZeroSwapToken",
+    "symbol": "ZEE",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x44754455564474A89358B2C2265883DF993b12F0/logo.png",
+    "description": " "
 }

@@ -1,10 +1,11 @@
 {
-  "chainId": 43114,
-  "address": "0x3Bd2B1c7ED8D396dbb98DED3aEbb41350a5b2339",
-  "decimals": 18,
-  "name": "UMA Voting Token v1",
-  "symbol": "UMA.e",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x3Bd2B1c7ED8D396dbb98DED3aEbb41350a5b2339/logo.png"
+    "chainId": 43114,
+    "address": "0x3Bd2B1c7ED8D396dbb98DED3aEbb41350a5b2339",
+    "decimals": 18,
+    "name": "UMA Voting Token v1",
+    "symbol": "UMA.e",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x3Bd2B1c7ED8D396dbb98DED3aEbb41350a5b2339/logo.png",
+    "description": " "
 }

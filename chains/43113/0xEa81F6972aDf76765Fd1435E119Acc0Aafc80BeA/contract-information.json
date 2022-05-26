@@ -1,10 +1,11 @@
 {
-  "chainId": 43113,
-  "address": "0xEa81F6972aDf76765Fd1435E119Acc0Aafc80BeA",
-  "symbol": "JOE",
-  "name": "Joe Coin",
-  "decimals": 18,
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43113/0xEa81F6972aDf76765Fd1435E119Acc0Aafc80BeA/logo.png"
+    "chainId": 43113,
+    "address": "0xEa81F6972aDf76765Fd1435E119Acc0Aafc80BeA",
+    "symbol": "JOE",
+    "name": "Joe Coin",
+    "decimals": 18,
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43113/0xEa81F6972aDf76765Fd1435E119Acc0Aafc80BeA/logo.png",
+    "description": " "
 }

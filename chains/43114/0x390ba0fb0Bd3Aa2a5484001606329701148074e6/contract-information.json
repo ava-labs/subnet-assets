@@ -1,10 +1,11 @@
 {
-  "chainId": 43114,
-  "address": "0x390ba0fb0Bd3Aa2a5484001606329701148074e6",
-  "decimals": 18,
-  "name": "THORChain ETH.RUNE",
-  "symbol": "RUNE",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x390ba0fb0Bd3Aa2a5484001606329701148074e6/logo.png"
+    "chainId": 43114,
+    "address": "0x390ba0fb0Bd3Aa2a5484001606329701148074e6",
+    "decimals": 18,
+    "name": "THORChain ETH.RUNE",
+    "symbol": "RUNE",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x390ba0fb0Bd3Aa2a5484001606329701148074e6/logo.png",
+    "description": " "
 }

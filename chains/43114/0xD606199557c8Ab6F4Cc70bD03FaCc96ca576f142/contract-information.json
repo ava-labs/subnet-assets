@@ -7,6 +7,5 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "logoUri": "https://raw.githubusercontent.com/gondola-finance/frontend-v2/master/src/assets/icons/colour.png",
-    "description": "Gondola Finance specializes in Stableswap on Avalanche, bridging fragmented liquidity.",
-    "assetType": "Unlimited Cap"
+    "description": "Gondola Finance specializes in Stableswap on Avalanche, bridging fragmented liquidity."
 }
