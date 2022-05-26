@@ -99,7 +99,7 @@
         "decimals": 18,
         "resourceLinks": [],
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43113/0x0b9d5D9136855f6FEc3c0993feE6E9CE8a297846/logo.png",
-        "chainId": "43113"
+        "chainId": 43113
       },
       {
         "address": "0x0f2071079315ba5a1c6d5b532a01a132c157ac83",
@@ -119,7 +119,7 @@
         "decimals": 18,
         "resourceLinks": [],
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43113/0x1741b9c475e0861a43b03f984928082ac4f3fb95/logo.png",
-        "chainId": "43113"
+        "chainId": 43113
       },
       {
         "address": "0x34B6C87bb59Eb37EFe35C8d594a234Cd8C654D50",
@@ -184,7 +184,7 @@
         "decimals": 18,
         "resourceLinks": [],
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43113/0xAFDa926d549a67229D8DB529638E0BAFCDb66458/logo.png",
-        "chainId": "43113"
+        "chainId": 43113
       },
       {
         "chainId": 43113,
