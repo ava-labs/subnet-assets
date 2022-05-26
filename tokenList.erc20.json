@@ -39,6 +39,7 @@
       "name": "Wagmi",
       "symbol": "WGM",
       "decimals": 18,
+      "description": " ",
       "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/11111/chain-logo.png"
     },
     "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/11111/token-logo.png",
@@ -61,6 +62,7 @@
       "symbol": "AVAX",
       "decimals": 18,
       "coingeckoId": "avalanche-2",
+      "description": " ",
       "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43112/chain-logo.png"
     },
     "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43112/token-logo.png",
@@ -84,6 +86,7 @@
       "symbol": "AVAX",
       "decimals": 18,
       "coingeckoId": "avalanche-2",
+      "description": " ",
       "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43113/chain-logo.png"
     },
     "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43113/token-logo.png",
@@ -251,6 +254,7 @@
       "symbol": "AVAX",
       "decimals": 18,
       "coingeckoId": "avalanche-2",
+      "description": " ",
       "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/chain-logo.png"
     },
     "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/token-logo.png",
@@ -2530,6 +2534,7 @@
       "symbol": "ALOT",
       "decimals": 18,
       "coingeckoId": "dexalot",
+      "description": " ",
       "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/432201/chain-logo.png"
     },
     "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/432201/token-logo.png",
