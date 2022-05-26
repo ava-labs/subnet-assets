@@ -24,11 +24,7 @@
     },
     "vmName": {
       "type": "string",
-      "enum": [
-        "EVM",
-        "BITCOIN",
-        "ETHEREUM"
-      ]
+      "enum": ["EVM", "BITCOIN", "ETHEREUM"]
     },
     "rpcUrl": {
       "type": "string",
@@ -66,12 +62,7 @@
           "type": "number"
         }
       },
-      "required": [
-        "name",
-        "symbol",
-        "description",
-        "decimals"
-      ]
+      "required": ["name", "symbol", "description", "decimals"]
     },
     "pricingProviders": {
       "type": "object",
@@ -87,7 +78,7 @@
               "pattern": "^[a-zA-Z0-9]+$"
             }
           },
-          "required": ["nativeTokenId","assetPlatformId"]
+          "required": ["nativeTokenId", "assetPlatformId"]
         }
       ]
     },
