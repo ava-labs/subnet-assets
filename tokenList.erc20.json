@@ -287,7 +287,7 @@
         "resourceLinks": [],
         "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x026187BdbC6b751003517bcb30Ac7817D5B766f8/logo.png",
         "description": "H2O is the first stablecoin native to Avalanche. It is minted through over-collateralization using LPs from partner platforms. The H2O loans allow users to further build upon their positions by taking out an H2O loan against the LPs and using that H2O for further yields.",
-        "assetType": "Stable Coin"
+        "assetType": "Stablecoin"
       },
       {
         "chainId": 43114,
@@ -354,7 +354,7 @@
         "resourceLinks": [],
         "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x0f577433Bf59560Ef2a79c124E9Ff99fCa258948/logo.png",
         "description": "Moremoney is a protocol for borrowing stablecoin while earning interest on liquidity pool tokens and other collateral assets. The protocol can convert the most popular tokens, e.g., ETH, WBTC, USDT, AVAX, to ibTKNs\r\n\r\nMONEY is backed by a basket of decentralized crypto assets including AVAX, JOE, ETH, QI, and incentivised Trader Joe and Pangolin LP.",
-        "assetType": "Stable Coin"
+        "assetType": "Stablecoin"
       },
       {
         "chainId": 43114,
@@ -399,7 +399,7 @@
         "resourceLinks": [],
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x130966628846BFd36ff31a822705796e8cb8C18D/logo.png",
         "description": " ",
-        "assetType": "Stable Coin"
+        "assetType": "Stablecoin"
       },
       {
         "chainId": 43114,
@@ -422,7 +422,7 @@
         "resourceLinks": [],
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x19860CCB0A68fd4213aB9D8266F7bBf05A8dDe98/logo.png",
         "description": " ",
-        "assetType": "Stable Coin"
+        "assetType": "Stablecoin"
       },
       {
         "chainId": 43114,
@@ -434,7 +434,7 @@
         "resourceLinks": [],
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x1C20E891Bab6b1727d14Da358FAe2984Ed9B59EB/logo.png",
         "description": " ",
-        "assetType": "Stable Coin"
+        "assetType": "Stablecoin"
       },
       {
         "chainId": 43114,
@@ -534,7 +534,7 @@
         "resourceLinks": [],
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x260Bbf5698121EB85e7a74f2E45E16Ce762EbE11/logo.png",
         "description": " ",
-        "assetType": "Stable Coin"
+        "assetType": "Stablecoin"
       },
       {
         "chainId": 43114,
@@ -601,7 +601,7 @@
         "resourceLinks": [],
         "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x346A59146b9b4a77100D369a3d18E8007A9F46a6/logo.png",
         "description": "AVAI is an asset that is pegged to the US Dollar; in other words, a coin intended to float as close to $1.00 USD as possible. It will be backed by locking tokens as collateral in a personal Vault in a Orca Bank as well as via other mechanisms described in the <a href=\"https://docs.avai.finance/protocol/technical-overview\">technical overview</a>.\r\n\r\nThe entire process is decentralized and does not use a middleman such as a financial institution, meaning simply that the user is in full control of their funds at all times. \r\nAn Orca Bank is the contract that allows a user to deposit a specific ERC20 as collateral, granting AVAI in return. Using the USDC token as an example, if a user deposits $150 USD worth of collateral funds into a Vault, they will have the ability to borrow up to 100 AVAI, worth $100 USD. This grants them the opportunity to invest a total of $250 USD, while owing a stable $100 USD. ",
-        "assetType": "Stable Coin"
+        "assetType": "Stablecoin"
       },
       {
         "address": "0x3509f19581aFEDEff07c53592bc0Ca84e4855475",
@@ -613,7 +613,7 @@
         "resourceLinks": [],
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x3509f19581aFEDEff07c53592bc0Ca84e4855475/logo.png",
         "description": " ",
-        "assetType": "Stable Coin"
+        "assetType": "Stablecoin"
       },
       {
         "chainId": 43114,
@@ -845,7 +845,7 @@
         "resourceLinks": [],
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x4fbf0429599460D327BD5F55625E30E4fC066095/logo.png",
         "description": "Teddy Cash is a decentralized borrowing protocol that allows you to draw interest-free loans against AVAX used as collateral. Loans are paid out in TSD (a USD pegged stablecoin) and need to maintain a minimum collateral ratio of 110%. Learn more about these mechanisms in our documentation. https://docs.teddy.cash/\r\n\r\nThe Teddy Dollar (TSD) is the first stablecoin on the Avalanche network that uses AVAX as collateral. In addition to the collateral, the loans are secured by a Stability Pool containing TSD and by fellow borrowers collectively acting as guarantors of last resort. Teddy Cash as a protocol is non-custodial, immutable, and governance-free.\r\n\r\nThe Teddy Cash protocol offers interest-free loans and is more capital efficient than other borrowing systems (i.e. less collateral is needed for the same loan). Instead of selling AVAX to have liquid funds, you can use the protocol to lock up your AVAX, borrow against the collateral to withdraw TSD, and then repay your loan at a future date.",
-        "assetType": "Stable Coin"
+        "assetType": "Stablecoin"
       },
       {
         "address": "0x50b7545627a5162F82A992c33b87aDc75187B218",
@@ -879,7 +879,7 @@
         "resourceLinks": [],
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x564A341Df6C126f90cf3ECB92120FD7190ACb401/logo.png",
         "description": " ",
-        "assetType": "Stable Coin"
+        "assetType": "Stablecoin"
       },
       {
         "address": "0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7",
@@ -935,7 +935,7 @@
         "resourceLinks": [],
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x5c49b268c9841AFF1Cc3B0a418ff5c3442eE3F3b/logo.png",
         "description": " ",
-        "assetType": "Stable Coin"
+        "assetType": "Stablecoin"
       },
       {
         "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -1046,7 +1046,7 @@
         "resourceLinks": [],
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x6feFd97F328342a8A840546A55FDcfEe7542F9A8/logo.png",
         "description": " ",
-        "assetType": "Stable Coin"
+        "assetType": "Stablecoin"
       },
       {
         "chainId": 43114,
@@ -1091,7 +1091,7 @@
         "resourceLinks": [],
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x783C08b5F26E3daf8C4681F3bf49844e425b6393/logo.png",
         "description": "Avaware USD (AUSD) is a 99% backed native stable coin and stable swap on the Avalanche network.",
-        "assetType": "Stable Coin"
+        "assetType": "Stablecoin"
       },
       {
         "address": "0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE",
@@ -1334,7 +1334,7 @@
         "resourceLinks": [],
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7/logo.png",
         "description": " ",
-        "assetType": "Stable Coin"
+        "assetType": "Stablecoin"
       },
       {
         "chainId": 43114,
@@ -1456,7 +1456,7 @@
         "resourceLinks": [],
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xAafd2577Fb67366d3C89DB0d627C49D769ee2e5D/logo.png",
         "description": "Stabilize is a decentralized borrowing protocol2.0 that allows you to draw interest-free loans against basic asset & ibTKNs used as collaterals.",
-        "assetType": "Stable Coin"
+        "assetType": "Stablecoin"
       },
       {
         "chainId": 43114,
@@ -1584,7 +1584,7 @@
         "resourceLinks": [],
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E/logo.png",
         "description": " ",
-        "assetType": "Stable Coin"
+        "assetType": "Stablecoin"
       },
       {
         "chainId": 43114,
@@ -1695,7 +1695,7 @@
         "resourceLinks": [],
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64/logo.png",
         "description": " ",
-        "assetType": "Stable Coin"
+        "assetType": "Stablecoin"
       },
       {
         "chainId": 43114,
@@ -1740,7 +1740,7 @@
         "resourceLinks": [],
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xDC42728B0eA910349ed3c6e1c9Dc06b5FB591f98/logo.png",
         "description": " ",
-        "assetType": "Stable Coin"
+        "assetType": "Stablecoin"
       },
       {
         "chainId": 43114,
