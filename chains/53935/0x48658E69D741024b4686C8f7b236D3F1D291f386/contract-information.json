@@ -1,6 +1,7 @@
 {
-    "address": "0x48658E69D741024b4686C8f7b236D3F1D291f386",
-    "name": "JEWEL-CRYSTAL LP Token",
-    "chainId": 53935,
-    "description": ""
+  "address": "0x48658E69D741024b4686C8f7b236D3F1D291f386",
+  "name": "JEWEL-CRYSTAL LP Token",
+  "chainId": 53935,
+  "description": "",
+  "contractType": "ERC-20"
 }
