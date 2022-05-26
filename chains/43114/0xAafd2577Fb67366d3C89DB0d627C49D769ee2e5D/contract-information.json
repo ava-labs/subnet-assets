@@ -8,5 +8,5 @@
     "resourceLinks": [],
     "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xAafd2577Fb67366d3C89DB0d627C49D769ee2e5D/logo.png",
     "description": "Stabilize is a decentralized borrowing protocol2.0 that allows you to draw interest-free loans against basic asset & ibTKNs used as collaterals.",
-    "assetType": "Stable Coin"
+    "assetType": "Stablecoin"
 }
