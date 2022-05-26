@@ -1,5 +1,7 @@
 {
-  "address": "0xa5c47B4bEb35215fB0CF0Ea6516F9921591c3aCE",
-  "name": "Crystal",
-  "symbol": "CRYSTAL"
+    "address": "0xa5c47B4bEb35215fB0CF0Ea6516F9921591c3aCE",
+    "name": "Crystal",
+    "symbol": "CRYSTAL",
+    "chainId": "335",
+    "description": " "
 }

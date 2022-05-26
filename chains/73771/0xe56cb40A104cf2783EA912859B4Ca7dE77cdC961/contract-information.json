@@ -40,5 +40,6 @@
             "type": "CoinGecko",
             "url": "https://www.coingecko.com/en/coins/treasure-under-sea"
         }
-    ]
+    ],
+    "chainId": "73771"
 }
