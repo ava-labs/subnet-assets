@@ -5,7 +5,7 @@ export interface ChainInformation {
   platformChainId: string;
   subnetId: string;
   vmId: string;
-  vmName: "EVM" | "BITCOIN" | "ETHEREUM";
+  vmName: 'EVM' | 'BITCOIN' | 'ETHEREUM';
   rpcUrl: string; // uri
   wsUrl?: string; // uri
   isTestnet: boolean;
@@ -14,14 +14,13 @@ export interface ChainInformation {
   networkToken: NetworkToken;
 }
 
-export type PricingProviderConfig<T extends PricingProvider> =
-  T extends "coingecko" ? CoinGeckoConfiguration : never;
+export type PricingProviderConfig<T extends PricingProvider> = T extends 'coingecko' ? CoinGeckoConfiguration : never;
 
 export type PricingProvidersConfig = {
   [K in PricingProvider]?: PricingProviderConfig<K>;
 };
 
-export const validProviderTypes = ["coingecko"];
+export const validProviderTypes = ['coingecko'];
 
 export type PricingProvider = typeof validProviderTypes[number];
 

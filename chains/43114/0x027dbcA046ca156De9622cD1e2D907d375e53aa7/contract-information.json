@@ -1,11 +1,11 @@
 {
-    "chainId": 43114,
-    "address": "0x027dbcA046ca156De9622cD1e2D907d375e53aa7",
-    "decimals": 9,
-    "name": "Ampleforth",
-    "symbol": "AMPL",
-    "contractType": "ERC-20",
-    "resourceLinks": [],
-    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x027dbcA046ca156De9622cD1e2D907d375e53aa7/logo.png",
-    "description": " "
+  "chainId": 43114,
+  "address": "0x027dbcA046ca156De9622cD1e2D907d375e53aa7",
+  "decimals": 9,
+  "name": "Ampleforth",
+  "symbol": "AMPL",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x027dbcA046ca156De9622cD1e2D907d375e53aa7/logo.png",
+  "description": " "
 }

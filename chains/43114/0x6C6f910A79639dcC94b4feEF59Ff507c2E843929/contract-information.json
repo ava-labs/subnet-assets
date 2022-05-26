@@ -1,11 +1,11 @@
 {
-    "chainId": 43114,
-    "address": "0x6C6f910A79639dcC94b4feEF59Ff507c2E843929",
-    "decimals": 18,
-    "name": "Ankr Avalanche Reward Earning Bond",
-    "symbol": "aAVAXb",
-    "contractType": "ERC-20",
-    "resourceLinks": [],
-    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x6C6f910A79639dcC94b4feEF59Ff507c2E843929/logo.png",
-    "description": " "
+  "chainId": 43114,
+  "address": "0x6C6f910A79639dcC94b4feEF59Ff507c2E843929",
+  "decimals": 18,
+  "name": "Ankr Avalanche Reward Earning Bond",
+  "symbol": "aAVAXb",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x6C6f910A79639dcC94b4feEF59Ff507c2E843929/logo.png",
+  "description": " "
 }

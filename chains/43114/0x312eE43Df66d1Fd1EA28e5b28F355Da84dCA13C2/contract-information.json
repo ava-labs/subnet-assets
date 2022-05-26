@@ -1,11 +1,11 @@
 {
-    "chainId": 43114,
-    "address": "0x312eE43Df66d1Fd1EA28e5b28F355Da84dCA13C2",
-    "decimals": 12,
-    "name": "SwapXI Token",
-    "symbol": "SWAPXI",
-    "contractType": "ERC-20",
-    "resourceLinks": [],
-    "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x312eE43Df66d1Fd1EA28e5b28F355Da84dCA13C2/logo.png",
-    "description": "\"With its token, SwapXI offers an interactive ecosystem for everyone who is linked to the SwapXI token. Any income from the respective components flows directly into the token and influences the market price.\r\nSwapXI specializes in the gaming industry with the components of a games/software marketplace, a metaverse and a streaming plugin that allows cross-streaming across multiple platforms.\""
+  "chainId": 43114,
+  "address": "0x312eE43Df66d1Fd1EA28e5b28F355Da84dCA13C2",
+  "decimals": 12,
+  "name": "SwapXI Token",
+  "symbol": "SWAPXI",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x312eE43Df66d1Fd1EA28e5b28F355Da84dCA13C2/logo.png",
+  "description": "\"With its token, SwapXI offers an interactive ecosystem for everyone who is linked to the SwapXI token. Any income from the respective components flows directly into the token and influences the market price.\r\nSwapXI specializes in the gaming industry with the components of a games/software marketplace, a metaverse and a streaming plugin that allows cross-streaming across multiple platforms.\""
 }

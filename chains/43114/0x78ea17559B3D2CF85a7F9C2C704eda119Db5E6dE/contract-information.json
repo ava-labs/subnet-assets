@@ -1,11 +1,11 @@
 {
-    "address": "0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE",
-    "name": "Avaware",
-    "symbol": "AVE",
-    "contractType": "ERC-20",
-    "decimals": 18,
-    "resourceLinks": [],
-    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE/logo.png",
-    "chainId": 43114,
-    "description": "Avaware is building a platform for growth. We're devoted to developing quality applications of the DeFi, Gaming, NFT, and information variety. It is our mission to build and maintain a portfolio of assets that add value to our token and the Avalanche community as a whole. Our team knows that the projects we develop and support reflect on us, therefor we take pride in building and supporting quality projects we truly believe add value to the ecosystem.\r\n\r\nWe believe our launchpad will bring value to the ecosystem. IFOs are an excellent method of distributing a new projects token into the community. We plan on obtaining tokens from new projects and providing the initial capital they need to operate effectively. These tokens will then be distributed to AVE holders through farming, ensuring an equal and open distrubiton anyone may partake in. We will also provide marketing through our web and social presence, ensuring the projects we launch have the visibility they need to succeed and thrive on Avalanche. This will give AVE holders the chance to farm and hold exciting new tokens on the Avalanche network before they even hit the market!"
+  "address": "0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE",
+  "name": "Avaware",
+  "symbol": "AVE",
+  "contractType": "ERC-20",
+  "decimals": 18,
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE/logo.png",
+  "chainId": 43114,
+  "description": "Avaware is building a platform for growth. We're devoted to developing quality applications of the DeFi, Gaming, NFT, and information variety. It is our mission to build and maintain a portfolio of assets that add value to our token and the Avalanche community as a whole. Our team knows that the projects we develop and support reflect on us, therefor we take pride in building and supporting quality projects we truly believe add value to the ecosystem.\r\n\r\nWe believe our launchpad will bring value to the ecosystem. IFOs are an excellent method of distributing a new projects token into the community. We plan on obtaining tokens from new projects and providing the initial capital they need to operate effectively. These tokens will then be distributed to AVE holders through farming, ensuring an equal and open distrubiton anyone may partake in. We will also provide marketing through our web and social presence, ensuring the projects we launch have the visibility they need to succeed and thrive on Avalanche. This will give AVE holders the chance to farm and hold exciting new tokens on the Avalanche network before they even hit the market!"
 }

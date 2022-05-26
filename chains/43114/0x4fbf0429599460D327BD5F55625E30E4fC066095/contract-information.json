@@ -1,12 +1,12 @@
 {
-    "address": "0x4fbf0429599460D327BD5F55625E30E4fC066095",
-    "chainId": 43114,
-    "name": "TSD",
-    "symbol": "TSD",
-    "decimals": 18,
-    "contractType": "ERC-20",
-    "resourceLinks": [],
-    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x4fbf0429599460D327BD5F55625E30E4fC066095/logo.png",
-    "description": "Teddy Cash is a decentralized borrowing protocol that allows you to draw interest-free loans against AVAX used as collateral. Loans are paid out in TSD (a USD pegged stablecoin) and need to maintain a minimum collateral ratio of 110%. Learn more about these mechanisms in our documentation. https://docs.teddy.cash/\r\n\r\nThe Teddy Dollar (TSD) is the first stablecoin on the Avalanche network that uses AVAX as collateral. In addition to the collateral, the loans are secured by a Stability Pool containing TSD and by fellow borrowers collectively acting as guarantors of last resort. Teddy Cash as a protocol is non-custodial, immutable, and governance-free.\r\n\r\nThe Teddy Cash protocol offers interest-free loans and is more capital efficient than other borrowing systems (i.e. less collateral is needed for the same loan). Instead of selling AVAX to have liquid funds, you can use the protocol to lock up your AVAX, borrow against the collateral to withdraw TSD, and then repay your loan at a future date.",
-    "assetType": "Stablecoin"
+  "address": "0x4fbf0429599460D327BD5F55625E30E4fC066095",
+  "chainId": 43114,
+  "name": "TSD",
+  "symbol": "TSD",
+  "decimals": 18,
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x4fbf0429599460D327BD5F55625E30E4fC066095/logo.png",
+  "description": "Teddy Cash is a decentralized borrowing protocol that allows you to draw interest-free loans against AVAX used as collateral. Loans are paid out in TSD (a USD pegged stablecoin) and need to maintain a minimum collateral ratio of 110%. Learn more about these mechanisms in our documentation. https://docs.teddy.cash/\r\n\r\nThe Teddy Dollar (TSD) is the first stablecoin on the Avalanche network that uses AVAX as collateral. In addition to the collateral, the loans are secured by a Stability Pool containing TSD and by fellow borrowers collectively acting as guarantors of last resort. Teddy Cash as a protocol is non-custodial, immutable, and governance-free.\r\n\r\nThe Teddy Cash protocol offers interest-free loans and is more capital efficient than other borrowing systems (i.e. less collateral is needed for the same loan). Instead of selling AVAX to have liquid funds, you can use the protocol to lock up your AVAX, borrow against the collateral to withdraw TSD, and then repay your loan at a future date.",
+  "assetType": "Stablecoin"
 }

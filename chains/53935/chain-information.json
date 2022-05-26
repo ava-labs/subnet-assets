@@ -1,21 +1,21 @@
 {
-    "chainName": "DFK Chain",
-    "description": "The vision for the DFK Chain on the Defi Kingdoms subnet is to become the go-to location for community members and projects to launch GameFi and other blockchain gaming experiences in conjunction with the primary offering of DeFi Kingdoms: Crystalvale.",
-    "chainId": 53935,
-    "platformChainId": "q2aTwKuyzgs8pynF7UXBZCU7DejbZbZ6EUyHr3JQzYgwNPUPi",
-    "subnetId": "Vn3aX6hNRstj5VHHm63TCgPNaeGnRSqCYXQqemSqDd2TQH4qJ",
-    "vmId": "mDV3QWRXfwgKUWb9sggkv4vQxAQR4y2CyKrt5pLZ5SzQ7EHBv",
-    "vmName": "EVM",
-    "rpcUrl": "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc",
-    "wsUrl": "wss://subnets.avax.network/defi-kingdoms/dfk-chain/ws",
-    "multicallAddress": "0x5b24224dC16508DAD755756639E420817DD4c99E",
-    "isTestnet": false,
-    "coingeckoAssetPlatformId": "defi-kingdoms-blockchain",
-    "networkToken": {
-        "name": "JEWEL",
-        "symbol": "JEWEL",
-        "description": "JEWEL is the central token on the DFK Chain and used to pay gas for all transactions. While it is not natively minted on the DFK Chain, it is integral to the chain's function.",
-        "decimals": 18,
-        "coingeckoId": "defi-kingdoms"
-    }
+  "chainName": "DFK Chain",
+  "description": "The vision for the DFK Chain on the Defi Kingdoms subnet is to become the go-to location for community members and projects to launch GameFi and other blockchain gaming experiences in conjunction with the primary offering of DeFi Kingdoms: Crystalvale.",
+  "chainId": 53935,
+  "platformChainId": "q2aTwKuyzgs8pynF7UXBZCU7DejbZbZ6EUyHr3JQzYgwNPUPi",
+  "subnetId": "Vn3aX6hNRstj5VHHm63TCgPNaeGnRSqCYXQqemSqDd2TQH4qJ",
+  "vmId": "mDV3QWRXfwgKUWb9sggkv4vQxAQR4y2CyKrt5pLZ5SzQ7EHBv",
+  "vmName": "EVM",
+  "rpcUrl": "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc",
+  "wsUrl": "wss://subnets.avax.network/defi-kingdoms/dfk-chain/ws",
+  "multicallAddress": "0x5b24224dC16508DAD755756639E420817DD4c99E",
+  "isTestnet": false,
+  "coingeckoAssetPlatformId": "defi-kingdoms-blockchain",
+  "networkToken": {
+    "name": "JEWEL",
+    "symbol": "JEWEL",
+    "description": "JEWEL is the central token on the DFK Chain and used to pay gas for all transactions. While it is not natively minted on the DFK Chain, it is integral to the chain's function.",
+    "decimals": 18,
+    "coingeckoId": "defi-kingdoms"
+  }
 }

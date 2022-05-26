@@ -1,11 +1,11 @@
 {
-    "chainId": 43114,
-    "address": "0xd9D90f882CDdD6063959A9d837B05Cb748718A05",
-    "decimals": 18,
-    "name": "More Token",
-    "symbol": "MORE",
-    "contractType": "ERC-20",
-    "resourceLinks": [],
-    "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xd9D90f882CDdD6063959A9d837B05Cb748718A05/logo.png",
-    "description": "Moremoney is a protocol for borrowing stablecoin while earning more than decent interest on liquidity pool tokens and other collateral assets. The protocol can convert the most popular tokens, e.g., ETH, WBTC, USDT, AVAX, into ibTKNs.\r\nSimply put, with Moremoney, users can keep their position, keep earning yield, and still extract liquid cash even better at 0% interest rate."
+  "chainId": 43114,
+  "address": "0xd9D90f882CDdD6063959A9d837B05Cb748718A05",
+  "decimals": 18,
+  "name": "More Token",
+  "symbol": "MORE",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xd9D90f882CDdD6063959A9d837B05Cb748718A05/logo.png",
+  "description": "Moremoney is a protocol for borrowing stablecoin while earning more than decent interest on liquidity pool tokens and other collateral assets. The protocol can convert the most popular tokens, e.g., ETH, WBTC, USDT, AVAX, into ibTKNs.\r\nSimply put, with Moremoney, users can keep their position, keep earning yield, and still extract liquid cash even better at 0% interest rate."
 }

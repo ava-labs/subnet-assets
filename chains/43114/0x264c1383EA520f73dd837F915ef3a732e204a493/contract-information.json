@@ -1,11 +1,11 @@
 {
-    "chainId": 43114,
-    "address": "0x264c1383EA520f73dd837F915ef3a732e204a493",
-    "decimals": 18,
-    "name": "Binance",
-    "symbol": "BNB",
-    "contractType": "ERC-20",
-    "resourceLinks": [],
-    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x264c1383EA520f73dd837F915ef3a732e204a493/logo.png",
-    "description": " "
+  "chainId": 43114,
+  "address": "0x264c1383EA520f73dd837F915ef3a732e204a493",
+  "decimals": 18,
+  "name": "Binance",
+  "symbol": "BNB",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x264c1383EA520f73dd837F915ef3a732e204a493/logo.png",
+  "description": " "
 }

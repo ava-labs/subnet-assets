@@ -1,11 +1,11 @@
 {
-    "address": "0x50b7545627a5162F82A992c33b87aDc75187B218",
-    "name": "Wrapped BTC",
-    "symbol": "WBTC.e",
-    "contractType": "ERC-20",
-    "decimals": 8,
-    "resourceLinks": [],
-    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x50b7545627a5162F82A992c33b87aDc75187B218/logo.png",
-    "chainId": 43114,
-    "description": " "
+  "address": "0x50b7545627a5162F82A992c33b87aDc75187B218",
+  "name": "Wrapped BTC",
+  "symbol": "WBTC.e",
+  "contractType": "ERC-20",
+  "decimals": 8,
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x50b7545627a5162F82A992c33b87aDc75187B218/logo.png",
+  "chainId": 43114,
+  "description": " "
 }

@@ -1,11 +1,11 @@
 {
-    "chainId": 43114,
-    "address": "0xcA220F1e486A8e35d6F1DCD62073Ad8DD04659ED",
-    "decimals": 6,
-    "name": "BiAltin",
-    "symbol": "GLDB",
-    "contractType": "ERC-20",
-    "resourceLinks": [],
-    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xcA220F1e486A8e35d6F1DCD62073Ad8DD04659ED/logo.png",
-    "description": " "
+  "chainId": 43114,
+  "address": "0xcA220F1e486A8e35d6F1DCD62073Ad8DD04659ED",
+  "decimals": 6,
+  "name": "BiAltin",
+  "symbol": "GLDB",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xcA220F1e486A8e35d6F1DCD62073Ad8DD04659ED/logo.png",
+  "description": " "
 }

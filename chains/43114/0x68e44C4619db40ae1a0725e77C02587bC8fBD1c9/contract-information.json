@@ -1,11 +1,11 @@
 {
-    "chainId": 43114,
-    "address": "0x68e44C4619db40ae1a0725e77C02587bC8fBD1c9",
-    "decimals": 18,
-    "name": "Synthetix Network Token",
-    "symbol": "SNX",
-    "contractType": "ERC-20",
-    "resourceLinks": [],
-    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x68e44C4619db40ae1a0725e77C02587bC8fBD1c9/logo.png",
-    "description": " "
+  "chainId": 43114,
+  "address": "0x68e44C4619db40ae1a0725e77C02587bC8fBD1c9",
+  "decimals": 18,
+  "name": "Synthetix Network Token",
+  "symbol": "SNX",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x68e44C4619db40ae1a0725e77C02587bC8fBD1c9/logo.png",
+  "description": " "
 }

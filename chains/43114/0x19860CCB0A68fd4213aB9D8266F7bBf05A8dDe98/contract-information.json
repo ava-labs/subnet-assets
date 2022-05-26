@@ -1,12 +1,12 @@
 {
-    "chainId": 43114,
-    "address": "0x19860CCB0A68fd4213aB9D8266F7bBf05A8dDe98",
-    "decimals": 18,
-    "name": "Binance USD",
-    "symbol": "BUSD.e",
-    "contractType": "ERC-20",
-    "resourceLinks": [],
-    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x19860CCB0A68fd4213aB9D8266F7bBf05A8dDe98/logo.png",
-    "description": " ",
-    "assetType": "Stablecoin"
+  "chainId": 43114,
+  "address": "0x19860CCB0A68fd4213aB9D8266F7bBf05A8dDe98",
+  "decimals": 18,
+  "name": "Binance USD",
+  "symbol": "BUSD.e",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x19860CCB0A68fd4213aB9D8266F7bBf05A8dDe98/logo.png",
+  "description": " ",
+  "assetType": "Stablecoin"
 }

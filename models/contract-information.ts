@@ -3,8 +3,8 @@ export interface ContractInformation {
   description: string;
   name: string;
   symbol?: string;
-  contractType: "ERC-20" | "ERC-721" | "Other";
-  assetType: "Fixed Cap" | "Unlimited Cap" | "Stablecoin" | "NFT";
+  contractType: 'ERC-20' | 'ERC-721' | 'Other';
+  assetType: 'Fixed Cap' | 'Unlimited Cap' | 'Stablecoin' | 'NFT';
   officialSite?: string; // uri
   tags?: string[];
   email?: string;
@@ -15,19 +15,19 @@ export interface ContractInformation {
 
 export type ResourceLink = {
   type:
-    | "Twitter"
-    | "Facebook"
-    | "Discord"
-    | "Telegram"
-    | "Blog"
-    | "Medium"
-    | "Whitepaper"
-    | "CoinGecko"
-    | "CoinMarketCap"
-    | "Email"
-    | "LinkedIn"
-    | "Reddit"
-    | "Support"
-    | "Github";
+    | 'Twitter'
+    | 'Facebook'
+    | 'Discord'
+    | 'Telegram'
+    | 'Blog'
+    | 'Medium'
+    | 'Whitepaper'
+    | 'CoinGecko'
+    | 'CoinMarketCap'
+    | 'Email'
+    | 'LinkedIn'
+    | 'Reddit'
+    | 'Support'
+    | 'Github';
   url: string; // uri
 };

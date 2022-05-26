@@ -1,11 +1,11 @@
 {
-    "chainId": 43114,
-    "address": "0x02D980A0D7AF3fb7Cf7Df8cB35d9eDBCF355f665",
-    "decimals": 18,
-    "name": "SHIBA INU",
-    "symbol": "SHIB.e",
-    "contractType": "ERC-20",
-    "resourceLinks": [],
-    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x02D980A0D7AF3fb7Cf7Df8cB35d9eDBCF355f665/logo.png",
-    "description": " "
+  "chainId": 43114,
+  "address": "0x02D980A0D7AF3fb7Cf7Df8cB35d9eDBCF355f665",
+  "decimals": 18,
+  "name": "SHIBA INU",
+  "symbol": "SHIB.e",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x02D980A0D7AF3fb7Cf7Df8cB35d9eDBCF355f665/logo.png",
+  "description": " "
 }

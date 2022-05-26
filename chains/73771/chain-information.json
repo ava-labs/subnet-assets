@@ -1,20 +1,20 @@
 {
-    "chainName": "Swimmer Testnet",
-    "description": "Swimmer Network is a custom blockchain built on an Avalanche Subnet, and is home to Crabada, an undersea world filled with fierce fighting Hermit-Crabs called Crabada. The Crabada Idle-Game and marketplace is expected migrate from the C-chain onto the Swimmer Network. Crabada can be bred, and used in games to earn cryptocurrencies with real value.",
-    "chainId": 73771,
-    "platformChainId": "2hUULz82ZYMKwjBHZybVRyouk38EmcW7UKP4iocf9rghpvfm84",
-    "subnetId": "WUCXWAHsS6iygdik7RVRL3CjJHqbDQ1RESPUDqQpsH6wnRn96",
-    "vmId": "srSGD5JeYhL8GLx4RUw53VN5TcoBbax6EeCYmy5S3DiteJhdF",
-    "vmName": "EVM",
-    "rpcUrl": "https://subnets.avax.network/swimmer/testnet/rpc",
-    "wsUrl": "wss://subnets.avax.network/swimmer/testnet/ws",
-    "multicallAddress": "0x4754009155eCFC2074E0dC9Fd0bf1d3d94a3Bb9c",
-    "isTestnet": true,
-    "networkToken": {
-        "name": "Treasure Under Sea",
-        "symbol": "TUS",
-        "description": "TUS is the gas token on the Swimmer Chain and used to pay gas for all transactions.",
-        "decimals": 18,
-        "coingeckoId": "treasure-under-sea"
-    }
+  "chainName": "Swimmer Testnet",
+  "description": "Swimmer Network is a custom blockchain built on an Avalanche Subnet, and is home to Crabada, an undersea world filled with fierce fighting Hermit-Crabs called Crabada. The Crabada Idle-Game and marketplace is expected migrate from the C-chain onto the Swimmer Network. Crabada can be bred, and used in games to earn cryptocurrencies with real value.",
+  "chainId": 73771,
+  "platformChainId": "2hUULz82ZYMKwjBHZybVRyouk38EmcW7UKP4iocf9rghpvfm84",
+  "subnetId": "WUCXWAHsS6iygdik7RVRL3CjJHqbDQ1RESPUDqQpsH6wnRn96",
+  "vmId": "srSGD5JeYhL8GLx4RUw53VN5TcoBbax6EeCYmy5S3DiteJhdF",
+  "vmName": "EVM",
+  "rpcUrl": "https://subnets.avax.network/swimmer/testnet/rpc",
+  "wsUrl": "wss://subnets.avax.network/swimmer/testnet/ws",
+  "multicallAddress": "0x4754009155eCFC2074E0dC9Fd0bf1d3d94a3Bb9c",
+  "isTestnet": true,
+  "networkToken": {
+    "name": "Treasure Under Sea",
+    "symbol": "TUS",
+    "description": "TUS is the gas token on the Swimmer Chain and used to pay gas for all transactions.",
+    "decimals": 18,
+    "coingeckoId": "treasure-under-sea"
+  }
 }

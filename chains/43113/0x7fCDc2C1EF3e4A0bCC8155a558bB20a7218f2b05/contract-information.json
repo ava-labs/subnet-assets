@@ -1,11 +1,11 @@
 {
-    "address": "0x7fCDc2C1EF3e4A0bCC8155a558bB20a7218f2b05",
-    "chainId": 43113,
-    "name": "Wrapped Ether",
-    "symbol": "WETH",
-    "decimals": 18,
-    "contractType": "ERC-20",
-    "resourceLinks": [],
-    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43113/0x7fCDc2C1EF3e4A0bCC8155a558bB20a7218f2b05/logo.png",
-    "description": " "
+  "address": "0x7fCDc2C1EF3e4A0bCC8155a558bB20a7218f2b05",
+  "chainId": 43113,
+  "name": "Wrapped Ether",
+  "symbol": "WETH",
+  "decimals": 18,
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43113/0x7fCDc2C1EF3e4A0bCC8155a558bB20a7218f2b05/logo.png",
+  "description": " "
 }

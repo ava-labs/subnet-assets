@@ -1,11 +1,11 @@
 {
-    "chainId": 43114,
-    "address": "0x7f041ce89A2079873693207653b24C15B5e6A293",
-    "decimals": 18,
-    "name": "LOOT",
-    "symbol": "LOOT",
-    "contractType": "ERC-20",
-    "resourceLinks": [],
-    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x7f041ce89A2079873693207653b24C15B5e6A293/logo.png",
-    "description": "Police and Thief Game is a NFT P2E game on Avalanche, a Wolf Game derivative. The game incorporates probability based derivatives and decision making possibilities to allow players to make various decisions to come out on top. The collection is officially verified on NFTrade."
+  "chainId": 43114,
+  "address": "0x7f041ce89A2079873693207653b24C15B5e6A293",
+  "decimals": 18,
+  "name": "LOOT",
+  "symbol": "LOOT",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x7f041ce89A2079873693207653b24C15B5e6A293/logo.png",
+  "description": "Police and Thief Game is a NFT P2E game on Avalanche, a Wolf Game derivative. The game incorporates probability based derivatives and decision making possibilities to allow players to make various decisions to come out on top. The collection is officially verified on NFTrade."
 }

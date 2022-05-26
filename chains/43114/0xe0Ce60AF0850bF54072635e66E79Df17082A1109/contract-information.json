@@ -1,11 +1,11 @@
 {
-    "chainId": 43114,
-    "address": "0xe0Ce60AF0850bF54072635e66E79Df17082A1109",
-    "decimals": 18,
-    "name": "IceToken",
-    "symbol": "ICE",
-    "contractType": "ERC-20",
-    "resourceLinks": [],
-    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xe0Ce60AF0850bF54072635e66E79Df17082A1109/logo.png",
-    "description": " "
+  "chainId": 43114,
+  "address": "0xe0Ce60AF0850bF54072635e66E79Df17082A1109",
+  "decimals": 18,
+  "name": "IceToken",
+  "symbol": "ICE",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xe0Ce60AF0850bF54072635e66E79Df17082A1109/logo.png",
+  "description": " "
 }

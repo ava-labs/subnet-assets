@@ -19,20 +19,11 @@
     },
     "contractType": {
       "type": "string",
-      "enum": [
-        "ERC-20",
-        "ERC-721",
-        "Other"
-      ]
+      "enum": ["ERC-20", "ERC-721", "Other"]
     },
     "assetType": {
       "type": "string",
-      "enum": [
-        "Fixed Cap",
-        "Unlimited Cap",
-        "Stablecoin",
-        "NFT"
-      ]
+      "enum": ["Fixed Cap", "Unlimited Cap", "Stablecoin", "NFT"]
     },
     "officialSite": {
       "type": "string",
@@ -87,19 +78,11 @@
             "format": "uri"
           }
         },
-        "required": [
-          "type",
-          "url"
-        ]
+        "required": ["type", "url"]
       }
     }
   },
-  "required": [
-    "address",
-    "contractType",
-    "name",
-    "description"
-  ],
+  "required": ["address", "contractType", "name", "description"],
   "allOf": [
     {
       "if": {
@@ -121,9 +104,7 @@
         ]
       },
       "then": {
-        "required": [
-          "symbol"
-        ]
+        "required": ["symbol"]
       }
     }
   ]

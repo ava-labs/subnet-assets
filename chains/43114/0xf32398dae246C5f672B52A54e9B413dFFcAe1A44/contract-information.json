@@ -1,11 +1,11 @@
 {
-    "chainId": 43114,
-    "address": "0xf32398dae246C5f672B52A54e9B413dFFcAe1A44",
-    "decimals": 18,
-    "name": "Kassandra",
-    "symbol": "KACY",
-    "contractType": "ERC-20",
-    "resourceLinks": [],
-    "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xf32398dae246C5f672B52A54e9B413dFFcAe1A44/logo.png",
-    "description": "Kassandra is an audacious project to delegate money management in a decentralized, efficient, and customizable way, working as a marketplace for tokenized and data-driven investment strategies.\r\n\r\nFor managers, Kassandra is a plug-and-earn solution to port complex money management strategies to decentralized ecosystems, saving time and costs when compared to the traditional market, helping managers to raise funds without the need for complex infrastructure.With Kassandra, retail investors will be able to delegate money management to professionals without hassle.\r\n\r\nThe first curated tokenized investment fund to be launched by Kassandra will be the Avalanche Social Index, an investment strategy that would automagically invest in the most solid and engaged communities by using social data in partnership with the social data company https://heimdall.land"
+  "chainId": 43114,
+  "address": "0xf32398dae246C5f672B52A54e9B413dFFcAe1A44",
+  "decimals": 18,
+  "name": "Kassandra",
+  "symbol": "KACY",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xf32398dae246C5f672B52A54e9B413dFFcAe1A44/logo.png",
+  "description": "Kassandra is an audacious project to delegate money management in a decentralized, efficient, and customizable way, working as a marketplace for tokenized and data-driven investment strategies.\r\n\r\nFor managers, Kassandra is a plug-and-earn solution to port complex money management strategies to decentralized ecosystems, saving time and costs when compared to the traditional market, helping managers to raise funds without the need for complex infrastructure.With Kassandra, retail investors will be able to delegate money management to professionals without hassle.\r\n\r\nThe first curated tokenized investment fund to be launched by Kassandra will be the Avalanche Social Index, an investment strategy that would automagically invest in the most solid and engaged communities by using social data in partnership with the social data company https://heimdall.land"
 }

@@ -24,9 +24,7 @@
     },
     "vmName": {
       "type": "string",
-      "enum": [
-        "EVM", "BITCOIN", "ETHEREUM"
-      ]
+      "enum": ["EVM", "BITCOIN", "ETHEREUM"]
     },
     "rpcUrl": {
       "type": "string",
@@ -62,12 +60,7 @@
           "type": "string"
         }
       },
-      "required": [
-        "name",
-        "symbol",
-        "description",
-        "decimals"
-      ]
+      "required": ["name", "symbol", "description", "decimals"]
     },
     "coingeckoAssetPlatformId": {
       "type": "string"

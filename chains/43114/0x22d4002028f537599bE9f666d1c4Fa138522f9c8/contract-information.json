@@ -1,11 +1,11 @@
 {
-    "chainId": 43114,
-    "address": "0x22d4002028f537599bE9f666d1c4Fa138522f9c8",
-    "decimals": 18,
-    "name": "Platypus",
-    "symbol": "PTP",
-    "contractType": "ERC-20",
-    "resourceLinks": [],
-    "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x22d4002028f537599bE9f666d1c4Fa138522f9c8/logo.png",
-    "description": "Platypus' AMM facilitates seamless exchange between pegged assets. Its single-sided liquidity provision redefines the way AMM works."
+  "chainId": 43114,
+  "address": "0x22d4002028f537599bE9f666d1c4Fa138522f9c8",
+  "decimals": 18,
+  "name": "Platypus",
+  "symbol": "PTP",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x22d4002028f537599bE9f666d1c4Fa138522f9c8/logo.png",
+  "description": "Platypus' AMM facilitates seamless exchange between pegged assets. Its single-sided liquidity provision redefines the way AMM works."
 }

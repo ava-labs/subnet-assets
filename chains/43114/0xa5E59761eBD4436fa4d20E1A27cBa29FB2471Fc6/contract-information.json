@@ -1,11 +1,11 @@
 {
-    "chainId": 43114,
-    "address": "0xa5E59761eBD4436fa4d20E1A27cBa29FB2471Fc6",
-    "decimals": 18,
-    "name": "Sherpa",
-    "symbol": "SHERPA",
-    "contractType": "ERC-20",
-    "resourceLinks": [],
-    "logoUri": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xa5E59761eBD4436fa4d20E1A27cBa29FB2471Fc6/logo.png",
-    "description": "Sherpa Cash is a decentralized, non-custodial privacy solution built on Avalanche. It improves transaction privacy by breaking the on-chain link between recipient and destination addresses. Sherpa Cash uses a smart contract that accepts AVAX and ERC-20 deposits. These deposits can be withdrawn by any on-chain address. Whenever an asset is withdrawn by the new address, there is no way to link the withdrawal to the deposit, ensuring asset privacy.\r\n\r\nSherpa Cash uses zero knowledge proofs (zk-SNARKs) to achieve privacy. When a user decides to make a withdrawal, the user must provide proof that he or she possesses a secret corresponding to one of the smart contract’s list of deposits. zk-SNARK technology allows this proof to be verified without the user needing to reveal which exact deposit corresponds to their secret. The smart contract then checks the proof, and transfers deposited funds to the address specified by the withdrawal transaction. Any external observer is unable to determine which deposit this withdrawal is linked to."
+  "chainId": 43114,
+  "address": "0xa5E59761eBD4436fa4d20E1A27cBa29FB2471Fc6",
+  "decimals": 18,
+  "name": "Sherpa",
+  "symbol": "SHERPA",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xa5E59761eBD4436fa4d20E1A27cBa29FB2471Fc6/logo.png",
+  "description": "Sherpa Cash is a decentralized, non-custodial privacy solution built on Avalanche. It improves transaction privacy by breaking the on-chain link between recipient and destination addresses. Sherpa Cash uses a smart contract that accepts AVAX and ERC-20 deposits. These deposits can be withdrawn by any on-chain address. Whenever an asset is withdrawn by the new address, there is no way to link the withdrawal to the deposit, ensuring asset privacy.\r\n\r\nSherpa Cash uses zero knowledge proofs (zk-SNARKs) to achieve privacy. When a user decides to make a withdrawal, the user must provide proof that he or she possesses a secret corresponding to one of the smart contract’s list of deposits. zk-SNARK technology allows this proof to be verified without the user needing to reveal which exact deposit corresponds to their secret. The smart contract then checks the proof, and transfers deposited funds to the address specified by the withdrawal transaction. Any external observer is unable to determine which deposit this withdrawal is linked to."
 }

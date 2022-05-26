@@ -1,11 +1,11 @@
 {
-    "chainId": 43114,
-    "address": "0xf3EC49ACb3084618121741e4BBB20996D383E9b2",
-    "decimals": 18,
-    "name": "KING",
-    "symbol": "KING",
-    "contractType": "ERC-20",
-    "resourceLinks": [],
-    "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xf3EC49ACb3084618121741e4BBB20996D383E9b2/logo.png",
-    "description": "The $KING algorithmic token serves as the backbone of:\r\nrapidly growing ecosystem aimed towards bringing\r\nliquidity and new use cases to the Avalanche blockchain. The\r\nprotocol's underlying mechanism dynamically adjusts $KING’s supply, pushing its price up or down relative to the price of $AVAX.\r\n\r\nInspired by tomb.finance, who was originally inspired by the idea behind Basis as well as its predecessors, king finance is a multi-token protocol which consists of the following three tokens:\r\n- King Finance ($KING)\r\n- KING Shares ($KSHARE) \r\n- KING Bonds ($KBOND)"
+  "chainId": 43114,
+  "address": "0xf3EC49ACb3084618121741e4BBB20996D383E9b2",
+  "decimals": 18,
+  "name": "KING",
+  "symbol": "KING",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xf3EC49ACb3084618121741e4BBB20996D383E9b2/logo.png",
+  "description": "The $KING algorithmic token serves as the backbone of:\r\nrapidly growing ecosystem aimed towards bringing\r\nliquidity and new use cases to the Avalanche blockchain. The\r\nprotocol's underlying mechanism dynamically adjusts $KING’s supply, pushing its price up or down relative to the price of $AVAX.\r\n\r\nInspired by tomb.finance, who was originally inspired by the idea behind Basis as well as its predecessors, king finance is a multi-token protocol which consists of the following three tokens:\r\n- King Finance ($KING)\r\n- KING Shares ($KSHARE) \r\n- KING Bonds ($KBOND)"
 }
