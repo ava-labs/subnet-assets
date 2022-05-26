@@ -1,6 +1,7 @@
 {
-    "address": "0xB4691bd740e390b584F229aCbd25aB9fcEFeB9AE",
-    "name": "Portfolio Contract",
-    "description": "",
-    "chainId": 432201
+  "address": "0xB4691bd740e390b584F229aCbd25aB9fcEFeB9AE",
+  "name": "Portfolio Contract",
+  "description": "",
+  "chainId": 432201,
+  "contractType": "Other"
 }
