@@ -56,6 +56,6 @@
         }
     ],
     "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
-    "chainId": "43114",
+    "chainId": 43114,
     "description": " "
 }
