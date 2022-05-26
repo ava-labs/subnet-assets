@@ -30,7 +30,8 @@ export type CoinGeckoConfiguration = {
 };
 
 export type UtilityAddresses = {
-  [contractName: string]: string; // ChecksumAddress
+  multicall: string; // ChecksumAddress
+  // Other utility addresses go here.
 };
 
 export type NetworkToken = {
