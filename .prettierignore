@@ -1,0 +1,27 @@
+# Ignore everything recursively
+*
+
+# But not the .ts files
+!*.json
+!*.js
+!*.mjs
+!*.ts
+
+# Check subdirectories too
+!*/
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
