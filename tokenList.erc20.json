@@ -377,6 +377,16 @@
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x130966628846BFd36ff31a822705796e8cb8C18D/logo.png"
       },
       {
+        "address": "0x152b9d0fdc40c096757f570a51e494bd4b943e50",
+        "chainId": 43114,
+        "name": "Bitcoin",
+        "symbol": "BTC.b",
+        "decimals": 8,
+        "contractType": "ERC-20",
+        "resourceLinks": [],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x152b9d0fdc40c096757f570a51e494bd4b943e50/logo.png"
+      },
+      {
         "chainId": 43114,
         "address": "0x164334Ed9E63FbEdC8B52E6dbD408Af4F051419f",
         "decimals": 6,
