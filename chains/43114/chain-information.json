@@ -15,6 +15,7 @@
         "name": "Avalanche",
         "symbol": "AVAX",
         "decimals": 18,
-        "coingeckoId": "avalanche-2"
+        "coingeckoId": "avalanche-2",
+        "description": " "
     }
 }

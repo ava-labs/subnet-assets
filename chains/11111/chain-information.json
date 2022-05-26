@@ -13,6 +13,7 @@
     "networkToken": {
         "name": "Wagmi",
         "symbol": "WGM",
-        "decimals": 18
+        "decimals": 18,
+        "description": " "
     }
 }
