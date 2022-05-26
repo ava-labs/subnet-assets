@@ -1,11 +1,11 @@
 {
-  "chainId": 43114,
-  "address": "0x47EB6F7525C1aA999FBC9ee92715F5231eB1241D",
-  "decimals": 18,
-  "name": "Defrost Finance Token",
-  "symbol": "MELT",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x47EB6F7525C1aA999FBC9ee92715F5231eB1241D/logo.png",
-  "description": "Defrost Finance is the platform behind the next generation stablecoin and provides remunerative investment opportunities. A fully fair launch, decentralized project, its aim is to change the world of finance for good."
+    "chainId": 43114,
+    "address": "0x47EB6F7525C1aA999FBC9ee92715F5231eB1241D",
+    "decimals": 18,
+    "name": "Defrost Finance Token",
+    "symbol": "MELT",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x47EB6F7525C1aA999FBC9ee92715F5231eB1241D/logo.png",
+    "description": ""
 }

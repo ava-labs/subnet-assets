@@ -1,11 +1,11 @@
 {
-  "chainId": 43114,
-  "address": "0xf69c2fcd9128d49DfA22348C69177f9380438eB8",
-  "decimals": 6,
-  "name": "NFTSoccerGames",
-  "symbol": "NFSG",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xf69c2fcd9128d49DfA22348C69177f9380438eB8/logo.png",
-  "description": "The first play-to-earn Football Manager game on Avalanche C-Chain. You can earn by training your players, playing friendly matches, beating your rivals in death matches or getting rank in tournaments."
+    "chainId": 43114,
+    "address": "0xf69c2fcd9128d49DfA22348C69177f9380438eB8",
+    "decimals": 6,
+    "name": "NFTSoccerGames",
+    "symbol": "NFSG",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xf69c2fcd9128d49DfA22348C69177f9380438eB8/logo.png",
+    "description": ""
 }

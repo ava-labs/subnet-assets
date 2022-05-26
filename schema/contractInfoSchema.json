@@ -57,20 +57,20 @@
           "type": {
             "type": "string",
             "enum": [
+              "Twitter",
+              "Facebook",
+              "Discord",
+              "Telegram",
               "Blog",
+              "Medium",
+              "Whitepaper",
               "CoinGecko",
               "CoinMarketCap",
-              "Discord",
               "Email",
-              "Facebook",
-              "Github",
               "LinkedIn",
-              "Medium",
               "Reddit",
               "Support",
-              "Twitter",
-              "Telegram",
-              "Whitepaper"
+              "Github"
             ]
           },
           "url": {

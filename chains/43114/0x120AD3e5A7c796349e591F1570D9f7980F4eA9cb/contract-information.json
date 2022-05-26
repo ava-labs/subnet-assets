@@ -1,11 +1,11 @@
 {
-  "chainId": 43114,
-  "address": "0x120AD3e5A7c796349e591F1570D9f7980F4eA9cb",
-  "decimals": 6,
-  "name": "Axelar Wrapped LUNA",
-  "symbol": "LUNA",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x120AD3e5A7c796349e591F1570D9f7980F4eA9cb/logo.png",
-  "description": " "
+    "chainId": 43114,
+    "address": "0x120AD3e5A7c796349e591F1570D9f7980F4eA9cb",
+    "decimals": 6,
+    "name": "Axelar Wrapped LUNA",
+    "symbol": "LUNA",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x120AD3e5A7c796349e591F1570D9f7980F4eA9cb/logo.png",
+    "description": ""
 }

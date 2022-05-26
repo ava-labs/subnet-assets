@@ -1,11 +1,11 @@
 {
-  "chainId": 43114,
-  "address": "0xE6B9d092223f39013656702A40dbE6B7DeCc5746",
-  "decimals": 18,
-  "name": "ANGLE",
-  "symbol": "ANGLE",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xE6B9d092223f39013656702A40dbE6B7DeCc5746/logo.png",
-  "description": " "
+    "chainId": 43114,
+    "address": "0xE6B9d092223f39013656702A40dbE6B7DeCc5746",
+    "decimals": 18,
+    "name": "ANGLE",
+    "symbol": "ANGLE",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xE6B9d092223f39013656702A40dbE6B7DeCc5746/logo.png",
+    "description": ""
 }

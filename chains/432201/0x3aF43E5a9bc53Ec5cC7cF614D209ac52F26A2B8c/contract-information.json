@@ -1,11 +1,11 @@
 {
-  "address": "0x3aF43E5a9bc53Ec5cC7cF614D209ac52F26A2B8c",
-  "name": "Mock LFG",
-  "symbol": "LFG",
-  "description": "Mock LFG Token",
-  "contractType": "ERC-20",
-  "decimals": 18,
-  "assetType": "Fixed Cap",
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/432201/0x3aF43E5a9bc53Ec5cC7cF614D209ac52F26A2B8c/logo.png",
-  "chainId": 432201
+    "address": "0x3aF43E5a9bc53Ec5cC7cF614D209ac52F26A2B8c",
+    "name": "Mock LFG",
+    "symbol": "LFG",
+    "description": "",
+    "contractType": "ERC-20",
+    "decimals": 18,
+    "assetType": "Fixed Cap",
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/432201/0x3aF43E5a9bc53Ec5cC7cF614D209ac52F26A2B8c/logo.png",
+    "chainId": 432201
 }

@@ -1,11 +1,11 @@
 {
-  "chainId": 43114,
-  "address": "0x6e7f5C0b9f4432716bDd0a77a3601291b9D9e985",
-  "decimals": 9,
-  "name": "Spore",
-  "symbol": "SPORE",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x6e7f5C0b9f4432716bDd0a77a3601291b9D9e985/logo.png",
-  "description": "Spore™ is an NFT platform on the Avalanche network and the developer of the hyperdeflationary SPORE currency.\r\n\r\nOur products include the first mass-adopted cross-chain bridge from Avalanche to Binance Smart Chain, NFT collections to commemorate special events, a next-generation NFT prediction market (in development), and several yet-to-be-announced services that will stand at the intersection of blockspace and physical events and help transition the planet to decentralized living."
+    "chainId": 43114,
+    "address": "0x6e7f5C0b9f4432716bDd0a77a3601291b9D9e985",
+    "decimals": 9,
+    "name": "Spore",
+    "symbol": "SPORE",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x6e7f5C0b9f4432716bDd0a77a3601291b9D9e985/logo.png",
+    "description": ""
 }

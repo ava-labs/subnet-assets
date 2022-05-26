@@ -1,11 +1,11 @@
 {
-  "chainId": 43114,
-  "address": "0x885d748C00A279B67A7749EC6b03301700dd0455",
-  "decimals": 18,
-  "name": "Maximus",
-  "symbol": "MAXI",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x885d748C00A279B67A7749EC6b03301700dd0455/logo.png",
-  "description": "Maximus is a new generation Yield Farming Aggregator & Optimizer for Avalanche!\r\nMaximus brings a new breath to the Avalanche ecosystem with its unique features and will be providing the most lucrative financial tools to the whole ecosystem through a new token architecture that keeps its price proportional to AVAX with auto buybacks and allows the best mechanisms for people who like to earn other tokens from other projects via various compounders and maximizers while providing a strong token utility and no sell pressure on other projects."
+    "chainId": 43114,
+    "address": "0x885d748C00A279B67A7749EC6b03301700dd0455",
+    "decimals": 18,
+    "name": "Maximus",
+    "symbol": "MAXI",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x885d748C00A279B67A7749EC6b03301700dd0455/logo.png",
+    "description": ""
 }

@@ -1,11 +1,11 @@
 {
-  "chainId": 43114,
-  "address": "0x7C08413cbf02202a1c13643dB173f2694e0F73f0",
-  "decimals": 9,
-  "name": "Maximizer",
-  "symbol": "MAXI",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x7C08413cbf02202a1c13643dB173f2694e0F73f0/logo.png",
-  "description": "Maximizer is a decentralized reserve currency protocol based on the MAXI token. Each MAXI token is backed by a basket of Avalanche assets in the Maximizer treasury, giving it an intrinsic value that it cannot fall below. Maximizer also introduces unique economic and game-theoretic dynamics into the market through staking and minting. \r\n\r\nMaximizer believes in building products that supports the entire ecosystem. The motivation of our decentralized reserve currency is so that we can grow together with the Avalanche ecosystem. We will allow Avalanche project tokens to be used as the principal tokens for minting of the MAXI token (capped). As our treasury grows, Avalanche projects' liquidity grows as well. This way, no one gets left behind."
+    "chainId": 43114,
+    "address": "0x7C08413cbf02202a1c13643dB173f2694e0F73f0",
+    "decimals": 9,
+    "name": "Maximizer",
+    "symbol": "MAXI",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x7C08413cbf02202a1c13643dB173f2694e0F73f0/logo.png",
+    "description": ""
 }

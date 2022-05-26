@@ -1,11 +1,11 @@
 {
-  "chainId": 43114,
-  "address": "0x7086e045b78E1e72F741F25231c08d238812CF8a",
-  "decimals": 18,
-  "name": "RaceX",
-  "symbol": "RACEX",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x7086e045b78E1e72F741F25231c08d238812CF8a/logo.png",
-  "description": "The first Play-2-Earn racing platform on the Avalanche ecosystem!\r\n\r\nThis is the first Avalanche Blockchain racing sim that will combine both real-world, on-the-road racing with virtual racing on a first of its kind simulation engine currently in development.\r\n\r\nDCRC Racing will use NFTs minted on this platform to represent the cars used in the simulation. These NFTs will be used in our advanced virtual racing simulator, allowing users to benefit from Race-2-Earn features on the platform. These NFTs will be fully upgradeable using burn and re-mint functionalities. The NFTs will also be upgradeable in terms of appearance by adding body kits, changing colors, adding decals, and changing the wheels and tires. Users will be able to construct their NFT and make it completely unique according to their vision! The NFTs can be upgraded in terms of performance too, as owners will be able to purchase performance upgrades to improve the ability of their race cars in the virtual races."
+    "chainId": 43114,
+    "address": "0x7086e045b78E1e72F741F25231c08d238812CF8a",
+    "decimals": 18,
+    "name": "RaceX",
+    "symbol": "RACEX",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x7086e045b78E1e72F741F25231c08d238812CF8a/logo.png",
+    "description": ""
 }

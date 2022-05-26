@@ -1,11 +1,11 @@
 {
-  "chainId": 43114,
-  "address": "0xB1466d4cf0DCfC0bCdDcf3500F473cdACb88b56D",
-  "decimals": 18,
-  "name": "Weble Ecosystem Token",
-  "symbol": "WET",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xB1466d4cf0DCfC0bCdDcf3500F473cdACb88b56D/logo.png",
-  "description": "New decentralized blockchain networks can settle world-wide payments in less than a second. These breakthroughs open the way to disruptive visions such as the IoV (Internet of Value) : an open internet of assets where anything can be instantly tokenized and exchanged without the supervision of centralized traditional finance systems.\r\n\r\nWeble GMBH is specialized in IoT (Internet of Things) and building automation protocols. The company produces Universal IoT Gateways supporting main industrial M2M communication standards. Adding cryptocurrencies wallets and other mean of payments to our supported protocols permits our customers to easily integrate financial services.\r\n\r\nThe Weble Ecosystem Token (WET) aims to play a central role in our products and services. It also gives anyone the opportunity to invest in our company success."
+    "chainId": 43114,
+    "address": "0xB1466d4cf0DCfC0bCdDcf3500F473cdACb88b56D",
+    "decimals": 18,
+    "name": "Weble Ecosystem Token",
+    "symbol": "WET",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xB1466d4cf0DCfC0bCdDcf3500F473cdACb88b56D/logo.png",
+    "description": ""
 }

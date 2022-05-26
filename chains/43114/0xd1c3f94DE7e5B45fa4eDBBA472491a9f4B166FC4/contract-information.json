@@ -1,11 +1,11 @@
 {
-  "address": "0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4",
-  "name": "Avalaunch",
-  "symbol": "XAVA",
-  "contractType": "ERC-20",
-  "decimals": 18,
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/avalaunch-app/xava-protocol/master/logo.png",
-  "chainId": 43114,
-  "description": "Avalaunch is a launchpad powered by the Avalanche platform, allowing new and innovative projects to seamlessly prepare for launch with an emphasis on fair and broad distribution. With its values deeply rooted in the early Avalanche community, we are able to offer projects confident, informed users who are aligned with the long-term goals of the rapidly expanding application ecosystem.\r\n\r\nLeveraging Avalanche’s scalable, high-throughput, and low-latency platform, Avalaunch is built by users, for teams, to help grow strong communities."
+    "address": "0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4",
+    "name": "Avalaunch",
+    "symbol": "XAVA",
+    "contractType": "ERC-20",
+    "decimals": 18,
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/avalaunch-app/xava-protocol/master/logo.png",
+    "chainId": 43114,
+    "description": ""
 }

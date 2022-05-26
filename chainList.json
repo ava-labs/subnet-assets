@@ -1,7 +1,7 @@
 [
   {
     "chainName": "WAGMI",
-    "description": "The WAGMI (\"We're All Going to Make It\") Subnet Demo is a high throughput testbed for EVM (Ethereum Virtual Machine) optimizations. It is parameterized to run at a factor more capacity than Fuji/Mainnet C-Chain and will be used to experiment with release candidates before they make it into an official coreth release.",
+    "description": "",
     "chainId": 11111,
     "platformChainId": "2ebCneCbwthjQ1rYT41nhd7M76Hc6YmosMAQrTFhBq8qeqh6tt",
     "subnetId": "28nrH5T2BMvNrWecFcV3mfccjs6axM1TVyqe79MCv2Mhs8kxiY",
@@ -9,18 +9,20 @@
     "vmName": "EVM",
     "rpcUrl": "https://subnets.avax.network/wagmi/wagmi-chain-testnet/rpc",
     "wsUrl": "wss://subnets.avax.network/wagmi/wagmi-chain-testnet/ws",
-    "multicallAddress": "0x7e5f336f8baFc0bf775DafE091133A37244C285c",
     "isTestnet": true,
     "networkToken": {
       "name": "Wagmi",
       "symbol": "WGM",
       "decimals": 18,
-      "description": " "
+      "description": ""
+    },
+    "utilityAddresses": {
+      "multicallAddress": "0x7e5f336f8baFc0bf775DafE091133A37244C285c"
     }
   },
   {
     "chainName": "DFK Chain",
-    "description": "The vision for the DFK Chain on the Defi Kingdoms subnet is to become the go-to location for community members and projects to launch GameFi and other blockchain gaming experiences in conjunction with the primary offering of DeFi Kingdoms: Crystalvale.",
+    "description": "",
     "chainId": 335,
     "platformChainId": "2pDrf9iZaP8eBGmhut8NhERLMw9QyFjoebiiPMgwbwbxagaP6Z",
     "subnetId": "UCJGxBvsAcopBAAuBwd9uZ9GdumwRVbCp4Qj2jX6kGJ68121u",
@@ -28,20 +30,24 @@
     "vmName": "EVM",
     "rpcUrl": "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc",
     "wsUrl": "wss://subnets.avax.network/defi-kingdoms/dfk-chain/ws",
-    "multicallAddress": "0x5b24224dC16508DAD755756639E420817DD4c99E",
     "isTestnet": true,
-    "coingeckoAssetPlatformId": "defi-kingdoms-blockchain",
     "networkToken": {
       "name": "JEWEL",
       "symbol": "JEWEL",
-      "description": "JEWEL is the central token on the DFK Chain and used to pay gas for all transactions. While it is not natively minted on the DFK Chain, it is integral to the chain's function.",
-      "decimals": 18,
-      "coingeckoId": "defi-kingdoms"
+      "description": "",
+      "decimals": 18
+    },
+    "utilityAddresses": {
+      "multicallAddress": "0x5b24224dC16508DAD755756639E420817DD4c99E"
+    },
+    "pricingProviders": {
+      "assetPlatformId": "defi-kingdoms-blockchain",
+      "nativeTokenId": "defi-kingdoms"
     }
   },
   {
     "chainName": "C-Chain Local",
-    "description": "The Contract Chain on Avalanche's primary subnet.",
+    "description": "",
     "chainId": 43112,
     "platformChainId": "yH8D7ThNJkxmtkuv2jgBa4P1Rn3Qpr4pPr7QYNfcdoS6k6HWp",
     "subnetId": "11111111111111111111111111111111LpoYY",
@@ -50,18 +56,20 @@
     "rpcUrl": "https://localhost:9650/ext/bc/C/rpc",
     "wsUrl": "ws://127.0.0.1:9650/ext/bc/C/ws",
     "isTestnet": true,
-    "coingeckoAssetPlatformId": "avalanche",
     "networkToken": {
       "name": "Avalanche",
       "symbol": "AVAX",
       "decimals": 18,
-      "coingeckoId": "avalanche-2",
-      "description": " "
+      "description": ""
+    },
+    "pricingProviders": {
+      "assetPlatformId": "avalanche",
+      "nativeTokenId": "avalanche-2"
     }
   },
   {
     "chainName": "C-Chain Testnet",
-    "description": "The Contract Chain on Avalanche's test subnet.",
+    "description": "",
     "chainId": 43113,
     "platformChainId": "yH8D7ThNJkxmtkuv2jgBa4P1Rn3Qpr4pPr7QYNfcdoS6k6HWp",
     "subnetId": "11111111111111111111111111111111LpoYY",
@@ -69,20 +77,24 @@
     "vmName": "EVM",
     "rpcUrl": "https://api.avax-test.network/ext/bc/C/rpc",
     "wsUrl": "wss://api.avax-test.network/ext/bc/C/ws",
-    "multicallAddress": "0xE898101ffEF388A8DA16205249a7E4977d4F034c",
     "isTestnet": true,
-    "coingeckoAssetPlatformId": "avalanche",
     "networkToken": {
       "name": "Avalanche",
       "symbol": "AVAX",
       "decimals": 18,
-      "coingeckoId": "avalanche-2",
-      "description": " "
+      "description": ""
+    },
+    "utilityAddresses": {
+      "multicallAddress": "0xE898101ffEF388A8DA16205249a7E4977d4F034c"
+    },
+    "pricingProviders": {
+      "assetPlatformId": "avalanche",
+      "nativeTokenId": "avalanche-2"
     }
   },
   {
     "chainName": "C-Chain Mainnet",
-    "description": "The Contract Chain on Avalanche's primary subnet.",
+    "description": "",
     "chainId": 43114,
     "platformChainId": "2q9e4r6Mu3U68nU1fYjgbR6JvwrRx36CohpAX5UQxse55x1Q5",
     "subnetId": "11111111111111111111111111111111LpoYY",
@@ -90,20 +102,24 @@
     "vmName": "EVM",
     "rpcUrl": "https://api.avax.network/ext/bc/C/rpc",
     "wsUrl": "wss://api.avax.network/ext/bc/C/ws",
-    "multicallAddress": "0xed386Fe855C1EFf2f843B910923Dd8846E45C5A4",
     "isTestnet": false,
-    "coingeckoAssetPlatformId": "avalanche",
     "networkToken": {
       "name": "Avalanche",
       "symbol": "AVAX",
       "decimals": 18,
-      "coingeckoId": "avalanche-2",
-      "description": " "
+      "description": ""
+    },
+    "utilityAddresses": {
+      "multicallAddress": "0xed386Fe855C1EFf2f843B910923Dd8846E45C5A4"
+    },
+    "pricingProviders": {
+      "assetPlatformId": "avalanche",
+      "nativeTokenId": "avalanche-2"
     }
   },
   {
     "chainName": "Dexalot",
-    "description": "The Dexalot Exchange EVM subnet is a revolutionary decentralized exchange aiming at bringing the traditional centralized exchange look and feel, through a decentralized on-chain application. Dexalot users can trade crypto securely and efficiently, with no slippage or custody risk. It is built on Avalanche Subnet technology, the most effective scaling solution in the blockchain industry.",
+    "description": "",
     "chainId": 432201,
     "platformChainId": "XuEPnCE59rtutASDPCDeYw8geQaGWwteWjkDXYLWvssfuirde",
     "subnetId": "9m6a3Qte8FaRbLZixLhh8Ptdkemm4csNaLwQeKkENx5wskbWP",
@@ -111,19 +127,23 @@
     "vmName": "EVM",
     "rpcUrl": "https://subnets.avax.network/dexalot/testnet/rpc",
     "wsUrl": "wss://subnets.avax.network/dexalot/testnet/ws",
-    "multicallAddress": "0xe07e60594653D03165402D3B491d30Fe2d2C0A6A",
     "isTestnet": true,
     "networkToken": {
       "name": "Dexalot",
       "symbol": "ALOT",
       "decimals": 18,
-      "coingeckoId": "dexalot",
-      "description": " "
+      "description": ""
+    },
+    "utilityAddresses": {
+      "multicallAddress": "0xe07e60594653D03165402D3B491d30Fe2d2C0A6A"
+    },
+    "pricingProviders": {
+      "nativeTokenId": "dexalot"
     }
   },
   {
     "chainName": "DFK Chain",
-    "description": "The vision for the DFK Chain on the Defi Kingdoms subnet is to become the go-to location for community members and projects to launch GameFi and other blockchain gaming experiences in conjunction with the primary offering of DeFi Kingdoms: Crystalvale.",
+    "description": "",
     "chainId": 53935,
     "platformChainId": "q2aTwKuyzgs8pynF7UXBZCU7DejbZbZ6EUyHr3JQzYgwNPUPi",
     "subnetId": "Vn3aX6hNRstj5VHHm63TCgPNaeGnRSqCYXQqemSqDd2TQH4qJ",
@@ -131,20 +151,24 @@
     "vmName": "EVM",
     "rpcUrl": "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc",
     "wsUrl": "wss://subnets.avax.network/defi-kingdoms/dfk-chain/ws",
-    "multicallAddress": "0x5b24224dC16508DAD755756639E420817DD4c99E",
     "isTestnet": false,
-    "coingeckoAssetPlatformId": "defi-kingdoms-blockchain",
     "networkToken": {
       "name": "JEWEL",
       "symbol": "JEWEL",
-      "description": "JEWEL is the central token on the DFK Chain and used to pay gas for all transactions. While it is not natively minted on the DFK Chain, it is integral to the chain's function.",
-      "decimals": 18,
-      "coingeckoId": "defi-kingdoms"
+      "description": "",
+      "decimals": 18
+    },
+    "utilityAddresses": {
+      "multicallAddress": "0x5b24224dC16508DAD755756639E420817DD4c99E"
+    },
+    "pricingProviders": {
+      "assetPlatformId": "defi-kingdoms-blockchain",
+      "nativeTokenId": "defi-kingdoms"
     }
   },
   {
     "chainName": "Swimmer Testnet",
-    "description": "Swimmer Network is a custom blockchain built on an Avalanche Subnet, and is home to Crabada, an undersea world filled with fierce fighting Hermit-Crabs called Crabada. The Crabada Idle-Game and marketplace is expected migrate from the C-chain onto the Swimmer Network. Crabada can be bred, and used in games to earn cryptocurrencies with real value.",
+    "description": "",
     "chainId": 73771,
     "platformChainId": "2hUULz82ZYMKwjBHZybVRyouk38EmcW7UKP4iocf9rghpvfm84",
     "subnetId": "WUCXWAHsS6iygdik7RVRL3CjJHqbDQ1RESPUDqQpsH6wnRn96",
@@ -152,19 +176,23 @@
     "vmName": "EVM",
     "rpcUrl": "https://subnets.avax.network/swimmer/testnet/rpc",
     "wsUrl": "wss://subnets.avax.network/swimmer/testnet/ws",
-    "multicallAddress": "0x4754009155eCFC2074E0dC9Fd0bf1d3d94a3Bb9c",
     "isTestnet": true,
     "networkToken": {
       "name": "Treasure Under Sea",
       "symbol": "TUS",
-      "description": "TUS is the gas token on the Swimmer Chain and used to pay gas for all transactions.",
-      "decimals": 18,
-      "coingeckoId": "treasure-under-sea"
+      "description": "",
+      "decimals": 18
+    },
+    "utilityAddresses": {
+      "multicallAddress": "0x4754009155eCFC2074E0dC9Fd0bf1d3d94a3Bb9c"
+    },
+    "pricingProviders": {
+      "nativeTokenId": "treasure-under-sea"
     }
   },
   {
     "chainName": "Swimmer Mainnet",
-    "description": "Swimmer Network is a custom blockchain built on an Avalanche Subnet, and is home to Crabada, an undersea world filled with fierce fighting Hermit-Crabs called Crabada. The Crabada Idle-Game and marketplace is expected migrate from the C-chain onto the Swimmer Network. Crabada can be bred, and used in games to earn cryptocurrencies with real value.",
+    "description": "",
     "chainId": 73772,
     "platformChainId": "2K33xS9AyP9oCDiHYKVrHe7F54h2La5D8erpTChaAhdzeSu2RX",
     "subnetId": "2e3CqLY8thW1WKS89WQ7WR9Qy2bCrrP5mv7psqMRGCHGXuQ1Uj",
@@ -172,14 +200,18 @@
     "vmName": "EVM",
     "rpcUrl": "https://subnets.avax.network/swimmer/mainnet/rpc",
     "wsUrl": "wss://subnets.avax.network/swimmer/mainnet/ws",
-    "multicallAddress": "0xd46175048c125eae5a7694BDa6C723b76D24e428",
     "isTestnet": false,
     "networkToken": {
       "name": "Treasure Under Sea",
       "symbol": "TUS",
-      "description": "TUS is the gas token on the Swimmer Chain and used to pay gas for all transactions.",
-      "decimals": 18,
-      "coingeckoId": "treasure-under-sea"
+      "description": "",
+      "decimals": 18
+    },
+    "utilityAddresses": {
+      "multicallAddress": "0xd46175048c125eae5a7694BDa6C723b76D24e428"
+    },
+    "pricingProviders": {
+      "nativeTokenId": "treasure-under-sea"
     }
   }
 ]

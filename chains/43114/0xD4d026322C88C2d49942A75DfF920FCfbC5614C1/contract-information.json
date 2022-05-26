@@ -1,11 +1,11 @@
 {
-  "chainId": 43114,
-  "address": "0xD4d026322C88C2d49942A75DfF920FCfbC5614C1",
-  "decimals": 18,
-  "name": "DEAPCOIN",
-  "symbol": "DEP",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xD4d026322C88C2d49942A75DfF920FCfbC5614C1/logo.png",
-  "description": " "
+    "chainId": 43114,
+    "address": "0xD4d026322C88C2d49942A75DfF920FCfbC5614C1",
+    "decimals": 18,
+    "name": "DEAPCOIN",
+    "symbol": "DEP",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xD4d026322C88C2d49942A75DfF920FCfbC5614C1/logo.png",
+    "description": ""
 }

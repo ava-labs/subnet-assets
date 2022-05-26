@@ -1,11 +1,11 @@
 {
-  "chainId": 43114,
-  "address": "0x938FE3788222A74924E062120E7BFac829c719Fb",
-  "decimals": 18,
-  "name": "Ape In",
-  "symbol": "APEIN",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x938FE3788222A74924E062120E7BFac829c719Fb/logo.png",
-  "description": "The ape metaverse where defi meets nfts."
+    "chainId": 43114,
+    "address": "0x938FE3788222A74924E062120E7BFac829c719Fb",
+    "decimals": 18,
+    "name": "Ape In",
+    "symbol": "APEIN",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x938FE3788222A74924E062120E7BFac829c719Fb/logo.png",
+    "description": ""
 }
