@@ -11,7 +11,6 @@
     "wsUrl": "wss://subnets.avax.network/defi-kingdoms/dfk-chain/ws",
     "multicallAddress": "0x5b24224dC16508DAD755756639E420817DD4c99E",
     "isTestnet": true,
-    "mainnetChainId": 53935,
     "coingeckoAssetPlatformId": "defi-kingdoms-blockchain",
     "networkToken": {
       "name": "JEWEL",
@@ -56,7 +55,6 @@
     "rpcUrl": "https://localhost:9650/ext/bc/C/rpc",
     "wsUrl": "ws://127.0.0.1:9650/ext/bc/C/ws",
     "isTestnet": true,
-    "mainnetChainId": 43114,
     "coingeckoAssetPlatformId": "avalanche",
     "networkToken": {
       "name": "Avalanche",
@@ -80,7 +78,6 @@
     "wsUrl": "wss://api.avax-test.network/ext/bc/C/ws",
     "multicallAddress": "0xE898101ffEF388A8DA16205249a7E4977d4F034c",
     "isTestnet": true,
-    "mainnetChainId": 43114,
     "coingeckoAssetPlatformId": "avalanche",
     "networkToken": {
       "name": "Avalanche",
@@ -99,7 +96,8 @@
         "decimals": 18,
         "resourceLinks": [],
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43113/0x0b9d5D9136855f6FEc3c0993feE6E9CE8a297846/logo.png",
-        "chainId": 43113
+        "chainId": 43113,
+        "description": " "
       },
       {
         "address": "0x0f2071079315ba5a1c6d5b532a01a132c157ac83",
@@ -109,7 +107,8 @@
         "decimals": 18,
         "contractType": "ERC-20",
         "resourceLinks": [],
-        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43113/0x0f2071079315ba5a1c6d5b532a01a132c157ac83/logo.png"
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43113/0x0f2071079315ba5a1c6d5b532a01a132c157ac83/logo.png",
+        "description": " "
       },
       {
         "address": "0x1741b9c475e0861a43b03f984928082ac4f3fb95",
@@ -119,7 +118,8 @@
         "decimals": 18,
         "resourceLinks": [],
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43113/0x1741b9c475e0861a43b03f984928082ac4f3fb95/logo.png",
-        "chainId": 43113
+        "chainId": 43113,
+        "description": " "
       },
       {
         "address": "0x34B6C87bb59Eb37EFe35C8d594a234Cd8C654D50",
@@ -184,7 +184,8 @@
         "decimals": 18,
         "resourceLinks": [],
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43113/0xAFDa926d549a67229D8DB529638E0BAFCDb66458/logo.png",
-        "chainId": 43113
+        "chainId": 43113,
+        "description": " "
       },
       {
         "chainId": 43113,
@@ -244,7 +245,6 @@
     "wsUrl": "wss://api.avax.network/ext/bc/C/ws",
     "multicallAddress": "0xed386Fe855C1EFf2f843B910923Dd8846E45C5A4",
     "isTestnet": false,
-    "mainnetChainId": 43114,
     "coingeckoAssetPlatformId": "avalanche",
     "networkToken": {
       "name": "Avalanche",
@@ -2241,7 +2241,6 @@
     "wsUrl": "wss://subnets.avax.network/defi-kingdoms/dfk-chain/ws",
     "multicallAddress": "0x5b24224dC16508DAD755756639E420817DD4c99E",
     "isTestnet": false,
-    "testnetChainId": 335,
     "coingeckoAssetPlatformId": "defi-kingdoms-blockchain",
     "networkToken": {
       "name": "JEWEL",
@@ -2257,25 +2256,28 @@
         "address": "0x04b9dA42306B023f3572e106B11D82aAd9D32EBb",
         "name": "Crystal",
         "symbol": "CRYSTAL",
-        "description": "",
+        "description": " ",
         "assetType": "Unlimited Cap",
-        "contractType": "ERC-20"
+        "contractType": "ERC-20",
+        "chainId": "53935"
       },
       {
         "address": "0x77f2656d04E158f915bC22f07B779D94c1DC47Ff",
         "name": "xJEWEL",
         "symbol": "xJEWEL",
-        "description": "",
+        "description": " ",
         "assetType": "Unlimited Cap",
-        "contractType": "ERC-20"
+        "contractType": "ERC-20",
+        "chainId": "53935"
       },
       {
         "address": "0xCCb93dABD71c8Dad03Fc4CE5559dC3D89F67a260",
         "name": "Wrapped JEWEL",
         "symbol": "WJEWEL",
-        "description": "",
+        "description": " ",
         "assetType": "Unlimited Cap",
-        "contractType": "ERC-20"
+        "contractType": "ERC-20",
+        "chainId": "53935"
       }
     ]
   },
@@ -2291,7 +2293,6 @@
     "wsUrl": "wss://subnets.avax.network/swimmer/testnet/ws",
     "multicallAddress": "0x4754009155eCFC2074E0dC9Fd0bf1d3d94a3Bb9c",
     "isTestnet": true,
-    "mainnetChainId": 73772,
     "networkToken": {
       "name": "Treasure Under Sea",
       "symbol": "TUS",
@@ -2408,7 +2409,6 @@
     "wsUrl": "wss://subnets.avax.network/swimmer/mainnet/ws",
     "multicallAddress": "0xd46175048c125eae5a7694BDa6C723b76D24e428",
     "isTestnet": false,
-    "testnetChainId": 73771,
     "networkToken": {
       "name": "Treasure Under Sea",
       "symbol": "TUS",
