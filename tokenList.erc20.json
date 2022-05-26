@@ -814,7 +814,7 @@
         "decimals": 18,
         "resourceLinks": [],
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB/logo.png",
-        "chainId": "43114",
+        "chainId": 43114,
         "description": " "
       },
       {
@@ -859,7 +859,7 @@
         "decimals": 8,
         "resourceLinks": [],
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x50b7545627a5162F82A992c33b87aDc75187B218/logo.png",
-        "chainId": "43114",
+        "chainId": 43114,
         "description": " "
       },
       {
@@ -893,7 +893,7 @@
         "decimals": 18,
         "resourceLinks": [],
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7/logo.png",
-        "chainId": "43114",
+        "chainId": 43114,
         "description": "Yield Yak is an easy-to-use tool to earn more yield from DeFi farming on the Avalanche network. \r\n\r\nIt is a community-driven project. Our community compounds rewards, suggests new strategies, proposes key configuration updates and contributes to development. Yield Yak farms can run forever, without the team's involvement.\r\n\r\nStaked $YAK will receive $AVAX. YY network revenue (collected in tokens, usually) will be converted to AVAX and distributed to stakers."
       },
       {
@@ -904,7 +904,7 @@
         "decimals": 18,
         "resourceLinks": [],
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x5947BB275c521040051D82396192181b413227A3/logo.png",
-        "chainId": "43114",
+        "chainId": 43114,
         "description": " "
       },
       {
@@ -949,7 +949,7 @@
         "decimals": 18,
         "resourceLinks": [],
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x60781C2586D68229fde47564546784ab3fACA982/logo.png",
-        "chainId": "43114",
+        "chainId": 43114,
         "description": "Pangolin is a community-driven decentralized exchange for Avalanche and Ethereum assets with fast settlement, low transaction fees, and a democratic distribution–powered by Avalanche."
       },
       {
@@ -1105,7 +1105,7 @@
         "decimals": 18,
         "resourceLinks": [],
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE/logo.png",
-        "chainId": "43114",
+        "chainId": 43114,
         "description": "Avaware is building a platform for growth. We're devoted to developing quality applications of the DeFi, Gaming, NFT, and information variety. It is our mission to build and maintain a portfolio of assets that add value to our token and the Avalanche community as a whole. Our team knows that the projects we develop and support reflect on us, therefor we take pride in building and supporting quality projects we truly believe add value to the ecosystem.\r\n\r\nWe believe our launchpad will bring value to the ecosystem. IFOs are an excellent method of distributing a new projects token into the community. We plan on obtaining tokens from new projects and providing the initial capital they need to operate effectively. These tokens will then be distributed to AVE holders through farming, ensuring an equal and open distrubiton anyone may partake in. We will also provide marketing through our web and social presence, ensuring the projects we launch have the visibility they need to succeed and thrive on Avalanche. This will give AVE holders the chance to farm and hold exciting new tokens on the Avalanche network before they even hit the market!"
       },
       {
@@ -1160,7 +1160,7 @@
         "decimals": 18,
         "resourceLinks": [],
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x81440C939f2C1E34fc7048E518a637205A632a74/logo.png",
-        "chainId": "43114",
+        "chainId": 43114,
         "description": "The Cycle Protocol is a yield optimizer, allowing you to auto-compound rewards from a variety of DEX/projects from the Avalanche C-chain, with it's own liquidity mining program attached to it.\r\n\r\nThe Cycle token will be used for governance, in order to give power to the community on the health and evolution of the protocol. It also receives part of the revenue generated to those who decide to stake it, in order to reward them.\r\n\r\nBenefiting from the Avalanche Network low gas fees and fast transaction speeds, Cycle allow easy on-boarding of new users through a ZAP function, allowing for one-click deposit into it's auto-compounders. Users are then earning our own token, $CYCLE, on top of the auto-compounding.\r\n\r\nUnlike many liquidity mining programs and yield farms, the Cycle Protocol reward distribution does not follow a block by block, time based or uncontrolled inflationary model. A portion of the vault compounding reinvest amount is used to generate the CYCLE for vault rewards instead."
       },
       {
@@ -1182,7 +1182,7 @@
         "decimals": 18,
         "resourceLinks": [],
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5/logo.png",
-        "chainId": "43114",
+        "chainId": 43114,
         "description": "BENQI is a decentralized non-custodial liquidity market protocol, built on Avalanche. The protocol enables users to effortlessly lend, borrow, and earn interest with their digital assets. Depositors providing liquidity to the protocol may earn passive income, while borrowers are able to borrow in an over-collateralized manner."
       },
       {
@@ -1564,7 +1564,7 @@
           }
         ],
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
-        "chainId": "43114",
+        "chainId": 43114,
         "description": " "
       },
       {
@@ -1631,7 +1631,7 @@
         "decimals": 18,
         "resourceLinks": [],
         "logoUri": "https://raw.githubusercontent.com/Snowball-Finance/Assets/main/Uphill%20snowball.png",
-        "chainId": "43114",
+        "chainId": 43114,
         "description": " "
       },
       {
@@ -1975,7 +1975,7 @@
         "officialSite": "https://tether.to/",
         "resourceLinks": [],
         "logoUri": "https://snowtrace.io/token/images/tether_32.png",
-        "chainId": "43114",
+        "chainId": 43114,
         "description": "Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar. The idea was to create a stable cryptocurrency that can be used like digital dollars. Coins that serve this purpose of being a stable dollar substitute are called “stable coins.” Tether is the most popular stable coin and even acts as a dollar replacement on many popular exchanges! According to their site, Tether converts cash into digital currency, to anchor or “tether” the value of the coin to the price of national currencies like the US dollar, the Euro, and the Yen. Like other cryptos it uses blockchain. Unlike other cryptos, it is [according to the official Tether site] “100% backed by USD” (USD is held in reserve). The primary use of Tether is that it offers some stability to the otherwise volatile crypto space and offers liquidity to exchanges who can’t deal in dollars and with banks (for example to the sometimes controversial but leading exchange <a href=\"https://www.coingecko.com/en/exchanges/bitfinex\">Bitfinex</a>).\r\n\r\nThe digital coins are issued by a company called Tether Limited that is governed by the laws of the British Virgin Islands, according to the legal part of its website. It is incorporated in Hong Kong. It has emerged that Jan Ludovicus van der Velde is the CEO of cryptocurrency exchange Bitfinex, which has been accused of being involved in the price manipulation of bitcoin, as well as tether. Many people trading on exchanges, including Bitfinex, will use tether to buy other cryptocurrencies like bitcoin. Tether Limited argues that using this method to buy virtual currencies allows users to move fiat in and out of an exchange more quickly and cheaply. Also, exchanges typically have rocky relationships with banks, and using Tether is a way to circumvent that.\r\n\r\nUSDT is fairly simple to use. Once on exchanges like <a href=\"https://www.coingecko.com/en/exchanges/poloniex\">Poloniex</a> or Bittrex, it can be used to purchase Bitcoin and other cryptocurrencies. It can be easily transferred from an exchange to any Omni Layer enabled wallet. Tether has no transaction fees, although external wallets and exchanges may charge one. In order to convert USDT to USD and vise versa through the Tether.to Platform, users must pay a small fee. Buying and selling Tether for Bitcoin can be done through a variety of exchanges like the ones mentioned previously or through the Tether.to platform, which also allows the conversion between USD to and from your bank account."
       },
       {
@@ -2008,7 +2008,7 @@
         "decimals": 18,
         "resourceLinks": [],
         "logoUri": "https://raw.githubusercontent.com/avalaunch-app/xava-protocol/master/logo.png",
-        "chainId": "43114",
+        "chainId": 43114,
         "description": "Avalaunch is a launchpad powered by the Avalanche platform, allowing new and innovative projects to seamlessly prepare for launch with an emphasis on fair and broad distribution. With its values deeply rooted in the early Avalanche community, we are able to offer projects confident, informed users who are aligned with the long-term goals of the rapidly expanding application ecosystem.\r\n\r\nLeveraging Avalanche’s scalable, high-throughput, and low-latency platform, Avalaunch is built by users, for teams, to help grow strong communities."
       },
       {
@@ -2030,7 +2030,7 @@
         "decimals": 18,
         "resourceLinks": [],
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xd586E7F844cEa2F87f50152665BCbc2C279D8d70/logo.png",
-        "chainId": "43114",
+        "chainId": 43114,
         "description": " "
       },
       {
@@ -2096,7 +2096,7 @@
         "decimals": 18,
         "resourceLinks": [],
         "logoUri": "https://raw.githubusercontent.com/Penguin-Finance/png-files/main/PEFILOGOPNG.png",
-        "chainId": "43114",
+        "chainId": 43114,
         "description": "Penguin Finance is a yield farming and staking DeFi application built on the Avalanche Network. Our Igloos (Yield Farms) allow you to stake your Pangolin liquidity provider (LP) tokens within the PeFi ecosystem in order to receive a percentage of all $PEFI rewards that are distributed by the network. The PenguinToken ($PEFI) is the lifeblood of the Penguin Finance Ecosystem. Penguins are able to stake their tokens to receive both staking rewards and fees that are collected by applications within the Penguin Finance Ecosystem. Rather than being purely speculative, PEFI's value is derived from the fees that are collected from the protocol's users and its utility within PeFi, as well as burning mechanisms. PEFI tokens will have a wide arrange of applications ranging from their use in custom yield farming strategies, our upcoming ultra low-fee Prediction Markets, NFTs, and the famed Penguin Arena. "
       },
       {
@@ -2263,7 +2263,7 @@
         "description": " ",
         "assetType": "Unlimited Cap",
         "contractType": "ERC-20",
-        "chainId": "53935"
+        "chainId": 53935
       },
       {
         "address": "0x77f2656d04E158f915bC22f07B779D94c1DC47Ff",
@@ -2272,7 +2272,7 @@
         "description": " ",
         "assetType": "Unlimited Cap",
         "contractType": "ERC-20",
-        "chainId": "53935"
+        "chainId": 53935
       },
       {
         "address": "0xCCb93dABD71c8Dad03Fc4CE5559dC3D89F67a260",
@@ -2281,7 +2281,7 @@
         "description": " ",
         "assetType": "Unlimited Cap",
         "contractType": "ERC-20",
-        "chainId": "53935"
+        "chainId": 53935
       }
     ]
   },
@@ -2351,7 +2351,7 @@
           }
         ],
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/73771/0x26b77eeF7A38E3FD8C631FF8a268a5BB98CE1552/logo.png",
-        "chainId": "73771"
+        "chainId": 73771
       },
       {
         "address": "0x57bf0eCe401d3126d37B3c23d35b1c1EE3EaE733",
@@ -2397,7 +2397,7 @@
           }
         ],
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/73771/0x57bf0eCe401d3126d37B3c23d35b1c1EE3EaE733/logo.png",
-        "chainId": "73771"
+        "chainId": 73771
       }
     ]
   },
@@ -2467,7 +2467,7 @@
           }
         ],
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/73772/0x9c765eEE6Eff9CF1337A1846c0D93370785F6C92/logo.png",
-        "chainId": "73772"
+        "chainId": 73772
       },
       {
         "address": "0xC1a1F40D558a3E82C3981189f61EF21e17d6EB48",
@@ -2513,7 +2513,7 @@
           }
         ],
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/73772/0xC1a1F40D558a3E82C3981189f61EF21e17d6EB48/logo.png",
-        "chainId": "73772"
+        "chainId": 73772
       }
     ]
   },
@@ -2548,7 +2548,7 @@
         "decimals": 6,
         "assetType": "Fixed Cap",
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/432201/0x0b0E3a1F937F59359795E1ACfb9FC744F21a6894/logo.png",
-        "chainId": "432201"
+        "chainId": 432201
       },
       {
         "address": "0x2B21b816e82A4f186c4e9a8C9ae654ba353B91A2",
@@ -2559,7 +2559,7 @@
         "decimals": 18,
         "assetType": "Fixed Cap",
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/432201/0x2B21b816e82A4f186c4e9a8C9ae654ba353B91A2/logo.png",
-        "chainId": "432201"
+        "chainId": 432201
       },
       {
         "address": "0x3aF43E5a9bc53Ec5cC7cF614D209ac52F26A2B8c",
@@ -2570,7 +2570,7 @@
         "decimals": 18,
         "assetType": "Fixed Cap",
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/432201/0x3aF43E5a9bc53Ec5cC7cF614D209ac52F26A2B8c/logo.png",
-        "chainId": "432201"
+        "chainId": 432201
       },
       {
         "address": "0x8B32CF176c409d7d40838295fb225c22d3937032",
@@ -2581,7 +2581,7 @@
         "decimals": 18,
         "assetType": "Fixed Cap",
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/432201/0x8B32CF176c409d7d40838295fb225c22d3937032/logo.png",
-        "chainId": "432201"
+        "chainId": 432201
       }
     ]
   }
