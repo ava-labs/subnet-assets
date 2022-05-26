@@ -1,11 +1,11 @@
 {
-  "address": "0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7",
-  "name": "Yield Yak",
-  "symbol": "YAK",
-  "contractType": "ERC-20",
-  "decimals": 18,
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7/logo.png",
-  "chainId": 43114,
-  "description": "Yield Yak is an easy-to-use tool to earn more yield from DeFi farming on the Avalanche network. \r\n\r\nIt is a community-driven project. Our community compounds rewards, suggests new strategies, proposes key configuration updates and contributes to development. Yield Yak farms can run forever, without the team's involvement.\r\n\r\nStaked $YAK will receive $AVAX. YY network revenue (collected in tokens, usually) will be converted to AVAX and distributed to stakers."
+    "address": "0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7",
+    "name": "Yield Yak",
+    "symbol": "YAK",
+    "contractType": "ERC-20",
+    "decimals": 18,
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7/logo.png",
+    "chainId": 43114,
+    "description": ""
 }

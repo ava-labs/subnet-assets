@@ -1,11 +1,11 @@
 {
-  "chainId": 43114,
-  "address": "0xde3A24028580884448a5397872046a019649b084",
-  "decimals": 6,
-  "name": "Tether USD",
-  "symbol": "USDT",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xde3A24028580884448a5397872046a019649b084/logo.png",
-  "description": " "
+    "chainId": 43114,
+    "address": "0xde3A24028580884448a5397872046a019649b084",
+    "decimals": 6,
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xde3A24028580884448a5397872046a019649b084/logo.png",
+    "description": ""
 }

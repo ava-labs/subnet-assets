@@ -1,11 +1,11 @@
 {
-  "chainId": 43114,
-  "address": "0x8D88e48465F30Acfb8daC0b3E35c9D6D7d36abaf",
-  "decimals": 18,
-  "name": "Canary",
-  "symbol": "CNR",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x8D88e48465F30Acfb8daC0b3E35c9D6D7d36abaf/logo.png",
-  "description": "Canary Exchange is a decentralized exchange (DEX) which runs on Avalanche, the most promising and the fastest blockchain!\r\n\r\nCanary Exchange works with a model called AMM which is a game changing tech. Automated market makers (AMM) allow digital assets to be traded without permission and automatically by using liquidity pools instead of a traditional market of buyers and sellers.\r\n\r\nCanary features a token which is called CNR Token that is the official token of the Canary Exchange and other Canary Ecosystem dApps. You earn CNR Token by using Canary Exchange. If you wish, you can swap the tokens you earn to another cryptocurrency through Canary Exchange. Or if you wish, you can stake your CNR Tokens again and earn more CNR Tokens!\r\n\r\nCNR is capped at a maximum supply of 570 million tokens.\r\n\r\n✓ The first 90% of tokens (~512 million tokens) are dedicated to the community treasury, where they will initially be used to fund liquidity mining.\r\n\r\n✓ 5% (~29 million tokens) are dedicated to a community airdrop.\r\n\r\n✓ And the remaining %5 (~29 million tokens) are dedicated to developers. Developers will be able to receive their wages on monthly periods."
+    "chainId": 43114,
+    "address": "0x8D88e48465F30Acfb8daC0b3E35c9D6D7d36abaf",
+    "decimals": 18,
+    "name": "Canary",
+    "symbol": "CNR",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x8D88e48465F30Acfb8daC0b3E35c9D6D7d36abaf/logo.png",
+    "description": ""
 }

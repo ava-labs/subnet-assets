@@ -1,11 +1,11 @@
 {
-  "chainId": 43114,
-  "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
-  "decimals": 18,
-  "name": "JoeToken",
-  "symbol": "JOE",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd/logo.png",
-  "description": "Trader Joe is your one-stop decentralized trading platform on the Avalanche network. \r\n\r\nWe combine DEX services with DeFi lending to offer leveraged trading. \r\n\r\nOur products are community driven which allows us to give fees collected from liquidation and swaps back to the users via our JOE/xJOE staking mechanism.\r\n\r\nJOE is a governance token that also rewards its holders with a share of exchange revenues."
+    "chainId": 43114,
+    "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+    "decimals": 18,
+    "name": "JoeToken",
+    "symbol": "JOE",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd/logo.png",
+    "description": ""
 }

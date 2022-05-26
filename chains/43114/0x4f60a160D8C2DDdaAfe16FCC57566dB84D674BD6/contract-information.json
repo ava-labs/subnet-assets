@@ -1,11 +1,11 @@
 {
-  "chainId": 43114,
-  "address": "0x4f60a160D8C2DDdaAfe16FCC57566dB84D674BD6",
-  "decimals": 18,
-  "name": "Jewels",
-  "symbol": "JEWEL",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x4f60a160D8C2DDdaAfe16FCC57566dB84D674BD6/logo.png",
-  "description": " "
+    "chainId": 43114,
+    "address": "0x4f60a160D8C2DDdaAfe16FCC57566dB84D674BD6",
+    "decimals": 18,
+    "name": "Jewels",
+    "symbol": "JEWEL",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x4f60a160D8C2DDdaAfe16FCC57566dB84D674BD6/logo.png",
+    "description": ""
 }

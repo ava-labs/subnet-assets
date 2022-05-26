@@ -1,11 +1,11 @@
 {
-  "chainId": 43114,
-  "address": "0x3EeFb18003D033661f84e48360eBeCD181A84709",
-  "decimals": 18,
-  "name": "Islander",
-  "symbol": "ISA",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x3EeFb18003D033661f84e48360eBeCD181A84709/logo.png",
-  "description": "Islander (ISA) is an online learn-to-earn and decentralized platform powered by NFTs to manage and market crypto projects in a unique way. \r\n\r\nCentral to this proposition is the native token Islander (“ISA”), which serves multiple purposes: \r\n- To help projects discover, grow and maintain an audience of bonafide supporters\r\n- Allow key opinion leaders (KOLs) the opportunity to leverage their combined marketing power and earn\r\n- Create earning opportunities for content creators \r\n\r\nAdditionally: \r\n- Islander provides an intuitive toolkit for users to manage their various projects\r\n- Full support for developers\r\n- Wallets, plugins, management apps\r\n- Payment gateway platform"
+    "chainId": 43114,
+    "address": "0x3EeFb18003D033661f84e48360eBeCD181A84709",
+    "decimals": 18,
+    "name": "Islander",
+    "symbol": "ISA",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x3EeFb18003D033661f84e48360eBeCD181A84709/logo.png",
+    "description": ""
 }

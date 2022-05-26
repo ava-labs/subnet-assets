@@ -1,11 +1,11 @@
 {
-  "chainId": 43114,
-  "address": "0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15",
-  "decimals": 18,
-  "name": "Ether",
-  "symbol": "ETH",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15/logo.png",
-  "description": " "
+    "chainId": 43114,
+    "address": "0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15",
+    "decimals": 18,
+    "name": "Ether",
+    "symbol": "ETH",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15/logo.png",
+    "description": ""
 }

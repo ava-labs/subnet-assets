@@ -1,11 +1,11 @@
 {
-  "chainId": 43114,
-  "address": "0xf39f9671906d8630812f9d9863bBEf5D523c84Ab",
-  "decimals": 18,
-  "name": "Uniswap",
-  "symbol": "UNI",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xf39f9671906d8630812f9d9863bBEf5D523c84Ab/logo.png",
-  "description": " "
+    "chainId": 43114,
+    "address": "0xf39f9671906d8630812f9d9863bBEf5D523c84Ab",
+    "decimals": 18,
+    "name": "Uniswap",
+    "symbol": "UNI",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xf39f9671906d8630812f9d9863bBEf5D523c84Ab/logo.png",
+    "description": ""
 }

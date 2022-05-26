@@ -1,11 +1,11 @@
 {
-  "chainId": 43114,
-  "address": "0xE54EB2C3009Fa411BF24fB017F9725b973CE36F0",
-  "decimals": 18,
-  "name": "1INCH Token",
-  "symbol": "1INCH",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xE54EB2C3009Fa411BF24fB017F9725b973CE36F0/logo.png",
-  "description": " "
+    "chainId": 43114,
+    "address": "0xE54EB2C3009Fa411BF24fB017F9725b973CE36F0",
+    "decimals": 18,
+    "name": "1INCH Token",
+    "symbol": "1INCH",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xE54EB2C3009Fa411BF24fB017F9725b973CE36F0/logo.png",
+    "description": ""
 }

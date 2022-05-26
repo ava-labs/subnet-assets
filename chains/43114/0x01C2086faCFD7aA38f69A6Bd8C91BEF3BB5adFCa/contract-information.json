@@ -1,11 +1,11 @@
 {
-  "chainId": 43114,
-  "address": "0x01C2086faCFD7aA38f69A6Bd8C91BEF3BB5adFCa",
-  "decimals": 18,
-  "name": "YAY Games",
-  "symbol": "YAY",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x01C2086faCFD7aA38f69A6Bd8C91BEF3BB5adFCa/logo.png",
-  "description": " "
+    "chainId": 43114,
+    "address": "0x01C2086faCFD7aA38f69A6Bd8C91BEF3BB5adFCa",
+    "decimals": 18,
+    "name": "YAY Games",
+    "symbol": "YAY",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x01C2086faCFD7aA38f69A6Bd8C91BEF3BB5adFCa/logo.png",
+    "description": ""
 }

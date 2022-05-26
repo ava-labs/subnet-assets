@@ -1,11 +1,11 @@
 {
-  "chainId": 43114,
-  "address": "0x1DB749847C4abB991d8B6032102383e6BfD9B1c7",
-  "decimals": 18,
-  "name": "Dogeon Token",
-  "symbol": "DON",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x1DB749847C4abB991d8B6032102383e6BfD9B1c7/logo.png",
-  "description": "Dogeon is our first Play-to-Earn game, a project that brings joys and income to anyone out there. The project has been nested since early 2021. After lots of brainstorming and idea gathering, we decided to bring Dogeon to life and started the first line of code in March 2021. Dogeon is a Play-to-earn Dog Breeding and Racing NFT game built on Avalanche."
+    "chainId": 43114,
+    "address": "0x1DB749847C4abB991d8B6032102383e6BfD9B1c7",
+    "decimals": 18,
+    "name": "Dogeon Token",
+    "symbol": "DON",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x1DB749847C4abB991d8B6032102383e6BfD9B1c7/logo.png",
+    "description": ""
 }

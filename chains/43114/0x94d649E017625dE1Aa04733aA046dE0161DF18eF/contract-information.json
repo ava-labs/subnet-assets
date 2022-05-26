@@ -1,11 +1,11 @@
 {
-  "chainId": 43114,
-  "address": "0x94d649E017625dE1Aa04733aA046dE0161DF18eF",
-  "decimals": 18,
-  "name": "King Shares",
-  "symbol": "KSHARE",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x94d649E017625dE1Aa04733aA046dE0161DF18eF/logo.png",
-  "description": "KING Shares (KSHARE) are one of the ways to measure the value of the KING Protocol and shareholder trust in its ability to maintain KING close to peg."
+    "chainId": 43114,
+    "address": "0x94d649E017625dE1Aa04733aA046dE0161DF18eF",
+    "decimals": 18,
+    "name": "King Shares",
+    "symbol": "KSHARE",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x94d649E017625dE1Aa04733aA046dE0161DF18eF/logo.png",
+    "description": ""
 }

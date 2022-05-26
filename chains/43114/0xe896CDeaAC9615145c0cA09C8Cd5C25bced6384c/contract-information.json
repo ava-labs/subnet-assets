@@ -1,11 +1,11 @@
 {
-  "address": "0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c",
-  "name": "Penguin Finance",
-  "symbol": "PEFI",
-  "contractType": "ERC-20",
-  "decimals": 18,
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/Penguin-Finance/png-files/main/PEFILOGOPNG.png",
-  "chainId": 43114,
-  "description": "Penguin Finance is a yield farming and staking DeFi application built on the Avalanche Network. Our Igloos (Yield Farms) allow you to stake your Pangolin liquidity provider (LP) tokens within the PeFi ecosystem in order to receive a percentage of all $PEFI rewards that are distributed by the network. The PenguinToken ($PEFI) is the lifeblood of the Penguin Finance Ecosystem. Penguins are able to stake their tokens to receive both staking rewards and fees that are collected by applications within the Penguin Finance Ecosystem. Rather than being purely speculative, PEFI's value is derived from the fees that are collected from the protocol's users and its utility within PeFi, as well as burning mechanisms. PEFI tokens will have a wide arrange of applications ranging from their use in custom yield farming strategies, our upcoming ultra low-fee Prediction Markets, NFTs, and the famed Penguin Arena. "
+    "address": "0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c",
+    "name": "Penguin Finance",
+    "symbol": "PEFI",
+    "contractType": "ERC-20",
+    "decimals": 18,
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/Penguin-Finance/png-files/main/PEFILOGOPNG.png",
+    "chainId": 43114,
+    "description": ""
 }
