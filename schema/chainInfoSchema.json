@@ -24,7 +24,11 @@
     },
     "vmName": {
       "type": "string",
-      "enum": ["EVM", "BITCOIN", "ETHEREUM"]
+      "enum": [
+        "EVM",
+        "BITCOIN",
+        "ETHEREUM"
+      ]
     },
     "rpcUrl": {
       "type": "string",
@@ -34,9 +38,14 @@
       "type": "string",
       "format": "uri"
     },
-    "multicallAddress": {
-      "type": "string",
-      "pattern": "^0x[a-fA-F0-9]{40}$"
+    "utilityAddresses": {
+      "type": "object",
+      "patternProperties": {
+        "^[a-fA-F0-9]+$": {
+          "type": "string",
+          "pattern": "^0x[a-fA-F0-9]{40}$"
+        }
+      }
     },
     "isTestnet": {
       "type": "boolean"
@@ -55,15 +64,32 @@
         },
         "decimals": {
           "type": "number"
-        },
-        "coingeckoId": {
-          "type": "string"
         }
       },
-      "required": ["name", "symbol", "description", "decimals"]
+      "required": [
+        "name",
+        "symbol",
+        "description",
+        "decimals"
+      ]
     },
-    "coingeckoAssetPlatformId": {
-      "type": "string"
+    "pricingProviders": {
+      "type": "object",
+      "anyOf": [
+        {
+          "properties": {
+            "nativeTokenId": {
+              "type": "string",
+              "pattern": "^[a-zA-Z0-9]+$"
+            },
+            "assetPlatformId": {
+              "type": "string",
+              "pattern": "^[a-zA-Z0-9]+$"
+            }
+          },
+          "required": ["nativeTokenId","assetPlatformId"]
+        }
+      ]
     },
     "chainId": {
       "type": "number"
