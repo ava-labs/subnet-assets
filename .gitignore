@@ -4,3 +4,6 @@
 /actions/updates.js
 # misc
 .DS_Store
+
+#IDE
+.idea
