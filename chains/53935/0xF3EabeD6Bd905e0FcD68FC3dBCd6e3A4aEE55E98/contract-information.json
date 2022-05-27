@@ -1,6 +1,7 @@
 {
   "address": "0xF3EabeD6Bd905e0FcD68FC3dBCd6e3A4aEE55E98",
   "name": "JEWEL-AVAX LP Token",
+  "symbol": "JEWEL-LP",
   "chainId": 53935,
   "description": "",
   "contractType": "ERC-20"
