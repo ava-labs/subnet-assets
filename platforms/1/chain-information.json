@@ -1,0 +1,18 @@
+{
+  "chainName": "Ethereum Mainnet",
+  "description": "Ethereum Mainnet",
+  "chainId": 1,
+  "vmName": "EVM",
+  "rpcUrl": "https://api.avax.network/ext/bc/C/rpc",
+  "wsUrl": "wss://api.avax.network/ext/bc/C/ws",
+  "multicallAddress": "0x5BA1e12693Dc8F9c48aAD8770482f4739bEeD696",
+  "isTestnet": false,
+  "mainnetChainId": 1,
+  "coingeckoAssetPlatformId": "ethereum",
+  "networkToken": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18,
+    "coingeckoId": "ethereum"
+  }
+}
