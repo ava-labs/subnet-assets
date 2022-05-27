@@ -55,6 +55,6 @@ errors = Object.entries(errors).filter(([chainId, errorType]) => {
   return (Object.keys(errorType).length != 0)
 });
 
-if (errors) {
+if (errors.length > 0) {
   core.setFailed(JSON.stringify(errors, null, 2))
 }
