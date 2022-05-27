@@ -1,11 +1,11 @@
 {
-    "chainId": 43114,
-    "address": "0xBD100d061E120b2c67A24453CF6368E63f1Be056",
-    "decimals": 18,
-    "name": "iDeFiYieldProtocol",
-    "symbol": "iDYP",
-    "contractType": "ERC-20",
-    "resourceLinks": [],
-    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xBD100d061E120b2c67A24453CF6368E63f1Be056/logo.png",
-    "description": ""
+  "chainId": 43114,
+  "address": "0xBD100d061E120b2c67A24453CF6368E63f1Be056",
+  "decimals": 18,
+  "name": "iDeFiYieldProtocol",
+  "symbol": "iDYP",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xBD100d061E120b2c67A24453CF6368E63f1Be056/logo.png",
+  "description": ""
 }

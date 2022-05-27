@@ -1,11 +1,11 @@
 {
-    "chainId": 43114,
-    "address": "0xf3EC49ACb3084618121741e4BBB20996D383E9b2",
-    "decimals": 18,
-    "name": "KING",
-    "symbol": "KING",
-    "contractType": "ERC-20",
-    "resourceLinks": [],
-    "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xf3EC49ACb3084618121741e4BBB20996D383E9b2/logo.png",
-    "description": ""
+  "chainId": 43114,
+  "address": "0xf3EC49ACb3084618121741e4BBB20996D383E9b2",
+  "decimals": 18,
+  "name": "KING",
+  "symbol": "KING",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xf3EC49ACb3084618121741e4BBB20996D383E9b2/logo.png",
+  "description": ""
 }

@@ -1,11 +1,11 @@
 {
-    "chainId": 43114,
-    "address": "0x00EE200Df31b869a321B10400Da10b561F3ee60d",
-    "decimals": 18,
-    "name": "Arable Protocol",
-    "symbol": "ACRE",
-    "contractType": "ERC-20",
-    "resourceLinks": [],
-    "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x00EE200Df31b869a321B10400Da10b561F3ee60d/logo.png",
-    "description": ""
+  "chainId": 43114,
+  "address": "0x00EE200Df31b869a321B10400Da10b561F3ee60d",
+  "decimals": 18,
+  "name": "Arable Protocol",
+  "symbol": "ACRE",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x00EE200Df31b869a321B10400Da10b561F3ee60d/logo.png",
+  "description": ""
 }

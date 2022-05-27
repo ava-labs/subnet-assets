@@ -1,11 +1,11 @@
 {
-    "chainId": 43114,
-    "address": "0x595c8481c48894771CE8FaDE54ac6Bf59093F9E8",
-    "decimals": 18,
-    "name": "Gaj Finance",
-    "symbol": "GAJ",
-    "contractType": "ERC-20",
-    "resourceLinks": [],
-    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x595c8481c48894771CE8FaDE54ac6Bf59093F9E8/logo.png",
-    "description": ""
+  "chainId": 43114,
+  "address": "0x595c8481c48894771CE8FaDE54ac6Bf59093F9E8",
+  "decimals": 18,
+  "name": "Gaj Finance",
+  "symbol": "GAJ",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x595c8481c48894771CE8FaDE54ac6Bf59093F9E8/logo.png",
+  "description": ""
 }

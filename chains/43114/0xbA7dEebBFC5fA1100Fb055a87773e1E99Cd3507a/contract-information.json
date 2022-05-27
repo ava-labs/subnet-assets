@@ -1,11 +1,11 @@
 {
-    "chainId": 43114,
-    "address": "0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a",
-    "decimals": 18,
-    "name": "Dai Stablecoin",
-    "symbol": "DAI",
-    "contractType": "ERC-20",
-    "resourceLinks": [],
-    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a/logo.png",
-    "description": ""
+  "chainId": 43114,
+  "address": "0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a",
+  "decimals": 18,
+  "name": "Dai Stablecoin",
+  "symbol": "DAI",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a/logo.png",
+  "description": ""
 }

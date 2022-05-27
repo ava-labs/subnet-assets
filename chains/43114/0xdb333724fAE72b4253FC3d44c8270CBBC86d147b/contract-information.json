@@ -1,11 +1,11 @@
 {
-    "chainId": 43114,
-    "address": "0xdb333724fAE72b4253FC3d44c8270CBBC86d147b",
-    "decimals": 18,
-    "name": "Cabbage.Cash",
-    "symbol": "CABAG",
-    "contractType": "ERC-20",
-    "resourceLinks": [],
-    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xdb333724fAE72b4253FC3d44c8270CBBC86d147b/logo.png",
-    "description": ""
+  "chainId": 43114,
+  "address": "0xdb333724fAE72b4253FC3d44c8270CBBC86d147b",
+  "decimals": 18,
+  "name": "Cabbage.Cash",
+  "symbol": "CABAG",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xdb333724fAE72b4253FC3d44c8270CBBC86d147b/logo.png",
+  "description": ""
 }

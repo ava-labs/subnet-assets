@@ -1,11 +1,11 @@
 {
-    "chainId": 43114,
-    "address": "0x45C13620B55C35A5f539d26E88247011Eb10fDbd",
-    "decimals": 18,
-    "name": "Hurricane Token",
-    "symbol": "HCT",
-    "contractType": "ERC-20",
-    "resourceLinks": [],
-    "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x45C13620B55C35A5f539d26E88247011Eb10fDbd/logo.png",
-    "description": ""
+  "chainId": 43114,
+  "address": "0x45C13620B55C35A5f539d26E88247011Eb10fDbd",
+  "decimals": 18,
+  "name": "Hurricane Token",
+  "symbol": "HCT",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x45C13620B55C35A5f539d26E88247011Eb10fDbd/logo.png",
+  "description": ""
 }

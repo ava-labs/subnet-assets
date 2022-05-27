@@ -1,11 +1,11 @@
 {
-    "chainId": 43114,
-    "address": "0x8a0cAc13c7da965a312f08ea4229c37869e85cB9",
-    "decimals": 18,
-    "name": "Graph Token",
-    "symbol": "GRT.e",
-    "contractType": "ERC-20",
-    "resourceLinks": [],
-    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x8a0cAc13c7da965a312f08ea4229c37869e85cB9/logo.png",
-    "description": ""
+  "chainId": 43114,
+  "address": "0x8a0cAc13c7da965a312f08ea4229c37869e85cB9",
+  "decimals": 18,
+  "name": "Graph Token",
+  "symbol": "GRT.e",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x8a0cAc13c7da965a312f08ea4229c37869e85cB9/logo.png",
+  "description": ""
 }

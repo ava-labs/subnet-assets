@@ -1,11 +1,11 @@
 {
-    "chainId": 43114,
-    "address": "0x100Cc3a819Dd3e8573fD2E46D1E66ee866068f30",
-    "decimals": 18,
-    "name": "Dragon Crypto Aurum",
-    "symbol": "DCAU",
-    "contractType": "ERC-20",
-    "resourceLinks": [],
-    "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x100Cc3a819Dd3e8573fD2E46D1E66ee866068f30/logo.png",
-    "description": ""
+  "chainId": 43114,
+  "address": "0x100Cc3a819Dd3e8573fD2E46D1E66ee866068f30",
+  "decimals": 18,
+  "name": "Dragon Crypto Aurum",
+  "symbol": "DCAU",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x100Cc3a819Dd3e8573fD2E46D1E66ee866068f30/logo.png",
+  "description": ""
 }

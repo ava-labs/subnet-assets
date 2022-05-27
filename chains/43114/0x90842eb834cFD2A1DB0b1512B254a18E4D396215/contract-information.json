@@ -1,11 +1,11 @@
 {
-    "chainId": 43114,
-    "address": "0x90842eb834cFD2A1DB0b1512B254a18E4D396215",
-    "decimals": 9,
-    "name": "Good Bridging",
-    "symbol": "GB",
-    "contractType": "ERC-20",
-    "resourceLinks": [],
-    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x90842eb834cFD2A1DB0b1512B254a18E4D396215/logo.png",
-    "description": ""
+  "chainId": 43114,
+  "address": "0x90842eb834cFD2A1DB0b1512B254a18E4D396215",
+  "decimals": 9,
+  "name": "Good Bridging",
+  "symbol": "GB",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x90842eb834cFD2A1DB0b1512B254a18E4D396215/logo.png",
+  "description": ""
 }
