@@ -16,9 +16,11 @@
         "description": ""
     },
     "utilityAddresses": {
-        "multicallAddress": "0xe07e60594653D03165402D3B491d30Fe2d2C0A6A"
+        "multicall": "0xe07e60594653D03165402D3B491d30Fe2d2C0A6A"
     },
     "pricingProviders": {
-        "nativeTokenId": "dexalot"
+        "coingecko": {
+            "nativeTokenId": "dexalot"
+        }
     }
 }

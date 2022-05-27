@@ -16,7 +16,9 @@
         "description": ""
     },
     "pricingProviders": {
-        "assetPlatformId": "avalanche",
-        "nativeTokenId": "avalanche-2"
+        "coingecko": {
+            "assetPlatformId": "avalanche",
+            "nativeTokenId": "avalanche-2"
+        }
     }
 }

@@ -16,10 +16,12 @@
         "decimals": 18
     },
     "utilityAddresses": {
-        "multicallAddress": "0x5b24224dC16508DAD755756639E420817DD4c99E"
+        "multicall": "0x5b24224dC16508DAD755756639E420817DD4c99E"
     },
     "pricingProviders": {
-        "assetPlatformId": "defi-kingdoms-blockchain",
-        "nativeTokenId": "defi-kingdoms"
+        "coingecko": {
+            "assetPlatformId": "defi-kingdoms-blockchain",
+            "nativeTokenId": "defi-kingdoms"
+        }
     }
 }

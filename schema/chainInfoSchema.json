@@ -37,11 +37,18 @@
     "utilityAddresses": {
       "type": "object",
       "patternProperties": {
-        "^[a-fA-F0-9]+$": {
+        "^[a-fA-F0-9_-]+$": {
           "type": "string",
           "pattern": "^0x[a-fA-F0-9]{40}$"
         }
-      }
+      },
+      "properties": {
+        "multicall": {
+          "type": "string",
+          "pattern": "^0x[a-fA-F0-9]{40}$"
+        }
+      },
+      "required":["multicall"]
     },
     "isTestnet": {
       "type": "boolean"
@@ -66,19 +73,24 @@
     },
     "pricingProviders": {
       "type": "object",
-      "anyOf": [
+      "oneOf": [
         {
           "properties": {
-            "nativeTokenId": {
-              "type": "string",
-              "pattern": "^[a-zA-Z0-9]+$"
-            },
-            "assetPlatformId": {
-              "type": "string",
-              "pattern": "^[a-zA-Z0-9]+$"
+            "coingecko": {
+              "type": "object",
+              "properties": {
+                "nativeTokenId": {
+                  "type": "string",
+                  "pattern": "^[a-zA-Z0-9_-]+$"
+                },
+                "assetPlatformId": {
+                  "type": "string",
+                  "pattern": "^[a-zA-Z0-9_-]+$"
+                }
+              }
             }
           },
-          "required": ["nativeTokenId", "assetPlatformId"]
+          "required": ["coingecko"]
         }
       ]
     },

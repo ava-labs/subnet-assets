@@ -16,6 +16,6 @@
         "description": ""
     },
     "utilityAddresses": {
-        "multicallAddress": "0x7e5f336f8baFc0bf775DafE091133A37244C285c"
+        "multicall": "0x7e5f336f8baFc0bf775DafE091133A37244C285c"
     }
 }

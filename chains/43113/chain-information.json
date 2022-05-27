@@ -16,10 +16,12 @@
         "description": ""
     },
     "utilityAddresses": {
-        "multicallAddress": "0xE898101ffEF388A8DA16205249a7E4977d4F034c"
+        "multicall": "0xE898101ffEF388A8DA16205249a7E4977d4F034c"
     },
     "pricingProviders": {
-        "assetPlatformId": "avalanche",
-        "nativeTokenId": "avalanche-2"
+        "coingecko": {
+            "assetPlatformId": "avalanche",
+            "nativeTokenId": "avalanche-2"
+        }
     }
 }

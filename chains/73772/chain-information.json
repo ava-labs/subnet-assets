@@ -16,9 +16,11 @@
         "decimals": 18
     },
     "utilityAddresses": {
-        "multicallAddress": "0xd46175048c125eae5a7694BDa6C723b76D24e428"
+        "multicall": "0xd46175048c125eae5a7694BDa6C723b76D24e428"
     },
     "pricingProviders": {
-        "nativeTokenId": "treasure-under-sea"
+        "coingecko": {
+            "nativeTokenId": "treasure-under-sea"
+        }
     }
 }
