@@ -158,7 +158,7 @@
         "chainId": 43113,
         "name": "Bitcoin",
         "symbol": "BTC.b",
-        "decimals": 8,
+        "decimals": 18,
         "contractType": "ERC-20",
         "resourceLinks": [],
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43113/0x0f2071079315ba5a1c6d5b532a01a132c157ac83/logo.png",
