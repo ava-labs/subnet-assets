@@ -17,7 +17,7 @@
       "description": ""
     },
     "utilityAddresses": {
-      "multicallAddress": "0x7e5f336f8baFc0bf775DafE091133A37244C285c"
+      "multicall": "0x7e5f336f8baFc0bf775DafE091133A37244C285c"
     }
   },
   {
@@ -38,11 +38,13 @@
       "decimals": 18
     },
     "utilityAddresses": {
-      "multicallAddress": "0x5b24224dC16508DAD755756639E420817DD4c99E"
+      "multicall": "0x5b24224dC16508DAD755756639E420817DD4c99E"
     },
     "pricingProviders": {
-      "assetPlatformId": "defi-kingdoms-blockchain",
-      "nativeTokenId": "defi-kingdoms"
+      "coingecko": {
+        "assetPlatformId": "defi-kingdoms-blockchain",
+        "nativeTokenId": "defi-kingdoms"
+      }
     }
   },
   {
@@ -63,8 +65,10 @@
       "description": ""
     },
     "pricingProviders": {
-      "assetPlatformId": "avalanche",
-      "nativeTokenId": "avalanche-2"
+      "coingecko": {
+        "assetPlatformId": "avalanche",
+        "nativeTokenId": "avalanche-2"
+      }
     }
   },
   {
@@ -85,11 +89,13 @@
       "description": ""
     },
     "utilityAddresses": {
-      "multicallAddress": "0xE898101ffEF388A8DA16205249a7E4977d4F034c"
+      "multicall": "0xE898101ffEF388A8DA16205249a7E4977d4F034c"
     },
     "pricingProviders": {
-      "assetPlatformId": "avalanche",
-      "nativeTokenId": "avalanche-2"
+      "coingecko": {
+        "assetPlatformId": "avalanche",
+        "nativeTokenId": "avalanche-2"
+      }
     }
   },
   {
@@ -110,11 +116,13 @@
       "description": ""
     },
     "utilityAddresses": {
-      "multicallAddress": "0xed386Fe855C1EFf2f843B910923Dd8846E45C5A4"
+      "multicall": "0xed386Fe855C1EFf2f843B910923Dd8846E45C5A4"
     },
     "pricingProviders": {
-      "assetPlatformId": "avalanche",
-      "nativeTokenId": "avalanche-2"
+      "coingecko": {
+        "assetPlatformId": "avalanche",
+        "nativeTokenId": "avalanche-2"
+      }
     }
   },
   {
@@ -135,10 +143,12 @@
       "description": ""
     },
     "utilityAddresses": {
-      "multicallAddress": "0xe07e60594653D03165402D3B491d30Fe2d2C0A6A"
+      "multicall": "0xe07e60594653D03165402D3B491d30Fe2d2C0A6A"
     },
     "pricingProviders": {
-      "nativeTokenId": "dexalot"
+      "coingecko": {
+        "nativeTokenId": "dexalot"
+      }
     }
   },
   {
@@ -159,11 +169,13 @@
       "decimals": 18
     },
     "utilityAddresses": {
-      "multicallAddress": "0x5b24224dC16508DAD755756639E420817DD4c99E"
+      "multicall": "0x5b24224dC16508DAD755756639E420817DD4c99E"
     },
     "pricingProviders": {
-      "assetPlatformId": "defi-kingdoms-blockchain",
-      "nativeTokenId": "defi-kingdoms"
+      "coingecko": {
+        "assetPlatformId": "defi-kingdoms-blockchain",
+        "nativeTokenId": "defi-kingdoms"
+      }
     }
   },
   {
@@ -184,10 +196,12 @@
       "decimals": 18
     },
     "utilityAddresses": {
-      "multicallAddress": "0x4754009155eCFC2074E0dC9Fd0bf1d3d94a3Bb9c"
+      "multicall": "0x4754009155eCFC2074E0dC9Fd0bf1d3d94a3Bb9c"
     },
     "pricingProviders": {
-      "nativeTokenId": "treasure-under-sea"
+      "coingecko": {
+        "nativeTokenId": "treasure-under-sea"
+      }
     }
   },
   {
@@ -208,10 +222,12 @@
       "decimals": 18
     },
     "utilityAddresses": {
-      "multicallAddress": "0xd46175048c125eae5a7694BDa6C723b76D24e428"
+      "multicall": "0xd46175048c125eae5a7694BDa6C723b76D24e428"
     },
     "pricingProviders": {
-      "nativeTokenId": "treasure-under-sea"
+      "coingecko": {
+        "nativeTokenId": "treasure-under-sea"
+      }
     }
   }
 ]

@@ -18,11 +18,13 @@
       "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/335/chain-logo.png"
     },
     "utilityAddresses": {
-      "multicallAddress": "0x5b24224dC16508DAD755756639E420817DD4c99E"
+      "multicall": "0x5b24224dC16508DAD755756639E420817DD4c99E"
     },
     "pricingProviders": {
-      "assetPlatformId": "defi-kingdoms-blockchain",
-      "nativeTokenId": "defi-kingdoms"
+      "coingecko": {
+        "assetPlatformId": "defi-kingdoms-blockchain",
+        "nativeTokenId": "defi-kingdoms"
+      }
     },
     "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/335/token-logo.png",
     "tokens": [
@@ -79,7 +81,7 @@
       "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/11111/chain-logo.png"
     },
     "utilityAddresses": {
-      "multicallAddress": "0x7e5f336f8baFc0bf775DafE091133A37244C285c"
+      "multicall": "0x7e5f336f8baFc0bf775DafE091133A37244C285c"
     },
     "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/11111/token-logo.png",
     "tokens": []
@@ -103,8 +105,10 @@
       "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43112/chain-logo.png"
     },
     "pricingProviders": {
-      "assetPlatformId": "avalanche",
-      "nativeTokenId": "avalanche-2"
+      "coingecko": {
+        "assetPlatformId": "avalanche",
+        "nativeTokenId": "avalanche-2"
+      }
     },
     "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43112/token-logo.png",
     "tokens": []
@@ -128,11 +132,13 @@
       "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43113/chain-logo.png"
     },
     "utilityAddresses": {
-      "multicallAddress": "0xE898101ffEF388A8DA16205249a7E4977d4F034c"
+      "multicall": "0xE898101ffEF388A8DA16205249a7E4977d4F034c"
     },
     "pricingProviders": {
-      "assetPlatformId": "avalanche",
-      "nativeTokenId": "avalanche-2"
+      "coingecko": {
+        "assetPlatformId": "avalanche",
+        "nativeTokenId": "avalanche-2"
+      }
     },
     "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43113/token-logo.png",
     "tokens": [
@@ -300,11 +306,13 @@
       "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/chain-logo.png"
     },
     "utilityAddresses": {
-      "multicallAddress": "0xed386Fe855C1EFf2f843B910923Dd8846E45C5A4"
+      "multicall": "0xed386Fe855C1EFf2f843B910923Dd8846E45C5A4"
     },
     "pricingProviders": {
-      "assetPlatformId": "avalanche",
-      "nativeTokenId": "avalanche-2"
+      "coingecko": {
+        "assetPlatformId": "avalanche",
+        "nativeTokenId": "avalanche-2"
+      }
     },
     "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/token-logo.png",
     "tokens": [
@@ -2301,11 +2309,13 @@
       "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/53935/chain-logo.png"
     },
     "utilityAddresses": {
-      "multicallAddress": "0x5b24224dC16508DAD755756639E420817DD4c99E"
+      "multicall": "0x5b24224dC16508DAD755756639E420817DD4c99E"
     },
     "pricingProviders": {
-      "assetPlatformId": "defi-kingdoms-blockchain",
-      "nativeTokenId": "defi-kingdoms"
+      "coingecko": {
+        "assetPlatformId": "defi-kingdoms-blockchain",
+        "nativeTokenId": "defi-kingdoms"
+      }
     },
     "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/53935/token-logo.png",
     "tokens": [
@@ -2422,10 +2432,12 @@
       "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/73771/chain-logo.png"
     },
     "utilityAddresses": {
-      "multicallAddress": "0x4754009155eCFC2074E0dC9Fd0bf1d3d94a3Bb9c"
+      "multicall": "0x4754009155eCFC2074E0dC9Fd0bf1d3d94a3Bb9c"
     },
     "pricingProviders": {
-      "nativeTokenId": "treasure-under-sea"
+      "coingecko": {
+        "nativeTokenId": "treasure-under-sea"
+      }
     },
     "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/73771/token-logo.png",
     "tokens": [
@@ -2542,10 +2554,12 @@
       "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/73772/chain-logo.png"
     },
     "utilityAddresses": {
-      "multicallAddress": "0xd46175048c125eae5a7694BDa6C723b76D24e428"
+      "multicall": "0xd46175048c125eae5a7694BDa6C723b76D24e428"
     },
     "pricingProviders": {
-      "nativeTokenId": "treasure-under-sea"
+      "coingecko": {
+        "nativeTokenId": "treasure-under-sea"
+      }
     },
     "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/73772/token-logo.png",
     "tokens": [
@@ -2662,10 +2676,12 @@
       "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/432201/chain-logo.png"
     },
     "utilityAddresses": {
-      "multicallAddress": "0xe07e60594653D03165402D3B491d30Fe2d2C0A6A"
+      "multicall": "0xe07e60594653D03165402D3B491d30Fe2d2C0A6A"
     },
     "pricingProviders": {
-      "nativeTokenId": "dexalot"
+      "coingecko": {
+        "nativeTokenId": "dexalot"
+      }
     },
     "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/432201/token-logo.png",
     "tokens": [
