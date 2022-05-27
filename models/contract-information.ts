@@ -24,7 +24,6 @@ export type ResourceLink = {
     | 'Whitepaper'
     | 'CoinGecko'
     | 'CoinMarketCap'
-    | 'Email'
     | 'LinkedIn'
     | 'Reddit'
     | 'Support'
