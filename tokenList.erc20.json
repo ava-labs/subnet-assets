@@ -27,6 +27,14 @@
     "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/335/token-logo.png",
     "tokens": [
       {
+        "address": "0x3C351E1afdd1b1BC44e931E12D4E05D6125eaeCa",
+        "name": "xJEWEL",
+        "symbol": "XJEWEL",
+        "chainId": 335,
+        "description": "",
+        "contractType": "ERC-20"
+      },
+      {
         "address": "0x5b24224dC16508DAD755756639E420817DD4c99E",
         "name": "Wrapped JEWEL",
         "symbol": "WJEWEL",
@@ -44,7 +52,7 @@
       },
       {
         "address": "0xa5c47B4bEb35215fB0CF0Ea6516F9921591c3aCE",
-        "name": "Crystal",
+        "name": "Crystals",
         "symbol": "CRYSTAL",
         "chainId": 335,
         "description": "",
@@ -2303,7 +2311,7 @@
     "tokens": [
       {
         "address": "0x04b9dA42306B023f3572e106B11D82aAd9D32EBb",
-        "name": "Crystal",
+        "name": "Crystals",
         "symbol": "CRYSTAL",
         "description": "",
         "assetType": "Unlimited Cap",
@@ -2328,6 +2336,22 @@
         "contractType": "ERC-20"
       },
       {
+        "address": "0x48658E69D741024b4686C8f7b236D3F1D291f386",
+        "name": "JEWEL-CRYSTAL LP Token",
+        "symbol": "JEWEL-LP",
+        "chainId": 53935,
+        "description": "",
+        "contractType": "ERC-20"
+      },
+      {
+        "address": "0x6AC38A4C112F125eac0eBDbaDBed0BC8F4575d0d",
+        "name": "JEWEL-xJEWEL LP Token",
+        "symbol": "JEWEL-LP",
+        "chainId": 53935,
+        "description": "",
+        "contractType": "ERC-20"
+      },
+      {
         "address": "0x77f2656d04E158f915bC22f07B779D94c1DC47Ff",
         "name": "xJEWEL",
         "symbol": "xJEWEL",
@@ -2335,6 +2359,22 @@
         "assetType": "Unlimited Cap",
         "contractType": "ERC-20",
         "chainId": 53935
+      },
+      {
+        "address": "0x9f378F48d0c1328fd0C80d7Ae544C6CadB5Ba99E",
+        "name": "CRYSTAL-AVAX LP Token",
+        "symbol": "JEWEL-LP",
+        "chainId": 53935,
+        "description": "",
+        "contractType": "ERC-20"
+      },
+      {
+        "address": "0xA11f52cd55900e7faf0daca7F2BA1DF8df30AdDd",
+        "name": "xCrystal",
+        "symbol": "xCRYSTAL",
+        "chainId": 53935,
+        "description": "",
+        "contractType": "ERC-20"
       },
       {
         "address": "0xB57B60DeBDB0b8172bb6316a9164bd3C695F133a",
@@ -2352,6 +2392,14 @@
         "assetType": "Unlimited Cap",
         "contractType": "ERC-20",
         "chainId": 53935
+      },
+      {
+        "address": "0xF3EabeD6Bd905e0FcD68FC3dBCd6e3A4aEE55E98",
+        "name": "JEWEL-AVAX LP Token",
+        "symbol": "JEWEL-LP",
+        "chainId": 53935,
+        "description": "",
+        "contractType": "ERC-20"
       }
     ]
   },
