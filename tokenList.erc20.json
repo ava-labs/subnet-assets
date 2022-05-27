@@ -154,24 +154,24 @@
         "description": ""
       },
       {
-        "address": "0x0f2071079315ba5a1c6d5b532a01a132c157ac83",
+        "address": "0x0f2071079315Ba5a1c6d5b532a01a132c157AC83",
         "chainId": 43113,
         "name": "Bitcoin",
         "symbol": "BTC.b",
         "decimals": 18,
         "contractType": "ERC-20",
         "resourceLinks": [],
-        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43113/0x0f2071079315ba5a1c6d5b532a01a132c157ac83/logo.png",
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43113/0x0f2071079315Ba5a1c6d5b532a01a132c157AC83/logo.png",
         "description": ""
       },
       {
-        "address": "0x1741b9c475e0861a43b03f984928082ac4f3fb95",
+        "address": "0x1741B9C475e0861a43B03F984928082Ac4f3fB95",
         "name": "ChainLink Token",
         "symbol": "LINK.e",
         "contractType": "ERC-20",
         "decimals": 18,
         "resourceLinks": [],
-        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43113/0x1741b9c475e0861a43b03f984928082ac4f3fb95/logo.png",
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43113/0x1741B9C475e0861a43B03F984928082Ac4f3fB95/logo.png",
         "chainId": 43113,
         "description": ""
       },
@@ -463,14 +463,15 @@
         "assetType": "Stablecoin"
       },
       {
-        "address": "0x152b9d0fdc40c096757f570a51e494bd4b943e50",
+        "address": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
         "chainId": 43114,
         "name": "Bitcoin",
         "symbol": "BTC.b",
         "decimals": 8,
         "contractType": "ERC-20",
         "resourceLinks": [],
-        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x152b9d0fdc40c096757f570a51e494bd4b943e50/logo.png"
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x152b9d0FdC40C096757F570A51E494bd4b943E50/logo.png",
+        "description": ""
       },
       {
         "chainId": 43114,
