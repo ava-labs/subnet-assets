@@ -5,8 +5,8 @@ import addFormats from 'ajv-formats';
 import { ROOT_PATH, CHAIN_INFO_FILE } from './constants.mjs';
 import Ajv from 'ajv';
 import { getTokens } from './getTokens.mjs';
-import chainInfoSchema from '../schema/chainInfoSchema.json'
-import contractInfoSchema from '../schema/contractInfoSchema.json'
+import chainInfoSchema from '../schema/chainInfoSchema.json';
+import contractInfoSchema from '../schema/contractInfoSchema.json';
 
 let ajv = new Ajv({ allErrors: true });
 addFormats(ajv);
@@ -14,7 +14,7 @@ addFormats(ajv);
 const validateChainInfo = ajv.compile(chainInfoSchema);
 const validateContractInfo = ajv.compile(contractInfoSchema);
 
-const errors = fs.readdirSync(ROOT_PATH).reduce((acc, chainId) => {
+let errors = fs.readdirSync(ROOT_PATH).reduce((acc, chainId) => {
   // this is all chain paths. ie.../subnet-assets/chains/11111
   const chainTokenIds = path.resolve(ROOT_PATH, chainId);
 
@@ -31,12 +31,21 @@ const errors = fs.readdirSync(ROOT_PATH).reduce((acc, chainId) => {
     [chainId]: {
       chainErrors: validateChainInfo.errors,
       tokenErrors: tokenErrors.filter((tokenError) => {
-        return tokenError != null;
+        return tokenError !== null;
       }),
     },
   };
 }, {});
 
-if (errors) {
-  core.setFailed(JSON.stringify(errors, null, 2));
+errors = Object.keys(errors).forEach(chainId => {
+  Object.keys(chainId).forEach(key => {
+    if(chainId[key] === null || chainId[key].length === 0){
+      delete chainId[key]
+    }
+  })
+  return delete errors[chainId]
+});
+
+if (errors){
+  core.setFailed(JSON.stringify(errors,null,2))
 }
