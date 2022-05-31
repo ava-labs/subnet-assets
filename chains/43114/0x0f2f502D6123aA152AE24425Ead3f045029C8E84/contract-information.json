@@ -1,0 +1,11 @@
+{
+    "address": "0x0f2f502D6123aA152AE24425Ead3f045029C8E84",
+    "name": "Bazooka Joe",
+    "symbol": "BZK-PACK-S",
+    "description": "Bazooka Joe Standard Pack",
+    "contractType": "ERC-721",
+    "assetType": "NFT",
+    "officialSite": "https://toppsnfts.com/",
+    "email": "dovibrand@gmail.com",
+    "chainId": 43114
+}
