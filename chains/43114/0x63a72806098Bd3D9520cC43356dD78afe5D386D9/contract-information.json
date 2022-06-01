@@ -1,11 +1,11 @@
 {
-  "chainId": 43114,
-  "address": "0x63a72806098Bd3D9520cC43356dD78afe5D386D9",
-  "decimals": 18,
-  "name": "Aave Token",
-  "symbol": "AAVE.e",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x63a72806098Bd3D9520cC43356dD78afe5D386D9/logo.png",
-  "description": ""
+    "chainId": 43114,
+    "address": "0x63a72806098Bd3D9520cC43356dD78afe5D386D9",
+    "decimals": 18,
+    "name": "Aave Token",
+    "symbol": "AAVE.e",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x63a72806098Bd3D9520cC43356dD78afe5D386D9/logo.png",
+    "description": ""
 }

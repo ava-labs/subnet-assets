@@ -1,11 +1,11 @@
 {
-  "chainId": 43113,
-  "address": "0x72C14f7fB8B14040dA6E5b1B9D1B9438ebD85F58",
-  "symbol": "SUSHI",
-  "name": "SushiSwap",
-  "decimals": 18,
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43113/0x72C14f7fB8B14040dA6E5b1B9D1B9438ebD85F58/logo.png",
-  "description": ""
+    "chainId": 43113,
+    "address": "0x72C14f7fB8B14040dA6E5b1B9D1B9438ebD85F58",
+    "symbol": "SUSHI",
+    "name": "SushiSwap",
+    "decimals": 18,
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43113/0x72C14f7fB8B14040dA6E5b1B9D1B9438ebD85F58/logo.png",
+    "description": ""
 }

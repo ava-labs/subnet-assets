@@ -1,11 +1,11 @@
 {
-  "chainId": 43114,
-  "address": "0xD606199557c8Ab6F4Cc70bD03FaCc96ca576f142",
-  "decimals": 18,
-  "name": "Gondola",
-  "symbol": "GDL",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/gondola-finance/frontend-v2/master/src/assets/icons/colour.png",
-  "description": ""
+    "chainId": 43114,
+    "address": "0xD606199557c8Ab6F4Cc70bD03FaCc96ca576f142",
+    "decimals": 18,
+    "name": "Gondola",
+    "symbol": "GDL",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/gondola-finance/frontend-v2/master/src/assets/icons/colour.png",
+    "description": ""
 }

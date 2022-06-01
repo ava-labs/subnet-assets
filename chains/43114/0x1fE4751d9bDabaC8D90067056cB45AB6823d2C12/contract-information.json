@@ -1,11 +1,11 @@
 {
-  "chainId": 43114,
-  "address": "0x1fE4751d9bDabaC8D90067056cB45AB6823d2C12",
-  "decimals": 18,
-  "name": "ArgonToken",
-  "symbol": "ARGON",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x1fE4751d9bDabaC8D90067056cB45AB6823d2C12/logo.png",
-  "description": ""
+    "chainId": 43114,
+    "address": "0x1fE4751d9bDabaC8D90067056cB45AB6823d2C12",
+    "decimals": 18,
+    "name": "ArgonToken",
+    "symbol": "ARGON",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x1fE4751d9bDabaC8D90067056cB45AB6823d2C12/logo.png",
+    "description": ""
 }

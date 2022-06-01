@@ -1,21 +1,21 @@
 {
-  "chainName": "WAGMI",
-  "description": "",
-  "chainId": 11111,
-  "platformChainId": "2ebCneCbwthjQ1rYT41nhd7M76Hc6YmosMAQrTFhBq8qeqh6tt",
-  "subnetId": "28nrH5T2BMvNrWecFcV3mfccjs6axM1TVyqe79MCv2Mhs8kxiY",
-  "vmId": "srEXiWaHuhNyGwPUi444Tu47ZEDwxTWrbQiuD7FmgSAQ6X7Dy",
-  "vmName": "EVM",
-  "rpcUrl": "https://subnets.avax.network/wagmi/wagmi-chain-testnet/rpc",
-  "wsUrl": "wss://subnets.avax.network/wagmi/wagmi-chain-testnet/ws",
-  "isTestnet": true,
-  "networkToken": {
-    "name": "Wagmi",
-    "symbol": "WGM",
-    "decimals": 18,
-    "description": ""
-  },
-  "utilityAddresses": {
-    "multicall": "0x7e5f336f8baFc0bf775DafE091133A37244C285c"
-  }
+    "chainName": "WAGMI",
+    "description": "",
+    "chainId": 11111,
+    "platformChainId": "2ebCneCbwthjQ1rYT41nhd7M76Hc6YmosMAQrTFhBq8qeqh6tt",
+    "subnetId": "28nrH5T2BMvNrWecFcV3mfccjs6axM1TVyqe79MCv2Mhs8kxiY",
+    "vmId": "srEXiWaHuhNyGwPUi444Tu47ZEDwxTWrbQiuD7FmgSAQ6X7Dy",
+    "vmName": "EVM",
+    "rpcUrl": "https://subnets.avax.network/wagmi/wagmi-chain-testnet/rpc",
+    "wsUrl": "wss://subnets.avax.network/wagmi/wagmi-chain-testnet/ws",
+    "isTestnet": true,
+    "networkToken": {
+        "name": "Wagmi",
+        "symbol": "WGM",
+        "decimals": 18,
+        "description": ""
+    },
+    "utilityAddresses": {
+        "multicall": "0x7e5f336f8baFc0bf775DafE091133A37244C285c"
+    }
 }

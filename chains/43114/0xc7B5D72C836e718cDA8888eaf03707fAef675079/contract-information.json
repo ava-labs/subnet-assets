@@ -1,11 +1,11 @@
 {
-  "chainId": 43114,
-  "address": "0xc7B5D72C836e718cDA8888eaf03707fAef675079",
-  "decimals": 18,
-  "name": "TrustSwap Token",
-  "symbol": "SWAP.e",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xc7B5D72C836e718cDA8888eaf03707fAef675079/logo.png",
-  "description": ""
+    "chainId": 43114,
+    "address": "0xc7B5D72C836e718cDA8888eaf03707fAef675079",
+    "decimals": 18,
+    "name": "TrustSwap Token",
+    "symbol": "SWAP.e",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xc7B5D72C836e718cDA8888eaf03707fAef675079/logo.png",
+    "description": ""
 }

@@ -1,11 +1,11 @@
 {
-  "chainId": 43114,
-  "address": "0xaBC9547B534519fF73921b1FBA6E672b5f58D083",
-  "decimals": 18,
-  "name": "Wootrade Network",
-  "symbol": "WOO.e",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xaBC9547B534519fF73921b1FBA6E672b5f58D083/logo.png",
-  "description": ""
+    "chainId": 43114,
+    "address": "0xaBC9547B534519fF73921b1FBA6E672b5f58D083",
+    "decimals": 18,
+    "name": "Wootrade Network",
+    "symbol": "WOO.e",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xaBC9547B534519fF73921b1FBA6E672b5f58D083/logo.png",
+    "description": ""
 }

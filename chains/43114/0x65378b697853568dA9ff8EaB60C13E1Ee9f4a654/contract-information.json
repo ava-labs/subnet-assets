@@ -1,11 +1,11 @@
 {
-  "chainId": 43114,
-  "address": "0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654",
-  "decimals": 18,
-  "name": "Husky",
-  "symbol": "HUSKY",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654/logo.png",
-  "description": ""
+    "chainId": 43114,
+    "address": "0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654",
+    "decimals": 18,
+    "name": "Husky",
+    "symbol": "HUSKY",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654/logo.png",
+    "description": ""
 }

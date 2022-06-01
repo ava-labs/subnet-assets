@@ -1,11 +1,11 @@
 {
-  "chainId": 43114,
-  "address": "0xB0a6e056B587D0a85640b39b1cB44086F7a26A1E",
-  "decimals": 18,
-  "name": "OddzToken",
-  "symbol": "ODDZ",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xB0a6e056B587D0a85640b39b1cB44086F7a26A1E/logo.png",
-  "description": ""
+    "chainId": 43114,
+    "address": "0xB0a6e056B587D0a85640b39b1cB44086F7a26A1E",
+    "decimals": 18,
+    "name": "OddzToken",
+    "symbol": "ODDZ",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xB0a6e056B587D0a85640b39b1cB44086F7a26A1E/logo.png",
+    "description": ""
 }

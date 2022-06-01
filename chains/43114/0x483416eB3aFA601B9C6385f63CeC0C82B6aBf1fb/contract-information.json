@@ -1,11 +1,11 @@
 {
-  "chainId": 43114,
-  "address": "0x483416eB3aFA601B9C6385f63CeC0C82B6aBf1fb",
-  "decimals": 18,
-  "name": "Skill Token",
-  "symbol": "SKILL",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x483416eB3aFA601B9C6385f63CeC0C82B6aBf1fb/logo.png",
-  "description": ""
+    "chainId": 43114,
+    "address": "0x483416eB3aFA601B9C6385f63CeC0C82B6aBf1fb",
+    "decimals": 18,
+    "name": "Skill Token",
+    "symbol": "SKILL",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x483416eB3aFA601B9C6385f63CeC0C82B6aBf1fb/logo.png",
+    "description": ""
 }

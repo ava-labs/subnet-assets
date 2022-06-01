@@ -1,11 +1,11 @@
 {
-  "chainId": 43114,
-  "address": "0x21c5402C3B7d40C89Cc472C9dF5dD7E51BbAb1b1",
-  "decimals": 18,
-  "name": "TundraToken",
-  "symbol": "TUNDRA",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x21c5402C3B7d40C89Cc472C9dF5dD7E51BbAb1b1/logo.png",
-  "description": ""
+    "chainId": 43114,
+    "address": "0x21c5402C3B7d40C89Cc472C9dF5dD7E51BbAb1b1",
+    "decimals": 18,
+    "name": "TundraToken",
+    "symbol": "TUNDRA",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x21c5402C3B7d40C89Cc472C9dF5dD7E51BbAb1b1/logo.png",
+    "description": ""
 }

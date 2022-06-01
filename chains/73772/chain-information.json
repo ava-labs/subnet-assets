@@ -1,26 +1,26 @@
 {
-  "chainName": "Swimmer Mainnet",
-  "description": "",
-  "chainId": 73772,
-  "platformChainId": "2K33xS9AyP9oCDiHYKVrHe7F54h2La5D8erpTChaAhdzeSu2RX",
-  "subnetId": "2e3CqLY8thW1WKS89WQ7WR9Qy2bCrrP5mv7psqMRGCHGXuQ1Uj",
-  "vmId": "srSGD5JeYhL8GLx4RUw53VN5TcoBbax6EeCYmy5S3DiteJhdF",
-  "vmName": "EVM",
-  "rpcUrl": "https://subnets.avax.network/swimmer/mainnet/rpc",
-  "wsUrl": "wss://subnets.avax.network/swimmer/mainnet/ws",
-  "isTestnet": false,
-  "networkToken": {
-    "name": "Treasure Under Sea",
-    "symbol": "TUS",
+    "chainName": "Swimmer Mainnet",
     "description": "",
-    "decimals": 18
-  },
-  "utilityAddresses": {
-    "multicall": "0xd46175048c125eae5a7694BDa6C723b76D24e428"
-  },
-  "pricingProviders": {
-    "coingecko": {
-      "nativeTokenId": "treasure-under-sea"
+    "chainId": 73772,
+    "platformChainId": "2K33xS9AyP9oCDiHYKVrHe7F54h2La5D8erpTChaAhdzeSu2RX",
+    "subnetId": "2e3CqLY8thW1WKS89WQ7WR9Qy2bCrrP5mv7psqMRGCHGXuQ1Uj",
+    "vmId": "srSGD5JeYhL8GLx4RUw53VN5TcoBbax6EeCYmy5S3DiteJhdF",
+    "vmName": "EVM",
+    "rpcUrl": "https://subnets.avax.network/swimmer/mainnet/rpc",
+    "wsUrl": "wss://subnets.avax.network/swimmer/mainnet/ws",
+    "isTestnet": false,
+    "networkToken": {
+        "name": "Treasure Under Sea",
+        "symbol": "TUS",
+        "description": "",
+        "decimals": 18
+    },
+    "utilityAddresses": {
+        "multicall": "0xd46175048c125eae5a7694BDa6C723b76D24e428"
+    },
+    "pricingProviders": {
+        "coingecko": {
+            "nativeTokenId": "treasure-under-sea"
+        }
     }
-  }
 }

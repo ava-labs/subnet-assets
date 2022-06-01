@@ -1,11 +1,11 @@
 {
-  "chainId": 43114,
-  "address": "0xB3fe5374F67D7a22886A0eE082b2E2f9d2651651",
-  "decimals": 18,
-  "name": "ChainLink Token",
-  "symbol": "LINK",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xB3fe5374F67D7a22886A0eE082b2E2f9d2651651/logo.png",
-  "description": ""
+    "chainId": 43114,
+    "address": "0xB3fe5374F67D7a22886A0eE082b2E2f9d2651651",
+    "decimals": 18,
+    "name": "ChainLink Token",
+    "symbol": "LINK",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xB3fe5374F67D7a22886A0eE082b2E2f9d2651651/logo.png",
+    "description": ""
 }

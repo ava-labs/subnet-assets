@@ -1,11 +1,11 @@
 {
-  "chainId": 43114,
-  "address": "0x094bd7B2D99711A1486FB94d4395801C6d0fdDcC",
-  "decimals": 18,
-  "name": "TEDDY",
-  "symbol": "TEDDY",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x094bd7B2D99711A1486FB94d4395801C6d0fdDcC/logo.png",
-  "description": ""
+    "chainId": 43114,
+    "address": "0x094bd7B2D99711A1486FB94d4395801C6d0fdDcC",
+    "decimals": 18,
+    "name": "TEDDY",
+    "symbol": "TEDDY",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x094bd7B2D99711A1486FB94d4395801C6d0fdDcC/logo.png",
+    "description": ""
 }

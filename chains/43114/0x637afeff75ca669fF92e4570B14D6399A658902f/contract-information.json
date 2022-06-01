@@ -1,11 +1,11 @@
 {
-  "chainId": 43114,
-  "address": "0x637afeff75ca669fF92e4570B14D6399A658902f",
-  "decimals": 18,
-  "name": "Poly-Peg COOK",
-  "symbol": "COOK",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x637afeff75ca669fF92e4570B14D6399A658902f/logo.png",
-  "description": ""
+    "chainId": 43114,
+    "address": "0x637afeff75ca669fF92e4570B14D6399A658902f",
+    "decimals": 18,
+    "name": "Poly-Peg COOK",
+    "symbol": "COOK",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x637afeff75ca669fF92e4570B14D6399A658902f/logo.png",
+    "description": ""
 }

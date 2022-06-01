@@ -1,11 +1,11 @@
 {
-  "chainId": 43114,
-  "address": "0x6b329326E0F6b95B93b52229b213334278D6f277",
-  "decimals": 18,
-  "name": "Basic Attention Token",
-  "symbol": "BAT",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x6b329326E0F6b95B93b52229b213334278D6f277/logo.png",
-  "description": ""
+    "chainId": 43114,
+    "address": "0x6b329326E0F6b95B93b52229b213334278D6f277",
+    "decimals": 18,
+    "name": "Basic Attention Token",
+    "symbol": "BAT",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x6b329326E0F6b95B93b52229b213334278D6f277/logo.png",
+    "description": ""
 }

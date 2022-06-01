@@ -1,11 +1,11 @@
 {
-  "chainId": 43114,
-  "address": "0x596fA47043f99A4e0F122243B841E55375cdE0d2",
-  "decimals": 18,
-  "name": "0x Protocol Token",
-  "symbol": "ZRX.e",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x596fA47043f99A4e0F122243B841E55375cdE0d2/logo.png",
-  "description": ""
+    "chainId": 43114,
+    "address": "0x596fA47043f99A4e0F122243B841E55375cdE0d2",
+    "decimals": 18,
+    "name": "0x Protocol Token",
+    "symbol": "ZRX.e",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x596fA47043f99A4e0F122243B841E55375cdE0d2/logo.png",
+    "description": ""
 }

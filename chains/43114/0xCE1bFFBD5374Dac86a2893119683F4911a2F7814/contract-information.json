@@ -1,11 +1,11 @@
 {
-  "chainId": 43114,
-  "address": "0xCE1bFFBD5374Dac86a2893119683F4911a2F7814",
-  "decimals": 18,
-  "name": "Spell Token",
-  "symbol": "SPELL",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xCE1bFFBD5374Dac86a2893119683F4911a2F7814/logo.png",
-  "description": ""
+    "chainId": 43114,
+    "address": "0xCE1bFFBD5374Dac86a2893119683F4911a2F7814",
+    "decimals": 18,
+    "name": "Spell Token",
+    "symbol": "SPELL",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xCE1bFFBD5374Dac86a2893119683F4911a2F7814/logo.png",
+    "description": ""
 }

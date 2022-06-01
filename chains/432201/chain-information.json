@@ -1,26 +1,26 @@
 {
-  "chainName": "Dexalot",
-  "description": "",
-  "chainId": 432201,
-  "platformChainId": "XuEPnCE59rtutASDPCDeYw8geQaGWwteWjkDXYLWvssfuirde",
-  "subnetId": "9m6a3Qte8FaRbLZixLhh8Ptdkemm4csNaLwQeKkENx5wskbWP",
-  "vmId": "mDVSxzeWHpEU3eSqMwwGQsD787xGp7hv9Qgoe3R9SdjPapte8",
-  "vmName": "EVM",
-  "rpcUrl": "https://subnets.avax.network/dexalot/testnet/rpc",
-  "wsUrl": "wss://subnets.avax.network/dexalot/testnet/ws",
-  "isTestnet": true,
-  "networkToken": {
-    "name": "Dexalot",
-    "symbol": "ALOT",
-    "decimals": 18,
-    "description": ""
-  },
-  "utilityAddresses": {
-    "multicall": "0xe07e60594653D03165402D3B491d30Fe2d2C0A6A"
-  },
-  "pricingProviders": {
-    "coingecko": {
-      "nativeTokenId": "dexalot"
+    "chainName": "Dexalot",
+    "description": "",
+    "chainId": 432201,
+    "platformChainId": "XuEPnCE59rtutASDPCDeYw8geQaGWwteWjkDXYLWvssfuirde",
+    "subnetId": "9m6a3Qte8FaRbLZixLhh8Ptdkemm4csNaLwQeKkENx5wskbWP",
+    "vmId": "mDVSxzeWHpEU3eSqMwwGQsD787xGp7hv9Qgoe3R9SdjPapte8",
+    "vmName": "EVM",
+    "rpcUrl": "https://subnets.avax.network/dexalot/testnet/rpc",
+    "wsUrl": "wss://subnets.avax.network/dexalot/testnet/ws",
+    "isTestnet": true,
+    "networkToken": {
+        "name": "Dexalot",
+        "symbol": "ALOT",
+        "decimals": 18,
+        "description": ""
+    },
+    "utilityAddresses": {
+        "multicall": "0xe07e60594653D03165402D3B491d30Fe2d2C0A6A"
+    },
+    "pricingProviders": {
+        "coingecko": {
+            "nativeTokenId": "dexalot"
+        }
     }
-  }
 }

@@ -1,8 +1,8 @@
 {
-  "address": "0x6AC38A4C112F125eac0eBDbaDBed0BC8F4575d0d",
-  "name": "JEWEL-xJEWEL LP Token",
-  "symbol": "JEWEL-LP",
-  "chainId": 53935,
-  "description": "",
-  "contractType": "ERC-20"
+    "address": "0x6AC38A4C112F125eac0eBDbaDBed0BC8F4575d0d",
+    "name": "JEWEL-xJEWEL LP Token",
+    "symbol": "JEWEL-LP",
+    "chainId": 53935,
+    "description": "",
+    "contractType": "ERC-20"
 }

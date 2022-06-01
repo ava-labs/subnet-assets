@@ -1,11 +1,11 @@
 {
-  "chainId": 43114,
-  "address": "0xab592d197ACc575D16C3346f4EB70C703F308D1E",
-  "decimals": 18,
-  "name": "chikn feed",
-  "symbol": "FEED",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xab592d197ACc575D16C3346f4EB70C703F308D1E/logo.png",
-  "description": ""
+    "chainId": 43114,
+    "address": "0xab592d197ACc575D16C3346f4EB70C703F308D1E",
+    "decimals": 18,
+    "name": "chikn feed",
+    "symbol": "FEED",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xab592d197ACc575D16C3346f4EB70C703F308D1E/logo.png",
+    "description": ""
 }

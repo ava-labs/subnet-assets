@@ -1,12 +1,12 @@
 {
-  "chainId": 43114,
-  "address": "0xAafd2577Fb67366d3C89DB0d627C49D769ee2e5D",
-  "decimals": 18,
-  "name": "Stabilize USD",
-  "symbol": "SUSD",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xAafd2577Fb67366d3C89DB0d627C49D769ee2e5D/logo.png",
-  "description": "",
-  "assetType": "Stablecoin"
+    "chainId": 43114,
+    "address": "0xAafd2577Fb67366d3C89DB0d627C49D769ee2e5D",
+    "decimals": 18,
+    "name": "Stabilize USD",
+    "symbol": "SUSD",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xAafd2577Fb67366d3C89DB0d627C49D769ee2e5D/logo.png",
+    "description": "",
+    "assetType": "Stablecoin"
 }

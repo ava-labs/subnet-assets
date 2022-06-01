@@ -1,11 +1,11 @@
 {
-  "chainId": 43114,
-  "address": "0xb67a9374Da03d4114a6FB8f0E7F2b82b5cB34ee3",
-  "decimals": 18,
-  "name": "Augmented Finance",
-  "symbol": "AGF",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xb67a9374Da03d4114a6FB8f0E7F2b82b5cB34ee3/logo.png",
-  "description": ""
+    "chainId": 43114,
+    "address": "0xb67a9374Da03d4114a6FB8f0E7F2b82b5cB34ee3",
+    "decimals": 18,
+    "name": "Augmented Finance",
+    "symbol": "AGF",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xb67a9374Da03d4114a6FB8f0E7F2b82b5cB34ee3/logo.png",
+    "description": ""
 }

@@ -1,11 +1,11 @@
 {
-  "chainId": 43114,
-  "address": "0xa5E59761eBD4436fa4d20E1A27cBa29FB2471Fc6",
-  "decimals": 18,
-  "name": "Sherpa",
-  "symbol": "SHERPA",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xa5E59761eBD4436fa4d20E1A27cBa29FB2471Fc6/logo.png",
-  "description": ""
+    "chainId": 43114,
+    "address": "0xa5E59761eBD4436fa4d20E1A27cBa29FB2471Fc6",
+    "decimals": 18,
+    "name": "Sherpa",
+    "symbol": "SHERPA",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xa5E59761eBD4436fa4d20E1A27cBa29FB2471Fc6/logo.png",
+    "description": ""
 }

@@ -1,11 +1,11 @@
 {
-  "chainId": 43114,
-  "address": "0xae9d2385Ff2E2951Dd4fA061e74c4d3deDD24347",
-  "decimals": 8,
-  "name": "TOK",
-  "symbol": "TOK",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xae9d2385Ff2E2951Dd4fA061e74c4d3deDD24347/logo.png",
-  "description": ""
+    "chainId": 43114,
+    "address": "0xae9d2385Ff2E2951Dd4fA061e74c4d3deDD24347",
+    "decimals": 8,
+    "name": "TOK",
+    "symbol": "TOK",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xae9d2385Ff2E2951Dd4fA061e74c4d3deDD24347/logo.png",
+    "description": ""
 }

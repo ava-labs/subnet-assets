@@ -1,11 +1,11 @@
 {
-  "chainId": 43114,
-  "address": "0xaEb044650278731Ef3DC244692AB9F64C78FfaEA",
-  "decimals": 18,
-  "name": "Binance USD",
-  "symbol": "BUSD",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xaEb044650278731Ef3DC244692AB9F64C78FfaEA/logo.png",
-  "description": ""
+    "chainId": 43114,
+    "address": "0xaEb044650278731Ef3DC244692AB9F64C78FfaEA",
+    "decimals": 18,
+    "name": "Binance USD",
+    "symbol": "BUSD",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xaEb044650278731Ef3DC244692AB9F64C78FfaEA/logo.png",
+    "description": ""
 }

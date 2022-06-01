@@ -1,11 +1,11 @@
 {
-  "chainId": 43114,
-  "address": "0x0659133127749Cc0616Ed6632912ddF7cc8D7545",
-  "decimals": 18,
-  "name": "DefiLaunch Token",
-  "symbol": "DLAUNCH",
-  "contractType": "ERC-20",
-  "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x0659133127749Cc0616Ed6632912ddF7cc8D7545/logo.png",
-  "description": ""
+    "chainId": 43114,
+    "address": "0x0659133127749Cc0616Ed6632912ddF7cc8D7545",
+    "decimals": 18,
+    "name": "DefiLaunch Token",
+    "symbol": "DLAUNCH",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x0659133127749Cc0616Ed6632912ddF7cc8D7545/logo.png",
+    "description": ""
 }
