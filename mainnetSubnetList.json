@@ -1,0 +1,71 @@
+[
+  {
+    "subnetId": "2e3CqLY8thW1WKS89WQ7WR9Qy2bCrrP5mv7psqMRGCHGXuQ1Uj",
+    "subnetName": "Swimmer",
+    "isTestnet": false,
+    "explorerUri": "swimmer",
+    "chains": [
+      {
+        "chainName": "Swimmer Mainnet",
+        "description": "",
+        "chainId": 73772,
+        "platformChainId": "2K33xS9AyP9oCDiHYKVrHe7F54h2La5D8erpTChaAhdzeSu2RX",
+        "subnetId": "2e3CqLY8thW1WKS89WQ7WR9Qy2bCrrP5mv7psqMRGCHGXuQ1Uj",
+        "vmId": "srSGD5JeYhL8GLx4RUw53VN5TcoBbax6EeCYmy5S3DiteJhdF",
+        "vmName": "EVM",
+        "rpcUrl": "https://subnets.avax.network/swimmer/mainnet/rpc",
+        "wsUrl": "wss://subnets.avax.network/swimmer/mainnet/ws",
+        "isTestnet": false,
+        "networkToken": {
+          "name": "Treasure Under Sea",
+          "symbol": "TUS",
+          "description": "",
+          "decimals": 18
+        },
+        "utilityAddresses": {
+          "multicall": "0xd46175048c125eae5a7694BDa6C723b76D24e428"
+        },
+        "pricingProviders": {
+          "coingecko": {
+            "nativeTokenId": "treasure-under-sea"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "subnetId": "Vn3aX6hNRstj5VHHm63TCgPNaeGnRSqCYXQqemSqDd2TQH4qJ",
+    "subnetName": "DeFi Kingdoms",
+    "isTestnet": false,
+    "explorerUri": "defi-kingdoms",
+    "chains": [
+      {
+        "chainName": "DFK Chain",
+        "description": "",
+        "chainId": 53935,
+        "platformChainId": "q2aTwKuyzgs8pynF7UXBZCU7DejbZbZ6EUyHr3JQzYgwNPUPi",
+        "subnetId": "Vn3aX6hNRstj5VHHm63TCgPNaeGnRSqCYXQqemSqDd2TQH4qJ",
+        "vmId": "mDV3QWRXfwgKUWb9sggkv4vQxAQR4y2CyKrt5pLZ5SzQ7EHBv",
+        "vmName": "EVM",
+        "rpcUrl": "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc",
+        "wsUrl": "wss://subnets.avax.network/defi-kingdoms/dfk-chain/ws",
+        "isTestnet": false,
+        "networkToken": {
+          "name": "JEWEL",
+          "symbol": "JEWEL",
+          "description": "",
+          "decimals": 18
+        },
+        "utilityAddresses": {
+          "multicall": "0x5b24224dC16508DAD755756639E420817DD4c99E"
+        },
+        "pricingProviders": {
+          "coingecko": {
+            "assetPlatformId": "defi-kingdoms-blockchain",
+            "nativeTokenId": "defi-kingdoms"
+          }
+        }
+      }
+    ]
+  }
+]
