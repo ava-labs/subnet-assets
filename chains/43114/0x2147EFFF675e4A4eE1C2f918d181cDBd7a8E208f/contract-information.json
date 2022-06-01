@@ -1,11 +1,11 @@
 {
-    "chainId": 43114,
-    "address": "0x2147EFFF675e4A4eE1C2f918d181cDBd7a8E208f",
-    "decimals": 18,
-    "name": "AlphaToken",
-    "symbol": "ALPHA.e",
-    "contractType": "ERC-20",
-    "resourceLinks": [],
-    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x2147EFFF675e4A4eE1C2f918d181cDBd7a8E208f/logo.png",
-    "description": ""
+  "chainId": 43114,
+  "address": "0x2147EFFF675e4A4eE1C2f918d181cDBd7a8E208f",
+  "decimals": 18,
+  "name": "AlphaToken",
+  "symbol": "ALPHA.e",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x2147EFFF675e4A4eE1C2f918d181cDBd7a8E208f/logo.png",
+  "description": ""
 }

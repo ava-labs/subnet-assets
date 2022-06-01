@@ -1,11 +1,11 @@
 {
-    "chainId": 43114,
-    "address": "0xC7f4debC8072e23fe9259A5C0398326d8EfB7f5c",
-    "decimals": 18,
-    "name": "HeroesChained",
-    "symbol": "HeC",
-    "contractType": "ERC-20",
-    "resourceLinks": [],
-    "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xC7f4debC8072e23fe9259A5C0398326d8EfB7f5c/logo.png",
-    "description": ""
+  "chainId": 43114,
+  "address": "0xC7f4debC8072e23fe9259A5C0398326d8EfB7f5c",
+  "decimals": 18,
+  "name": "HeroesChained",
+  "symbol": "HeC",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xC7f4debC8072e23fe9259A5C0398326d8EfB7f5c/logo.png",
+  "description": ""
 }

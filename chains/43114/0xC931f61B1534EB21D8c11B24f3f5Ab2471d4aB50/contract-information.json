@@ -1,11 +1,11 @@
 {
-    "chainId": 43114,
-    "address": "0xC931f61B1534EB21D8c11B24f3f5Ab2471d4aB50",
-    "decimals": 8,
-    "name": "Blocknet",
-    "symbol": "aaBLOCK",
-    "contractType": "ERC-20",
-    "resourceLinks": [],
-    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xC931f61B1534EB21D8c11B24f3f5Ab2471d4aB50/logo.png",
-    "description": ""
+  "chainId": 43114,
+  "address": "0xC931f61B1534EB21D8c11B24f3f5Ab2471d4aB50",
+  "decimals": 8,
+  "name": "Blocknet",
+  "symbol": "aaBLOCK",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xC931f61B1534EB21D8c11B24f3f5Ab2471d4aB50/logo.png",
+  "description": ""
 }

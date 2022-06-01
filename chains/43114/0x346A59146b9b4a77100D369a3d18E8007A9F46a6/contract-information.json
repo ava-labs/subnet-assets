@@ -1,12 +1,12 @@
 {
-    "address": "0x346A59146b9b4a77100D369a3d18E8007A9F46a6",
-    "chainId": 43114,
-    "name": "AVAI",
-    "symbol": "AVAI",
-    "decimals": 18,
-    "contractType": "ERC-20",
-    "resourceLinks": [],
-    "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x346A59146b9b4a77100D369a3d18E8007A9F46a6/logo.png",
-    "description": "",
-    "assetType": "Stablecoin"
+  "address": "0x346A59146b9b4a77100D369a3d18E8007A9F46a6",
+  "chainId": 43114,
+  "name": "AVAI",
+  "symbol": "AVAI",
+  "decimals": 18,
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x346A59146b9b4a77100D369a3d18E8007A9F46a6/logo.png",
+  "description": "AVAI is an asset that is pegged to the US Dollar; in other words, a coin intended to float as close to $1.00 USD as possible. It will be backed by locking tokens as collateral in a personal Vault in a Orca Bank as well as via other mechanisms described in the <a href=\"https://docs.avai.finance/protocol/technical-overview\">technical overview</a>.\r\n\r\nThe entire process is decentralized and does not use a middleman such as a financial institution, meaning simply that the user is in full control of their funds at all times. \r\nAn Orca Bank is the contract that allows a user to deposit a specific ERC20 as collateral, granting AVAI in return. Using the USDC token as an example, if a user deposits $150 USD worth of collateral funds into a Vault, they will have the ability to borrow up to 100 AVAI, worth $100 USD. This grants them the opportunity to invest a total of $250 USD, while owing a stable $100 USD. ",
+  "assetType": "Stablecoin"
 }

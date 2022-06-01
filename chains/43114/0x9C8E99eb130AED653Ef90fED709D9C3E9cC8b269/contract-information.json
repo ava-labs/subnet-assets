@@ -1,11 +1,11 @@
 {
-    "chainId": 43114,
-    "address": "0x9C8E99eb130AED653Ef90fED709D9C3E9cC8b269",
-    "decimals": 18,
-    "name": "Hertz Token",
-    "symbol": "HTZ",
-    "contractType": "ERC-20",
-    "resourceLinks": [],
-    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x9C8E99eb130AED653Ef90fED709D9C3E9cC8b269/logo.png",
-    "description": ""
+  "chainId": 43114,
+  "address": "0x9C8E99eb130AED653Ef90fED709D9C3E9cC8b269",
+  "decimals": 18,
+  "name": "Hertz Token",
+  "symbol": "HTZ",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x9C8E99eb130AED653Ef90fED709D9C3E9cC8b269/logo.png",
+  "description": ""
 }

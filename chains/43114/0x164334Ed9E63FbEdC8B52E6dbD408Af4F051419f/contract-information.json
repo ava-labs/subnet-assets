@@ -1,11 +1,11 @@
 {
-    "chainId": 43114,
-    "address": "0x164334Ed9E63FbEdC8B52E6dbD408Af4F051419f",
-    "decimals": 6,
-    "name": "ENXT Token",
-    "symbol": "ENXT",
-    "contractType": "ERC-20",
-    "resourceLinks": [],
-    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x164334Ed9E63FbEdC8B52E6dbD408Af4F051419f/logo.png",
-    "description": ""
+  "chainId": 43114,
+  "address": "0x164334Ed9E63FbEdC8B52E6dbD408Af4F051419f",
+  "decimals": 6,
+  "name": "ENXT Token",
+  "symbol": "ENXT",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x164334Ed9E63FbEdC8B52E6dbD408Af4F051419f/logo.png",
+  "description": ""
 }

@@ -1,12 +1,12 @@
 {
-    "chainId": 43114,
-    "address": "0x0f577433Bf59560Ef2a79c124E9Ff99fCa258948",
-    "decimals": 18,
-    "name": "Moremoney USD",
-    "symbol": "MONEY",
-    "contractType": "ERC-20",
-    "resourceLinks": [],
-    "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x0f577433Bf59560Ef2a79c124E9Ff99fCa258948/logo.png",
-    "description": "",
-    "assetType": "Stablecoin"
+  "chainId": 43114,
+  "address": "0x0f577433Bf59560Ef2a79c124E9Ff99fCa258948",
+  "decimals": 18,
+  "name": "Moremoney USD",
+  "symbol": "MONEY",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x0f577433Bf59560Ef2a79c124E9Ff99fCa258948/logo.png",
+  "description": "Moremoney is a protocol for borrowing stablecoin while earning interest on liquidity pool tokens and other collateral assets. The protocol can convert the most popular tokens, e.g., ETH, WBTC, USDT, AVAX, to ibTKNs\r\n\r\nMONEY is backed by a basket of decentralized crypto assets including AVAX, JOE, ETH, QI, and incentivised Trader Joe and Pangolin LP.",
+  "assetType": "Stablecoin"
 }

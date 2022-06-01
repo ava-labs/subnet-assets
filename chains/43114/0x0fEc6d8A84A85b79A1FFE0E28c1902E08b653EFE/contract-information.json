@@ -1,11 +1,11 @@
 {
-    "chainId": 43114,
-    "address": "0x0fEc6d8A84A85b79A1FFE0E28c1902E08b653EFE",
-    "decimals": 18,
-    "name": "Hoopoe Ventures",
-    "symbol": "HOOP",
-    "contractType": "ERC-20",
-    "resourceLinks": [],
-    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x0fEc6d8A84A85b79A1FFE0E28c1902E08b653EFE/logo.png",
-    "description": ""
+  "chainId": 43114,
+  "address": "0x0fEc6d8A84A85b79A1FFE0E28c1902E08b653EFE",
+  "decimals": 18,
+  "name": "Hoopoe Ventures",
+  "symbol": "HOOP",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x0fEc6d8A84A85b79A1FFE0E28c1902E08b653EFE/logo.png",
+  "description": ""
 }

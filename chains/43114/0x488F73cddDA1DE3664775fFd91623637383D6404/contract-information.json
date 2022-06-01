@@ -1,11 +1,11 @@
 {
-    "chainId": 43114,
-    "address": "0x488F73cddDA1DE3664775fFd91623637383D6404",
-    "decimals": 18,
-    "name": "YetiSwap",
-    "symbol": "YTS",
-    "contractType": "ERC-20",
-    "resourceLinks": [],
-    "logoUri": "https://raw.githubusercontent.com/YetiSwap/yetiswap.app/master/src/assets/image/YTSCoin.png",
-    "description": ""
+  "chainId": 43114,
+  "address": "0x488F73cddDA1DE3664775fFd91623637383D6404",
+  "decimals": 18,
+  "name": "YetiSwap",
+  "symbol": "YTS",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/YetiSwap/yetiswap.app/master/src/assets/image/YTSCoin.png",
+  "description": "\"YetiSwap is a decentralized exchange (DEX) and NFT marketplace , running on the Avalanche blockchain. Yeti Swap uses the same automated market-making (AMM) model as Uniswap and features a native governance token called YTS that is fully community driven, with users capable of trading all native Avalanche tokens. In a crowded marketplace with multiple contenders, YetiSwap offers three critically important benefits: fast and cost-efficient trades, with a fair and open token distribution system.\r\nYetiSwap is the only NFT marketplace offering royalties on Avalanche, profiting both NFT artists and collection owners.\""
 }

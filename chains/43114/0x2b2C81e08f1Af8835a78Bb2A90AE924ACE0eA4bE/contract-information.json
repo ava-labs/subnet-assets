@@ -1,11 +1,11 @@
 {
-    "chainId": 43114,
-    "address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
-    "decimals": 18,
-    "name": "Staked AVAX",
-    "symbol": "sAVAX",
-    "contractType": "ERC-20",
-    "resourceLinks": [],
-    "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE/logo.png",
-    "description": ""
+  "chainId": 43114,
+  "address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
+  "decimals": 18,
+  "name": "Staked AVAX",
+  "symbol": "sAVAX",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE/logo.png",
+  "description": "BENQI Liquid Staking is the first liquid staking protocol for Avalanche. Users stake AVAX with BENQI, and receive sAVAX, an interest bearing version of AVAX. This allows users to earn both the rewards for securing the Avalanche network and from the world of DeFi."
 }

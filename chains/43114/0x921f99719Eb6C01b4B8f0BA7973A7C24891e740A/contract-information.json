@@ -1,11 +1,11 @@
 {
-    "chainId": 43114,
-    "address": "0x921f99719Eb6C01b4B8f0BA7973A7C24891e740A",
-    "decimals": 18,
-    "name": "MetaBrands",
-    "symbol": "MAGE",
-    "contractType": "ERC-20",
-    "resourceLinks": [],
-    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x921f99719Eb6C01b4B8f0BA7973A7C24891e740A/logo.png",
-    "description": ""
+  "chainId": 43114,
+  "address": "0x921f99719Eb6C01b4B8f0BA7973A7C24891e740A",
+  "decimals": 18,
+  "name": "MetaBrands",
+  "symbol": "MAGE",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x921f99719Eb6C01b4B8f0BA7973A7C24891e740A/logo.png",
+  "description": ""
 }

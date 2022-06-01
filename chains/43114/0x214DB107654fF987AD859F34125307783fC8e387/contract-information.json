@@ -1,11 +1,11 @@
 {
-    "chainId": 43114,
-    "address": "0x214DB107654fF987AD859F34125307783fC8e387",
-    "decimals": 18,
-    "name": "Frax Share",
-    "symbol": "FXS",
-    "contractType": "ERC-20",
-    "resourceLinks": [],
-    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x214DB107654fF987AD859F34125307783fC8e387/logo.png",
-    "description": ""
+  "chainId": 43114,
+  "address": "0x214DB107654fF987AD859F34125307783fC8e387",
+  "decimals": 18,
+  "name": "Frax Share",
+  "symbol": "FXS",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x214DB107654fF987AD859F34125307783fC8e387/logo.png",
+  "description": ""
 }

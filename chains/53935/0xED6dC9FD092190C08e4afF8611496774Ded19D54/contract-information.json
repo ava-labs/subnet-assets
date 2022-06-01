@@ -1,7 +1,7 @@
 {
-    "address": "0xED6dC9FD092190C08e4afF8611496774Ded19D54",
-    "name": "Validator Fund",
-    "chainId": 53935,
-    "description": "",
-    "contractType": "Other"
+  "address": "0xED6dC9FD092190C08e4afF8611496774Ded19D54",
+  "name": "Validator Fund",
+  "chainId": 53935,
+  "description": "",
+  "contractType": "Other"
 }
