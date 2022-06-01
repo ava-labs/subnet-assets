@@ -2315,7 +2315,7 @@
     "networkToken": {
       "name": "JEWEL",
       "symbol": "JEWEL",
-      "description": "",
+      "description": "JEWEL is the central token on the DFK Chain and used to pay gas for all transactions. While it is not natively minted on the DFK Chain, it is integral to the chain's function.",
       "decimals": 18,
       "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/53935/chain-logo.png"
     },
