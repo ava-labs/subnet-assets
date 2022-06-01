@@ -12,7 +12,7 @@
   "networkToken": {
     "name": "Treasure Under Sea",
     "symbol": "TUS",
-    "description": "",
+    "description": "TUS is the gas token on the Swimmer Chain and used to pay gas for all transactions.",
     "decimals": 18
   },
   "utilityAddresses": {
