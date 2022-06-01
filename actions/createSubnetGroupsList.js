@@ -23,10 +23,10 @@ const formattedSubnetGroups = Object.values(subnetGroups).map(
   ({ mainnetSubnetIds, testnetSubnetIds, ...subnetGroupInfo }) => {
     const formattedSubnetGroup = { ...subnetGroupInfo };
     if (mainnetSubnetIds?.length) {
-      formattedSubnetGroup.mainnetSubnetIds = mainnetSubnetIds.map((subnetId) => createSubnet(subnetId));
+      formattedSubnetGroup.mainnetSubnets = mainnetSubnetIds.map((subnetId) => createSubnet(subnetId));
     }
     if (testnetSubnetIds?.length) {
-      formattedSubnetGroup.testnetSubnetIds = testnetSubnetIds.map((subnetId) => createSubnet(subnetId));
+      formattedSubnetGroup.testnetSubnets = testnetSubnetIds.map((subnetId) => createSubnet(subnetId));
     }
     return formattedSubnetGroup;
   }
