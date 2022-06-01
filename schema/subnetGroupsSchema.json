@@ -9,6 +9,9 @@
       "subnetGroupName": {
         "type": "string"
       },
+      "explorerUri": {
+        "type": "string"
+      },
       "mainnetSubnetIds": {
         "type": "array",
         "items": {

@@ -1,24 +1,29 @@
 [
   {
     "subnetGroupName": "Defi Kingdoms",
+    "explorerUri": "defi-kingdoms",
     "mainnetSubnetIds": ["Vn3aX6hNRstj5VHHm63TCgPNaeGnRSqCYXQqemSqDd2TQH4qJ"],
     "testnetSubnetIds": ["XHLRR9cvMtCR8KZsjU8nLxg1JbV7aS23AcLVeBMVHLKkSBriS"]
   },
   {
     "subnetGroupName": "Swimmer Network",
+    "explorerUri": "swimmer",
     "mainnetSubnetIds": ["2e3CqLY8thW1WKS89WQ7WR9Qy2bCrrP5mv7psqMRGCHGXuQ1Uj"],
     "testnetSubnetIds": ["WUCXWAHsS6iygdik7RVRL3CjJHqbDQ1RESPUDqQpsH6wnRn96"]
   },
   {
     "subnetGroupName": "Dexalot",
+    "explorerUri": "dexalot",
     "testnetSubnetIds": ["9m6a3Qte8FaRbLZixLhh8Ptdkemm4csNaLwQeKkENx5wskbWP"]
   },
   {
     "subnetGroupName": "Castle Crush",
+    "explorerUri": "castle-crush",
     "testnetSubnetIds": ["WZNboVsvHrJmJResQCCySrhaMWt7rQcC8JYckFtVevJkqCHPv"]
   },
   {
     "subnetGroupName": "WAGMI",
+    "explorerUri": "wagmi",
     "testnetSubnetIds": ["28nrH5T2BMvNrWecFcV3mfccjs6axM1TVyqe79MCv2Mhs8kxiY"]
   }
 ]

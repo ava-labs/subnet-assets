@@ -13,9 +13,6 @@
     },
     "isTestnet": {
       "type": "boolean"
-    },
-    "explorerUri": {
-      "type": "string"
     }
   },
   "required": ["subnetId", "subnetName", "isTestnet"]

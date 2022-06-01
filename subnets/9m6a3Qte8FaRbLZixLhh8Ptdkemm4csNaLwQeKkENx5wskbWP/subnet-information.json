@@ -1,6 +1,5 @@
 {
   "subnetId": "9m6a3Qte8FaRbLZixLhh8Ptdkemm4csNaLwQeKkENx5wskbWP",
   "subnetName": "Dexalot",
-  "isTestnet": true,
-  "explorerUri": "dexalot"
+  "isTestnet": true
 }
