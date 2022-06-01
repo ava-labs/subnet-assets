@@ -6,6 +6,7 @@ export interface ChainInformation {
   subnetId: string;
   vmId: string;
   vmName: 'EVM' | 'BITCOIN' | 'ETHEREUM';
+  explorerUrl?: string;
   rpcUrl: string; // uri
   wsUrl?: string; // uri
   isTestnet: boolean;

@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import { getChains } from './getChains.mjs';
+import { createChain } from './createChain.mjs';
 import { getSubnets } from './getSubnets.mjs';
 import {
   MAINNET_SUBNET_LIST_FILE,
@@ -20,7 +21,9 @@ const formattedSubnets = Object.values(allSubnets).map((subnetInfo) => {
 
   return {
     ...subnetInfo,
-    chains: allChains.filter((chainInfo) => chainInfo.subnetId === subnetInfo.subnetId),
+    chains: allChains
+      .filter((chainInfo) => chainInfo.subnetId === subnetInfo.subnetId)
+      .map((chainInfo) => createChain(chainInfo.chainId)),
     ...(hasPng && { logoUri: `${SUBNETS_FOLDER_URL}/${subnetInfo.subnetId}/${SUBNET_LOGO_FILE}` }),
   };
 });

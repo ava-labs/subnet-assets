@@ -26,6 +26,10 @@
       "type": "string",
       "enum": ["EVM", "BITCOIN", "ETHEREUM"]
     },
+    "explorerUrl": {
+      "type": "string",
+      "format": "uri"
+    },
     "rpcUrl": {
       "type": "string",
       "format": "uri"

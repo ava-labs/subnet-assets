@@ -6,6 +6,7 @@
   "subnetId": "Vn3aX6hNRstj5VHHm63TCgPNaeGnRSqCYXQqemSqDd2TQH4qJ",
   "vmId": "mDV3QWRXfwgKUWb9sggkv4vQxAQR4y2CyKrt5pLZ5SzQ7EHBv",
   "vmName": "EVM",
+  "explorerUrl": "https://subnets.avax.network/defi-kingdoms/dfk-chain/explorer",
   "rpcUrl": "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc",
   "wsUrl": "wss://subnets.avax.network/defi-kingdoms/dfk-chain/ws",
   "isTestnet": false,
