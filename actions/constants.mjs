@@ -15,3 +15,7 @@ export const ADDRESS_LIST_FILE = path.resolve(__dirname, '../addressList.json');
 export const CONTRACT_TOKEN_INFO_FILE = 'contract-information.json';
 export const MAINNET_CHAIN_ID = 43114;
 export const FUJI_CHAIN_ID = 43113;
+export const SUBNETS_ROOT_PATH = path.resolve('./subnets');
+export const SUBNET_INFO_FILE = 'subnet-information.json';
+export const SUBNET_GROUPS_FILE = path.resolve('./subnets/subnet-groups.json');
+export const FORMATTED_SUBNET_GROUPS_FILE = path.resolve(__dirname, '../subnetGroups.json');
