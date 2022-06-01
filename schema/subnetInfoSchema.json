@@ -1,0 +1,22 @@
+{
+  "$id": "/schemas/SubnetInfoSchema.json",
+  "description": "Schema for subnet infomation",
+  "additionalProperties": false,
+  "type": "object",
+  "properties": {
+    "subnetId": {
+      "type": "string",
+      "pattern": "^[a-zA-Z0-9]+$"
+    },
+    "subnetName": {
+      "type": "string"
+    },
+    "isTestnet": {
+      "type": "boolean"
+    },
+    "explorerUri": {
+      "type": "string"
+    }
+  },
+  "required": ["subnetId", "subnetName", "isTestnet"]
+}

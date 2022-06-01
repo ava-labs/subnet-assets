@@ -1,24 +1,24 @@
-{
-  "defi-kingdoms": {
+[
+  {
     "subnetGroupName": "Defi Kingdoms",
     "mainnetSubnetIds": ["Vn3aX6hNRstj5VHHm63TCgPNaeGnRSqCYXQqemSqDd2TQH4qJ"],
     "testnetSubnetIds": ["XHLRR9cvMtCR8KZsjU8nLxg1JbV7aS23AcLVeBMVHLKkSBriS"]
   },
-  "swimmer": {
+  {
     "subnetGroupName": "Swimmer Network",
     "mainnetSubnetIds": ["2e3CqLY8thW1WKS89WQ7WR9Qy2bCrrP5mv7psqMRGCHGXuQ1Uj"],
     "testnetSubnetIds": ["WUCXWAHsS6iygdik7RVRL3CjJHqbDQ1RESPUDqQpsH6wnRn96"]
   },
-  "dexalot": {
+  {
     "subnetGroupName": "Dexalot",
     "testnetSubnetIds": ["9m6a3Qte8FaRbLZixLhh8Ptdkemm4csNaLwQeKkENx5wskbWP"]
   },
-  "wildlife": {
+  {
     "subnetGroupName": "Castle Crush",
     "testnetSubnetIds": ["WZNboVsvHrJmJResQCCySrhaMWt7rQcC8JYckFtVevJkqCHPv"]
   },
-  "wagmi": {
+  {
     "subnetGroupName": "WAGMI",
     "testnetSubnetIds": ["28nrH5T2BMvNrWecFcV3mfccjs6axM1TVyqe79MCv2Mhs8kxiY"]
   }
-}
+]

@@ -3,8 +3,7 @@ export interface SubnetGroups {
 }
 
 export interface SubnetGroup {
-  subnetId: string;
-  subnetName: string;
-  isTestnet: boolean;
-  explorerUri?: string;
+  subnetGroupName: string;
+  mainnetSubnetIds?: string[];
+  testnetSubnetIds?: string[];
 }
