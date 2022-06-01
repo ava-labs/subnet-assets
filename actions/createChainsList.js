@@ -8,7 +8,7 @@ const chains = getChains();
 fs.writeFileSync(
   CHAIN_LIST_FILE,
   JSON.stringify(
-    chains.map((chainInfo) => createChain(chainInfo(chainInfo.chainId))),
+    chains.map((chainInfo) => createChain(chainInfo.chainId)),
     null,
     2
   )
