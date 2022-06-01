@@ -24,6 +24,8 @@ jobs:
         run: node actions/createChainsList.js
       - name: Create Address List
         run: node actions/createAddressList.js
+      - name: Create Mainnet and Testnet Subnet Lists
+        run: node actions/createSubnetList.js
       - name: Create Subnet Groups List
         run: node actions/createSubnetGroupsList.js
       - name: commit new file
