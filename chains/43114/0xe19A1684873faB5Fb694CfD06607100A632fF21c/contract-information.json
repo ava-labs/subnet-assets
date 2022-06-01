@@ -6,5 +6,6 @@
   "symbol": "BAVA",
   "contractType": "ERC-20",
   "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xe19A1684873faB5Fb694CfD06607100A632fF21c/logo.png"
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xe19A1684873faB5Fb694CfD06607100A632fF21c/logo.png",
+  "description": ""
 }

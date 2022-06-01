@@ -8,12 +8,19 @@
   "vmName": "EVM",
   "rpcUrl": "https://subnets.avax.network/dexalot/testnet/rpc",
   "wsUrl": "wss://subnets.avax.network/dexalot/testnet/ws",
-  "multicallAddress": "0xe07e60594653D03165402D3B491d30Fe2d2C0A6A",
   "isTestnet": true,
   "networkToken": {
     "name": "Dexalot",
     "symbol": "ALOT",
     "decimals": 18,
-    "coingeckoId": "dexalot"
+    "description": ""
+  },
+  "utilityAddresses": {
+    "multicall": "0xe07e60594653D03165402D3B491d30Fe2d2C0A6A"
+  },
+  "pricingProviders": {
+    "coingecko": {
+      "nativeTokenId": "dexalot"
+    }
   }
 }

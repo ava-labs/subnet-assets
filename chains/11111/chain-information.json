@@ -8,11 +8,14 @@
   "vmName": "EVM",
   "rpcUrl": "https://subnets.avax.network/wagmi/wagmi-chain-testnet/rpc",
   "wsUrl": "wss://subnets.avax.network/wagmi/wagmi-chain-testnet/ws",
-  "multicallAddress": "0x7e5f336f8baFc0bf775DafE091133A37244C285c",
   "isTestnet": true,
   "networkToken": {
     "name": "Wagmi",
     "symbol": "WGM",
-    "decimals": 18
+    "decimals": 18,
+    "description": ""
+  },
+  "utilityAddresses": {
+    "multicall": "0x7e5f336f8baFc0bf775DafE091133A37244C285c"
   }
 }

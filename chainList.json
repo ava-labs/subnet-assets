@@ -9,12 +9,15 @@
     "vmName": "EVM",
     "rpcUrl": "https://subnets.avax.network/wagmi/wagmi-chain-testnet/rpc",
     "wsUrl": "wss://subnets.avax.network/wagmi/wagmi-chain-testnet/ws",
-    "multicallAddress": "0x7e5f336f8baFc0bf775DafE091133A37244C285c",
     "isTestnet": true,
     "networkToken": {
       "name": "Wagmi",
       "symbol": "WGM",
-      "decimals": 18
+      "decimals": 18,
+      "description": ""
+    },
+    "utilityAddresses": {
+      "multicall": "0x7e5f336f8baFc0bf775DafE091133A37244C285c"
     }
   },
   {
@@ -27,16 +30,21 @@
     "vmName": "EVM",
     "rpcUrl": "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc",
     "wsUrl": "wss://subnets.avax.network/defi-kingdoms/dfk-chain/ws",
-    "multicallAddress": "0x5b24224dC16508DAD755756639E420817DD4c99E",
     "isTestnet": true,
-    "mainnetChainId": 53935,
-    "coingeckoAssetPlatformId": "defi-kingdoms-blockchain",
     "networkToken": {
       "name": "JEWEL",
       "symbol": "JEWEL",
       "description": "JEWEL is the central token on the DFK Chain and used to pay gas for all transactions. While it is not natively minted on the DFK Chain, it is integral to the chain's function.",
-      "decimals": 18,
-      "coingeckoId": "defi-kingdoms"
+      "decimals": 18
+    },
+    "utilityAddresses": {
+      "multicall": "0x5b24224dC16508DAD755756639E420817DD4c99E"
+    },
+    "pricingProviders": {
+      "coingecko": {
+        "assetPlatformId": "defi-kingdoms-blockchain",
+        "nativeTokenId": "defi-kingdoms"
+      }
     }
   },
   {
@@ -50,13 +58,17 @@
     "rpcUrl": "https://localhost:9650/ext/bc/C/rpc",
     "wsUrl": "ws://127.0.0.1:9650/ext/bc/C/ws",
     "isTestnet": true,
-    "mainnetChainId": 43114,
-    "coingeckoAssetPlatformId": "avalanche",
     "networkToken": {
       "name": "Avalanche",
       "symbol": "AVAX",
       "decimals": 18,
-      "coingeckoId": "avalanche-2"
+      "description": ""
+    },
+    "pricingProviders": {
+      "coingecko": {
+        "assetPlatformId": "avalanche",
+        "nativeTokenId": "avalanche-2"
+      }
     }
   },
   {
@@ -69,15 +81,21 @@
     "vmName": "EVM",
     "rpcUrl": "https://api.avax-test.network/ext/bc/C/rpc",
     "wsUrl": "wss://api.avax-test.network/ext/bc/C/ws",
-    "multicallAddress": "0xE898101ffEF388A8DA16205249a7E4977d4F034c",
     "isTestnet": true,
-    "mainnetChainId": 43114,
-    "coingeckoAssetPlatformId": "avalanche",
     "networkToken": {
       "name": "Avalanche",
       "symbol": "AVAX",
       "decimals": 18,
-      "coingeckoId": "avalanche-2"
+      "description": ""
+    },
+    "utilityAddresses": {
+      "multicall": "0xE898101ffEF388A8DA16205249a7E4977d4F034c"
+    },
+    "pricingProviders": {
+      "coingecko": {
+        "assetPlatformId": "avalanche",
+        "nativeTokenId": "avalanche-2"
+      }
     }
   },
   {
@@ -90,15 +108,21 @@
     "vmName": "EVM",
     "rpcUrl": "https://api.avax.network/ext/bc/C/rpc",
     "wsUrl": "wss://api.avax.network/ext/bc/C/ws",
-    "multicallAddress": "0xed386Fe855C1EFf2f843B910923Dd8846E45C5A4",
     "isTestnet": false,
-    "mainnetChainId": 43114,
-    "coingeckoAssetPlatformId": "avalanche",
     "networkToken": {
       "name": "Avalanche",
       "symbol": "AVAX",
       "decimals": 18,
-      "coingeckoId": "avalanche-2"
+      "description": ""
+    },
+    "utilityAddresses": {
+      "multicall": "0xed386Fe855C1EFf2f843B910923Dd8846E45C5A4"
+    },
+    "pricingProviders": {
+      "coingecko": {
+        "assetPlatformId": "avalanche",
+        "nativeTokenId": "avalanche-2"
+      }
     }
   },
   {
@@ -111,13 +135,20 @@
     "vmName": "EVM",
     "rpcUrl": "https://subnets.avax.network/dexalot/testnet/rpc",
     "wsUrl": "wss://subnets.avax.network/dexalot/testnet/ws",
-    "multicallAddress": "0xe07e60594653D03165402D3B491d30Fe2d2C0A6A",
     "isTestnet": true,
     "networkToken": {
       "name": "Dexalot",
       "symbol": "ALOT",
       "decimals": 18,
-      "coingeckoId": "dexalot"
+      "description": ""
+    },
+    "utilityAddresses": {
+      "multicall": "0xe07e60594653D03165402D3B491d30Fe2d2C0A6A"
+    },
+    "pricingProviders": {
+      "coingecko": {
+        "nativeTokenId": "dexalot"
+      }
     }
   },
   {
@@ -130,16 +161,21 @@
     "vmName": "EVM",
     "rpcUrl": "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc",
     "wsUrl": "wss://subnets.avax.network/defi-kingdoms/dfk-chain/ws",
-    "multicallAddress": "0x5b24224dC16508DAD755756639E420817DD4c99E",
     "isTestnet": false,
-    "testnetChainId": 335,
-    "coingeckoAssetPlatformId": "defi-kingdoms-blockchain",
     "networkToken": {
       "name": "JEWEL",
       "symbol": "JEWEL",
       "description": "JEWEL is the central token on the DFK Chain and used to pay gas for all transactions. While it is not natively minted on the DFK Chain, it is integral to the chain's function.",
-      "decimals": 18,
-      "coingeckoId": "defi-kingdoms"
+      "decimals": 18
+    },
+    "utilityAddresses": {
+      "multicall": "0x5b24224dC16508DAD755756639E420817DD4c99E"
+    },
+    "pricingProviders": {
+      "coingecko": {
+        "assetPlatformId": "defi-kingdoms-blockchain",
+        "nativeTokenId": "defi-kingdoms"
+      }
     }
   },
   {
@@ -152,15 +188,20 @@
     "vmName": "EVM",
     "rpcUrl": "https://subnets.avax.network/swimmer/testnet/rpc",
     "wsUrl": "wss://subnets.avax.network/swimmer/testnet/ws",
-    "multicallAddress": "0x4754009155eCFC2074E0dC9Fd0bf1d3d94a3Bb9c",
     "isTestnet": true,
-    "mainnetChainId": 73772,
     "networkToken": {
       "name": "Treasure Under Sea",
       "symbol": "TUS",
       "description": "TUS is the gas token on the Swimmer Chain and used to pay gas for all transactions.",
-      "decimals": 18,
-      "coingeckoId": "treasure-under-sea"
+      "decimals": 18
+    },
+    "utilityAddresses": {
+      "multicall": "0x4754009155eCFC2074E0dC9Fd0bf1d3d94a3Bb9c"
+    },
+    "pricingProviders": {
+      "coingecko": {
+        "nativeTokenId": "treasure-under-sea"
+      }
     }
   },
   {
@@ -173,15 +214,20 @@
     "vmName": "EVM",
     "rpcUrl": "https://subnets.avax.network/swimmer/mainnet/rpc",
     "wsUrl": "wss://subnets.avax.network/swimmer/mainnet/ws",
-    "multicallAddress": "0xd46175048c125eae5a7694BDa6C723b76D24e428",
     "isTestnet": false,
-    "testnetChainId": 73771,
     "networkToken": {
       "name": "Treasure Under Sea",
       "symbol": "TUS",
       "description": "TUS is the gas token on the Swimmer Chain and used to pay gas for all transactions.",
-      "decimals": 18,
-      "coingeckoId": "treasure-under-sea"
+      "decimals": 18
+    },
+    "utilityAddresses": {
+      "multicall": "0xd46175048c125eae5a7694BDa6C723b76D24e428"
+    },
+    "pricingProviders": {
+      "coingecko": {
+        "nativeTokenId": "treasure-under-sea"
+      }
     }
   }
 ]

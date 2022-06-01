@@ -6,5 +6,6 @@
   "symbol": "CRA",
   "contractType": "ERC-20",
   "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xA32608e873F9DdEF944B24798db69d80Bbb4d1ed/logo.png"
+  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xA32608e873F9DdEF944B24798db69d80Bbb4d1ed/logo.png",
+  "description": ""
 }

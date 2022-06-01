@@ -1,23 +1,19 @@
-import fs from "fs";
-import path from "path";
-import {
-  CONTRACT_TOKEN_INFO_FILE,
-  ROOT_PATH,
-  TOKEN_LOGO_FILE,
-} from "./constants.mjs";
-import { getTokens } from "./getTokens.mjs";
+import fs from 'fs';
+import path from 'path';
+import { CONTRACT_TOKEN_INFO_FILE, ROOT_PATH, TOKEN_LOGO_FILE } from './constants.mjs';
+import { getTokens } from './getTokens.mjs';
 export const tokenValidationKeys = [
-  "logoUri",
-  "address",
-  "name",
-  "description",
-  "contractType",
-  "assetType",
-  "officialSite",
-  "resourceLinks",
-  "symbol",
-  "hasLogo",
-  "chainId",
+  'logoUri',
+  'address',
+  'name',
+  'description',
+  'contractType',
+  'assetType',
+  'officialSite',
+  'resourceLinks',
+  'symbol',
+  'hasLogo',
+  'chainId',
 ];
 
 function validateToken(token, tokenContractInfoPath, tokenDirPath, chainId) {
@@ -49,34 +45,20 @@ function getInvalidTokens(chainId, chainTokenIds) {
     .map((token) => {
       return validateToken(
         token,
-        path.resolve(
-          ROOT_PATH,
-          chainId,
-          token.address,
-          CONTRACT_TOKEN_INFO_FILE
-        ),
+        path.resolve(ROOT_PATH, chainId, token.address, CONTRACT_TOKEN_INFO_FILE),
         path.resolve(ROOT_PATH, chainId, token.address),
         chainId
       );
     })
-    .filter(
-      (validatedToken) =>
-        validatedToken.isInvalid &&
-        validatedToken.token.contractType === "ERC-20"
-    );
+    .filter((validatedToken) => validatedToken.isInvalid && validatedToken.token.contractType === 'ERC-20');
 }
 
-export const invalidTokensList = fs
-  .readdirSync(ROOT_PATH)
-  .reduce((acc, chainId) => {
-    // this is all chain paths. ie.../subnet-assets/chains/11111
-    const invalidToks = getInvalidTokens(
-      chainId,
-      path.resolve(ROOT_PATH, chainId)
-    );
+export const invalidTokensList = fs.readdirSync(ROOT_PATH).reduce((acc, chainId) => {
+  // this is all chain paths. ie.../subnet-assets/chains/11111
+  const invalidToks = getInvalidTokens(chainId, path.resolve(ROOT_PATH, chainId));
 
-    return [...invalidToks, ...acc];
-  }, []);
+  return [...invalidToks, ...acc];
+}, []);
 
 export const invalidTokensBuckets = tokenValidationKeys.reduce((acc, key) => {
   return {

@@ -8,14 +8,19 @@
   "vmName": "EVM",
   "rpcUrl": "https://subnets.avax.network/swimmer/mainnet/rpc",
   "wsUrl": "wss://subnets.avax.network/swimmer/mainnet/ws",
-  "multicallAddress": "0xd46175048c125eae5a7694BDa6C723b76D24e428",
   "isTestnet": false,
-  "testnetChainId": 73771,
   "networkToken": {
     "name": "Treasure Under Sea",
     "symbol": "TUS",
     "description": "TUS is the gas token on the Swimmer Chain and used to pay gas for all transactions.",
-    "decimals": 18,
-    "coingeckoId": "treasure-under-sea"
+    "decimals": 18
+  },
+  "utilityAddresses": {
+    "multicall": "0xd46175048c125eae5a7694BDa6C723b76D24e428"
+  },
+  "pricingProviders": {
+    "coingecko": {
+      "nativeTokenId": "treasure-under-sea"
+    }
   }
 }

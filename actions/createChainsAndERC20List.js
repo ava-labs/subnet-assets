@@ -1,5 +1,5 @@
-import fs from "fs";
-import path from "path";
+import fs from 'fs';
+import path from 'path';
 import {
   ROOT_PATH,
   CHAIN_INFO_FILE,
@@ -7,13 +7,11 @@ import {
   NATIVE_TOKEN_LOGO_FILE,
   CHAINS_FOLDER_URL,
   ERC20_TOKEN_LIST_FILE,
-} from "./constants.mjs";
-import { getTokens } from "./getTokens.mjs";
+} from './constants.mjs';
+import { getTokens } from './getTokens.mjs';
 
 function createChain(chainId, chainTokenIds) {
-  const chainInfo = JSON.parse(
-    fs.readFileSync(path.resolve(ROOT_PATH, chainId, CHAIN_INFO_FILE), "utf8")
-  );
+  const chainInfo = JSON.parse(fs.readFileSync(path.resolve(ROOT_PATH, chainId, CHAIN_INFO_FILE), 'utf8'));
   const nativeTokenLogoFilePath = `${CHAINS_FOLDER_URL}/${chainId}/${NATIVE_TOKEN_LOGO_FILE}`;
   const chainLogoFilePath = `${CHAINS_FOLDER_URL}/${chainId}/${CHAIN_LOGO_FILE}`;
   return {
@@ -32,9 +30,7 @@ const chains = fs.readdirSync(ROOT_PATH).reduce((acc, chainId) => {
 
   const chain = {
     ...createChain(chainId, chainTokenIds),
-    tokens: getTokens(chainId, chainTokenIds).filter(
-      (token) => token.contractType === "ERC-20"
-    ),
+    tokens: getTokens(chainId, chainTokenIds).filter((token) => token.contractType === 'ERC-20'),
   };
 
   return { ...acc, [chain.chainId]: chain };

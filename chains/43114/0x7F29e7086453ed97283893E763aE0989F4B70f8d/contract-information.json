@@ -6,5 +6,6 @@
   "symbol": "DGC",
   "contractType": "ERC-20",
   "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x7F29e7086453ed97283893E763aE0989F4B70f8d/logo.png"
+  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x7F29e7086453ed97283893E763aE0989F4B70f8d/logo.png",
+  "description": ""
 }

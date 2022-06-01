@@ -7,5 +7,5 @@
   "decimals": 6,
   "assetType": "Fixed Cap",
   "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/432201/0x0b0E3a1F937F59359795E1ACfb9FC744F21a6894/logo.png",
-  "chainId": "432201"
+  "chainId": 432201
 }
