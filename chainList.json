@@ -1,7 +1,7 @@
 [
   {
     "chainName": "WAGMI",
-    "description": "",
+    "description": "The WAGMI (\"We're All Going to Make It\") Subnet Demo is a high throughput testbed for EVM (Ethereum Virtual Machine) optimizations. It is parameterized to run at a factor more capacity than Fuji/Mainnet C-Chain and will be used to experiment with release candidates before they make it into an official coreth release.",
     "chainId": 11111,
     "platformChainId": "2ebCneCbwthjQ1rYT41nhd7M76Hc6YmosMAQrTFhBq8qeqh6tt",
     "subnetId": "28nrH5T2BMvNrWecFcV3mfccjs6axM1TVyqe79MCv2Mhs8kxiY",
@@ -22,7 +22,7 @@
   },
   {
     "chainName": "DFK Chain",
-    "description": "",
+    "description": "The vision for the DFK Chain on the Defi Kingdoms subnet is to become the go-to location for community members and projects to launch GameFi and other blockchain gaming experiences in conjunction with the primary offering of DeFi Kingdoms: Crystalvale.",
     "chainId": 335,
     "platformChainId": "2pDrf9iZaP8eBGmhut8NhERLMw9QyFjoebiiPMgwbwbxagaP6Z",
     "subnetId": "UCJGxBvsAcopBAAuBwd9uZ9GdumwRVbCp4Qj2jX6kGJ68121u",
@@ -34,7 +34,7 @@
     "networkToken": {
       "name": "JEWEL",
       "symbol": "JEWEL",
-      "description": "",
+      "description": "JEWEL is the central token on the DFK Chain and used to pay gas for all transactions. While it is not natively minted on the DFK Chain, it is integral to the chain's function.",
       "decimals": 18
     },
     "utilityAddresses": {
@@ -49,7 +49,7 @@
   },
   {
     "chainName": "C-Chain Local",
-    "description": "",
+    "description": "The Contract Chain on Avalanche's primary subnet.",
     "chainId": 43112,
     "platformChainId": "yH8D7ThNJkxmtkuv2jgBa4P1Rn3Qpr4pPr7QYNfcdoS6k6HWp",
     "subnetId": "11111111111111111111111111111111LpoYY",
@@ -73,7 +73,7 @@
   },
   {
     "chainName": "C-Chain Testnet",
-    "description": "",
+    "description": "The Contract Chain on Avalanche's test subnet.",
     "chainId": 43113,
     "platformChainId": "yH8D7ThNJkxmtkuv2jgBa4P1Rn3Qpr4pPr7QYNfcdoS6k6HWp",
     "subnetId": "11111111111111111111111111111111LpoYY",
@@ -100,7 +100,7 @@
   },
   {
     "chainName": "C-Chain Mainnet",
-    "description": "",
+    "description": "The Contract Chain on Avalanche's primary subnet.",
     "chainId": 43114,
     "platformChainId": "2q9e4r6Mu3U68nU1fYjgbR6JvwrRx36CohpAX5UQxse55x1Q5",
     "subnetId": "11111111111111111111111111111111LpoYY",
@@ -127,7 +127,7 @@
   },
   {
     "chainName": "Dexalot",
-    "description": "",
+    "description": "The Dexalot Exchange EVM subnet is a revolutionary decentralized exchange aiming at bringing the traditional centralized exchange look and feel, through a decentralized on-chain application. Dexalot users can trade crypto securely and efficiently, with no slippage or custody risk. It is built on Avalanche Subnet technology, the most effective scaling solution in the blockchain industry.",
     "chainId": 432201,
     "platformChainId": "XuEPnCE59rtutASDPCDeYw8geQaGWwteWjkDXYLWvssfuirde",
     "subnetId": "9m6a3Qte8FaRbLZixLhh8Ptdkemm4csNaLwQeKkENx5wskbWP",
@@ -153,7 +153,7 @@
   },
   {
     "chainName": "DFK Chain",
-    "description": "",
+    "description": "The vision for the DFK Chain on the Defi Kingdoms subnet is to become the go-to location for community members and projects to launch GameFi and other blockchain gaming experiences in conjunction with the primary offering of DeFi Kingdoms: Crystalvale.",
     "chainId": 53935,
     "platformChainId": "q2aTwKuyzgs8pynF7UXBZCU7DejbZbZ6EUyHr3JQzYgwNPUPi",
     "subnetId": "Vn3aX6hNRstj5VHHm63TCgPNaeGnRSqCYXQqemSqDd2TQH4qJ",
@@ -180,7 +180,7 @@
   },
   {
     "chainName": "Swimmer Testnet",
-    "description": "",
+    "description": "Swimmer Network is a custom blockchain built on an Avalanche Subnet, and is home to Crabada, an undersea world filled with fierce fighting Hermit-Crabs called Crabada. The Crabada Idle-Game and marketplace is expected migrate from the C-chain onto the Swimmer Network. Crabada can be bred, and used in games to earn cryptocurrencies with real value.",
     "chainId": 73771,
     "platformChainId": "2hUULz82ZYMKwjBHZybVRyouk38EmcW7UKP4iocf9rghpvfm84",
     "subnetId": "WUCXWAHsS6iygdik7RVRL3CjJHqbDQ1RESPUDqQpsH6wnRn96",
@@ -192,7 +192,7 @@
     "networkToken": {
       "name": "Treasure Under Sea",
       "symbol": "TUS",
-      "description": "",
+      "description": "TUS is the gas token on the Swimmer Chain and used to pay gas for all transactions.",
       "decimals": 18
     },
     "utilityAddresses": {
@@ -206,7 +206,7 @@
   },
   {
     "chainName": "Swimmer Mainnet",
-    "description": "",
+    "description": "Swimmer Network is a custom blockchain built on an Avalanche Subnet, and is home to Crabada, an undersea world filled with fierce fighting Hermit-Crabs called Crabada. The Crabada Idle-Game and marketplace is expected migrate from the C-chain onto the Swimmer Network. Crabada can be bred, and used in games to earn cryptocurrencies with real value.",
     "chainId": 73772,
     "platformChainId": "2K33xS9AyP9oCDiHYKVrHe7F54h2La5D8erpTChaAhdzeSu2RX",
     "subnetId": "2e3CqLY8thW1WKS89WQ7WR9Qy2bCrrP5mv7psqMRGCHGXuQ1Uj",
@@ -218,7 +218,7 @@
     "networkToken": {
       "name": "Treasure Under Sea",
       "symbol": "TUS",
-      "description": "",
+      "description": "TUS is the gas token on the Swimmer Chain and used to pay gas for all transactions.",
       "decimals": 18
     },
     "utilityAddresses": {
