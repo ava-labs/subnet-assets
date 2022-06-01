@@ -3,7 +3,6 @@
     "subnetId": "28nrH5T2BMvNrWecFcV3mfccjs6axM1TVyqe79MCv2Mhs8kxiY",
     "subnetName": "WAGMI",
     "isTestnet": true,
-    "explorerUri": "wagmi",
     "chains": [
       {
         "chainName": "WAGMI",
@@ -26,13 +25,13 @@
           "multicall": "0x7e5f336f8baFc0bf775DafE091133A37244C285c"
         }
       }
-    ]
+    ],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/subnets/28nrH5T2BMvNrWecFcV3mfccjs6axM1TVyqe79MCv2Mhs8kxiY/subnet-logo.png"
   },
   {
     "subnetId": "9m6a3Qte8FaRbLZixLhh8Ptdkemm4csNaLwQeKkENx5wskbWP",
     "subnetName": "Dexalot",
     "isTestnet": true,
-    "explorerUri": "dexalot",
     "chains": [
       {
         "chainName": "Dexalot",
@@ -60,13 +59,13 @@
           }
         }
       }
-    ]
+    ],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/subnets/9m6a3Qte8FaRbLZixLhh8Ptdkemm4csNaLwQeKkENx5wskbWP/subnet-logo.png"
   },
   {
     "subnetId": "WUCXWAHsS6iygdik7RVRL3CjJHqbDQ1RESPUDqQpsH6wnRn96",
     "subnetName": "Swimmer Testnet",
     "isTestnet": true,
-    "explorerUri": "swimmer",
     "chains": [
       {
         "chainName": "Swimmer Testnet",
@@ -82,7 +81,7 @@
         "networkToken": {
           "name": "Treasure Under Sea",
           "symbol": "TUS",
-          "description": "",
+          "description": "TUS is the gas token on the Swimmer Chain and used to pay gas for all transactions.",
           "decimals": 18
         },
         "utilityAddresses": {
@@ -94,20 +93,20 @@
           }
         }
       }
-    ]
+    ],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/subnets/WUCXWAHsS6iygdik7RVRL3CjJHqbDQ1RESPUDqQpsH6wnRn96/subnet-logo.png"
   },
   {
     "subnetId": "WZNboVsvHrJmJResQCCySrhaMWt7rQcC8JYckFtVevJkqCHPv",
     "subnetName": "Castle Crush",
     "isTestnet": true,
-    "explorerUri": "castle-crush",
-    "chains": []
+    "chains": [],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/subnets/WZNboVsvHrJmJResQCCySrhaMWt7rQcC8JYckFtVevJkqCHPv/subnet-logo.png"
   },
   {
     "subnetId": "XHLRR9cvMtCR8KZsjU8nLxg1JbV7aS23AcLVeBMVHLKkSBriS",
     "subnetName": "DeFi Kingdoms",
     "isTestnet": true,
-    "explorerUri": "defi-kingdoms",
     "chains": [
       {
         "chainName": "DFK Chain",
@@ -123,7 +122,7 @@
         "networkToken": {
           "name": "JEWEL",
           "symbol": "JEWEL",
-          "description": "",
+          "description": "JEWEL is the central token on the DFK Chain and used to pay gas for all transactions. While it is not natively minted on the DFK Chain, it is integral to the chain's function.",
           "decimals": 18
         },
         "utilityAddresses": {
@@ -136,6 +135,7 @@
           }
         }
       }
-    ]
+    ],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/subnets/XHLRR9cvMtCR8KZsjU8nLxg1JbV7aS23AcLVeBMVHLKkSBriS/subnet-logo.png"
   }
 ]

@@ -1,12 +1,12 @@
 [
   {
     "subnetGroupName": "Defi Kingdoms",
+    "explorerUri": "defi-kingdoms",
     "mainnetSubnetIds": [
       {
         "subnetId": "Vn3aX6hNRstj5VHHm63TCgPNaeGnRSqCYXQqemSqDd2TQH4qJ",
         "subnetName": "DeFi Kingdoms",
         "isTestnet": false,
-        "explorerUri": "defi-kingdoms",
         "chains": [
           {
             "chainName": "DFK Chain",
@@ -22,7 +22,7 @@
             "networkToken": {
               "name": "JEWEL",
               "symbol": "JEWEL",
-              "description": "",
+              "description": "JEWEL is the central token on the DFK Chain and used to pay gas for all transactions. While it is not natively minted on the DFK Chain, it is integral to the chain's function.",
               "decimals": 18
             },
             "utilityAddresses": {
@@ -43,7 +43,6 @@
         "subnetId": "XHLRR9cvMtCR8KZsjU8nLxg1JbV7aS23AcLVeBMVHLKkSBriS",
         "subnetName": "DeFi Kingdoms",
         "isTestnet": true,
-        "explorerUri": "defi-kingdoms",
         "chains": [
           {
             "chainName": "DFK Chain",
@@ -59,7 +58,7 @@
             "networkToken": {
               "name": "JEWEL",
               "symbol": "JEWEL",
-              "description": "",
+              "description": "JEWEL is the central token on the DFK Chain and used to pay gas for all transactions. While it is not natively minted on the DFK Chain, it is integral to the chain's function.",
               "decimals": 18
             },
             "utilityAddresses": {
@@ -78,12 +77,12 @@
   },
   {
     "subnetGroupName": "Swimmer Network",
+    "explorerUri": "swimmer",
     "mainnetSubnetIds": [
       {
         "subnetId": "2e3CqLY8thW1WKS89WQ7WR9Qy2bCrrP5mv7psqMRGCHGXuQ1Uj",
         "subnetName": "Swimmer",
         "isTestnet": false,
-        "explorerUri": "swimmer",
         "chains": [
           {
             "chainName": "Swimmer Mainnet",
@@ -99,7 +98,7 @@
             "networkToken": {
               "name": "Treasure Under Sea",
               "symbol": "TUS",
-              "description": "",
+              "description": "TUS is the gas token on the Swimmer Chain and used to pay gas for all transactions.",
               "decimals": 18
             },
             "utilityAddresses": {
@@ -119,7 +118,6 @@
         "subnetId": "WUCXWAHsS6iygdik7RVRL3CjJHqbDQ1RESPUDqQpsH6wnRn96",
         "subnetName": "Swimmer Testnet",
         "isTestnet": true,
-        "explorerUri": "swimmer",
         "chains": [
           {
             "chainName": "Swimmer Testnet",
@@ -135,7 +133,7 @@
             "networkToken": {
               "name": "Treasure Under Sea",
               "symbol": "TUS",
-              "description": "",
+              "description": "TUS is the gas token on the Swimmer Chain and used to pay gas for all transactions.",
               "decimals": 18
             },
             "utilityAddresses": {
@@ -153,12 +151,12 @@
   },
   {
     "subnetGroupName": "Dexalot",
+    "explorerUri": "dexalot",
     "testnetSubnetIds": [
       {
         "subnetId": "9m6a3Qte8FaRbLZixLhh8Ptdkemm4csNaLwQeKkENx5wskbWP",
         "subnetName": "Dexalot",
         "isTestnet": true,
-        "explorerUri": "dexalot",
         "chains": [
           {
             "chainName": "Dexalot",
@@ -192,24 +190,24 @@
   },
   {
     "subnetGroupName": "Castle Crush",
+    "explorerUri": "castle-crush",
     "testnetSubnetIds": [
       {
         "subnetId": "WZNboVsvHrJmJResQCCySrhaMWt7rQcC8JYckFtVevJkqCHPv",
         "subnetName": "Castle Crush",
         "isTestnet": true,
-        "explorerUri": "castle-crush",
         "chains": []
       }
     ]
   },
   {
     "subnetGroupName": "WAGMI",
+    "explorerUri": "wagmi",
     "testnetSubnetIds": [
       {
         "subnetId": "28nrH5T2BMvNrWecFcV3mfccjs6axM1TVyqe79MCv2Mhs8kxiY",
         "subnetName": "WAGMI",
         "isTestnet": true,
-        "explorerUri": "wagmi",
         "chains": [
           {
             "chainName": "WAGMI",
