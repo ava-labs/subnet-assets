@@ -2,7 +2,7 @@
   "address": "0x9c765eEE6Eff9CF1337A1846c0D93370785F6C92",
   "name": "Wrapped TUS",
   "symbol": "WTUS",
-  "description": "",
+  "description": "An ERC-20 version of the native TUS token.",
   "contractType": "ERC-20",
   "decimals": 18,
   "assetType": "Unlimited Cap",

@@ -2,7 +2,7 @@
   "address": "0xC1a1F40D558a3E82C3981189f61EF21e17d6EB48",
   "name": "CRA",
   "symbol": "CRA",
-  "description": "",
+  "description": "CRA is a governance token which is rewarded via staking, and playing the game during the incentive period.",
   "contractType": "ERC-20",
   "decimals": 18,
   "assetType": "Fixed Cap",
