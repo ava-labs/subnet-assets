@@ -3,7 +3,6 @@
     "subnetId": "2e3CqLY8thW1WKS89WQ7WR9Qy2bCrrP5mv7psqMRGCHGXuQ1Uj",
     "subnetName": "Swimmer",
     "isTestnet": false,
-    "explorerUri": "swimmer",
     "chains": [
       {
         "chainName": "Swimmer Mainnet",
@@ -19,7 +18,7 @@
         "networkToken": {
           "name": "Treasure Under Sea",
           "symbol": "TUS",
-          "description": "",
+          "description": "TUS is the gas token on the Swimmer Chain and used to pay gas for all transactions.",
           "decimals": 18
         },
         "utilityAddresses": {
@@ -31,13 +30,13 @@
           }
         }
       }
-    ]
+    ],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/subnets/2e3CqLY8thW1WKS89WQ7WR9Qy2bCrrP5mv7psqMRGCHGXuQ1Uj/subnet-logo.png"
   },
   {
     "subnetId": "Vn3aX6hNRstj5VHHm63TCgPNaeGnRSqCYXQqemSqDd2TQH4qJ",
     "subnetName": "DeFi Kingdoms",
     "isTestnet": false,
-    "explorerUri": "defi-kingdoms",
     "chains": [
       {
         "chainName": "DFK Chain",
@@ -53,7 +52,7 @@
         "networkToken": {
           "name": "JEWEL",
           "symbol": "JEWEL",
-          "description": "",
+          "description": "JEWEL is the central token on the DFK Chain and used to pay gas for all transactions. While it is not natively minted on the DFK Chain, it is integral to the chain's function.",
           "decimals": 18
         },
         "utilityAddresses": {
@@ -66,6 +65,7 @@
           }
         }
       }
-    ]
+    ],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/subnets/Vn3aX6hNRstj5VHHm63TCgPNaeGnRSqCYXQqemSqDd2TQH4qJ/subnet-logo.png"
   }
 ]
