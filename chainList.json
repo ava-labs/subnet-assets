@@ -16,12 +16,12 @@
       "symbol": "WGM",
       "decimals": 18,
       "description": "",
-      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/11111/chain-logo.png"
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/11111/token-logo.png"
     },
     "utilityAddresses": {
       "multicall": "0x7e5f336f8baFc0bf775DafE091133A37244C285c"
     },
-    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/11111/token-logo.png"
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/11111/chain-logo.png"
   },
   {
     "chainName": "DFK Chain",
@@ -40,7 +40,7 @@
       "symbol": "JEWEL",
       "description": "JEWEL is the central token on the DFK Chain and used to pay gas for all transactions. While it is not natively minted on the DFK Chain, it is integral to the chain's function.",
       "decimals": 18,
-      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/335/chain-logo.png"
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/335/token-logo.png"
     },
     "utilityAddresses": {
       "multicall": "0x5b24224dC16508DAD755756639E420817DD4c99E"
@@ -51,7 +51,7 @@
         "nativeTokenId": "defi-kingdoms"
       }
     },
-    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/335/token-logo.png"
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/335/chain-logo.png"
   },
   {
     "chainName": "C-Chain Local",
@@ -69,7 +69,7 @@
       "symbol": "AVAX",
       "decimals": 18,
       "description": "",
-      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43112/chain-logo.png"
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43112/token-logo.png"
     },
     "pricingProviders": {
       "coingecko": {
@@ -77,7 +77,7 @@
         "nativeTokenId": "avalanche-2"
       }
     },
-    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43112/token-logo.png"
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43112/chain-logo.png"
   },
   {
     "chainName": "C-Chain Testnet",
@@ -96,7 +96,7 @@
       "symbol": "AVAX",
       "decimals": 18,
       "description": "",
-      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43113/chain-logo.png"
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43113/token-logo.png"
     },
     "utilityAddresses": {
       "multicall": "0xE898101ffEF388A8DA16205249a7E4977d4F034c"
@@ -107,7 +107,7 @@
         "nativeTokenId": "avalanche-2"
       }
     },
-    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43113/token-logo.png"
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43113/chain-logo.png"
   },
   {
     "chainName": "C-Chain Mainnet",
@@ -126,7 +126,7 @@
       "symbol": "AVAX",
       "decimals": 18,
       "description": "",
-      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/chain-logo.png"
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/token-logo.png"
     },
     "utilityAddresses": {
       "multicall": "0xed386Fe855C1EFf2f843B910923Dd8846E45C5A4"
@@ -137,7 +137,7 @@
         "nativeTokenId": "avalanche-2"
       }
     },
-    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/token-logo.png"
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/chain-logo.png"
   },
   {
     "chainName": "Dexalot",
@@ -156,7 +156,7 @@
       "symbol": "ALOT",
       "decimals": 18,
       "description": "",
-      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/432201/chain-logo.png"
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/432201/token-logo.png"
     },
     "utilityAddresses": {
       "multicall": "0xe07e60594653D03165402D3B491d30Fe2d2C0A6A"
@@ -166,7 +166,7 @@
         "nativeTokenId": "dexalot"
       }
     },
-    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/432201/token-logo.png"
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/432201/chain-logo.png"
   },
   {
     "chainName": "DFK Chain",
@@ -185,7 +185,7 @@
       "symbol": "JEWEL",
       "description": "JEWEL is the central token on the DFK Chain and used to pay gas for all transactions. While it is not natively minted on the DFK Chain, it is integral to the chain's function.",
       "decimals": 18,
-      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/53935/chain-logo.png"
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/53935/token-logo.png"
     },
     "utilityAddresses": {
       "multicall": "0x5b24224dC16508DAD755756639E420817DD4c99E"
@@ -196,7 +196,7 @@
         "nativeTokenId": "defi-kingdoms"
       }
     },
-    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/53935/token-logo.png"
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/53935/chain-logo.png"
   },
   {
     "chainName": "Swimmer Testnet",
@@ -215,7 +215,7 @@
       "symbol": "TUS",
       "description": "TUS is the gas token on the Swimmer Chain and used to pay gas for all transactions.",
       "decimals": 18,
-      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/73771/chain-logo.png"
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/73771/token-logo.png"
     },
     "utilityAddresses": {
       "multicall": "0x4754009155eCFC2074E0dC9Fd0bf1d3d94a3Bb9c"
@@ -225,7 +225,7 @@
         "nativeTokenId": "treasure-under-sea"
       }
     },
-    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/73771/token-logo.png"
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/73771/chain-logo.png"
   },
   {
     "chainName": "Swimmer Mainnet",
@@ -244,7 +244,7 @@
       "symbol": "TUS",
       "description": "TUS is the gas token on the Swimmer Chain and used to pay gas for all transactions.",
       "decimals": 18,
-      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/73772/chain-logo.png"
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/73772/token-logo.png"
     },
     "utilityAddresses": {
       "multicall": "0xd46175048c125eae5a7694BDa6C723b76D24e428"
@@ -254,6 +254,6 @@
         "nativeTokenId": "treasure-under-sea"
       }
     },
-    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/73772/token-logo.png"
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/73772/chain-logo.png"
   }
 ]
