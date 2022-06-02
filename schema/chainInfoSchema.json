@@ -26,6 +26,10 @@
       "type": "string",
       "enum": ["EVM", "BITCOIN", "ETHEREUM"]
     },
+    "subnetExplorerUriId": {
+      "type": "string",
+      "maxLength": 32
+    },
     "explorerUrl": {
       "type": "string",
       "format": "uri"

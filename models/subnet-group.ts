@@ -1,6 +1,6 @@
 export interface SubnetGroup {
   subnetGroupName: string;
-  explorerUri: string;
+  subnetExplorerUriId?: string;
   mainnetSubnetIds?: string[];
   testnetSubnetIds?: string[];
 }

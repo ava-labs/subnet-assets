@@ -9,7 +9,8 @@
       "pattern": "^[a-zA-Z0-9]+$"
     },
     "subnetName": {
-      "type": "string"
+      "type": "string",
+      "maxLength": 32
     },
     "isTestnet": {
       "type": "boolean"

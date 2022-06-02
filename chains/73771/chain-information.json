@@ -6,6 +6,7 @@
   "subnetId": "WUCXWAHsS6iygdik7RVRL3CjJHqbDQ1RESPUDqQpsH6wnRn96",
   "vmId": "srSGD5JeYhL8GLx4RUw53VN5TcoBbax6EeCYmy5S3DiteJhdF",
   "vmName": "EVM",
+  "subnetExplorerUriId": "testnet",
   "explorerUrl": "https://subnets.avax.network/swimmer/testnet/explorer",
   "rpcUrl": "https://subnets.avax.network/swimmer/testnet/rpc",
   "wsUrl": "wss://subnets.avax.network/swimmer/testnet/ws",

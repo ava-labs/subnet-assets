@@ -10,7 +10,7 @@
         "type": "string",
         "maxLength": 32
       },
-      "explorerUri": {
+      "subnetExplorerUriId": {
         "type": "string"
       },
       "mainnetSubnetIds": {
