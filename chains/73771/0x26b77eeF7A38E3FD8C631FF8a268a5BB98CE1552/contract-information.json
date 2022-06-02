@@ -1,46 +1,46 @@
 {
-  "address": "0x26b77eeF7A38E3FD8C631FF8a268a5BB98CE1552",
-  "name": "CRA",
-  "symbol": "CRA",
-  "description": "CRA is a governance token which is rewarded via staking, and playing the game during the incentive period.",
-  "contractType": "ERC-20",
-  "decimals": 18,
-  "assetType": "Fixed Cap",
-  "officialSite": "https://www.crabada.com/",
-  "resourceLinks": [
-    {
-      "type": "Blog",
-      "url": "https://medium.com/@PlayCrabada"
-    },
-    {
-      "type": "Twitter",
-      "url": "https://twitter.com/playcrabada"
-    },
-    {
-      "type": "Github",
-      "url": "https://github.com/crabada"
-    },
-    {
-      "type": "Telegram",
-      "url": "https://t.me/playcrabada"
-    },
-    {
-      "type": "Discord",
-      "url": "https://discord.gg/Djy57Zhau9"
-    },
-    {
-      "type": "Whitepaper",
-      "url": "https://docs.crabada.com/"
-    },
-    {
-      "type": "CoinMarketCap",
-      "url": "https://coinmarketcap.com/currencies/crabada/"
-    },
-    {
-      "type": "CoinGecko",
-      "url": "https://www.coingecko.com/en/coins/crabada"
-    }
-  ],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/73771/0x26b77eeF7A38E3FD8C631FF8a268a5BB98CE1552/logo.png",
-  "chainId": 73771
+    "address": "0x26b77eeF7A38E3FD8C631FF8a268a5BB98CE1552",
+    "name": "CRA",
+    "symbol": "CRA",
+    "description": "CRA is a governance token which is rewarded via staking, and playing the game during the incentive period.",
+    "contractType": "ERC-20",
+    "decimals": 18,
+    "assetType": "Fixed Cap",
+    "officialSite": "https://www.crabada.com/",
+    "resourceLinks": [
+        {
+            "type": "Blog",
+            "url": "https://medium.com/@PlayCrabada"
+        },
+        {
+            "type": "Twitter",
+            "url": "https://twitter.com/playcrabada"
+        },
+        {
+            "type": "Github",
+            "url": "https://github.com/crabada"
+        },
+        {
+            "type": "Telegram",
+            "url": "https://t.me/playcrabada"
+        },
+        {
+            "type": "Discord",
+            "url": "https://discord.gg/Djy57Zhau9"
+        },
+        {
+            "type": "Whitepaper",
+            "url": "https://docs.crabada.com/"
+        },
+        {
+            "type": "CoinMarketCap",
+            "url": "https://coinmarketcap.com/currencies/crabada/"
+        },
+        {
+            "type": "CoinGecko",
+            "url": "https://www.coingecko.com/en/coins/crabada"
+        }
+    ],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/73771/0x26b77eeF7A38E3FD8C631FF8a268a5BB98CE1552/logo.png",
+    "chainId": 73771
 }
