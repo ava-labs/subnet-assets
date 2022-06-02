@@ -1,0 +1,33 @@
+{
+  "$id": "/schemas/SubnetGroups.Schema.json",
+  "description": "Schema for the subnet groups file",
+  "additionalProperties": false,
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "subnetGroupName": {
+        "type": "string",
+        "maxLength": 32
+      },
+      "subnetExplorerUriId": {
+        "type": "string"
+      },
+      "mainnetSubnetIds": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "pattern": "^[a-zA-Z0-9]+$"
+        }
+      },
+      "testnetSubnetIds": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "pattern": "^[a-zA-Z0-9]+$"
+        }
+      }
+    },
+    "required": ["subnetGroupName"]
+  }
+}

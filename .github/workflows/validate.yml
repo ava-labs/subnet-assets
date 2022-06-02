@@ -18,3 +18,7 @@ jobs:
       - run: yarn add @actions/core @ethersproject/address
       - name: Update List and validate
         run: node --experimental-json-modules actions/validate.js 
+      - name: Validate Subnet Info
+        run: node --experimental-json-modules actions/validateSubnetInfo.js 
+      - name: Validate Subnet Groups
+        run: node --experimental-json-modules actions/validateSubnetGroups.js 
