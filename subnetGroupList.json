@@ -1,8 +1,8 @@
 [
   {
     "subnetGroupName": "Defi Kingdoms",
-    "explorerUri": "defi-kingdoms",
-    "mainnetSubnetIds": [
+    "subnetExplorerUriId": "defi-kingdoms",
+    "mainnetSubnets": [
       {
         "subnetId": "Vn3aX6hNRstj5VHHm63TCgPNaeGnRSqCYXQqemSqDd2TQH4qJ",
         "subnetName": "DeFi Kingdoms",
@@ -16,6 +16,7 @@
             "subnetId": "Vn3aX6hNRstj5VHHm63TCgPNaeGnRSqCYXQqemSqDd2TQH4qJ",
             "vmId": "mDV3QWRXfwgKUWb9sggkv4vQxAQR4y2CyKrt5pLZ5SzQ7EHBv",
             "vmName": "EVM",
+            "subnetExplorerUriId": "dfk-chain",
             "explorerUrl": "https://subnets.avax.network/defi-kingdoms/dfk-chain/explorer",
             "rpcUrl": "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc",
             "wsUrl": "wss://subnets.avax.network/defi-kingdoms/dfk-chain/ws",
@@ -41,7 +42,7 @@
         ]
       }
     ],
-    "testnetSubnetIds": [
+    "testnetSubnets": [
       {
         "subnetId": "XHLRR9cvMtCR8KZsjU8nLxg1JbV7aS23AcLVeBMVHLKkSBriS",
         "subnetName": "DeFi Kingdoms",
@@ -55,6 +56,7 @@
             "subnetId": "XHLRR9cvMtCR8KZsjU8nLxg1JbV7aS23AcLVeBMVHLKkSBriS",
             "vmId": "mDV3QWRXfwgKUWb9sggkv4vQxAQR4y2CyKrt5pLZ5SzQ7EHBv",
             "vmName": "EVM",
+            "subnetExplorerUriId": "dfk-chain-testnet",
             "explorerUrl": "https://subnets.avax.network/defi-kingdoms/dfk-chain-testnet/explorer",
             "rpcUrl": "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc",
             "wsUrl": "wss://subnets.avax.network/defi-kingdoms/dfk-chain/ws",
@@ -83,8 +85,8 @@
   },
   {
     "subnetGroupName": "Swimmer Network",
-    "explorerUri": "swimmer",
-    "mainnetSubnetIds": [
+    "subnetExplorerUriId": "swimmer",
+    "mainnetSubnets": [
       {
         "subnetId": "2e3CqLY8thW1WKS89WQ7WR9Qy2bCrrP5mv7psqMRGCHGXuQ1Uj",
         "subnetName": "Swimmer",
@@ -98,6 +100,7 @@
             "subnetId": "2e3CqLY8thW1WKS89WQ7WR9Qy2bCrrP5mv7psqMRGCHGXuQ1Uj",
             "vmId": "srSGD5JeYhL8GLx4RUw53VN5TcoBbax6EeCYmy5S3DiteJhdF",
             "vmName": "EVM",
+            "subnetExplorerUriId": "mainnet",
             "explorerUrl": "https://subnets.avax.network/swimmer/mainnet/explorer",
             "rpcUrl": "https://subnets.avax.network/swimmer/mainnet/rpc",
             "wsUrl": "wss://subnets.avax.network/swimmer/mainnet/ws",
@@ -122,7 +125,7 @@
         ]
       }
     ],
-    "testnetSubnetIds": [
+    "testnetSubnets": [
       {
         "subnetId": "WUCXWAHsS6iygdik7RVRL3CjJHqbDQ1RESPUDqQpsH6wnRn96",
         "subnetName": "Swimmer Testnet",
@@ -136,6 +139,7 @@
             "subnetId": "WUCXWAHsS6iygdik7RVRL3CjJHqbDQ1RESPUDqQpsH6wnRn96",
             "vmId": "srSGD5JeYhL8GLx4RUw53VN5TcoBbax6EeCYmy5S3DiteJhdF",
             "vmName": "EVM",
+            "subnetExplorerUriId": "testnet",
             "explorerUrl": "https://subnets.avax.network/swimmer/testnet/explorer",
             "rpcUrl": "https://subnets.avax.network/swimmer/testnet/rpc",
             "wsUrl": "wss://subnets.avax.network/swimmer/testnet/ws",
@@ -163,8 +167,8 @@
   },
   {
     "subnetGroupName": "Dexalot",
-    "explorerUri": "dexalot",
-    "testnetSubnetIds": [
+    "subnetExplorerUriId": "dexalot",
+    "testnetSubnets": [
       {
         "subnetId": "9m6a3Qte8FaRbLZixLhh8Ptdkemm4csNaLwQeKkENx5wskbWP",
         "subnetName": "Dexalot",
@@ -178,6 +182,7 @@
             "subnetId": "9m6a3Qte8FaRbLZixLhh8Ptdkemm4csNaLwQeKkENx5wskbWP",
             "vmId": "mDVSxzeWHpEU3eSqMwwGQsD787xGp7hv9Qgoe3R9SdjPapte8",
             "vmName": "EVM",
+            "subnetExplorerUriId": "testnet",
             "explorerUrl": "https://subnets.avax.network/dexalot/testnet/explorer",
             "rpcUrl": "https://subnets.avax.network/dexalot/testnet/rpc",
             "wsUrl": "wss://subnets.avax.network/dexalot/testnet/ws",
@@ -205,8 +210,8 @@
   },
   {
     "subnetGroupName": "Castle Crush",
-    "explorerUri": "castle-crush",
-    "testnetSubnetIds": [
+    "subnetExplorerUriId": "castle-crush",
+    "testnetSubnets": [
       {
         "subnetId": "WZNboVsvHrJmJResQCCySrhaMWt7rQcC8JYckFtVevJkqCHPv",
         "subnetName": "Castle Crush",
@@ -217,8 +222,8 @@
   },
   {
     "subnetGroupName": "WAGMI",
-    "explorerUri": "wagmi",
-    "testnetSubnetIds": [
+    "subnetExplorerUriId": "wagmi",
+    "testnetSubnets": [
       {
         "subnetId": "28nrH5T2BMvNrWecFcV3mfccjs6axM1TVyqe79MCv2Mhs8kxiY",
         "subnetName": "WAGMI",
@@ -232,6 +237,7 @@
             "subnetId": "28nrH5T2BMvNrWecFcV3mfccjs6axM1TVyqe79MCv2Mhs8kxiY",
             "vmId": "srEXiWaHuhNyGwPUi444Tu47ZEDwxTWrbQiuD7FmgSAQ6X7Dy",
             "vmName": "EVM",
+            "subnetExplorerUriId": "wagmi-chain-testnet",
             "explorerUrl": "https://subnets.avax.network/wagmi/wagmi-chain-testnet/explorer",
             "rpcUrl": "https://subnets.avax.network/wagmi/wagmi-chain-testnet/rpc",
             "wsUrl": "wss://subnets.avax.network/wagmi/wagmi-chain-testnet/ws",
