@@ -17,7 +17,7 @@ fs.readdir(ROOT_PATH, async (err, files) => {
 
       const chain = {
         ...createChain(chainId, chainTokenIds),
-        ...createTokens(tokens),
+        ...(await createTokens(tokens)),
       };
 
       chains = {

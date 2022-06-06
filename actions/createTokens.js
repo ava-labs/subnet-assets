@@ -1,6 +1,7 @@
 import getColors from 'get-image-colors'
+import async from 'async';
 
-export function createTokens(tokens) {
+export async function createTokens(tokens) {
   const tokensWithAverageColor = await async.map(tokens, async (token) => {
     if (token.logoUri) {
       try {
@@ -17,6 +18,5 @@ export function createTokens(tokens) {
     return token;
   });
 
-  return tokensWithAverageColor.filter((token) => token.contractType === 'ERC-20'),
-
+  return tokensWithAverageColor.filter((token) => token.contractType === 'ERC-20')
 }
