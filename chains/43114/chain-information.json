@@ -6,16 +6,23 @@
   "subnetId": "11111111111111111111111111111111LpoYY",
   "vmId": "mgj786NP7uDwBCcq6YwThhaN8FLyybkCa4zBWTQbNgmK6k9A6",
   "vmName": "EVM",
+  "explorerUrl": "https://snowtrace.io",
   "rpcUrl": "https://api.avax.network/ext/bc/C/rpc",
   "wsUrl": "wss://api.avax.network/ext/bc/C/ws",
-  "multicallAddress": "0xed386Fe855C1EFf2f843B910923Dd8846E45C5A4",
   "isTestnet": false,
-  "mainnetChainId": 43114,
-  "coingeckoAssetPlatformId": "avalanche",
   "networkToken": {
     "name": "Avalanche",
     "symbol": "AVAX",
     "decimals": 18,
-    "coingeckoId": "avalanche-2"
+    "description": ""
+  },
+  "utilityAddresses": {
+    "multicall": "0xed386Fe855C1EFf2f843B910923Dd8846E45C5A4"
+  },
+  "pricingProviders": {
+    "coingecko": {
+      "assetPlatformId": "avalanche",
+      "nativeTokenId": "avalanche-2"
+    }
   }
 }

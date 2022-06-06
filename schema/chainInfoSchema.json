@@ -1,0 +1,120 @@
+{
+  "$id": "/schemas/ChainInfoSchema.json",
+  "description": "Schema for chain infomation",
+  "additionalProperties": false,
+  "type": "object",
+  "properties": {
+    "chainName": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "platformChainId": {
+      "type": "string",
+      "pattern": "^[a-zA-Z0-9]+$"
+    },
+    "subnetId": {
+      "type": "string",
+      "pattern": "^[a-zA-Z0-9]+$"
+    },
+    "vmId": {
+      "type": "string",
+      "pattern": "^[a-zA-Z0-9]+$"
+    },
+    "vmName": {
+      "type": "string",
+      "enum": ["EVM", "BITCOIN", "ETHEREUM"]
+    },
+    "subnetExplorerUriId": {
+      "type": "string",
+      "maxLength": 32
+    },
+    "explorerUrl": {
+      "type": "string",
+      "format": "uri"
+    },
+    "rpcUrl": {
+      "type": "string",
+      "format": "uri"
+    },
+    "wsUrl": {
+      "type": "string",
+      "format": "uri"
+    },
+    "utilityAddresses": {
+      "type": "object",
+      "patternProperties": {
+        "^[a-fA-F0-9_-]+$": {
+          "type": "string",
+          "pattern": "^0x[a-fA-F0-9]{40}$"
+        }
+      },
+      "properties": {
+        "multicall": {
+          "type": "string",
+          "pattern": "^0x[a-fA-F0-9]{40}$"
+        }
+      },
+      "required": ["multicall"]
+    },
+    "isTestnet": {
+      "type": "boolean"
+    },
+    "networkToken": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "symbol": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "decimals": {
+          "type": "number"
+        }
+      },
+      "required": ["name", "symbol", "description", "decimals"]
+    },
+    "pricingProviders": {
+      "type": "object",
+      "oneOf": [
+        {
+          "properties": {
+            "coingecko": {
+              "type": "object",
+              "properties": {
+                "nativeTokenId": {
+                  "type": "string",
+                  "pattern": "^[a-zA-Z0-9_-]+$"
+                },
+                "assetPlatformId": {
+                  "type": "string",
+                  "pattern": "^[a-zA-Z0-9_-]+$"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "chainId": {
+      "type": "number"
+    }
+  },
+  "required": [
+    "chainName",
+    "description",
+    "platformChainId",
+    "subnetId",
+    "vmId",
+    "vmName",
+    "chainId",
+    "rpcUrl",
+    "isTestnet",
+    "networkToken"
+  ]
+}

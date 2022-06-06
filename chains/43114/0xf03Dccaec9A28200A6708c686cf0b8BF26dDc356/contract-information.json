@@ -6,5 +6,6 @@
   "symbol": "YDR",
   "contractType": "ERC-20",
   "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xf03Dccaec9A28200A6708c686cf0b8BF26dDc356/logo.png"
+  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xf03Dccaec9A28200A6708c686cf0b8BF26dDc356/logo.png",
+  "description": ""
 }

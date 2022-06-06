@@ -1,0 +1,79 @@
+[
+  {
+    "subnetId": "2e3CqLY8thW1WKS89WQ7WR9Qy2bCrrP5mv7psqMRGCHGXuQ1Uj",
+    "subnetName": "Swimmer",
+    "isTestnet": false,
+    "chains": [
+      {
+        "chainName": "Swimmer Mainnet",
+        "description": "Swimmer Network is a custom blockchain built on an Avalanche Subnet, and is home to Crabada, an undersea world filled with fierce fighting Hermit-Crabs called Crabada. The Crabada Idle-Game and marketplace is expected migrate from the C-chain onto the Swimmer Network. Crabada can be bred, and used in games to earn cryptocurrencies with real value.",
+        "chainId": 73772,
+        "platformChainId": "2K33xS9AyP9oCDiHYKVrHe7F54h2La5D8erpTChaAhdzeSu2RX",
+        "subnetId": "2e3CqLY8thW1WKS89WQ7WR9Qy2bCrrP5mv7psqMRGCHGXuQ1Uj",
+        "vmId": "srSGD5JeYhL8GLx4RUw53VN5TcoBbax6EeCYmy5S3DiteJhdF",
+        "vmName": "EVM",
+        "subnetExplorerUriId": "mainnet",
+        "explorerUrl": "https://subnets.avax.network/swimmer/mainnet/explorer",
+        "rpcUrl": "https://subnets.avax.network/swimmer/mainnet/rpc",
+        "wsUrl": "wss://subnets.avax.network/swimmer/mainnet/ws",
+        "isTestnet": false,
+        "networkToken": {
+          "name": "Treasure Under Sea",
+          "symbol": "TUS",
+          "description": "TUS is the gas token on the Swimmer Chain and used to pay gas for all transactions.",
+          "decimals": 18,
+          "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/73772/token-logo.png"
+        },
+        "utilityAddresses": {
+          "multicall": "0xd46175048c125eae5a7694BDa6C723b76D24e428"
+        },
+        "pricingProviders": {
+          "coingecko": {
+            "nativeTokenId": "treasure-under-sea"
+          }
+        },
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/73772/chain-logo.png"
+      }
+    ],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/subnets/2e3CqLY8thW1WKS89WQ7WR9Qy2bCrrP5mv7psqMRGCHGXuQ1Uj/subnet-logo.png"
+  },
+  {
+    "subnetId": "Vn3aX6hNRstj5VHHm63TCgPNaeGnRSqCYXQqemSqDd2TQH4qJ",
+    "subnetName": "DeFi Kingdoms",
+    "isTestnet": false,
+    "chains": [
+      {
+        "chainName": "DFK Chain",
+        "description": "The vision for the DFK Chain on the Defi Kingdoms subnet is to become the go-to location for community members and projects to launch GameFi and other blockchain gaming experiences in conjunction with the primary offering of DeFi Kingdoms: Crystalvale.",
+        "chainId": 53935,
+        "platformChainId": "q2aTwKuyzgs8pynF7UXBZCU7DejbZbZ6EUyHr3JQzYgwNPUPi",
+        "subnetId": "Vn3aX6hNRstj5VHHm63TCgPNaeGnRSqCYXQqemSqDd2TQH4qJ",
+        "vmId": "mDV3QWRXfwgKUWb9sggkv4vQxAQR4y2CyKrt5pLZ5SzQ7EHBv",
+        "vmName": "EVM",
+        "subnetExplorerUriId": "dfk-chain",
+        "explorerUrl": "https://subnets.avax.network/defi-kingdoms/dfk-chain/explorer",
+        "rpcUrl": "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc",
+        "wsUrl": "wss://subnets.avax.network/defi-kingdoms/dfk-chain/ws",
+        "isTestnet": false,
+        "networkToken": {
+          "name": "JEWEL",
+          "symbol": "JEWEL",
+          "description": "JEWEL is the central token on the DFK Chain and used to pay gas for all transactions. While it is not natively minted on the DFK Chain, it is integral to the chain's function.",
+          "decimals": 18,
+          "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/53935/token-logo.png"
+        },
+        "utilityAddresses": {
+          "multicall": "0x5b24224dC16508DAD755756639E420817DD4c99E"
+        },
+        "pricingProviders": {
+          "coingecko": {
+            "assetPlatformId": "defi-kingdoms-blockchain",
+            "nativeTokenId": "defi-kingdoms"
+          }
+        },
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/53935/chain-logo.png"
+      }
+    ],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/subnets/Vn3aX6hNRstj5VHHm63TCgPNaeGnRSqCYXQqemSqDd2TQH4qJ/subnet-logo.png"
+  }
+]

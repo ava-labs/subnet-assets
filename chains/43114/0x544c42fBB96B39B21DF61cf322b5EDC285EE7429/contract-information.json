@@ -6,5 +6,6 @@
   "symbol": "INSUR",
   "contractType": "ERC-20",
   "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x544c42fBB96B39B21DF61cf322b5EDC285EE7429/logo.png"
+  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x544c42fBB96B39B21DF61cf322b5EDC285EE7429/logo.png",
+  "description": ""
 }

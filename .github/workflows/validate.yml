@@ -1,0 +1,24 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Validate data
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: "16.13.1"
+      - run: yarn add @actions/core @ethersproject/address
+      - name: Update List and validate
+        run: node --experimental-json-modules actions/validate.js 
+      - name: Validate Subnet Info
+        run: node --experimental-json-modules actions/validateSubnetInfo.js 
+      - name: Validate Subnet Groups
+        run: node --experimental-json-modules actions/validateSubnetGroups.js 

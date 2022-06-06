@@ -1,0 +1,110 @@
+{
+  "$id": "/schemas/ContractInfoSchema.json",
+  "description": "Schema for contract infomation",
+  "additionalProperties": false,
+  "type": "object",
+  "properties": {
+    "address": {
+      "type": "string",
+      "pattern": "^0x[a-fA-F0-9]{40}$"
+    },
+    "description": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "symbol": {
+      "type": "string"
+    },
+    "contractType": {
+      "type": "string",
+      "enum": ["ERC-20", "ERC-721", "Other"]
+    },
+    "assetType": {
+      "type": "string",
+      "enum": ["Fixed Cap", "Unlimited Cap", "Stablecoin", "NFT"]
+    },
+    "officialSite": {
+      "type": "string",
+      "format": "uri"
+    },
+    "email": {
+      "type": "string",
+      "format": "email"
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "chainId": {
+      "type": "number"
+    },
+    "decimals": {
+      "type": "number"
+    },
+    "logoUri": {
+      "type": "string",
+      "format": "uri"
+    },
+    "resourceLinks": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "type": {
+            "type": "string",
+            "enum": [
+              "Twitter",
+              "Facebook",
+              "Discord",
+              "Telegram",
+              "Blog",
+              "Medium",
+              "Whitepaper",
+              "CoinGecko",
+              "CoinMarketCap",
+              "LinkedIn",
+              "Reddit",
+              "Support",
+              "Github"
+            ]
+          },
+          "url": {
+            "type": "string",
+            "format": "uri"
+          }
+        },
+        "required": ["type", "url"]
+      }
+    }
+  },
+  "required": ["address", "contractType", "name", "description"],
+  "allOf": [
+    {
+      "if": {
+        "oneOf": [
+          {
+            "properties": {
+              "contractType": {
+                "const": "ERC-20"
+              }
+            }
+          },
+          {
+            "properties": {
+              "contractType": {
+                "const": "ERC-721"
+              }
+            }
+          }
+        ]
+      },
+      "then": {
+        "required": ["symbol"]
+      }
+    }
+  ]
+}

@@ -1,4 +1,7 @@
 {
   "address": "0xA4bd37AF549fb310c874d969fE2BA39D6765008f",
-  "name": "Airdrop Claim"
+  "name": "Airdrop Claim",
+  "chainId": 335,
+  "description": "",
+  "contractType": "Other"
 }

@@ -6,5 +6,6 @@
   "symbol": "HON",
   "contractType": "ERC-20",
   "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xEd2b42D3C9c6E97e11755BB37df29B6375ede3EB/logo.png"
+  "logoUri": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xEd2b42D3C9c6E97e11755BB37df29B6375ede3EB/logo.png",
+  "description": ""
 }

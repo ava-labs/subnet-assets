@@ -6,5 +6,6 @@
   "decimals": 18,
   "contractType": "ERC-20",
   "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43113/0x83080D4b5fC60e22dFFA8d14AD3BB41Dde48F199/logo.png"
+  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43113/0x83080D4b5fC60e22dFFA8d14AD3BB41Dde48F199/logo.png",
+  "description": ""
 }

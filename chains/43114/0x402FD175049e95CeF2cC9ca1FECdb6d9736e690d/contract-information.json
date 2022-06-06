@@ -6,5 +6,6 @@
   "symbol": "CATS",
   "contractType": "ERC-20",
   "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x402FD175049e95CeF2cC9ca1FECdb6d9736e690d/logo.png"
+  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x402FD175049e95CeF2cC9ca1FECdb6d9736e690d/logo.png",
+  "description": ""
 }

@@ -6,5 +6,6 @@
   "symbol": "AVME",
   "contractType": "ERC-20",
   "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x1ECd47FF4d9598f89721A2866BFEb99505a413Ed/logo.png"
+  "logoUri": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x1ECd47FF4d9598f89721A2866BFEb99505a413Ed/logo.png",
+  "description": "AVME is a decentralized security protocol for malicious content detection and protection against malware. AVME accomplishes this by combining two technologies that can be integrated with blockchain to deliver zero-trust and fully decentralized applications. These include sandbox nodes and virus detection through artificial intelligence/machine learning (AI/ML). "
 }

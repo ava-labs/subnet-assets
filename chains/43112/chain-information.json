@@ -9,12 +9,16 @@
   "rpcUrl": "https://localhost:9650/ext/bc/C/rpc",
   "wsUrl": "ws://127.0.0.1:9650/ext/bc/C/ws",
   "isTestnet": true,
-  "mainnetChainId": 43114,
-  "coingeckoAssetPlatformId": "avalanche",
   "networkToken": {
     "name": "Avalanche",
     "symbol": "AVAX",
     "decimals": 18,
-    "coingeckoId": "avalanche-2"
+    "description": ""
+  },
+  "pricingProviders": {
+    "coingecko": {
+      "assetPlatformId": "avalanche",
+      "nativeTokenId": "avalanche-2"
+    }
   }
 }
