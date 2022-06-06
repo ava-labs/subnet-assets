@@ -3,7 +3,7 @@ import path from 'path';
 import { ROOT_PATH, ERC20_TOKEN_LIST_FILE } from './constants.mjs';
 import { getTokens } from './getTokens.mjs';
 import { createChain } from './createChain.mjs';
-import { createTokens } from './createTokens.js';
+import { createTokens } from './createTokens.mjs';
 
 fs.readdir(ROOT_PATH, async (err, files) => {
   if (!err && files) {
