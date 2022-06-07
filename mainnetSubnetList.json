@@ -5,7 +5,7 @@
     "isTestnet": false,
     "chains": [
       {
-        "chainName": "Swimmer Mainnet",
+        "chainName": "Swimmer Subnet",
         "description": "Swimmer Network is a custom blockchain built on an Avalanche Subnet, and is home to Crabada, an undersea world filled with fierce fighting Hermit-Crabs called Crabada. The Crabada Idle-Game and marketplace is expected migrate from the C-chain onto the Swimmer Network. Crabada can be bred, and used in games to earn cryptocurrencies with real value.",
         "chainId": 73772,
         "platformChainId": "2K33xS9AyP9oCDiHYKVrHe7F54h2La5D8erpTChaAhdzeSu2RX",
@@ -43,7 +43,7 @@
     "isTestnet": false,
     "chains": [
       {
-        "chainName": "DFK Chain",
+        "chainName": "DFK Subnet",
         "description": "The vision for the DFK Chain on the Defi Kingdoms subnet is to become the go-to location for community members and projects to launch GameFi and other blockchain gaming experiences in conjunction with the primary offering of DeFi Kingdoms: Crystalvale.",
         "chainId": 53935,
         "platformChainId": "q2aTwKuyzgs8pynF7UXBZCU7DejbZbZ6EUyHr3JQzYgwNPUPi",
