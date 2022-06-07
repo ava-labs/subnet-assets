@@ -4,17 +4,19 @@
   "scripts": {
     "format": "node format.mjs",
     "prettier": "prettier \"**/*\" --write",
-    "createList": "node actions/createList.js"
+    "createList": "node actions/createChainsAndERC20List.js"
   },
   "devDependencies": {
     "@ethersproject/address": "5.6.0",
-    "@types/node": "^17.0.31",
+    "@types/fs-extra": "9.0.13",
+    "@types/node": "17.0.31",
     "prettier": "2.6.2",
-    "tsm": "^2.2.1"
+    "tsm": "2.2.1"
   },
   "dependencies": {
-    "@actions/core": "^1.8.2",
-    "ajv": "^8.11.0",
-    "ajv-formats": "^2.1.1"
+    "@actions/core": "1.8.2",
+    "ajv": "8.11.0",
+    "ajv-formats": "2.1.1",
+    "get-image-colors": "4.0.1"
   }
 }

@@ -3,17 +3,29 @@ import path from 'path';
 import { ROOT_PATH, ERC20_TOKEN_LIST_FILE } from './constants.mjs';
 import { getTokens } from './getTokens.mjs';
 import { createChain } from './createChain.mjs';
+import { createTokens } from './createTokens.mjs';
 
-const chains = fs.readdirSync(ROOT_PATH).reduce((acc, chainId) => {
-  // this is all chain paths. ie.../subnet-assets/chains/11111
-  const chainTokenIds = path.resolve(ROOT_PATH, chainId);
+fs.readdir(ROOT_PATH, async (err, files) => {
+  if (!err && files) {
+    let chains = {};
 
-  const chain = {
-    ...createChain(chainId, chainTokenIds),
-    tokens: getTokens(chainId, chainTokenIds).filter((token) => token.contractType === 'ERC-20'),
-  };
+    await Promise.all(files.map(async (chainId) => {
+      // this is all chain paths. ie.../subnet-assets/chains/11111
+      const chainTokenIds = path.resolve(ROOT_PATH, chainId);
+      const tokens = getTokens(chainId, chainTokenIds);
 
-  return { ...acc, [chain.chainId]: chain };
-}, {});
+      const chain = {
+        ...createChain(chainId, chainTokenIds),
+        tokens: [...(await createTokens(tokens))],
+      };
 
-fs.writeFileSync(ERC20_TOKEN_LIST_FILE, JSON.stringify(chains, null, 2));
+      chains = {
+        ...chains,
+        [chain.chainId]: chain,
+      };
+    }));
+
+    // Writting the tokenList.erc20.json file
+    fs.writeFileSync(ERC20_TOKEN_LIST_FILE, JSON.stringify(chains, null, 2));
+  }
+});
