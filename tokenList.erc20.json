@@ -1,6 +1,6 @@
 {
   "335": {
-    "chainName": "DFK Chain",
+    "chainName": "DFK Subnet",
     "description": "The vision for the DFK Chain on the Defi Kingdoms subnet is to become the go-to location for community members and projects to launch GameFi and other blockchain gaming experiences in conjunction with the primary offering of DeFi Kingdoms: Crystalvale.",
     "chainId": 335,
     "platformChainId": "2pDrf9iZaP8eBGmhut8NhERLMw9QyFjoebiiPMgwbwbxagaP6Z",
@@ -91,7 +91,7 @@
     "tokens": []
   },
   "43112": {
-    "chainName": "C-Chain Local",
+    "chainName": "Avalanche (C-Chain) Local",
     "description": "The Contract Chain on Avalanche's primary subnet.",
     "chainId": 43112,
     "platformChainId": "yH8D7ThNJkxmtkuv2jgBa4P1Rn3Qpr4pPr7QYNfcdoS6k6HWp",
@@ -118,7 +118,7 @@
     "tokens": []
   },
   "43113": {
-    "chainName": "C-Chain Testnet",
+    "chainName": "Avalanche (C-Chain) Testnet",
     "description": "The Contract Chain on Avalanche's test subnet.",
     "chainId": 43113,
     "platformChainId": "yH8D7ThNJkxmtkuv2jgBa4P1Rn3Qpr4pPr7QYNfcdoS6k6HWp",
@@ -306,7 +306,7 @@
     ]
   },
   "43114": {
-    "chainName": "C-Chain",
+    "chainName": "Avalanche (C-Chain)",
     "description": "The Contract Chain on Avalanche's primary subnet.",
     "chainId": 43114,
     "platformChainId": "2q9e4r6Mu3U68nU1fYjgbR6JvwrRx36CohpAX5UQxse55x1Q5",
@@ -2493,7 +2493,7 @@
     ]
   },
   "53935": {
-    "chainName": "DFK Chain",
+    "chainName": "DFK Subnet",
     "description": "The vision for the DFK Chain on the Defi Kingdoms subnet is to become the go-to location for community members and projects to launch GameFi and other blockchain gaming experiences in conjunction with the primary offering of DeFi Kingdoms: Crystalvale.",
     "chainId": 53935,
     "platformChainId": "q2aTwKuyzgs8pynF7UXBZCU7DejbZbZ6EUyHr3JQzYgwNPUPi",
@@ -2618,7 +2618,7 @@
     ]
   },
   "73771": {
-    "chainName": "Swimmer Testnet",
+    "chainName": "Swimmer Subnet Testnet",
     "description": "Swimmer Network is a custom blockchain built on an Avalanche Subnet, and is home to Crabada, an undersea world filled with fierce fighting Hermit-Crabs called Crabada. The Crabada Idle-Game and marketplace is expected migrate from the C-chain onto the Swimmer Network. Crabada can be bred, and used in games to earn cryptocurrencies with real value.",
     "chainId": 73771,
     "platformChainId": "2hUULz82ZYMKwjBHZybVRyouk38EmcW7UKP4iocf9rghpvfm84",
@@ -2744,7 +2744,7 @@
     ]
   },
   "73772": {
-    "chainName": "Swimmer Mainnet",
+    "chainName": "Swimmer Subnet",
     "description": "Swimmer Network is a custom blockchain built on an Avalanche Subnet, and is home to Crabada, an undersea world filled with fierce fighting Hermit-Crabs called Crabada. The Crabada Idle-Game and marketplace is expected migrate from the C-chain onto the Swimmer Network. Crabada can be bred, and used in games to earn cryptocurrencies with real value.",
     "chainId": 73772,
     "platformChainId": "2K33xS9AyP9oCDiHYKVrHe7F54h2La5D8erpTChaAhdzeSu2RX",
