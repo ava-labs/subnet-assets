@@ -22,7 +22,7 @@ export type PricingProvidersConfig = {
   [K in PricingProvider]?: PricingProviderConfig<K>;
 };
 
-export const validProviderTypes = ['coingecko'];
+export const validProviderTypes = ['coingecko'] as const;
 
 export type PricingProvider = typeof validProviderTypes[number];
 
