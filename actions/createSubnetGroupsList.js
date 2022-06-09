@@ -2,7 +2,14 @@ import fs from 'fs';
 import path from 'path';
 import { getChains } from './getChains.mjs';
 import { createChain } from './createChain.mjs';
-import { SUBNETS_ROOT_PATH, SUBNET_INFO_FILE, SUBNET_GROUPS_FILE, FORMATTED_SUBNET_GROUPS_FILE } from './constants.mjs';
+import {
+  SUBNETS_ROOT_PATH,
+  SUBNET_INFO_FILE,
+  SUBNET_GROUPS_FILE,
+  FORMATTED_SUBNET_GROUPS_FILE,
+  SUBNETS_FOLDER_URL,
+  SUBNET_LOGO_FILE,
+} from './constants.mjs';
 
 const allChains = getChains();
 
@@ -11,9 +18,12 @@ function createSubnet(subnetId) {
   const chains = allChains
     .filter((chainInfo) => chainInfo.subnetId === subnetId)
     .map((chainInfo) => createChain(chainInfo.chainId));
+  const subnetLogoFilePath = `${SUBNETS_FOLDER_URL}/${subnetId}/${SUBNET_LOGO_FILE}`;
+
   return {
     ...subnetInfo,
     chains,
+    logoUri: subnetLogoFilePath,
   };
 }
 
