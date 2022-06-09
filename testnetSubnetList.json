@@ -3,6 +3,17 @@
     "subnetId": "28nrH5T2BMvNrWecFcV3mfccjs6axM1TVyqe79MCv2Mhs8kxiY",
     "subnetName": "WAGMI",
     "isTestnet": true,
+    "description": "The WAGMI (\"We're All Going to Make It\") Subnet Demo is a high throughput testbed for EVM (Ethereum Virtual Machine) optimizations. It is parameterized to run at a factor more capacity than Fuji/Mainnet C-Chain and will be used to experiment with release candidates before they make it into an official coreth release.",
+    "resourceLinks": [
+      {
+        "type": "Documentation",
+        "url": "https://docs.avax.network/subnets/wagmi"
+      },
+      {
+        "type": "Medium",
+        "url": "https://medium.com/avalancheavax"
+      }
+    ],
     "chains": [
       {
         "chainName": "WAGMI",
@@ -36,6 +47,30 @@
     "subnetId": "9m6a3Qte8FaRbLZixLhh8Ptdkemm4csNaLwQeKkENx5wskbWP",
     "subnetName": "Dexalot",
     "isTestnet": true,
+    "description": "The Dexalot Exchange EVM subnet is a revolutionary decentralized exchange aiming at bringing the traditional centralized exchange look and feel, through a decentralized on-chain application. Dexalot users can trade crypto securely and efficiently, with no slippage or custody risk. It is built on Avalanche Subnet technology, the most effective scaling solution in the blockchain industry.",
+    "officialSite": "https://subnetapp.dexalot-test.com/",
+    "resourceLinks": [
+      {
+        "type": "Documentation",
+        "url": "https://dexalot.com/faq.html"
+      },
+      {
+        "type": "Discord",
+        "url": "https://discord.com/invite/S4NP9w7Xwn"
+      },
+      {
+        "type": "Twitter",
+        "url": "https://twitter.com/dexalotcom"
+      },
+      {
+        "type": "Medium",
+        "url": "https://medium.com/dexalot"
+      },
+      {
+        "type": "Github",
+        "url": "https://github.com/Dexalot/dexalot-subnet"
+      }
+    ],
     "chains": [
       {
         "chainName": "Dexalot",
@@ -74,6 +109,26 @@
     "subnetId": "WUCXWAHsS6iygdik7RVRL3CjJHqbDQ1RESPUDqQpsH6wnRn96",
     "subnetName": "Swimmer Testnet",
     "isTestnet": true,
+    "description": "Swimmer is an Avalanche Subnet, and is home to Crabada, an undersea world filled with fierce fighting Hermit-Crabs called Crabada. The Crabada Idle-Game and marketplace is expected migrate from the C-chain onto the Swimmer Network. Crabada can be bred, and used in games to earn cryptocurrencies with real value.",
+    "officialSite": "https://www.swimmer.network/",
+    "resourceLinks": [
+      {
+        "type": "Documentation",
+        "url": "https://docs.swimmer.network/"
+      },
+      {
+        "type": "Discord",
+        "url": "https://discord.com/invite/BWn5vvrmuW"
+      },
+      {
+        "type": "Twitter",
+        "url": "https://twitter.com/swimmer_network"
+      },
+      {
+        "type": "Medium",
+        "url": "https://medium.com/@swimmer_network"
+      }
+    ],
     "chains": [
       {
         "chainName": "Swimmer Subnet Testnet",
@@ -112,6 +167,8 @@
     "subnetId": "WZNboVsvHrJmJResQCCySrhaMWt7rQcC8JYckFtVevJkqCHPv",
     "subnetName": "Castle Crush",
     "isTestnet": true,
+    "description": "Castle Crush is a real-time strategy mobile game published by Wildlife Studios. It is originally a web2 game, with a new NFT + Crypto layer being added to it through the use of a custom Avalanche subnet. NFTs are playable in-game minions and spells that players can truly own, buy, sell, and loan. A new token, $ACS, will power the game's crypto economy.",
+    "officialSite": "https://www.castlecrushgame.com/",
     "chains": [],
     "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/subnets/WZNboVsvHrJmJResQCCySrhaMWt7rQcC8JYckFtVevJkqCHPv/subnet-logo.png"
   },
@@ -119,6 +176,34 @@
     "subnetId": "XHLRR9cvMtCR8KZsjU8nLxg1JbV7aS23AcLVeBMVHLKkSBriS",
     "subnetName": "DeFi Kingdoms",
     "isTestnet": true,
+    "description": "The vision for the Defi Kingdoms subnet is to become the go-to location for community members and projects to launch GameFi and other blockchain gaming experiences in conjunction with the primary offering of DeFi Kingdoms: Crystalvale.",
+    "officialSite": "https://defikingdoms.com/crystalvale/",
+    "resourceLinks": [
+      {
+        "type": "Twitter",
+        "url": "https://twitter.com/DefiKingdoms"
+      },
+      {
+        "type": "Reddit",
+        "url": "https://www.reddit.com/r/DefiKingdoms/"
+      },
+      {
+        "type": "Reddit",
+        "url": "https://www.reddit.com/r/DefiKingdoms/"
+      },
+      {
+        "type": "Discord",
+        "url": "https://discord.com/invite/defikingdoms"
+      },
+      {
+        "type": "Telegram",
+        "url": "https://t.me/defikingdoms"
+      },
+      {
+        "type": "Facebook",
+        "url": "https://www.facebook.com/defikingdoms"
+      }
+    ],
     "chains": [
       {
         "chainName": "DFK Subnet",
