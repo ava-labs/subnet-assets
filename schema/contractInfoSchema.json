@@ -53,32 +53,7 @@
     "resourceLinks": {
       "type": "array",
       "items": {
-        "type": "object",
-        "properties": {
-          "type": {
-            "type": "string",
-            "enum": [
-              "Twitter",
-              "Facebook",
-              "Discord",
-              "Telegram",
-              "Blog",
-              "Medium",
-              "Whitepaper",
-              "CoinGecko",
-              "CoinMarketCap",
-              "LinkedIn",
-              "Reddit",
-              "Support",
-              "Github"
-            ]
-          },
-          "url": {
-            "type": "string",
-            "format": "uri"
-          }
-        },
-        "required": ["type", "url"]
+        "$ref": "/schemas/resourceLinkSchema.json"
       }
     }
   },

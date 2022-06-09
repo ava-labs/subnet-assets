@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import * as core from '@actions/core';
 import subnetInfoSchema from '../schema/subnetInfoSchema.json';
-import subnetGroupsSchema from '../schema/subnetGroupsSchema.json';
+import resourceLinkSchema from '../schema/resourceLinkSchema.json';
 import addFormats from 'ajv-formats';
 import Ajv from 'ajv';
 import { SUBNETS_ROOT_PATH, SUBNET_INFO_FILE } from './constants.mjs';
@@ -10,7 +10,7 @@ import { SUBNETS_ROOT_PATH, SUBNET_INFO_FILE } from './constants.mjs';
 const ajv = new Ajv({ allErrors: true });
 addFormats(ajv);
 
-const validateSubnetInfo = ajv.compile(subnetInfoSchema);
+const validateSubnetInfo = ajv.addSchema(resourceLinkSchema).compile(subnetInfoSchema);
 
 let isError = false;
 const errors = {};

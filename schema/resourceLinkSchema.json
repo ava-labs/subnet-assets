@@ -1,0 +1,30 @@
+{
+    "$id": "/schemas/resourceLinkSchema.json",
+    "type": "object",
+        "properties": {
+          "type": {
+            "type": "string",
+            "enum": [
+              "Twitter",
+              "Facebook",
+              "Discord",
+              "Telegram",
+              "Blog",
+              "Medium",
+              "Whitepaper",
+              "CoinGecko",
+              "CoinMarketCap",
+              "LinkedIn",
+              "Reddit",
+              "Support",
+              "Github",
+              "Documentation"
+            ]
+          },
+          "url": {
+            "type": "string",
+            "format": "uri"
+          }
+        },
+        "required": ["type", "url"]
+    }
