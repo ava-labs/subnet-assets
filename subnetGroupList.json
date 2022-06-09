@@ -72,7 +72,8 @@
           },
           "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/53935/chain-logo.png"
         }
-      ]
+      ],
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/subnets/Vn3aX6hNRstj5VHHm63TCgPNaeGnRSqCYXQqemSqDd2TQH4qJ/subnet-logo.png"
     },
     "testnetSubnet": {
       "subnetId": "XHLRR9cvMtCR8KZsjU8nLxg1JbV7aS23AcLVeBMVHLKkSBriS",
@@ -138,7 +139,8 @@
           },
           "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/335/chain-logo.png"
         }
-      ]
+      ],
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/subnets/XHLRR9cvMtCR8KZsjU8nLxg1JbV7aS23AcLVeBMVHLKkSBriS/subnet-logo.png"
     }
   },
   {
@@ -205,7 +207,8 @@
           },
           "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/73772/chain-logo.png"
         }
-      ]
+      ],
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/subnets/2e3CqLY8thW1WKS89WQ7WR9Qy2bCrrP5mv7psqMRGCHGXuQ1Uj/subnet-logo.png"
     },
     "testnetSubnet": {
       "subnetId": "WUCXWAHsS6iygdik7RVRL3CjJHqbDQ1RESPUDqQpsH6wnRn96",
@@ -262,7 +265,8 @@
           },
           "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/73771/chain-logo.png"
         }
-      ]
+      ],
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/subnets/WUCXWAHsS6iygdik7RVRL3CjJHqbDQ1RESPUDqQpsH6wnRn96/subnet-logo.png"
     }
   },
   {
@@ -327,7 +331,8 @@
           },
           "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/432201/chain-logo.png"
         }
-      ]
+      ],
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/subnets/9m6a3Qte8FaRbLZixLhh8Ptdkemm4csNaLwQeKkENx5wskbWP/subnet-logo.png"
     }
   },
   {
@@ -339,7 +344,8 @@
       "isTestnet": true,
       "description": "Castle Crush is a real-time strategy mobile game published by Wildlife Studios. It is originally a web2 game, with a new NFT + Crypto layer being added to it through the use of a custom Avalanche subnet. NFTs are playable in-game minions and spells that players can truly own, buy, sell, and loan. A new token, $ACS, will power the game's crypto economy.",
       "officialSite": "https://www.castlecrushgame.com/",
-      "chains": []
+      "chains": [],
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/subnets/WZNboVsvHrJmJResQCCySrhaMWt7rQcC8JYckFtVevJkqCHPv/subnet-logo.png"
     }
   },
   {
@@ -386,7 +392,8 @@
           },
           "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/11111/chain-logo.png"
         }
-      ]
+      ],
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/subnets/28nrH5T2BMvNrWecFcV3mfccjs6axM1TVyqe79MCv2Mhs8kxiY/subnet-logo.png"
     }
   }
 ]
