@@ -2,5 +2,24 @@
   "subnetId": "WUCXWAHsS6iygdik7RVRL3CjJHqbDQ1RESPUDqQpsH6wnRn96",
   "subnetName": "Swimmer Testnet",
   "isTestnet": true,
-  "description": "Swimmer is an Avalanche Subnet, and is home to Crabada, an undersea world filled with fierce fighting Hermit-Crabs called Crabada. The Crabada Idle-Game and marketplace is expected migrate from the C-chain onto the Swimmer Network. Crabada can be bred, and used in games to earn cryptocurrencies with real value."
+  "description": "Swimmer is an Avalanche Subnet, and is home to Crabada, an undersea world filled with fierce fighting Hermit-Crabs called Crabada. The Crabada Idle-Game and marketplace is expected migrate from the C-chain onto the Swimmer Network. Crabada can be bred, and used in games to earn cryptocurrencies with real value.",
+  "officialSite": "https://www.swimmer.network/",
+  "resourceLinks": [
+    {
+      "type": "Documentation",
+      "url": "https://docs.swimmer.network/"
+    },
+    {
+      "type": "Discord",
+      "url": "https://discord.com/invite/BWn5vvrmuW"
+    },
+    {
+      "type": "Twitter",
+      "url": "https://twitter.com/swimmer_network"
+    },
+    {
+      "type": "Medium",
+      "url": "https://medium.com/@swimmer_network"
+    }
+  ]
 }
