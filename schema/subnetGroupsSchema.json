@@ -27,12 +27,12 @@
           "type": "object",
           "properties": {
             "mainnet": {
-              "type": "number",
-              "pattern": "^[1-9]d*$"
+              "type": "integer",
+              "minimum": 1
             },
             "testnet": {
-              "type": "number",
-              "pattern": "^[1-9]d*$"
+              "type": "integer",
+              "minimum": 1
             }
           }
         }

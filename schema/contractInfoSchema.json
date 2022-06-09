@@ -40,7 +40,8 @@
       }
     },
     "chainId": {
-      "type": "number"
+      "type": "integer",
+      "minimum": 1
     },
     "decimals": {
       "type": "number"
