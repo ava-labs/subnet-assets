@@ -1,6 +1,11 @@
+export interface ChainGroup {
+  mainnet: number;
+  testnet: number;
+}
 export interface SubnetGroup {
   subnetGroupName: string;
   subnetExplorerUriId?: string;
-  mainnetSubnetIds?: string[];
-  testnetSubnetIds?: string[];
+  mainnetSubnetId?: string;
+  testnetSubnetId?: string;
+  chainGroups?: ChainGroup[];
 }

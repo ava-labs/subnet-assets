@@ -10,10 +10,10 @@ export interface ContractInformation {
   email?: string;
   chainId: number;
   logoUri?: string; // uri
-  resourceLinks?: ResourceLink[];
+  resourceLinks?: ContractResourceLink[];
 }
 
-export type ResourceLink = {
+export type ContractResourceLink = {
   type:
     | 'Twitter'
     | 'Facebook'
