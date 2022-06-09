@@ -13,18 +13,28 @@
       "subnetExplorerUriId": {
         "type": "string"
       },
-      "mainnetSubnetIds": {
-        "type": "array",
-        "items": {
-          "type": "string",
-          "pattern": "^[a-zA-Z0-9]+$"
-        }
+      "mainnetSubnetId": {
+        "type": "string",
+        "pattern": "^[a-zA-Z0-9]+$"
       },
-      "testnetSubnetIds": {
+      "testnetSubnetId": {
+        "type": "string",
+        "pattern": "^[a-zA-Z0-9]+$"
+      },
+      "chainGroups": {
         "type": "array",
         "items": {
-          "type": "string",
-          "pattern": "^[a-zA-Z0-9]+$"
+          "type": "object",
+          "properties": {
+            "mainnet": {
+              "type": "number",
+              "pattern": "^[1-9]d*$"
+            },
+            "testnet": {
+              "type": "number",
+              "pattern": "^[1-9]d*$"
+            }
+          }
         }
       }
     },

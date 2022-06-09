@@ -20,14 +20,15 @@ function createSubnet(subnetId) {
 const subnetGroups = JSON.parse(fs.readFileSync(SUBNET_GROUPS_FILE, 'utf8'));
 
 const formattedSubnetGroups = Object.values(subnetGroups).map(
-  ({ mainnetSubnetIds, testnetSubnetIds, ...subnetGroupInfo }) => {
+  ({ mainnetSubnetId, testnetSubnetId, ...subnetGroupInfo }) => {
     const formattedSubnetGroup = { ...subnetGroupInfo };
-    if (mainnetSubnetIds?.length) {
-      formattedSubnetGroup.mainnetSubnets = mainnetSubnetIds.map((subnetId) => createSubnet(subnetId));
+    if (mainnetSubnetId?.length) {
+      formattedSubnetGroup.mainnetSubnet = createSubnet(mainnetSubnetId);
     }
-    if (testnetSubnetIds?.length) {
-      formattedSubnetGroup.testnetSubnets = testnetSubnetIds.map((subnetId) => createSubnet(subnetId));
+    if (testnetSubnetId?.length) {
+      formattedSubnetGroup.testnetSubnet = createSubnet(testnetSubnetId);
     }
+
     return formattedSubnetGroup;
   }
 );
