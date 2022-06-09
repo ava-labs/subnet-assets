@@ -3,6 +3,26 @@
     "subnetId": "2e3CqLY8thW1WKS89WQ7WR9Qy2bCrrP5mv7psqMRGCHGXuQ1Uj",
     "subnetName": "Swimmer",
     "isTestnet": false,
+    "description": "Swimmer is an Avalanche Subnet, and is home to Crabada, an undersea world filled with fierce fighting Hermit-Crabs called Crabada. The Crabada Idle-Game and marketplace is expected migrate from the C-chain onto the Swimmer Network. Crabada can be bred, and used in games to earn cryptocurrencies with real value.",
+    "officialSite": "https://www.swimmer.network/",
+    "resourceLinks": [
+      {
+        "type": "Documentation",
+        "url": "https://docs.swimmer.network/"
+      },
+      {
+        "type": "Discord",
+        "url": "https://discord.com/invite/BWn5vvrmuW"
+      },
+      {
+        "type": "Twitter",
+        "url": "https://twitter.com/swimmer_network"
+      },
+      {
+        "type": "Medium",
+        "url": "https://medium.com/@swimmer_network"
+      }
+    ],
     "chains": [
       {
         "chainName": "Swimmer Subnet",
@@ -41,6 +61,30 @@
     "subnetId": "Vn3aX6hNRstj5VHHm63TCgPNaeGnRSqCYXQqemSqDd2TQH4qJ",
     "subnetName": "DeFi Kingdoms",
     "isTestnet": false,
+    "description": "The vision for the Defi Kingdoms subnet is to become the go-to location for community members and projects to launch GameFi and other blockchain gaming experiences in conjunction with the primary offering of DeFi Kingdoms: Crystalvale.",
+    "officialSite": "https://defikingdoms.com/crystalvale/",
+    "resourceLinks": [
+      {
+        "type": "Twitter",
+        "url": "https://twitter.com/DefiKingdoms"
+      },
+      {
+        "type": "Reddit",
+        "url": "https://www.reddit.com/r/DefiKingdoms/"
+      },
+      {
+        "type": "Discord",
+        "url": "https://discord.com/invite/defikingdoms"
+      },
+      {
+        "type": "Telegram",
+        "url": "https://t.me/defikingdoms"
+      },
+      {
+        "type": "Facebook",
+        "url": "https://www.facebook.com/defikingdoms"
+      }
+    ],
     "chains": [
       {
         "chainName": "DFK Subnet",

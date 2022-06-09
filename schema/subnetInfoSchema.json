@@ -14,7 +14,21 @@
     },
     "isTestnet": {
       "type": "boolean"
+    },
+    "description": {
+      "type": "string"
+    },
+    "officialSite": {
+      "type": "string",
+      "format": "uri"
+    },
+    "resourceLinks": {
+      "type": "array",
+      "items": {
+        "$ref": "/schemas/resourceLinkSchema.json"
+      }
     }
   },
   "required": ["subnetId", "subnetName", "isTestnet"]
 }
+
