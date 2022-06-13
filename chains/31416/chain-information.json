@@ -1,0 +1,23 @@
+{
+  "chainName": "Castle Crush",
+  "description": "Castle Crush is a real-time strategy mobile game published by Wildlife Studios. It is originally a web2 game, with a new NFT + Crypto layer being added to it through the use of a custom Avalanche subnet. NFTs are playable in-game minions and spells that players can truly own, buy, sell, and loan. A new token, $ACS, will power the game's crypto economy.",
+  "chainId": 31416,
+  "platformChainId": "2efRRokqrvBXqaFrgXKomFHhyh9JSVFJEmE1WzdP1KxDbBksFS",
+  "subnetId": "WZNboVsvHrJmJResQCCySrhaMWt7rQcC8JYckFtVevJkqCHPv",
+  "vmId": "kmYf1CBB1oGXdNK9biEFdWazpVB2erkdWhFxr1hZZabapwZXX",
+  "vmName": "EVM",
+  "subnetExplorerUriId": "testnet",
+  "explorerUrl": "https://subnets.avax.network/castle-crush/testnet/explorer",
+  "rpcUrl": "https://subnets.avax.network/castle-crush/testnet/rpc",
+  "wsUrl": "wss://subnets.avax.network/castle-crush/testnet/ws",
+  "isTestnet": true,
+  "networkToken": {
+    "name": "CastleCrush",
+    "symbol": "ACS",
+    "description": "ACS is the central token on the Castle Crush chain and used to pay gas for all transactions.",
+    "decimals": 18
+  },
+  "utilityAddresses": {
+    "multicall": "0x000dE1e4108d9A5C9d2d36C15f9acf1B351467bd"
+  }
+}
