@@ -237,8 +237,8 @@
         "vmName": "EVM",
         "subnetExplorerUriId": "dfk-chain-testnet",
         "explorerUrl": "https://subnets.avax.network/defi-kingdoms/dfk-chain-testnet/explorer",
-        "rpcUrl": "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc",
-        "wsUrl": "wss://subnets.avax.network/defi-kingdoms/dfk-chain/ws",
+        "rpcUrl": "https://subnets.avax.network/defi-kingdoms/dfk-chain-testnet/rpc",
+        "wsUrl": "wss://subnets.avax.network/defi-kingdoms/dfk-chain-testnet/ws",
         "isTestnet": true,
         "networkToken": {
           "name": "JEWEL",
