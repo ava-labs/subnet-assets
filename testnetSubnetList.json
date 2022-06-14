@@ -238,7 +238,7 @@
         "subnetExplorerUriId": "dfk-chain-testnet",
         "explorerUrl": "https://subnets.avax.network/defi-kingdoms/dfk-chain-testnet/explorer",
         "rpcUrl": "https://subnets.avax.network/defi-kingdoms/dfk-chain-testnet/rpc",
-        "wsUrl": "wss://subnets.avax.network/defi-kingdoms/dfk-chain/ws",
+        "wsUrl": "wss://subnets.avax.network/defi-kingdoms/dfk-chain-testnet/ws",
         "isTestnet": true,
         "networkToken": {
           "name": "JEWEL",
