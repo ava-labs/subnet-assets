@@ -1,5 +1,6 @@
 {
   "address": "0xa5c47B4bEb35215fB0CF0Ea6516F9921591c3aCE",
+  "decimals": 18,
   "name": "Crystals",
   "symbol": "CRYSTAL",
   "chainId": 335,
