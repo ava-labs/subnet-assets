@@ -1,5 +1,6 @@
 {
   "address": "0x6AC38A4C112F125eac0eBDbaDBed0BC8F4575d0d",
+  "decimals": 18,
   "name": "JEWEL-xJEWEL LP Token",
   "symbol": "JEWEL-LP",
   "chainId": 53935,
