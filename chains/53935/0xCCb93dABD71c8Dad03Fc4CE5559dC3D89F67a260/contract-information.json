@@ -6,5 +6,6 @@
   "description": "",
   "assetType": "Unlimited Cap",
   "contractType": "ERC-20",
-  "chainId": 53935
+  "chainId": 53935,
+  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/53935/0xCCb93dABD71c8Dad03Fc4CE5559dC3D89F67a260/logo.png"
 }

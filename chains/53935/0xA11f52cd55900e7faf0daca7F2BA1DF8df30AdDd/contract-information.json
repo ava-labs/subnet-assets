@@ -5,5 +5,6 @@
   "symbol": "xCRYSTAL",
   "chainId": 53935,
   "description": "",
-  "contractType": "ERC-20"
+  "contractType": "ERC-20",
+  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/53935/0xA11f52cd55900e7faf0daca7F2BA1DF8df30AdDd/logo.png"
 }
