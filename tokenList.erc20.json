@@ -2561,7 +2561,9 @@
         "description": "",
         "assetType": "Unlimited Cap",
         "contractType": "ERC-20",
-        "chainId": 53935
+        "chainId": 53935,
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/53935/0x04b9dA42306B023f3572e106B11D82aAd9D32EBb/logo.png",
+        "tokenColor": "#4a637e"
       },
       {
         "address": "0x360d6DD540E3448371876662FBE7F1aCaf08c5Ab",
@@ -2571,7 +2573,9 @@
         "chainId": 53935,
         "description": "",
         "contractType": "ERC-20",
-        "assetType": "Stablecoin"
+        "assetType": "Stablecoin",
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/53935/0x360d6DD540E3448371876662FBE7F1aCaf08c5Ab/logo.png",
+        "tokenColor": "#5592f1"
       },
       {
         "address": "0x3AD9DFE640E1A9Cc1D9B0948620820D975c3803a",
@@ -2580,7 +2584,9 @@
         "symbol": "USDC",
         "chainId": 53935,
         "description": "",
-        "contractType": "ERC-20"
+        "contractType": "ERC-20",
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/53935/0x3AD9DFE640E1A9Cc1D9B0948620820D975c3803a/logo.png",
+        "tokenColor": "#2474cc"
       },
       {
         "address": "0x48658E69D741024b4686C8f7b236D3F1D291f386",
@@ -2608,7 +2614,9 @@
         "description": "",
         "assetType": "Unlimited Cap",
         "contractType": "ERC-20",
-        "chainId": 53935
+        "chainId": 53935,
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/53935/0x77f2656d04E158f915bC22f07B779D94c1DC47Ff/logo.png",
+        "tokenColor": "#cdd16a"
       },
       {
         "address": "0x9f378F48d0c1328fd0C80d7Ae544C6CadB5Ba99E",
@@ -2626,7 +2634,9 @@
         "symbol": "xCRYSTAL",
         "chainId": 53935,
         "description": "",
-        "contractType": "ERC-20"
+        "contractType": "ERC-20",
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/53935/0xA11f52cd55900e7faf0daca7F2BA1DF8df30AdDd/logo.png",
+        "tokenColor": "#4a637e"
       },
       {
         "address": "0xB57B60DeBDB0b8172bb6316a9164bd3C695F133a",
@@ -2635,7 +2645,9 @@
         "symbol": "AVAX",
         "chainId": 53935,
         "description": "",
-        "contractType": "ERC-20"
+        "contractType": "ERC-20",
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/53935/0xB57B60DeBDB0b8172bb6316a9164bd3C695F133a/logo.png",
+        "tokenColor": "#ec4343"
       },
       {
         "address": "0xCCb93dABD71c8Dad03Fc4CE5559dC3D89F67a260",
@@ -2645,7 +2657,9 @@
         "description": "",
         "assetType": "Unlimited Cap",
         "contractType": "ERC-20",
-        "chainId": 53935
+        "chainId": 53935,
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/53935/0xCCb93dABD71c8Dad03Fc4CE5559dC3D89F67a260/logo.png",
+        "tokenColor": "#cdd16a"
       },
       {
         "address": "0xF3EabeD6Bd905e0FcD68FC3dBCd6e3A4aEE55E98",
