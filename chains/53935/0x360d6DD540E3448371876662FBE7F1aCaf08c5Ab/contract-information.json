@@ -6,5 +6,6 @@
   "chainId": 53935,
   "description": "",
   "contractType": "ERC-20",
-  "assetType": "Stablecoin"
+  "assetType": "Stablecoin",
+  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/53935/0x360d6DD540E3448371876662FBE7F1aCaf08c5Ab/logo.png"
 }
