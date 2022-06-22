@@ -20,7 +20,7 @@
       "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/335/token-logo.png"
     },
     "utilityAddresses": {
-      "multicall": "0x5b24224dC16508DAD755756639E420817DD4c99E"
+      "multicall": "0x7D5746CcBD080a512Af2e8b1eFEFD61fBD29023D"
     },
     "pricingProviders": {
       "coingecko": {
@@ -40,7 +40,7 @@
         "contractType": "ERC-20"
       },
       {
-        "address": "0x5b24224dC16508DAD755756639E420817DD4c99E",
+        "address": "0x602daa4Db4778Cb958b161F11574b4A206606b4B",
         "decimals": 18,
         "name": "Wrapped JEWEL",
         "symbol": "WJEWEL",
