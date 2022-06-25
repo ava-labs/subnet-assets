@@ -6,7 +6,6 @@ import {
   SUBNET_EXPLORER_TESTNET_CHAIN_LIST_FILE,
 } from './constants.mjs';
 import { createChain } from './createChain.mjs';
-import { createSubnet } from './createSubnet.mjs';
 
 fs.readdir(ROOT_PATH, async (err, files) => {
   if (!err && files) {
@@ -16,35 +15,14 @@ fs.readdir(ROOT_PATH, async (err, files) => {
     await Promise.all(
       files.map(async (chainId) => {
         const chain = createChain(chainId);
-
         // If no subnetUriId, it isn't supported in the subnet explorer.
         if (!chain.subnetExplorerUriId) return;
 
-        let subnet = {};
-        try {
-          subnet = createSubnet(chain.subnetId);
-        } catch {
-          // subnet config doesn't exist - do nothing.
-        }
-
-        console.log('subnet', subnet);
         if (chain.isTestnet) {
-          testnetChains = {
-            ...testnetChains,
-            [chain.chainId]: {
-              ...chain,
-              subnet,
-            },
-          };
-        } else {
-          mainnetChains = {
-            ...mainnetChains,
-            [chain.chainId]: {
-              ...chain,
-              subnet,
-            },
-          };
+          testnetChains[chain.chainId] = chain;
+          return;
         }
+        mainnetChains[chain.chainId] = chain;
       })
     );
 

@@ -19,5 +19,15 @@
   },
   "utilityAddresses": {
     "multicall": "0x7e5f336f8baFc0bf775DafE091133A37244C285c"
-  }
+  },
+  "resourceLinks": [
+    {
+      "type": "Documentation",
+      "url": "https://docs.avax.network/subnets/wagmi"
+    },
+    {
+      "type": "Medium",
+      "url": "https://medium.com/avalancheavax"
+    }
+  ]
 }

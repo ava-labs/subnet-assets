@@ -24,5 +24,24 @@
     "coingecko": {
       "nativeTokenId": "treasure-under-sea"
     }
-  }
+  },
+  "officialSite": "https://www.swimmer.network/",
+  "resourceLinks": [
+    {
+      "type": "Documentation",
+      "url": "https://docs.swimmer.network/"
+    },
+    {
+      "type": "Discord",
+      "url": "https://discord.com/invite/BWn5vvrmuW"
+    },
+    {
+      "type": "Twitter",
+      "url": "https://twitter.com/swimmer_network"
+    },
+    {
+      "type": "Medium",
+      "url": "https://medium.com/@swimmer_network"
+    }
+  ]
 }

@@ -15,13 +15,6 @@ export const ADDRESS_LIST_FILE = path.resolve(__dirname, '../addressList.json');
 export const CONTRACT_TOKEN_INFO_FILE = 'contract-information.json';
 export const MAINNET_CHAIN_ID = 43114;
 export const FUJI_CHAIN_ID = 43113;
-export const SUBNETS_FOLDER_URL = 'https://raw.githubusercontent.com/ava-labs/subnet-assets/main/subnets';
-export const SUBNETS_ROOT_PATH = path.resolve('./subnets');
-export const SUBNET_INFO_FILE = 'subnet-information.json';
-export const SUBNET_LOGO_FILE = 'subnet-logo.png';
-export const SUBNET_GROUPS_FILE = path.resolve('./subnetGroups/subnet-groups.json');
-export const FORMATTED_SUBNET_GROUPS_FILE = path.resolve(__dirname, '../subnetGroupList.json');
-export const SUBNET_LIST_FILE = path.resolve(__dirname, '../subnetList.json');
 export const SUBNET_EXPLORER_MAINNET_CHAIN_LIST_FILE = path.resolve(
   __dirname,
   '../subnetExplorerMainnetChainsList.json'

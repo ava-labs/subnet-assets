@@ -25,5 +25,28 @@
       "assetPlatformId": "defi-kingdoms-blockchain",
       "nativeTokenId": "defi-kingdoms"
     }
-  }
+  },
+  "officialSite": "https://defikingdoms.com/crystalvale/",
+  "resourceLinks": [
+    {
+      "type": "Twitter",
+      "url": "https://twitter.com/DefiKingdoms"
+    },
+    {
+      "type": "Reddit",
+      "url": "https://www.reddit.com/r/DefiKingdoms/"
+    },
+    {
+      "type": "Discord",
+      "url": "https://discord.com/invite/defikingdoms"
+    },
+    {
+      "type": "Telegram",
+      "url": "https://t.me/defikingdoms"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/defikingdoms"
+    }
+  ]
 }

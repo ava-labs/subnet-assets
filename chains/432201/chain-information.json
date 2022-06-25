@@ -24,5 +24,28 @@
     "coingecko": {
       "nativeTokenId": "dexalot"
     }
-  }
+  },
+  "officialSite": "https://subnetapp.dexalot-test.com/",
+  "resourceLinks": [
+    {
+      "type": "Documentation",
+      "url": "https://dexalot.com/faq.html"
+    },
+    {
+      "type": "Discord",
+      "url": "https://discord.com/invite/S4NP9w7Xwn"
+    },
+    {
+      "type": "Twitter",
+      "url": "https://twitter.com/dexalotcom"
+    },
+    {
+      "type": "Medium",
+      "url": "https://medium.com/dexalot"
+    },
+    {
+      "type": "Github",
+      "url": "https://github.com/Dexalot/dexalot-subnet"
+    }
+  ]
 }
