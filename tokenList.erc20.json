@@ -28,6 +28,29 @@
         "nativeTokenId": "defi-kingdoms"
       }
     },
+    "officialSite": "https://defikingdoms.com/crystalvale/",
+    "resourceLinks": [
+      {
+        "type": "Twitter",
+        "url": "https://twitter.com/DefiKingdoms"
+      },
+      {
+        "type": "Reddit",
+        "url": "https://www.reddit.com/r/DefiKingdoms/"
+      },
+      {
+        "type": "Discord",
+        "url": "https://discord.com/invite/defikingdoms"
+      },
+      {
+        "type": "Telegram",
+        "url": "https://t.me/defikingdoms"
+      },
+      {
+        "type": "Facebook",
+        "url": "https://www.facebook.com/defikingdoms"
+      }
+    ],
     "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/335/chain-logo.png",
     "tokens": [
       {
@@ -91,6 +114,16 @@
     "utilityAddresses": {
       "multicall": "0x7e5f336f8baFc0bf775DafE091133A37244C285c"
     },
+    "resourceLinks": [
+      {
+        "type": "Documentation",
+        "url": "https://docs.avax.network/subnets/wagmi"
+      },
+      {
+        "type": "Medium",
+        "url": "https://medium.com/avalancheavax"
+      }
+    ],
     "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/11111/chain-logo.png",
     "tokens": []
   },
@@ -117,6 +150,7 @@
     "utilityAddresses": {
       "multicall": "0x000dE1e4108d9A5C9d2d36C15f9acf1B351467bd"
     },
+    "officialSite": "https://www.castlecrushgame.com/",
     "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/31416/chain-logo.png",
     "tokens": []
   },
@@ -1130,7 +1164,7 @@
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x60781C2586D68229fde47564546784ab3fACA982/logo.png",
         "chainId": 43114,
         "description": "",
-        "tokenColor": "#fc6c04"
+        "tokenColor": "#040404"
       },
       {
         "chainId": 43114,
@@ -2551,6 +2585,29 @@
         "nativeTokenId": "defi-kingdoms"
       }
     },
+    "officialSite": "https://defikingdoms.com/crystalvale/",
+    "resourceLinks": [
+      {
+        "type": "Twitter",
+        "url": "https://twitter.com/DefiKingdoms"
+      },
+      {
+        "type": "Reddit",
+        "url": "https://www.reddit.com/r/DefiKingdoms/"
+      },
+      {
+        "type": "Discord",
+        "url": "https://discord.com/invite/defikingdoms"
+      },
+      {
+        "type": "Telegram",
+        "url": "https://t.me/defikingdoms"
+      },
+      {
+        "type": "Facebook",
+        "url": "https://www.facebook.com/defikingdoms"
+      }
+    ],
     "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/53935/chain-logo.png",
     "tokens": [
       {
@@ -2700,6 +2757,25 @@
         "nativeTokenId": "treasure-under-sea"
       }
     },
+    "officialSite": "https://www.swimmer.network/",
+    "resourceLinks": [
+      {
+        "type": "Documentation",
+        "url": "https://docs.swimmer.network/"
+      },
+      {
+        "type": "Discord",
+        "url": "https://discord.com/invite/BWn5vvrmuW"
+      },
+      {
+        "type": "Twitter",
+        "url": "https://twitter.com/swimmer_network"
+      },
+      {
+        "type": "Medium",
+        "url": "https://medium.com/@swimmer_network"
+      }
+    ],
     "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/73771/chain-logo.png",
     "tokens": [
       {
@@ -2826,6 +2902,25 @@
         "nativeTokenId": "treasure-under-sea"
       }
     },
+    "officialSite": "https://www.swimmer.network/",
+    "resourceLinks": [
+      {
+        "type": "Documentation",
+        "url": "https://docs.swimmer.network/"
+      },
+      {
+        "type": "Discord",
+        "url": "https://discord.com/invite/BWn5vvrmuW"
+      },
+      {
+        "type": "Twitter",
+        "url": "https://twitter.com/swimmer_network"
+      },
+      {
+        "type": "Medium",
+        "url": "https://medium.com/@swimmer_network"
+      }
+    ],
     "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/73772/chain-logo.png",
     "tokens": [
       {
@@ -2952,6 +3047,29 @@
         "nativeTokenId": "dexalot"
       }
     },
+    "officialSite": "https://subnetapp.dexalot-test.com/",
+    "resourceLinks": [
+      {
+        "type": "Documentation",
+        "url": "https://dexalot.com/faq.html"
+      },
+      {
+        "type": "Discord",
+        "url": "https://discord.com/invite/S4NP9w7Xwn"
+      },
+      {
+        "type": "Twitter",
+        "url": "https://twitter.com/dexalotcom"
+      },
+      {
+        "type": "Medium",
+        "url": "https://medium.com/dexalot"
+      },
+      {
+        "type": "Github",
+        "url": "https://github.com/Dexalot/dexalot-subnet"
+      }
+    ],
     "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/432201/chain-logo.png",
     "tokens": [
       {
