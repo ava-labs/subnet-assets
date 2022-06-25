@@ -22,5 +22,11 @@ export const SUBNET_LOGO_FILE = 'subnet-logo.png';
 export const SUBNET_GROUPS_FILE = path.resolve('./subnetGroups/subnet-groups.json');
 export const FORMATTED_SUBNET_GROUPS_FILE = path.resolve(__dirname, '../subnetGroupList.json');
 export const SUBNET_LIST_FILE = path.resolve(__dirname, '../subnetList.json');
-export const MAINNET_SUBNET_LIST_FILE = path.resolve(__dirname, '../mainnetSubnetList.json');
-export const TESTNET_SUBNET_LIST_FILE = path.resolve(__dirname, '../testnetSubnetList.json');
+export const SUBNET_EXPLORER_MAINNET_CHAIN_LIST_FILE = path.resolve(
+  __dirname,
+  '../subnetExplorerMainnetChainsList.json'
+);
+export const SUBNET_EXPLORER_TESTNET_CHAIN_LIST_FILE = path.resolve(
+  __dirname,
+  '../subnetExplorerTestnetChainsList.json'
+);

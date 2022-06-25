@@ -11,9 +11,6 @@ export function createSubnet(subnetId) {
   const hasPng = fs.readdirSync(path.resolve(SUBNETS_ROOT_PATH, subnetId), 'utf8').includes(SUBNET_LOGO_FILE);
   return {
     ...subnetInfo,
-    chains: allChains
-      .filter((chainInfo) => chainInfo.subnetId === subnetId)
-      .map((chainInfo) => createChain(chainInfo.chainId)),
     ...(!!hasPng && { logoUri: `${SUBNETS_FOLDER_URL}/${subnetId}/${SUBNET_LOGO_FILE}` }),
   };
 }
