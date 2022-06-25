@@ -1,12 +1,12 @@
 {
   "chainName": "DFK Subnet",
-  "description": "The vision for the DFK Chain on the Defi Kingdoms subnet is to become the go-to location for community members and projects to launch GameFi and other blockchain gaming experiences in conjunction with the primary offering of DeFi Kingdoms: Crystalvale.",
+  "description": "The vision for the DFK Subnet is to become the go-to location for community members and projects to launch GameFi and other blockchain gaming experiences in conjunction with the primary offering of DeFi Kingdoms: Crystalvale.",
   "chainId": 53935,
   "platformChainId": "q2aTwKuyzgs8pynF7UXBZCU7DejbZbZ6EUyHr3JQzYgwNPUPi",
   "subnetId": "Vn3aX6hNRstj5VHHm63TCgPNaeGnRSqCYXQqemSqDd2TQH4qJ",
   "vmId": "mDV3QWRXfwgKUWb9sggkv4vQxAQR4y2CyKrt5pLZ5SzQ7EHBv",
   "vmName": "EVM",
-  "subnetExplorerUriId": "dfk-chain",
+  "subnetExplorerUriId": "defi-kingdoms",
   "explorerUrl": "https://subnets.avax.network/defi-kingdoms/dfk-chain/explorer",
   "rpcUrl": "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc",
   "wsUrl": "wss://subnets.avax.network/defi-kingdoms/dfk-chain/ws",
@@ -14,7 +14,7 @@
   "networkToken": {
     "name": "JEWEL",
     "symbol": "JEWEL",
-    "description": "JEWEL is the central token on the DFK Chain and used to pay gas for all transactions. While it is not natively minted on the DFK Chain, it is integral to the chain's function.",
+    "description": "JEWEL is the central token on the DFK Subnet and used to pay gas for all transactions. While it is not natively minted on the DFK Subnet, it is integral to the subnet's function.",
     "decimals": 18
   },
   "utilityAddresses": {
