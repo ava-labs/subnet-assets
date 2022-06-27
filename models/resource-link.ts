@@ -1,13 +1,4 @@
-export interface SubnetInformation {
-  subnetId: string;
-  subnetName: string;
-  isTestnet: boolean;
-  description?: string;
-  officialSite?: string;
-  resourceLinks?: SubnetResourceLink[];
-}
-
-export type SubnetResourceLink = {
+export type ResourceLink = {
   type:
     | 'Twitter'
     | 'Facebook'

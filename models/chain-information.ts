@@ -1,3 +1,5 @@
+import { ResourceLink } from './resource-link';
+
 export interface ChainInformation {
   chainId: number;
   chainName: string;
@@ -14,6 +16,8 @@ export interface ChainInformation {
   utilityAddresses?: UtilityAddresses;
   pricingProviders?: PricingProvidersConfig;
   networkToken: NetworkToken;
+  officialSite?: string;
+  resourceLinks?: ResourceLink[];
 }
 
 export type PricingProviderConfig<T extends PricingProvider> = T extends 'coingecko' ? CoinGeckoConfiguration : never;
