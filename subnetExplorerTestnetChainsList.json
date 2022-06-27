@@ -115,7 +115,7 @@
     "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/31416/chain-logo.png"
   },
   "43113": {
-    "chainName": "Avalanche (C-Chain) Testnet",
+    "chainName": "Avalanche (C-Chain)",
     "description": "The Contract Chain on Avalanche's test subnet.",
     "chainId": 43113,
     "platformChainId": "yH8D7ThNJkxmtkuv2jgBa4P1Rn3Qpr4pPr7QYNfcdoS6k6HWp",
