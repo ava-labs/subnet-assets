@@ -17,9 +17,10 @@ export const MAINNET_CHAIN_ID = 43114;
 export const FUJI_CHAIN_ID = 43113;
 export const SUBNET_EXPLORER_MAINNET_CHAIN_LIST_FILE = path.resolve(
   __dirname,
-  '../subnetExplorerMainnetChainsList.json'
+  '../_lists/subnetExplorer/mainnetChainsList.json'
 );
 export const SUBNET_EXPLORER_TESTNET_CHAIN_LIST_FILE = path.resolve(
   __dirname,
-  '../subnetExplorerTestnetChainsList.json'
+  '../_lists/subnetExplorer/testnetChainsList.json'
 );
+export const SUBNET_EXPLORER_CONTRACT_LIST_FILE = path.resolve(__dirname, '../_lists/subnetExplorer/contracts.json');
