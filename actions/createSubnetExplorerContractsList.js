@@ -21,7 +21,7 @@ fs.readdir(ROOT_PATH, async (err, files) => {
       })
     );
 
-    // Writting the tokenList.erc20.json file
+    // Writting the subnet explorer contract list file
     fs.writeFileSync(SUBNET_EXPLORER_CONTRACT_LIST_FILE, JSON.stringify(chainTokenDictionaries, null, 2));
   }
 });
