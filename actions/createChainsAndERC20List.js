@@ -16,7 +16,7 @@ fs.readdir(ROOT_PATH, async (err, files) => {
         const tokens = getTokens(chainId, chainTokenIds);
 
         const chain = {
-          ...createChain(chainId, chainTokenIds),
+          ...createChain(chainId),
           tokens: [...(await createTokens(tokens, 'ERC-20'))],
         };
 
