@@ -10,11 +10,11 @@ import chainInfoSchema from '../schema/chainInfoSchema.json';
 import contractInfoSchema from '../schema/contractInfoSchema.json';
 import { getAddress, isAddress } from '@ethersproject/address';
 
-let ajv = new Ajv({ allErrors: true });
+let ajv = new Ajv({ allErrors: true }).addSchema(resourceLinkSchema);
 addFormats(ajv);
 
-const validateChainInfo = ajv.addSchema(resourceLinkSchema).compile(chainInfoSchema);
-const validateContractInfo = ajv.addSchema(resourceLinkSchema).compile(contractInfoSchema);
+const validateChainInfo = ajv.compile(chainInfoSchema);
+const validateContractInfo = ajv.compile(contractInfoSchema);
 
 let errors = fs.readdirSync(ROOT_PATH).reduce((acc, chainId) => {
   // this is all chain paths. ie.../subnet-assets/chains/11111
