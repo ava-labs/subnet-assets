@@ -28,6 +28,7 @@
         "nativeTokenId": "avalanche-2"
       }
     },
+    "primaryColor": "#00628F",
     "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/chain-logo.png"
   },
   "53935": {
@@ -82,6 +83,7 @@
         "url": "https://www.facebook.com/defikingdoms"
       }
     ],
+    "primaryColor": "#53c26e",
     "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/53935/chain-logo.png"
   },
   "73772": {
@@ -131,6 +133,7 @@
         "url": "https://medium.com/@swimmer_network"
       }
     ],
+    "primaryColor": "#fb209a",
     "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/73772/chain-logo.png"
   }
 }
