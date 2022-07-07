@@ -18,6 +18,7 @@ export interface ChainInformation {
   networkToken: NetworkToken;
   officialSite?: string;
   resourceLinks?: ResourceLink[];
+  primaryColor?: string;
 }
 
 export type PricingProviderConfig<T extends PricingProvider> = T extends 'coingecko' ? CoinGeckoConfiguration : never;
