@@ -5,9 +5,9 @@ import addFormats from 'ajv-formats';
 import { ROOT_PATH, CHAIN_INFO_FILE } from './constants.mjs';
 import Ajv from 'ajv';
 import { getTokensWithAddresses } from './getTokens.mjs';
-import resourceLinkSchema from '../schema/resourceLinkSchema.json' assert { type: 'json' };
-import chainInfoSchema from '../schema/chainInfoSchema.json' assert { type: 'json' };
-import contractInfoSchema from '../schema/contractInfoSchema.json' assert { type: 'json' };
+import resourceLinkSchema from '../schema/resourceLinkSchema.json';
+import chainInfoSchema from '../schema/chainInfoSchema.json';
+import contractInfoSchema from '../schema/contractInfoSchema.json';
 import { getAddress, isAddress } from '@ethersproject/address';
 import { HEX_COLOR_FORMAT_REGEX } from '../schema/custom-formats.js';
 
