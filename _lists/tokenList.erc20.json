@@ -51,6 +51,7 @@
         "url": "https://www.facebook.com/defikingdoms"
       }
     ],
+    "primaryColor": "#53c26e",
     "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/335/chain-logo.png",
     "tokens": [
       {
@@ -124,6 +125,7 @@
         "url": "https://medium.com/avalancheavax"
       }
     ],
+    "primaryColor": "#FFE769",
     "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/11111/chain-logo.png",
     "tokens": []
   },
@@ -151,6 +153,7 @@
       "multicall": "0x000dE1e4108d9A5C9d2d36C15f9acf1B351467bd"
     },
     "officialSite": "https://www.castlecrushgame.com/",
+    "primaryColor": "#C49752",
     "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/31416/chain-logo.png",
     "tokens": []
   },
@@ -178,6 +181,7 @@
         "nativeTokenId": "avalanche-2"
       }
     },
+    "primaryColor": "#00628F",
     "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43112/chain-logo.png",
     "tokens": []
   },
@@ -210,6 +214,7 @@
         "nativeTokenId": "avalanche-2"
       }
     },
+    "primaryColor": "#00628F",
     "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43113/chain-logo.png",
     "tokens": [
       {
@@ -399,6 +404,7 @@
         "nativeTokenId": "avalanche-2"
       }
     },
+    "primaryColor": "#00628F",
     "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/chain-logo.png",
     "tokens": [
       {
@@ -2610,6 +2616,7 @@
         "url": "https://www.facebook.com/defikingdoms"
       }
     ],
+    "primaryColor": "#53c26e",
     "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/53935/chain-logo.png",
     "tokens": [
       {
@@ -2778,6 +2785,7 @@
         "url": "https://medium.com/@swimmer_network"
       }
     ],
+    "primaryColor": "#fb209a",
     "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/73771/chain-logo.png",
     "tokens": [
       {
@@ -2923,6 +2931,7 @@
         "url": "https://medium.com/@swimmer_network"
       }
     ],
+    "primaryColor": "#fb209a",
     "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/73772/chain-logo.png",
     "tokens": [
       {
@@ -3072,6 +3081,7 @@
         "url": "https://github.com/Dexalot/dexalot-subnet"
       }
     ],
+    "primaryColor": "#EB1357",
     "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/432201/chain-logo.png",
     "tokens": [
       {
