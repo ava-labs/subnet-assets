@@ -1,3 +1,5 @@
+import { ResourceLink } from './resource-link';
+
 export interface ContractInformation {
   address: string; // ChecksumAddress
   description: string;
@@ -10,23 +12,5 @@ export interface ContractInformation {
   email?: string;
   chainId: number;
   logoUri?: string; // uri
-  resourceLinks?: ContractResourceLink[];
+  resourceLinks?: ResourceLink[];
 }
-
-export type ContractResourceLink = {
-  type:
-    | 'Twitter'
-    | 'Facebook'
-    | 'Discord'
-    | 'Telegram'
-    | 'Blog'
-    | 'Medium'
-    | 'Whitepaper'
-    | 'CoinGecko'
-    | 'CoinMarketCap'
-    | 'LinkedIn'
-    | 'Reddit'
-    | 'Support'
-    | 'Github';
-  url: string; // uri
-};

@@ -22,14 +22,12 @@ jobs:
         run: yarn
       - name: Update List and validate
         run: node actions/createChainsAndERC20List.js
-      - name: Create Chains List
-        run: node actions/createChainsList.js
+      - name: Create Chain Lists for Subnet Explorer
+        run: node actions/createSubnetExplorerChainsList.js
+      - name: Create Contracts Dictionary for Subnet Explorer
+        run: node actions/createSubnetExplorerContractsList.js
       - name: Create Address List
         run: node actions/createAddressList.js
-      - name: Create Mainnet and Testnet Subnet Lists
-        run: node actions/createSubnetList.js
-      - name: Create Subnet Groups List
-        run: node actions/createSubnetGroupsList.js
       - name: commit new file
         uses: EndBug/add-and-commit@v7
         with:

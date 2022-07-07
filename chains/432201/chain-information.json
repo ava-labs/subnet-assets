@@ -1,12 +1,12 @@
 {
-  "chainName": "Dexalot",
+  "chainName": "Dexalot Subnet",
   "description": "The Dexalot Exchange EVM subnet is a revolutionary decentralized exchange aiming at bringing the traditional centralized exchange look and feel, through a decentralized on-chain application. Dexalot users can trade crypto securely and efficiently, with no slippage or custody risk. It is built on Avalanche Subnet technology, the most effective scaling solution in the blockchain industry.",
   "chainId": 432201,
   "platformChainId": "XuEPnCE59rtutASDPCDeYw8geQaGWwteWjkDXYLWvssfuirde",
   "subnetId": "9m6a3Qte8FaRbLZixLhh8Ptdkemm4csNaLwQeKkENx5wskbWP",
   "vmId": "mDVSxzeWHpEU3eSqMwwGQsD787xGp7hv9Qgoe3R9SdjPapte8",
   "vmName": "EVM",
-  "subnetExplorerUriId": "testnet",
+  "subnetExplorerUriId": "dexalot",
   "explorerUrl": "https://subnets.avax.network/dexalot/testnet/explorer",
   "rpcUrl": "https://subnets.avax.network/dexalot/testnet/rpc",
   "wsUrl": "wss://subnets.avax.network/dexalot/testnet/ws",
@@ -24,5 +24,28 @@
     "coingecko": {
       "nativeTokenId": "dexalot"
     }
-  }
+  },
+  "officialSite": "https://subnetapp.dexalot-test.com/",
+  "resourceLinks": [
+    {
+      "type": "Documentation",
+      "url": "https://dexalot.com/faq.html"
+    },
+    {
+      "type": "Discord",
+      "url": "https://discord.com/invite/S4NP9w7Xwn"
+    },
+    {
+      "type": "Twitter",
+      "url": "https://twitter.com/dexalotcom"
+    },
+    {
+      "type": "Medium",
+      "url": "https://medium.com/dexalot"
+    },
+    {
+      "type": "Github",
+      "url": "https://github.com/Dexalot/dexalot-subnet"
+    }
+  ]
 }

@@ -104,6 +104,16 @@
     "chainId": {
       "type": "integer",
       "minimum": 1
+    },
+    "officialSite": {
+      "type": "string",
+      "format": "uri"
+    },
+    "resourceLinks": {
+      "type": "array",
+      "items": {
+        "$ref": "/schemas/resourceLinkSchema.json"
+      }
     }
   },
   "required": [
