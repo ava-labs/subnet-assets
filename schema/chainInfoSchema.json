@@ -114,6 +114,10 @@
       "items": {
         "$ref": "/schemas/resourceLinkSchema.json"
       }
+    },
+    "primaryColor": {
+      "type": "string",
+      "format": "hexColor"
     }
   },
   "required": [

@@ -9,8 +9,9 @@ import resourceLinkSchema from '../schema/resourceLinkSchema.json';
 import chainInfoSchema from '../schema/chainInfoSchema.json';
 import contractInfoSchema from '../schema/contractInfoSchema.json';
 import { getAddress, isAddress } from '@ethersproject/address';
+import { HEX_COLOR_FORMAT_REGEX } from '../schema/custom-formats.js';
 
-let ajv = new Ajv({ allErrors: true }).addSchema(resourceLinkSchema);
+let ajv = new Ajv({ allErrors: true }).addSchema(resourceLinkSchema).addFormat('hexColor', HEX_COLOR_FORMAT_REGEX);
 addFormats(ajv);
 
 const validateChainInfo = ajv.compile(chainInfoSchema);
