@@ -181,7 +181,7 @@
         "nativeTokenId": "avalanche-2"
       }
     },
-    "primaryColor": "#00628F",
+    "primaryColor": "#f34333",
     "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43112/chain-logo.png",
     "tokens": []
   },
@@ -214,7 +214,7 @@
         "nativeTokenId": "avalanche-2"
       }
     },
-    "primaryColor": "#00628F",
+    "primaryColor": "#f34333",
     "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43113/chain-logo.png",
     "tokens": [
       {
@@ -404,7 +404,7 @@
         "nativeTokenId": "avalanche-2"
       }
     },
-    "primaryColor": "#00628F",
+    "primaryColor": "#f34333",
     "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/chain-logo.png",
     "tokens": [
       {
