@@ -1,0 +1,48 @@
+{
+  "chainName": "Swimmer Network Subnet",
+  "description": "Swimmer Network Subnet is home to Crabada, an undersea world filled with fierce fighting Hermit-Crabs called Crabada. The Crabada Idle-Game and marketplace is expected migrate from the C-chain onto the Swimmer Network. Crabada can be bred, and used in games to earn cryptocurrencies with real value.",
+  "chainId": 73773,
+  "platformChainId": "qVd94hjZUfN5h5ZPxozos1wHjaszipeGJoYYxxMJ3dqZYFjZ3",
+  "subnetId": "2WJTQKACZWKAnkakMCafag2nuef6v6UuTFRxH1ndGXKWFg9pPJ",
+  "vmId": "srSGD5JeYhL8GLx4RUw53VN5TcoBbax6EeCYmy5S3DiteJhdF",
+  "vmName": "EVM",
+  "subnetExplorerUriId": "swimmer",
+  "explorerUrl": "https://subnets.avax.network/swimmer/testnet/explorer",
+  "rpcUrl": "https://subnets.avax.network/swimmer/testnet/rpc",
+  "wsUrl": "wss://subnets.avax.network/swimmer/testnet/ws",
+  "isTestnet": true,
+  "networkToken": {
+    "name": "Treasure Under Sea",
+    "symbol": "TUS",
+    "description": "TUS is the gas token on the Swimmer Chain and used to pay gas for all transactions.",
+    "decimals": 18
+  },
+  "utilityAddresses": {
+    "multicall": "0x3e088976A6d37a559D2433F2cF1171a2397462a4"
+  },
+  "pricingProviders": {
+    "coingecko": {
+      "nativeTokenId": "treasure-under-sea"
+    }
+  },
+  "officialSite": "https://www.swimmer.network/",
+  "resourceLinks": [
+    {
+      "type": "Documentation",
+      "url": "https://docs.swimmer.network/"
+    },
+    {
+      "type": "Discord",
+      "url": "https://discord.com/invite/BWn5vvrmuW"
+    },
+    {
+      "type": "Twitter",
+      "url": "https://twitter.com/swimmer_network"
+    },
+    {
+      "type": "Medium",
+      "url": "https://medium.com/@swimmer_network"
+    }
+  ],
+  "primaryColor": "#fb209a"
+}
