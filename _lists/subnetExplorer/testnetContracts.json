@@ -433,7 +433,7 @@
         }
       ],
       "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/73771/0x26b77eeF7A38E3FD8C631FF8a268a5BB98CE1552/logo.png",
-      "chainId": 73771
+      "chainId": 73773
     },
     "0x6f51FE27fcD59d4940a78f5f0cEBaC3C90495B5C": {
       "address": "0x6f51FE27fcD59d4940a78f5f0cEBaC3C90495B5C",
@@ -479,7 +479,7 @@
         }
       ],
       "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/73771/0x57bf0eCe401d3126d37B3c23d35b1c1EE3EaE733/logo.png",
-      "chainId": 73771
+      "chainId": 73773
     },
     "0xe56cb40A104cf2783EA912859B4Ca7dE77cdC961": {
       "address": "0xe56cb40A104cf2783EA912859B4Ca7dE77cdC961",
@@ -524,7 +524,7 @@
           "url": "https://www.coingecko.com/en/coins/treasure-under-sea"
         }
       ],
-      "chainId": 73771
+      "chainId": 73773
     }
   },
   "432201": {
