@@ -3030,6 +3030,152 @@
       }
     ]
   },
+  "73773": {
+    "chainName": "Swimmer Network Subnet",
+    "description": "Swimmer Network Subnet is home to Crabada, an undersea world filled with fierce fighting Hermit-Crabs called Crabada. The Crabada Idle-Game and marketplace is expected migrate from the C-chain onto the Swimmer Network. Crabada can be bred, and used in games to earn cryptocurrencies with real value.",
+    "chainId": 73773,
+    "platformChainId": "qVd94hjZUfN5h5ZPxozos1wHjaszipeGJoYYxxMJ3dqZYFjZ3",
+    "subnetId": "2WJTQKACZWKAnkakMCafag2nuef6v6UuTFRxH1ndGXKWFg9pPJ",
+    "vmId": "srSGD5JeYhL8GLx4RUw53VN5TcoBbax6EeCYmy5S3DiteJhdF",
+    "vmName": "EVM",
+    "subnetExplorerUriId": "swimmer",
+    "explorerUrl": "https://subnets.avax.network/swimmer/testnet/explorer",
+    "rpcUrl": "https://subnets.avax.network/swimmer/testnet/rpc",
+    "wsUrl": "wss://subnets.avax.network/swimmer/testnet/ws",
+    "isTestnet": true,
+    "networkToken": {
+      "name": "Treasure Under Sea",
+      "symbol": "TUS",
+      "description": "TUS is the gas token on the Swimmer Chain and used to pay gas for all transactions.",
+      "decimals": 18,
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/73773/token-logo.png"
+    },
+    "utilityAddresses": {
+      "multicall": "0x3e088976A6d37a559D2433F2cF1171a2397462a4"
+    },
+    "pricingProviders": {
+      "coingecko": {
+        "nativeTokenId": "treasure-under-sea"
+      }
+    },
+    "officialSite": "https://www.swimmer.network/",
+    "resourceLinks": [
+      {
+        "type": "Documentation",
+        "url": "https://docs.swimmer.network/"
+      },
+      {
+        "type": "Discord",
+        "url": "https://discord.com/invite/BWn5vvrmuW"
+      },
+      {
+        "type": "Twitter",
+        "url": "https://twitter.com/swimmer_network"
+      },
+      {
+        "type": "Medium",
+        "url": "https://medium.com/@swimmer_network"
+      }
+    ],
+    "primaryColor": "#fb209a",
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/73773/chain-logo.png",
+    "tokens": [
+      {
+        "address": "0x5ee5731bDC8eDAEF16e462EfdE644bCC9a42D7E0",
+        "name": "CRA",
+        "symbol": "CRA",
+        "description": "CRA is a governance token which is rewarded via staking, and playing the game during the incentive period.",
+        "contractType": "ERC-20",
+        "decimals": 18,
+        "assetType": "Fixed Cap",
+        "officialSite": "https://www.crabada.com/",
+        "resourceLinks": [
+          {
+            "type": "Blog",
+            "url": "https://medium.com/@PlayCrabada"
+          },
+          {
+            "type": "Twitter",
+            "url": "https://twitter.com/playcrabada"
+          },
+          {
+            "type": "Github",
+            "url": "https://github.com/crabada"
+          },
+          {
+            "type": "Telegram",
+            "url": "https://t.me/playcrabada"
+          },
+          {
+            "type": "Discord",
+            "url": "https://discord.gg/Djy57Zhau9"
+          },
+          {
+            "type": "Whitepaper",
+            "url": "https://docs.crabada.com/"
+          },
+          {
+            "type": "CoinMarketCap",
+            "url": "https://coinmarketcap.com/currencies/crabada/"
+          },
+          {
+            "type": "CoinGecko",
+            "url": "https://www.coingecko.com/en/coins/crabada"
+          }
+        ],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/73771/0x26b77eeF7A38E3FD8C631FF8a268a5BB98CE1552/logo.png",
+        "chainId": 73771,
+        "tokenColor": "#05bbec"
+      },
+      {
+        "address": "0x6f51FE27fcD59d4940a78f5f0cEBaC3C90495B5C",
+        "name": "Wrapped TUS",
+        "symbol": "WTUS",
+        "description": "An ERC-20 version of the native TUS token.",
+        "contractType": "ERC-20",
+        "decimals": 18,
+        "assetType": "Unlimited Cap",
+        "officialSite": "https://www.crabada.com",
+        "resourceLinks": [
+          {
+            "type": "Blog",
+            "url": "https://medium.com/@PlayCrabada"
+          },
+          {
+            "type": "Twitter",
+            "url": "https://twitter.com/playcrabada"
+          },
+          {
+            "type": "Github",
+            "url": "https://github.com/crabada"
+          },
+          {
+            "type": "Telegram",
+            "url": "https://t.me/playcrabada"
+          },
+          {
+            "type": "Discord",
+            "url": "https://discord.gg/Djy57Zhau9"
+          },
+          {
+            "type": "Whitepaper",
+            "url": "https://docs.crabada.com/"
+          },
+          {
+            "type": "CoinMarketCap",
+            "url": "https://coinmarketcap.com/currencies/treasure-under-sea/"
+          },
+          {
+            "type": "CoinGecko",
+            "url": "https://www.coingecko.com/en/coins/treasure-under-sea"
+          }
+        ],
+        "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/73771/0x57bf0eCe401d3126d37B3c23d35b1c1EE3EaE733/logo.png",
+        "chainId": 73771,
+        "tokenColor": "#dd6704"
+      }
+    ]
+  },
   "432201": {
     "chainName": "Dexalot Subnet",
     "description": "The Dexalot Exchange EVM subnet is a revolutionary decentralized exchange aiming at bringing the traditional centralized exchange look and feel, through a decentralized on-chain application. Dexalot users can trade crypto securely and efficiently, with no slippage or custody risk. It is built on Avalanche Subnet technology, the most effective scaling solution in the blockchain industry.",
