@@ -1,6 +1,9 @@
 import path, { dirname } from 'path';
 import { fileURLToPath } from 'url';
 
+const gitRef = process.argv?.[2];
+if (!gitRef) throw new Error('Missing $GITHUB_SHA or other git ref argument');
+
 export const __dirname = dirname(fileURLToPath(import.meta.url));
 export const __listsDirName = path.resolve(__dirname, '../_lists');
 
@@ -9,7 +12,7 @@ export const CHAIN_INFO_FILE = 'chain-information.json';
 export const CHAIN_LOGO_FILE = 'chain-logo.png';
 export const NATIVE_TOKEN_LOGO_FILE = 'token-logo.png';
 export const TOKEN_LOGO_FILE = 'logo.png';
-export const CHAINS_FOLDER_URL = 'https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains';
+export const CHAINS_FOLDER_URL = `https://raw.githubusercontent.com/ava-labs/subnet-assets/${gitRef}/chains`;
 export const ERC20_TOKEN_LIST_FILE = path.resolve(__listsDirName, 'tokenList.erc20.json');
 export const ADDRESS_LIST_FILE = path.resolve(__listsDirName, 'addressList.json');
 export const CONTRACT_TOKEN_INFO_FILE = 'contract-information.json';
