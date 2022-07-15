@@ -4,7 +4,8 @@ import childProcess from 'child_process';
 
 export const __dirname = dirname(fileURLToPath(import.meta.url));
 export const __listsDirName = path.resolve(__dirname, '../_lists');
-export const latestGitCommitHash = childProcess.execSync('git rev-parse HEAD').toString().trim();
+export const latestGitCommitHash = childProcess.execSync('git rev-parse --short "$GITHUB_SHA"').toString().trim();
+console.log('latestGitCommitHash', latestGitCommitHash);
 
 export const ROOT_PATH = path.resolve('./chains');
 export const CHAIN_INFO_FILE = 'chain-information.json';
