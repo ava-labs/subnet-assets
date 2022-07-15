@@ -5,6 +5,9 @@ import { getTokens } from './getTokens.mjs';
 import { createChain } from './createChain.mjs';
 import { createTokens } from './createTokens.mjs';
 
+const gitRef = process.argv?.[2];
+if (!gitRef) throw new Error('Missing $GITHUB_SHA or other git ref argument');
+
 fs.readdir(ROOT_PATH, async (err, files) => {
   if (!err && files) {
     let chains = {};
@@ -16,7 +19,7 @@ fs.readdir(ROOT_PATH, async (err, files) => {
         const tokens = getTokens(chainId, chainTokenIds);
 
         const chain = {
-          ...createChain(chainId),
+          ...createChain(chainId, gitRef),
           tokens: [...(await createTokens(tokens, 'ERC-20'))],
         };
 

@@ -8,6 +8,9 @@ import {
 import { createChain } from './createChain.mjs';
 import { getTokens } from './getTokens.mjs';
 
+const gitRef = process.argv?.[2];
+if (!gitRef) throw new Error('Missing $GITHUB_SHA or other git ref argument');
+
 fs.readdir(ROOT_PATH, async (err, files) => {
   if (!err && files) {
     let mainnetChainTokenDictionaries = {};
@@ -16,7 +19,7 @@ fs.readdir(ROOT_PATH, async (err, files) => {
     await Promise.all(
       files.map(async (chainId) => {
         // this is all chain paths. ie.../subnet-assets/chains/11111
-        const chainInformation = createChain(chainId);
+        const chainInformation = createChain(chainId, gitRef);
 
         const chainDirectory = path.resolve(ROOT_PATH, chainId);
         const tokens = getTokens(chainId, chainDirectory);
