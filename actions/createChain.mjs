@@ -1,6 +1,12 @@
 import fs from 'fs';
 import path from 'path';
-import { ROOT_PATH, CHAIN_INFO_FILE, CHAIN_LOGO_FILE, NATIVE_TOKEN_LOGO_FILE } from './constants.mjs';
+import {
+  ROOT_PATH,
+  CHAIN_INFO_FILE,
+  CHAIN_LOGO_FILE,
+  NATIVE_TOKEN_LOGO_FILE,
+  getChainsFolderUrl,
+} from './constants.mjs';
 
 export function createChain(chainId, gitRef) {
   const chainInfo = JSON.parse(fs.readFileSync(path.resolve(ROOT_PATH, `${chainId}`, CHAIN_INFO_FILE), 'utf8'));
