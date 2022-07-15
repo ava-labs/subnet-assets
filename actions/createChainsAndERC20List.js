@@ -5,6 +5,10 @@ import { getTokens } from './getTokens.mjs';
 import { createChain } from './createChain.mjs';
 import { createTokens } from './createTokens.mjs';
 
+process.argv.forEach(function (val, index, array) {
+  console.log('commit sha:', index + ': ' + val);
+});
+
 fs.readdir(ROOT_PATH, async (err, files) => {
   if (!err && files) {
     let chains = {};

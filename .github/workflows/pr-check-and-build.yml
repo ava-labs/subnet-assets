@@ -21,7 +21,7 @@ jobs:
       - name: Install modules
         run: yarn
       - name: Update List and validate
-        run: node actions/createChainsAndERC20List.js
+        run: node actions/createChainsAndERC20List.js $(git rev-parse --short "$GITHUB_SHA")
       - name: Create Chain Lists for Subnet Explorer
         run: node actions/createSubnetExplorerChainsList.js
       - name: Create Contracts Dictionary for Subnet Explorer
