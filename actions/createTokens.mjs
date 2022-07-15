@@ -8,22 +8,22 @@ export async function createTokens(tokens, contractTypeFilter) {
     tokens
       .filter((token) => (contractTypeFilter ? token.contractType === contractTypeFilter : true))
       .map(async (token) => {
-        if (token.logoUri) {
-          try {
-            const hasLogoFile = fs
-              .readdirSync(`${ROOT_PATH}/${token.chainId}/${token.address}`)
-              .includes(TOKEN_LOGO_FILE);
-            const logoUri = hasLogoFile ? getContractLogoUrl(token.chainId, token.address) : undefined;
-            const color = await getColors(logoUri, { count: 1 });
+        try {
+          const hasLogoFile = fs
+            .readdirSync(`${ROOT_PATH}/${token.chainId}/${token.address}`)
+            .includes(TOKEN_LOGO_FILE);
+          const logoUri = hasLogoFile ? getContractLogoUrl(token.chainId, token.address) : undefined;
+          const tokenColor = hasLogoFile
+            ? (await getColors(logoUri, { count: 1 }))?.map((color) => color.hex())[0]
+            : undefined;
 
-            return {
-              ...token,
-              logoUri,
-              tokenColor: color.map((color) => color.hex())[0],
-            };
-          } catch (err) {
-            console.log(err);
-          }
+          return {
+            ...token,
+            logoUri,
+            tokenColor,
+          };
+        } catch (err) {
+          console.log(err);
         }
         return token;
       })
