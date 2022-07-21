@@ -1,16 +1,16 @@
 {
   "chainName": "Portal Fantasy Subnet",
   "description": "The primary function of the PF Subnet is to support Portal Fantasy. Our wider vision for the subnet is to lay the foundations for an ecosystem available to future GameFi projects. Projects will have access to proven validators, interoperability and liquidity solutions. In turn they save game development time, whilst also supporting the subnet.",
-  "chainId": 909,
+  "chainId": 808,
   "platformChainId": "29oXNywCkGdJCuYikXkkqG6Pe5Q8tuS5VfyLHNGfeqmDzBoTPq",
   "subnetId": "23GiaGJqthJrJW6xNkw3vXuYMrJwtdeDWBVa8CyB6xuexXbVRp",
-  "vmId": "@TODO",
+  "vmId": "rX1aAzEjG7K3CDY4QiXZg5HMqK1zHXdcZrCavbncCTyonjTxx",
   "vmName": "EVM",
   "subnetExplorerUriId": "portal-fantasy",
-  "explorerUrl": "https://subnets.avax.network/portal-fantasy",
+  "explorerUrl": "https://subnets-test.avax.network/portal-fantasy",
   "rpcUrl": "@TODO",
   "wsUrl": "@TODO",
-  "isTestnet": false,
+  "isTestnet": true,
   "networkToken": {
     "name": "Portal Fantasy Token",
     "symbol": "PFT",
@@ -18,7 +18,7 @@
     "decimals": 18
   },
   "utilityAddresses": {
-    "multicall": "@TODO"
+    "multicall": "0xa95357c0d46f6d130d34d567a581725cE3bE8b38"
   },
   "officialSite": "https://portalfantasy.io/",
   "primaryColor": "#78F7FF"
