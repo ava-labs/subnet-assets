@@ -107,7 +107,7 @@
       "name": "Wrapped PFT",
       "symbol": "WPFT",
       "contractType": "ERC-20",
-      "decimal": 18,
+      "decimals": 18,
       "chainId": 808,
       "assetType": "Fixed Cap",
       "officialSite": "https://portalfantasy.io/",
@@ -115,6 +115,13 @@
     },
     "0x593552366229BDf5251a96a27dE904D047c72fDE": {
       "address": "0x593552366229BDf5251a96a27dE904D047c72fDE",
+      "name": "General NFT",
+      "contractType": "ERC-721",
+      "chainId": 808,
+      "description": "The NFT contract for general non-fungible tokens."
+    },
+    "0x686d75D2Cc80890286fCe3F738AA111568D63529": {
+      "address": "0x686d75D2Cc80890286fCe3F738AA111568D63529",
       "name": "Porble",
       "contractType": "ERC-721",
       "chainId": 808,
@@ -132,7 +139,7 @@
       "name": "USDP",
       "symbol": "USDP",
       "contractType": "ERC-20",
-      "decimal": 18,
+      "decimals": 18,
       "chainId": 808,
       "assetType": "Variable Cap",
       "description": "USDP is a representation of the USDC tokens that have been bridged from other chains to the PF-chain. The amount of USDC locked up in the bridge is equivalent to the amount of USDP in circulation on the PF-chain."
