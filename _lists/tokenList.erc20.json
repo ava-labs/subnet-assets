@@ -125,7 +125,7 @@
         "symbol": "WPFT",
         "contractType": "ERC-20",
         "decimal": 18,
-        "chainId": 909,
+        "chainId": 808,
         "assetType": "Fixed Cap",
         "officialSite": "https://portalfantasy.io/",
         "description": "An ERC-20 version of the native PFT."
@@ -136,7 +136,7 @@
         "symbol": "USDP",
         "contractType": "ERC-20",
         "decimal": 18,
-        "chainId": 909,
+        "chainId": 808,
         "assetType": "Variable Cap",
         "description": "USDP is a representation of the USDC tokens that have been bridged from other chains to the PF-chain. The amount of USDC locked up in the bridge is equivalent to the amount of USDP in circulation on the PF-chain."
       },
@@ -146,7 +146,7 @@
         "symbol": "USDP",
         "contractType": "ERC-20",
         "decimal": 18,
-        "chainId": 909,
+        "chainId": 808,
         "assetType": "Variable Cap",
         "description": "USDP is a representation of the USDC tokens that have been bridged from other chains to the PF-chain. The amount of USDC locked up in the bridge is equivalent to the amount of USDP in circulation on the PF-chain."
       }
