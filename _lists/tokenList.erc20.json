@@ -8,7 +8,7 @@
     "vmId": "mDV3QWRXfwgKUWb9sggkv4vQxAQR4y2CyKrt5pLZ5SzQ7EHBv",
     "vmName": "EVM",
     "subnetExplorerUriId": "defi-kingdoms",
-    "explorerUrl": "https://subnets.avax.network/defi-kingdoms/dfk-chain-testnet/explorer",
+    "explorerUrl": "https://subnets-test.avax.network/defi-kingdom",
     "rpcUrl": "https://subnets.avax.network/defi-kingdoms/dfk-chain-testnet/rpc",
     "wsUrl": "wss://subnets.avax.network/defi-kingdoms/dfk-chain-testnet/ws",
     "isTestnet": true,
@@ -101,7 +101,7 @@
     "vmId": "srEXiWaHuhNyGwPUi444Tu47ZEDwxTWrbQiuD7FmgSAQ6X7Dy",
     "vmName": "EVM",
     "subnetExplorerUriId": "wagmi",
-    "explorerUrl": "https://subnets.avax.network/wagmi/wagmi-chain-testnet/explorer",
+    "explorerUrl": "https://subnets-test.avax.network/wagmi",
     "rpcUrl": "https://subnets.avax.network/wagmi/wagmi-chain-testnet/rpc",
     "wsUrl": "wss://subnets.avax.network/wagmi/wagmi-chain-testnet/ws",
     "isTestnet": true,
@@ -138,7 +138,7 @@
     "vmId": "kmYf1CBB1oGXdNK9biEFdWazpVB2erkdWhFxr1hZZabapwZXX",
     "vmName": "EVM",
     "subnetExplorerUriId": "castle-crush",
-    "explorerUrl": "https://subnets.avax.network/castle-crush/testnet/explorer",
+    "explorerUrl": "https://subnets-test.avax.network/castle-crush",
     "rpcUrl": "https://subnets.avax.network/castle-crush/testnet/rpc",
     "wsUrl": "wss://subnets.avax.network/castle-crush/testnet/ws",
     "isTestnet": true,
@@ -2573,7 +2573,7 @@
     "vmId": "mDV3QWRXfwgKUWb9sggkv4vQxAQR4y2CyKrt5pLZ5SzQ7EHBv",
     "vmName": "EVM",
     "subnetExplorerUriId": "defi-kingdoms",
-    "explorerUrl": "https://subnets.avax.network/defi-kingdoms/dfk-chain/explorer",
+    "explorerUrl": "https://subnets.avax.network/defi-kingdoms",
     "rpcUrl": "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc",
     "wsUrl": "wss://subnets.avax.network/defi-kingdoms/dfk-chain/ws",
     "isTestnet": false,
@@ -2747,7 +2747,7 @@
     "vmId": "srSGD5JeYhL8GLx4RUw53VN5TcoBbax6EeCYmy5S3DiteJhdF",
     "vmName": "EVM",
     "subnetExplorerUriId": "swimmer",
-    "explorerUrl": "https://subnets.avax.network/swimmer/mainnet/explorer",
+    "explorerUrl": "https://subnets.avax.network/swimmer",
     "rpcUrl": "https://subnets.avax.network/swimmer/mainnet/rpc",
     "wsUrl": "wss://subnets.avax.network/swimmer/mainnet/ws",
     "isTestnet": false,
@@ -2893,7 +2893,7 @@
     "vmId": "srSGD5JeYhL8GLx4RUw53VN5TcoBbax6EeCYmy5S3DiteJhdF",
     "vmName": "EVM",
     "subnetExplorerUriId": "swimmer",
-    "explorerUrl": "https://subnets.avax.network/swimmer/testnet/explorer",
+    "explorerUrl": "https://subnets-test.avax.network/swimmer",
     "rpcUrl": "https://subnets.avax.network/swimmer/testnet/rpc",
     "wsUrl": "wss://subnets.avax.network/swimmer/testnet/ws",
     "isTestnet": true,
@@ -2978,8 +2978,7 @@
           }
         ],
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/73771/0x26b77eeF7A38E3FD8C631FF8a268a5BB98CE1552/logo.png",
-        "chainId": 73773,
-        "tokenColor": "#05bbec"
+        "chainId": 73773
       },
       {
         "address": "0x6f51FE27fcD59d4940a78f5f0cEBaC3C90495B5C",
@@ -3025,8 +3024,7 @@
           }
         ],
         "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/73771/0x57bf0eCe401d3126d37B3c23d35b1c1EE3EaE733/logo.png",
-        "chainId": 73773,
-        "tokenColor": "#dd6704"
+        "chainId": 73773
       }
     ]
   },
@@ -3039,7 +3037,7 @@
     "vmId": "mDVSxzeWHpEU3eSqMwwGQsD787xGp7hv9Qgoe3R9SdjPapte8",
     "vmName": "EVM",
     "subnetExplorerUriId": "dexalot",
-    "explorerUrl": "https://subnets.avax.network/dexalot/testnet/explorer",
+    "explorerUrl": "https://subnets-test.avax.network/dexalot",
     "rpcUrl": "https://subnets.avax.network/dexalot/testnet/rpc",
     "wsUrl": "wss://subnets.avax.network/dexalot/testnet/ws",
     "isTestnet": true,
