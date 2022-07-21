@@ -54,6 +54,33 @@
     "primaryColor": "#53c26e",
     "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/335/chain-logo.png"
   },
+  "808": {
+    "chainName": "Portal Fantasy Subnet",
+    "description": "The primary function of the PF Subnet is to support Portal Fantasy. Our wider vision for the subnet is to lay the foundations for an ecosystem available to future GameFi projects. Projects will have access to proven validators, interoperability and liquidity solutions. In turn they save game development time, whilst also supporting the subnet.",
+    "chainId": 808,
+    "platformChainId": "29oXNywCkGdJCuYikXkkqG6Pe5Q8tuS5VfyLHNGfeqmDzBoTPq",
+    "subnetId": "23GiaGJqthJrJW6xNkw3vXuYMrJwtdeDWBVa8CyB6xuexXbVRp",
+    "vmId": "rX1aAzEjG7K3CDY4QiXZg5HMqK1zHXdcZrCavbncCTyonjTxx",
+    "vmName": "EVM",
+    "subnetExplorerUriId": "portal-fantasy",
+    "explorerUrl": "https://subnets-test.avax.network/portal-fantasy",
+    "rpcUrl": "@TODO",
+    "wsUrl": "@TODO",
+    "isTestnet": true,
+    "networkToken": {
+      "name": "Portal Fantasy Token",
+      "symbol": "PFT",
+      "description": "PFT is the native (gas) token of the Portal Fantasy Chain. Befriend, raise and fight alongside creatures as you explore the different worlds as a Hero. Create and design worlds, creatures, and items to be encountered by other players on their journey as an Architect. Portal Fantasy brings two roles and revolutionary game mechanics together in a modern twist to this classic genre.",
+      "decimals": 18,
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/808/token-logo.png"
+    },
+    "utilityAddresses": {
+      "multicall": "0xa95357c0d46f6d130d34d567a581725cE3bE8b38"
+    },
+    "officialSite": "https://portalfantasy.io/",
+    "primaryColor": "#78F7FF",
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/808/chain-logo.png"
+  },
   "11111": {
     "chainName": "WAGMI Subnet",
     "description": "The WAGMI (\"We're All Going to Make It\") Subnet Demo is a high throughput testbed for EVM (Ethereum Virtual Machine) optimizations. It is parameterized to run at a factor more capacity than Fuji/Mainnet C-Chain and will be used to experiment with release candidates before they make it into an official coreth release.",
