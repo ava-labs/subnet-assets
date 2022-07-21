@@ -1,7 +1,7 @@
 {
-  "address": "0xc5812E2F22177682ad9731330814F0444Ac23E9e",
-  "name": "Hero",
-  "contractType": "ERC-721",
+  "address": "0xa1E47689f396fED7d18D797d9D31D727d2c0d483",
+  "name": "PFT Staking",
+  "contractType": "Other",
   "chainId": 808,
-  "description": "The NFT contract for the hero collection."
+  "description": "Allows users to stake a specific amount of PFT. The users can unstake and withdraw part or all of their PFT whenever they want."
 }
