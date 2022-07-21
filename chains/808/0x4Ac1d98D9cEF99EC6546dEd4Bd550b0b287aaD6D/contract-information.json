@@ -4,7 +4,7 @@
   "symbol": "WPFT",
   "contractType": "ERC-20",
   "decimal": 18,
-  "chainId": 909,
+  "chainId": 808,
   "assetType": "Fixed Cap",
   "officialSite": "https://portalfantasy.io/",
   "description": "An ERC-20 version of the native PFT."

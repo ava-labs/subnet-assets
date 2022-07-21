@@ -1,6 +1,7 @@
 {
   "address": "0x473dc5ba848779e00ec2615FF15EDeA1A21fAa62",
   "name": "NFT Marketplace",
-  "chainId": 909,
-  "description": "The marketplace contract where users can list, sell and buy NFTs from the valid collections of the game."
+  "chainId": 808,
+  "description": "The marketplace contract where users can list, sell and buy NFTs from the valid collections of the game.",
+  "contractType": "Other"
 }
