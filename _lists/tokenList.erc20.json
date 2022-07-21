@@ -135,16 +135,6 @@
         "name": "USDP",
         "symbol": "USDP",
         "contractType": "ERC-20",
-        "decimal": 18,
-        "chainId": 808,
-        "assetType": "Variable Cap",
-        "description": "USDP is a representation of the USDC tokens that have been bridged from other chains to the PF-chain. The amount of USDC locked up in the bridge is equivalent to the amount of USDP in circulation on the PF-chain."
-      },
-      {
-        "address": "0x97C0FE6aB595cbFD50ad3860DA5B2017d8B35c2E",
-        "name": "USDP",
-        "symbol": "USDP",
-        "contractType": "ERC-20",
         "decimals": 18,
         "chainId": 808,
         "assetType": "Variable Cap",
