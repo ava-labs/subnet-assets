@@ -1,0 +1,7 @@
+{
+  "address": "0x593552366229BDf5251a96a27dE904D047c72fDE",
+  "name": "General NFT",
+  "contractType": "ERC-721",
+  "chainId": 909,
+  "description": "The NFT contract for general non-fungible tokens."
+}

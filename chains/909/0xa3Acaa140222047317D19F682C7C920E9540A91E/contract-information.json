@@ -1,0 +1,7 @@
+{
+  "address": "0xa3Acaa140222047317D19F682C7C920E9540A91E",
+  "name": "Architect",
+  "contractType": "ERC-721",
+  "chainId": 909,
+  "description": "The NFT contract for the architect collection."
+}
