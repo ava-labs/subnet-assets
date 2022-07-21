@@ -23,7 +23,7 @@
     },
     "assetType": {
       "type": "string",
-      "enum": ["Fixed Cap", "Unlimited Cap", "Stablecoin", "NFT"]
+      "enum": ["Fixed Cap", "Variable Cap", "Unlimited Cap", "Stablecoin", "NFT"]
     },
     "officialSite": {
       "type": "string",

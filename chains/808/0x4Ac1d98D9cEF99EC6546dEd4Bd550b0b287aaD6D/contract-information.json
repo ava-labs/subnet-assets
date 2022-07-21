@@ -3,7 +3,7 @@
   "name": "Wrapped PFT",
   "symbol": "WPFT",
   "contractType": "ERC-20",
-  "decimal": 18,
+  "decimals": 18,
   "chainId": 808,
   "assetType": "Fixed Cap",
   "officialSite": "https://portalfantasy.io/",
