@@ -7,7 +7,7 @@
   "vmId": "kmYf1CBB1oGXdNK9biEFdWazpVB2erkdWhFxr1hZZabapwZXX",
   "vmName": "EVM",
   "subnetExplorerUriId": "castle-crush",
-  "explorerUrl": "https://subnets.avax.network/castle-crush/testnet/explorer",
+  "explorerUrl": "https://subnets-test.avax.network/castle-crush",
   "rpcUrl": "https://subnets.avax.network/castle-crush/testnet/rpc",
   "wsUrl": "wss://subnets.avax.network/castle-crush/testnet/ws",
   "isTestnet": true,

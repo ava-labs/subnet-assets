@@ -7,7 +7,7 @@
   "vmId": "srEXiWaHuhNyGwPUi444Tu47ZEDwxTWrbQiuD7FmgSAQ6X7Dy",
   "vmName": "EVM",
   "subnetExplorerUriId": "wagmi",
-  "explorerUrl": "https://subnets.avax.network/wagmi/wagmi-chain-testnet/explorer",
+  "explorerUrl": "https://subnets-test.avax.network/wagmi",
   "rpcUrl": "https://subnets.avax.network/wagmi/wagmi-chain-testnet/rpc",
   "wsUrl": "wss://subnets.avax.network/wagmi/wagmi-chain-testnet/ws",
   "isTestnet": true,
