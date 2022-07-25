@@ -2042,6 +2042,13 @@
       "description": "",
       "contractType": "ERC-20"
     },
+    "0x57Dec9cC7f492d6583c773e2E7ad66dcDc6940Fb": {
+      "address": "0x57Dec9cC7f492d6583c773e2E7ad66dcDc6940Fb",
+      "name": "MasterGardener",
+      "chainId": 53935,
+      "description": "",
+      "contractType": "Other"
+    },
     "0x5b24224dC16508DAD755756639E420817DD4c99E": {
       "address": "0x5b24224dC16508DAD755756639E420817DD4c99E",
       "name": "Multicall2",
@@ -2072,6 +2079,13 @@
     "0x794C07912474351b3134E6D6B3B7b3b4A07cbAAa": {
       "address": "0x794C07912474351b3134E6D6B3B7b3b4A07cbAAa",
       "name": "UniswapV2Factory",
+      "chainId": 53935,
+      "description": "",
+      "contractType": "Other"
+    },
+    "0x7bc5fD6b80067d6052A4550c69f152877bF7C748": {
+      "address": "0x7bc5fD6b80067d6052A4550c69f152877bF7C748",
+      "name": "MessageBus",
       "chainId": 53935,
       "description": "",
       "contractType": "Other"
@@ -2131,6 +2145,13 @@
       "contractType": "Other",
       "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/53935/0xE05c976d3f045D0E6E7A6f61083d98A15603cF6A/logo.png"
     },
+    "0xE9AbfBC143d7cef74b5b793ec5907fa62ca53154": {
+      "address": "0xE9AbfBC143d7cef74b5b793ec5907fa62ca53154",
+      "name": "QuestCore",
+      "chainId": 53935,
+      "description": "",
+      "contractType": "Other"
+    },
     "0xED6dC9FD092190C08e4afF8611496774Ded19D54": {
       "address": "0xED6dC9FD092190C08e4afF8611496774Ded19D54",
       "name": "Validator Fund",
@@ -2146,6 +2167,13 @@
       "chainId": 53935,
       "description": "",
       "contractType": "ERC-20"
+    },
+    "0xc390fAA4C7f66E4D62E59C231D5beD32Ff77BEf0": {
+      "address": "0xc390fAA4C7f66E4D62E59C231D5beD32Ff77BEf0",
+      "name": "HeroAuction",
+      "chainId": 53935,
+      "description": "",
+      "contractType": "Other"
     },
     "0xe4911B47ff0a1cbF5A4edDaC58fbc48ae09c8993": {
       "address": "0xe4911B47ff0a1cbF5A4edDaC58fbc48ae09c8993",
