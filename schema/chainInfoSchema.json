@@ -74,7 +74,7 @@
           "type": "string"
         },
         "decimals": {
-          "type": "number"
+          "type": "integer"
         }
       },
       "required": ["name", "symbol", "description", "decimals"]
