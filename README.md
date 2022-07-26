@@ -29,7 +29,7 @@ The schema for validating uploaded chain information and contract information ca
 ### The parameters for chain information:
 <!-- Add descriptions for each parameter -->
 - **chainId**:
-  - *number*
+  - *integer*
   - **required** 
   - Requirements: Must be greater than 0
   - ID for the chain. ChainIds can be found on [chainlist.org](https://chainlist.org/)
@@ -109,7 +109,7 @@ The schema for validating uploaded chain information and contract information ca
       - *string*
     - **decimals**
       - **required** 
-      - *number*
+      - *integer*
 - **officialSite**:
   - *string*
   - Requirements: must be a URI (for information see this [document](https://datatracker.ietf.org/doc/html/rfc3986))
@@ -141,3 +141,77 @@ The schema for validating uploaded chain information and contract information ca
 - **primaryColor**:
   - *string*
   - Requirements: Must be a hex color code
+
+## Contract Information
+### The parameters for contract information:
+<!-- Add descriptions for each parameter -->
+- **chainId**:
+  - *integer*
+  - **required** 
+  - Requirements: Must be greater than 0
+  - ID for the chain. ChainIds can be found on [chainlist.org](https://chainlist.org/)
+- **address**
+  - **required**
+  - *string*
+  - Requirements: Must be checksummed Ethereum address
+- **description**
+  - **required**
+  - *string*
+- **name**
+  - **required**
+  - *string*
+- **symbol**
+  - **required** if contractType is ERC-20 or ERC-721
+  - *string*
+- **contractType**
+  - **required**
+  - *string*
+  - Must be one of:
+    - "ERC-20"
+    - "ERC-721"
+    - "Other"
+- **assetType**
+  - *string*
+  - Must be one of:
+    - "Fixed Cap"
+    - "Unlimited Cap"
+    - "Stablecoin"
+    - "NFT"
+- **officialSite**
+  - *string*
+  - Requirements: must be a URI (for information see this [document](https://datatracker.ietf.org/doc/html/rfc3986))
+- **email**
+  - *string*
+  - Requirements: Must be a properly formatted email address
+- **tags**
+  - *array of strings*
+- **decimals**
+  - *integer*
+- **logoUri**
+  - *string*
+  - Requirements: must be a URI (for information see this [document](https://datatracker.ietf.org/doc/html/rfc3986))
+- **resourceLinks**:
+  - *array*
+    - objects in the array have the following properties:
+      - **type**
+        - **required**
+        - *string*
+        - Must be one of the following:
+          - "Twitter"
+          - "Facebook"
+          - "Discord"
+          - "Telegram"
+          - "Blog"
+          - "Medium"
+          - "Whitepaper"
+          - "CoinGecko"
+          - "CoinMarketCap"
+          - "LinkedIn"
+          - "Reddit"
+          - "Support"
+          - "Github"
+          - "Documentation"
+      - **url**
+        - **required**
+        - *string*
+        - Requirements: must be a URI (for information see this [document](https://datatracker.ietf.org/doc/html/rfc3986))
