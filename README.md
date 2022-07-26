@@ -26,6 +26,7 @@ The parameters and their definitions for chain information and contract informat
 The schema for validating uploaded chain information and contract information can be found in the `schema` directory
 
 ## Chain Information
+### The parameters for chain information:
 <!-- Add descriptions for each parameter -->
 - **chainId**:
   - *number*
@@ -79,10 +80,10 @@ The schema for validating uploaded chain information and contract information ca
       - **required**
       - *string*
       - Requirements: Must be checksummed Ethereum address 
-  - Additional properties to label any other utility addresses. The property name must have a minLength of 1 and can contain alphanumeric caharacters, dashes (-) and underscores (_)
     - **{PropertyName}**
       - *string*
       - Requirements: Must be checksummed Ethereum address 
+  - Additional properties to label any other utility addresses. The property name must have a minLength of 1 and can contain alphanumeric caharacters, dashes (-) and underscores (_)
   - There can be any number of additional properties
 - **pricingProviders**:
   - *object*
@@ -97,18 +98,18 @@ The schema for validating uploaded chain information and contract information ca
 - **networkToken**:
   - **required**
   - *object*
-  - **name**
-    - **required**
-    - *string*
-  - **symbol**
-    - **required**
-    - *string*
-  - **description**
-    - **required**
-    - *string*
-  - **decimals**
-    - **required** 
-    - *number*
+    - **name**
+      - **required**
+      - *string*
+    - **symbol**
+      - **required**
+      - *string*
+    - **description**
+      - **required**
+      - *string*
+    - **decimals**
+      - **required** 
+      - *number*
 - **officialSite**:
   - *string*
   - Requirements: must be a URI (for information see this [document](https://datatracker.ietf.org/doc/html/rfc3986))
