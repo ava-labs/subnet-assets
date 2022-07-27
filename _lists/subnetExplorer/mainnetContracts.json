@@ -2065,6 +2065,13 @@
       "description": "",
       "contractType": "ERC-20"
     },
+    "0x6F475642a6e85809B1c36Fa62763669b1b48DD5B": {
+      "address": "0x6F475642a6e85809B1c36Fa62763669b1b48DD5B",
+      "name": "Layer Zero Relayer Contract",
+      "chainId": 53935,
+      "description": "",
+      "contractType": "Other"
+    },
     "0x77f2656d04E158f915bC22f07B779D94c1DC47Ff": {
       "address": "0x77f2656d04E158f915bC22f07B779D94c1DC47Ff",
       "decimals": 18,
