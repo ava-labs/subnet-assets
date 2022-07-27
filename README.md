@@ -27,7 +27,6 @@ The schema for validating uploaded chain information and contract information ca
 
 ## Chain Information
 ### The parameters for chain information:
-<!-- Add descriptions for each parameter -->
 - **chainId**:
   - *integer*
   - **required** 
@@ -36,21 +35,26 @@ The schema for validating uploaded chain information and contract information ca
 - **chainName**:
   - *string*
   - **required**
+  - The name of the chain
 - **description**:
   - *string*
   - **required**
+  - The description of the chain, what it does, what makes it unique etc.
 - **platformChainId**:
   - **required**
   - *string*
   - Requirements: minLength: 1, Alphanumeric
+  - Id for the chain on the Avalanche P-Chain
 - **subnetId**:
   - **required**
   - *string*
   - Requirements: minLength: 1, Alphanumeric
+  - <!-- Add description -->
 - **vmId**:
   - **required**
   - *string*
   - Requirements: minLength: 1, Alphanumeric
+  -  <!-- Add description -->
 - **vmName**:
   - **required**
   - *string*
@@ -58,24 +62,31 @@ The schema for validating uploaded chain information and contract information ca
     - "EVM"
     - "BITCOIN"
     - "ETHEREUM"
+  -  <!-- Add descriptions -->
 - **subnetExplorerUriId**:
   - *string*
   - Requirements: maxLength: 32
+  -  <!-- Add descriptions -->
 - **explorerUrl**:
   - *string*
   - Requirements: must be a URI (for information see this [document](https://datatracker.ietf.org/doc/html/rfc3986))
+  - URL that links to the blockchain explorer associated with the chain
 - **rpcUrl**:
   - **required**
   - *string*
   - Requirements: must be a URI (for information see this [document](https://datatracker.ietf.org/doc/html/rfc3986))
+  - URL for directing RPC calls
 - **wsUrl**:
   - *string*
   - Requirements: must be a URI (for information see this [document](https://datatracker.ietf.org/doc/html/rfc3986))
+  - URL for connecting Web Sockets
 - **isTestnet**:
   - **required**
   - *boolean*
+  - Whether the chain is a testnet or mainnet chain
 - **utilityAddresses**:
   - *object*
+  - Useful addresses on the chain. There **must** be a multicall contract address.
     - **multicall**
       - **required**
       - *string*
@@ -87,32 +98,40 @@ The schema for validating uploaded chain information and contract information ca
   - There can be any number of additional properties
 - **pricingProviders**:
   - *object*
+  - Data for getting the price of the native token for the chain
   - Can be of any of the following configurations:
     - **coingecko**
       - **nativeTokenId**
         - *string*
         - Requirements: minLength: 1, can contain alphanumeric caharacters, dashes (-) and underscores (_)
+        - ID for the chain's native token on coingecko
       - **assetPlatformId**
         - *string*
         - Requirements: minLength: 1, can contain alphanumeric caharacters, dashes (-) and underscores (_)
+        - ID for the chain on coingecko
 - **networkToken**:
   - **required**
   - *object*
+  - Information about the chain's native token
     - **name**
       - **required**
       - *string*
+      - Name of the token
     - **symbol**
       - **required**
       - *string*
+      - Symnol for the token
     - **description**
       - **required**
       - *string*
+      - Description of the token, what it does, what makes it unique etc.
     - **decimals**
       - **required** 
       - *integer*
 - **officialSite**:
   - *string*
   - Requirements: must be a URI (for information see this [document](https://datatracker.ietf.org/doc/html/rfc3986))
+  - Official site associated with the chain, its project, or its team.
 - **resourceLinks**:
   - *array*
     - objects in the array have the following properties:
@@ -141,6 +160,7 @@ The schema for validating uploaded chain information and contract information ca
 - **primaryColor**:
   - *string*
   - Requirements: Must be a hex color code
+  - <!-- Add descriptions -->
 
 ## Contract Information
 ### The parameters for contract information:
