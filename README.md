@@ -134,7 +134,7 @@ The schema for validating uploaded chain information and contract information ca
   - Official site associated with the chain, its project, or its team.
 - **resourceLinks**:
   - *array*
-    - **[resourceLink]**(#resource-link)
+    - [resourceLink](#resource-link)
   - <!-- Add descriptions -->
 - **primaryColor**:
   - *string*
@@ -201,7 +201,7 @@ The schema for validating uploaded chain information and contract information ca
   - The URI pointing that points to the logo associated with the contract
 - **resourceLinks**:
   - *array*
-    - **[resourceLink]**(#resource-link)
+    - [resourceLink](#resource-link)
   - - <!-- Add descriptions -->
 
 # Resource Link
