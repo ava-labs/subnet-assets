@@ -144,25 +144,28 @@ The schema for validating uploaded chain information and contract information ca
 
 ## Contract Information
 ### The parameters for contract information:
-<!-- Add descriptions for each parameter -->
 - **chainId**:
   - *integer*
   - **required** 
   - Requirements: Must be greater than 0
-  - ID for the chain. ChainIds can be found on [chainlist.org](https://chainlist.org/)
+  - ID for the chain that the contract was deployed on. ChainIds can be found on [chainlist.org](https://chainlist.org/)
 - **address**
   - **required**
   - *string*
   - Requirements: Must be checksummed Ethereum address
+  - Address of the contract
 - **description**
   - **required**
   - *string*
+  - Description of the contract
 - **name**
   - **required**
   - *string*
+  - The name of the contract
 - **symbol**
   - **required** if contractType is ERC-20 or ERC-721
   - *string*
+  - The contract's symbol (only applicable if the contract is an ERC contract or if a symbol parameter was added to the contract)
 - **contractType**
   - **required**
   - *string*
@@ -170,6 +173,7 @@ The schema for validating uploaded chain information and contract information ca
     - "ERC-20"
     - "ERC-721"
     - "Other"
+  - If the contract complies to the [ERC-20](https://docs.openzeppelin.com/contracts/4.x/erc20) standard or the [ERC-721](https://docs.openzeppelin.com/contracts/4.x/erc721) standard, the type is defined by that standard. Otherwise, the type is "other".
 - **assetType**
   - *string*
   - Must be one of:
@@ -177,19 +181,25 @@ The schema for validating uploaded chain information and contract information ca
     - "Unlimited Cap"
     - "Stablecoin"
     - "NFT"
+  - If the contract is a cryptocurrency, it can be one of three types: Fixed Cap, meaning there is a fixed maximum supply of coins, Unlimited Cap, which has no maximum supply of coin, or Stablecoin, which is a coin whose value is pegged to that of another currency or financial instrument. If the contract is an NFT, then the asset type is NFT.
 - **officialSite**
   - *string*
   - Requirements: must be a URI (for information see this [document](https://datatracker.ietf.org/doc/html/rfc3986))
+  - The official site of the team or project associated with this contract
 - **email**
   - *string*
   - Requirements: Must be a properly formatted email address
+  - An email address of the primary point of contact for the developers of the contract
 - **tags**
   - *array of strings*
+  - Any labels given to the contract
 - **decimals**
   - *integer*
+  -  Contract paarameter used to specify how many decimal places a token has (relevant if the contract is an ERC-20 token)
 - **logoUri**
   - *string*
   - Requirements: must be a URI (for information see this [document](https://datatracker.ietf.org/doc/html/rfc3986))
+  - The URI pointing that points to the logo associated with the contract
 - **resourceLinks**:
   - *array*
     - objects in the array have the following properties:
@@ -215,3 +225,4 @@ The schema for validating uploaded chain information and contract information ca
         - **required**
         - *string*
         - Requirements: must be a URI (for information see this [document](https://datatracker.ietf.org/doc/html/rfc3986))
+
