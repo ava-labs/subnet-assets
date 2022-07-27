@@ -44,17 +44,17 @@ The schema for validating uploaded chain information and contract information ca
   - **required**
   - *string*
   - Requirements: minLength: 1, Alphanumeric
-  - Id for the chain on the Avalanche P-Chain
+  - Unique ID for the blockchain.  Provided by the Avalanche P-Chain.
 - **subnetId**:
   - **required**
   - *string*
   - Requirements: minLength: 1, Alphanumeric
-  - <!-- Add description -->
+  - Unique ID for the blockchain's subnet.  Provided by the Avalanche P-Chain.
 - **vmId**:
   - **required**
   - *string*
   - Requirements: minLength: 1, Alphanumeric
-  -  <!-- Add description -->
+  - Unique ID for the blockchain's virtual machine.  Provided by the Avalanche P-Chain.
 - **vmName**:
   - **required**
   - *string*
@@ -62,11 +62,11 @@ The schema for validating uploaded chain information and contract information ca
     - "EVM"
     - "BITCOIN"
     - "ETHEREUM"
-  -  <!-- Add descriptions -->
+  -  Name of the blockchain's virtual machine
 - **subnetExplorerUriId**:
   - *string*
   - Requirements: maxLength: 32
-  -  <!-- Add descriptions -->
+  - Uri for the subnet explorer, i.e. `subnets.avax.network/<subnetExplorerUriId>`  This field should only be added if the subnet has been indexed to support the subnet explorer.
 - **explorerUrl**:
   - *string*
   - Requirements: must be a URI (for information see this [document](https://datatracker.ietf.org/doc/html/rfc3986))
@@ -135,11 +135,11 @@ The schema for validating uploaded chain information and contract information ca
 - **resourceLinks**:
   - *array*
     - [resourceLink](#resource-link)
-  - <!-- Add descriptions -->
+  - Various links to the subnet's social media, documentation, github, etc..
 - **primaryColor**:
   - *string*
   - Requirements: Must be a hex color code
-  - <!-- Add descriptions -->
+  - Primary branding color for the blockchain.
 
 ## Contract Information
 ### The parameters for contract information:
@@ -202,11 +202,11 @@ The schema for validating uploaded chain information and contract information ca
 - **resourceLinks**:
   - *array*
     - [resourceLink](#resource-link)
-  - - <!-- Add descriptions -->
+  - Various links to the contracts's social media, documentation, github, etc..
 
 # Resource Link
 - **resource link**
-- <!-- Add descriptions -->
+- Various links to the social media, documentation, github, etc..
   - **type**
     - **required**
     - *string*
