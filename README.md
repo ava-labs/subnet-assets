@@ -134,29 +134,8 @@ The schema for validating uploaded chain information and contract information ca
   - Official site associated with the chain, its project, or its team.
 - **resourceLinks**:
   - *array*
-    - objects in the array have the following properties:
-      - **type**
-        - **required**
-        - *string*
-        - Must be one of the following:
-          - "Twitter"
-          - "Facebook"
-          - "Discord"
-          - "Telegram"
-          - "Blog"
-          - "Medium"
-          - "Whitepaper"
-          - "CoinGecko"
-          - "CoinMarketCap"
-          - "LinkedIn"
-          - "Reddit"
-          - "Support"
-          - "Github"
-          - "Documentation"
-      - **url**
-        - **required**
-        - *string*
-        - Requirements: must be a URI (for information see this [document](https://datatracker.ietf.org/doc/html/rfc3986))
+    - **[resourceLink]**(#resource-link)
+  - <!-- Add descriptions -->
 - **primaryColor**:
   - *string*
   - Requirements: Must be a hex color code
@@ -222,27 +201,32 @@ The schema for validating uploaded chain information and contract information ca
   - The URI pointing that points to the logo associated with the contract
 - **resourceLinks**:
   - *array*
-    - objects in the array have the following properties:
-      - **type**
-        - **required**
-        - *string*
-        - Must be one of the following:
-          - "Twitter"
-          - "Facebook"
-          - "Discord"
-          - "Telegram"
-          - "Blog"
-          - "Medium"
-          - "Whitepaper"
-          - "CoinGecko"
-          - "CoinMarketCap"
-          - "LinkedIn"
-          - "Reddit"
-          - "Support"
-          - "Github"
-          - "Documentation"
-      - **url**
-        - **required**
-        - *string*
-        - Requirements: must be a URI (for information see this [document](https://datatracker.ietf.org/doc/html/rfc3986))
+    - **[resourceLink]**(#resource-link)
+  - - <!-- Add descriptions -->
+
+# Resource Link
+- **resource link**
+- <!-- Add descriptions -->
+  - **type**
+    - **required**
+    - *string*
+    - Must be one of the following:
+      - "Twitter"
+      - "Facebook"
+      - "Discord"
+      - "Telegram"
+      - "Blog"
+      - "Medium"
+      - "Whitepaper"
+      - "CoinGecko"
+      - "CoinMarketCap"
+      - "LinkedIn"
+      - "Reddit"
+      - "Support"
+      - "Github"
+      - "Documentation"
+  - **url**
+    - **required**
+    - *string*
+    - Requirements: must be a URI (for information see this [document](https://datatracker.ietf.org/doc/html/rfc3986))
 
