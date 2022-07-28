@@ -28,17 +28,17 @@ The schema for validating uploaded chain information and contract information ca
 ## Chain Information
 ### The parameters for chain information:
 - **chainId**:
+  - **required**
   - *integer*
-  - **required** 
   - Requirements: Must be greater than 0
   - ID for the chain. ChainIds can be found on [chainlist.org](https://chainlist.org/)
 - **chainName**:
+  - **required** 
   - *string*
-  - **required**
   - The name of the chain
 - **description**:
+  - **required** 
   - *string*
-  - **required**
   - The description of the chain, what it does, what makes it unique etc.
 - **platformChainId**:
   - **required**
@@ -144,8 +144,8 @@ The schema for validating uploaded chain information and contract information ca
 ## Contract Information
 ### The parameters for contract information:
 - **chainId**:
-  - *integer*
   - **required** 
+  - *integer*
   - Requirements: Must be greater than 0
   - ID for the chain that the contract was deployed on. ChainIds can be found on [chainlist.org](https://chainlist.org/)
 - **address**
