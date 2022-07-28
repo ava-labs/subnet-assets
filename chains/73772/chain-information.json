@@ -7,7 +7,7 @@
   "vmId": "srSGD5JeYhL8GLx4RUw53VN5TcoBbax6EeCYmy5S3DiteJhdF",
   "vmName": "EVM",
   "subnetExplorerUriId": "swimmer",
-  "explorerUrl": "https://subnets.avax.network/swimmer/mainnet/explorer",
+  "explorerUrl": "https://subnets.avax.network/swimmer",
   "rpcUrl": "https://subnets.avax.network/swimmer/mainnet/rpc",
   "wsUrl": "wss://subnets.avax.network/swimmer/mainnet/ws",
   "isTestnet": false,

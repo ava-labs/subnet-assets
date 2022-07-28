@@ -7,7 +7,7 @@
   "vmId": "mDVSxzeWHpEU3eSqMwwGQsD787xGp7hv9Qgoe3R9SdjPapte8",
   "vmName": "EVM",
   "subnetExplorerUriId": "dexalot",
-  "explorerUrl": "https://subnets.avax.network/dexalot/testnet/explorer",
+  "explorerUrl": "https://subnets-test.avax.network/dexalot",
   "rpcUrl": "https://subnets.avax.network/dexalot/testnet/rpc",
   "wsUrl": "wss://subnets.avax.network/dexalot/testnet/ws",
   "isTestnet": true,

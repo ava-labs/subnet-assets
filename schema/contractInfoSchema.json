@@ -44,7 +44,7 @@
       "minimum": 1
     },
     "decimals": {
-      "type": "number"
+      "type": "integer"
     },
     "resourceLinks": {
       "type": "array",
