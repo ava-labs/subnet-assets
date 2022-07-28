@@ -24,7 +24,7 @@
     },
     "vmName": {
       "type": "string",
-      "enum": ["EVM", "BITCOIN", "ETHEREUM"]
+      "enum": ["EVM"]
     },
     "subnetExplorerUriId": {
       "type": "string",

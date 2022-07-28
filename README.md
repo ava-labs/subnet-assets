@@ -60,8 +60,6 @@ The schema for validating uploaded chain information and contract information ca
   - *string*
   - Must be one of the following: 
     - "EVM"
-    - "BITCOIN"
-    - "ETHEREUM"
   -  Name of the blockchain's virtual machine
 - **subnetExplorerUriId**:
   - *string*
