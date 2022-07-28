@@ -46,10 +46,6 @@
     "decimals": {
       "type": "integer"
     },
-    "logoUri": {
-      "type": "string",
-      "format": "uri"
-    },
     "resourceLinks": {
       "type": "array",
       "items": {

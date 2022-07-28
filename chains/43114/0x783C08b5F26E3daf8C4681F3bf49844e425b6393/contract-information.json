@@ -6,7 +6,6 @@
   "decimals": 18,
   "contractType": "ERC-20",
   "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0x783C08b5F26E3daf8C4681F3bf49844e425b6393/logo.png",
   "description": "",
   "assetType": "Stablecoin"
 }
