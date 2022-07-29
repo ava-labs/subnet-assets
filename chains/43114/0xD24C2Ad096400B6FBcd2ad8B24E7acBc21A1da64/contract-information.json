@@ -6,7 +6,6 @@
   "symbol": "FRAX",
   "contractType": "ERC-20",
   "resourceLinks": [],
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/43114/0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64/logo.png",
   "description": "",
   "assetType": "Stablecoin"
 }

@@ -5,6 +5,5 @@
   "symbol": "AVAX",
   "chainId": 53935,
   "description": "",
-  "contractType": "ERC-20",
-  "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/53935/0xB57B60DeBDB0b8172bb6316a9164bd3C695F133a/logo.png"
+  "contractType": "ERC-20"
 }

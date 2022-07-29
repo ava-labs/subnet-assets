@@ -44,11 +44,7 @@
       "minimum": 1
     },
     "decimals": {
-      "type": "number"
-    },
-    "logoUri": {
-      "type": "string",
-      "format": "uri"
+      "type": "integer"
     },
     "resourceLinks": {
       "type": "array",
