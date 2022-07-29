@@ -1,0 +1,13 @@
+{
+    "address": "0x36a96196b06436f6799771B3d5D5B76a6840e19f",
+    "chainId": 11111,
+    "name": "Test",
+    "description": "This is a test",
+    "contractType": "ERC-20",
+    "assetType": "Fixed Cap",
+    "symbol": "TEST",
+    "officialSite": "https://google.com",
+    "tags": [],
+    "logoUri": "http://google.com",
+    "resourceLinks": []
+}
