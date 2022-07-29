@@ -8,8 +8,8 @@
   "vmName": "EVM",
   "subnetExplorerUriId": "portal-fantasy",
   "explorerUrl": "https://subnets-test.avax.network/portal-fantasy",
-  "rpcUrl": "@TODO",
-  "wsUrl": "@TODO",
+  "rpcUrl": "https://subnets.avax.network/portal-fantasy/testnet/rpc",
+  "wsUrl": "wss://subnets.avax.network/portal-fantasy/testnet/ws",
   "isTestnet": true,
   "networkToken": {
     "name": "Portal Fantasy Token",
