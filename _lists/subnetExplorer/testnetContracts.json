@@ -116,6 +116,7 @@
     "0x593552366229BDf5251a96a27dE904D047c72fDE": {
       "address": "0x593552366229BDf5251a96a27dE904D047c72fDE",
       "name": "General NFT",
+      "symbol": "PFGN",
       "contractType": "ERC-721",
       "chainId": 808,
       "description": "The NFT contract for general non-fungible tokens."
@@ -123,6 +124,7 @@
     "0x686d75D2Cc80890286fCe3F738AA111568D63529": {
       "address": "0x686d75D2Cc80890286fCe3F738AA111568D63529",
       "name": "Porble",
+      "symbol": "PRBL",
       "contractType": "ERC-721",
       "chainId": 808,
       "description": "The NFT contract for the porble collection."
@@ -154,6 +156,7 @@
     "0xa3Acaa140222047317D19F682C7C920E9540A91E": {
       "address": "0xa3Acaa140222047317D19F682C7C920E9540A91E",
       "name": "Architect",
+      "symbol": "PHAR",
       "contractType": "ERC-721",
       "chainId": 808,
       "description": "The NFT contract for the architect collection."
@@ -161,6 +164,7 @@
     "0xc5812E2F22177682ad9731330814F0444Ac23E9e": {
       "address": "0xc5812E2F22177682ad9731330814F0444Ac23E9e",
       "name": "Hero",
+      "symbol": "PHRO",
       "contractType": "ERC-721",
       "chainId": 808,
       "description": "The NFT contract for the hero collection."
