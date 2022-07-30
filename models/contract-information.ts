@@ -6,7 +6,7 @@ export interface ContractInformation {
   name: string;
   symbol?: string;
   contractType: 'ERC-20' | 'ERC-721' | 'Other';
-  assetType: 'Fixed Cap' | 'Unlimited Cap' | 'Stablecoin' | 'NFT';
+  assetType: 'Fixed Cap' | 'Variable Cap' | 'Unlimited Cap' | 'Stablecoin' | 'NFT';
   officialSite?: string; // uri
   tags?: string[];
   email?: string;

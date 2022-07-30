@@ -1,0 +1,7 @@
+{
+  "address": "0xa1E47689f396fED7d18D797d9D31D727d2c0d483",
+  "name": "PFT Staking",
+  "contractType": "Other",
+  "chainId": 808,
+  "description": "Allows users to stake a specific amount of PFT. The users can unstake and withdraw part or all of their PFT whenever they want."
+}

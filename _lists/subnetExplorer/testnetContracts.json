@@ -94,6 +94,82 @@
       "contractType": "Other"
     }
   },
+  "808": {
+    "0x473dc5ba848779e00ec2615FF15EDeA1A21fAa62": {
+      "address": "0x473dc5ba848779e00ec2615FF15EDeA1A21fAa62",
+      "name": "NFT Marketplace",
+      "chainId": 808,
+      "description": "The marketplace contract where users can list, sell and buy NFTs from the valid collections of the game.",
+      "contractType": "Other"
+    },
+    "0x4Ac1d98D9cEF99EC6546dEd4Bd550b0b287aaD6D": {
+      "address": "0x4Ac1d98D9cEF99EC6546dEd4Bd550b0b287aaD6D",
+      "name": "Wrapped PFT",
+      "symbol": "WPFT",
+      "contractType": "ERC-20",
+      "decimals": 18,
+      "chainId": 808,
+      "assetType": "Fixed Cap",
+      "officialSite": "https://portalfantasy.io/",
+      "description": "An ERC-20 version of the native PFT."
+    },
+    "0x593552366229BDf5251a96a27dE904D047c72fDE": {
+      "address": "0x593552366229BDf5251a96a27dE904D047c72fDE",
+      "name": "General NFT",
+      "symbol": "PFGN",
+      "contractType": "ERC-721",
+      "chainId": 808,
+      "description": "The NFT contract for general non-fungible tokens."
+    },
+    "0x686d75D2Cc80890286fCe3F738AA111568D63529": {
+      "address": "0x686d75D2Cc80890286fCe3F738AA111568D63529",
+      "name": "Porble",
+      "symbol": "PRBL",
+      "contractType": "ERC-721",
+      "chainId": 808,
+      "description": "The NFT contract for the porble collection."
+    },
+    "0x7B4982e1F7ee384F206417Fb851a1EB143c513F9": {
+      "address": "0x7B4982e1F7ee384F206417Fb851a1EB143c513F9",
+      "name": "Token Vault",
+      "contractType": "Other",
+      "chainId": 808,
+      "description": "Vault contract. Receives payments for specific operation IDs. Allows the owner to withdraw PFT or any ERC-20 tokens owned by the contract."
+    },
+    "0x97C0FE6aB595cbFD50ad3860DA5B2017d8B35c2E": {
+      "address": "0x97C0FE6aB595cbFD50ad3860DA5B2017d8B35c2E",
+      "name": "USDP",
+      "symbol": "USDP",
+      "contractType": "ERC-20",
+      "decimals": 18,
+      "chainId": 808,
+      "assetType": "Variable Cap",
+      "description": "USDP is a representation of the USDC tokens that have been bridged from other chains to the PF-chain. The amount of USDC locked up in the bridge is equivalent to the amount of USDP in circulation on the PF-chain."
+    },
+    "0xa1E47689f396fED7d18D797d9D31D727d2c0d483": {
+      "address": "0xa1E47689f396fED7d18D797d9D31D727d2c0d483",
+      "name": "PFT Staking",
+      "contractType": "Other",
+      "chainId": 808,
+      "description": "Allows users to stake a specific amount of PFT. The users can unstake and withdraw part or all of their PFT whenever they want."
+    },
+    "0xa3Acaa140222047317D19F682C7C920E9540A91E": {
+      "address": "0xa3Acaa140222047317D19F682C7C920E9540A91E",
+      "name": "Architect",
+      "symbol": "PHAR",
+      "contractType": "ERC-721",
+      "chainId": 808,
+      "description": "The NFT contract for the architect collection."
+    },
+    "0xc5812E2F22177682ad9731330814F0444Ac23E9e": {
+      "address": "0xc5812E2F22177682ad9731330814F0444Ac23E9e",
+      "name": "Hero",
+      "symbol": "PHRO",
+      "contractType": "ERC-721",
+      "chainId": 808,
+      "description": "The NFT contract for the hero collection."
+    }
+  },
   "11111": {},
   "31416": {},
   "43112": {},

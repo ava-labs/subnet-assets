@@ -1,0 +1,7 @@
+{
+  "address": "0x7B4982e1F7ee384F206417Fb851a1EB143c513F9",
+  "name": "Token Vault",
+  "contractType": "Other",
+  "chainId": 808,
+  "description": "Vault contract. Receives payments for specific operation IDs. Allows the owner to withdraw PFT or any ERC-20 tokens owned by the contract."
+}
