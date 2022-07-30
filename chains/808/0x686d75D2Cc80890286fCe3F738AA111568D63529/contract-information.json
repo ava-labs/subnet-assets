@@ -1,6 +1,7 @@
 {
   "address": "0x686d75D2Cc80890286fCe3F738AA111568D63529",
   "name": "Porble",
+  "symbol": "PRBL",
   "contractType": "ERC-721",
   "chainId": 808,
   "description": "The NFT contract for the porble collection."
