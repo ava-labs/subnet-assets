@@ -1,0 +1,11 @@
+{
+    "address": "0x67b37Cf1D5328429a366e6Fb9b0dc0B9A9ac157A",
+    "chainId": 11111,
+    "name": "TEST",
+    "description": "This is a test",
+    "contractType": "ERC-20",
+    "assetType": "Fixed Cap",
+    "symbol": "TEST",
+    "tags": [],
+    "resourceLinks": []
+}
