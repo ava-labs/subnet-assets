@@ -1,0 +1,20 @@
+{
+    "address": "0x1A276C60640842cEF59ecD1c540Dc231C47080A2",
+    "chainId": 11111,
+    "name": "Test erc20",
+    "description": "some description - connor",
+    "contractType": "ERC-20",
+    "assetType": "Fixed Cap",
+    "symbol": "YOLO",
+    "tags": [
+        "tag2",
+        "sometag"
+    ],
+    "logoUri": "https://i.imgur.com/gfSxw0a.png",
+    "resourceLinks": [
+        {
+            "type": "Twitter",
+            "url": "https://twitter.com/rick_rollbot"
+        }
+    ]
+}
