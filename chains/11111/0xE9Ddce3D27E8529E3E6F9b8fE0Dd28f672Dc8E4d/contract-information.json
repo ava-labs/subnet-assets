@@ -1,0 +1,12 @@
+{
+    "address": "0xE9Ddce3D27E8529E3E6F9b8fE0Dd28f672Dc8E4d",
+    "chainId": 11111,
+    "name": "Mikias's Test ERC20 Contract",
+    "description": "This is a test token.",
+    "contractType": "ERC-20",
+    "assetType": "Fixed Cap",
+    "symbol": "MERC",
+    "tags": [],
+    "logoUri": "https://pics.freeicons.io/uploads/icons/png/4475671331582800511-512.png",
+    "resourceLinks": []
+}
