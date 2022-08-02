@@ -170,7 +170,19 @@
       "description": "The NFT contract for the hero collection."
     }
   },
-  "11111": {},
+  "11111": {
+    "0x67b37Cf1D5328429a366e6Fb9b0dc0B9A9ac157A": {
+      "address": "0x67b37Cf1D5328429a366e6Fb9b0dc0B9A9ac157A",
+      "chainId": 11111,
+      "name": "Mikias Test Token",
+      "description": "This is a token to test out some features being built by Mikias.",
+      "contractType": "ERC-20",
+      "assetType": "Fixed Cap",
+      "symbol": "MTT",
+      "tags": [],
+      "resourceLinks": []
+    }
+  },
   "31416": {},
   "43112": {},
   "43113": {
