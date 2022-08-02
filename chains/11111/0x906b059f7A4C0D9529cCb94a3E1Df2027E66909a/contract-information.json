@@ -1,0 +1,12 @@
+{
+    "address": "0x906b059f7A4C0D9529cCb94a3E1Df2027E66909a",
+    "chainId": 11111,
+    "name": "Mikias's Second Test Token",
+    "description": "This is another token to test to test out features built by Mikias.",
+    "contractType": "ERC-20",
+    "assetType": "Unlimited Cap",
+    "symbol": "MTT2",
+    "tags": [],
+    "logoUri": "https://pics.freeicons.io/uploads/icons/png/4475671331582800511-512.png",
+    "resourceLinks": []
+}
