@@ -1,0 +1,12 @@
+{
+    "address": "0x8469663E4336307E2530de287505388cC04fb6cE",
+    "chainId": 11111,
+    "name": "Mikias Test 2",
+    "description": "This is a test contract.",
+    "contractType": "ERC-20",
+    "assetType": "Fixed Cap",
+    "symbol": "MTT2",
+    "tags": [],
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/11111/0x8469663E4336307E2530de287505388cC04fb6cE/logo.png"
+}
