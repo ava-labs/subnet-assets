@@ -180,8 +180,7 @@
       "assetType": "Fixed Cap",
       "symbol": "MTT",
       "tags": [],
-      "resourceLinks": [],
-      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/11111/0x67b37Cf1D5328429a366e6Fb9b0dc0B9A9ac157A/logo.png"
+      "resourceLinks": []
     }
   },
   "31416": {},
