@@ -1,0 +1,11 @@
+{
+    "address": "0x0a28f7b3009CE679A988b583d3C95E7AeFd61878",
+    "chainId": 11111,
+    "name": "Mikias Test 4",
+    "description": "This is a test contract.",
+    "contractType": "ERC-20",
+    "assetType": "Fixed Cap",
+    "symbol": "MTT4",
+    "tags": [],
+    "resourceLinks": []
+}
