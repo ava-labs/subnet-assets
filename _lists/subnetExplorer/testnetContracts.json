@@ -186,7 +186,7 @@
       "address": "0xE41C7Aa055517ac433F3a0244DBaEfB6A937E127",
       "chainId": 11111,
       "name": "Mikias Test 5",
-      "description": "This is a test contract.",
+      "description": "This is a test contract that was merged and will be updated again.",
       "contractType": "ERC-20",
       "assetType": "Fixed Cap",
       "symbol": "MTT5",
