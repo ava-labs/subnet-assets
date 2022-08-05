@@ -182,6 +182,17 @@
       "tags": [],
       "resourceLinks": []
     },
+    "0x8788044a6337778DB7A082670d878aeeE2F5893C": {
+      "address": "0x8788044a6337778DB7A082670d878aeeE2F5893C",
+      "chainId": 11111,
+      "name": "Mikias Test Contract 6",
+      "description": "This is a test.",
+      "contractType": "ERC-20",
+      "assetType": "Fixed Cap",
+      "symbol": "MTT6",
+      "tags": [],
+      "resourceLinks": []
+    },
     "0xE41C7Aa055517ac433F3a0244DBaEfB6A937E127": {
       "address": "0xE41C7Aa055517ac433F3a0244DBaEfB6A937E127",
       "chainId": 11111,
