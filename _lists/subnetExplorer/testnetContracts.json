@@ -171,6 +171,17 @@
     }
   },
   "11111": {
+    "0x07E41bE81E815fc440076D419EdDD2bCb0c4c9fB": {
+      "address": "0x07E41bE81E815fc440076D419EdDD2bCb0c4c9fB",
+      "chainId": 11111,
+      "name": "Mikias Test 4",
+      "description": "This is a test contract.",
+      "contractType": "ERC-20",
+      "assetType": "Fixed Cap",
+      "symbol": "MTT4",
+      "tags": [],
+      "resourceLinks": []
+    },
     "0x67b37Cf1D5328429a366e6Fb9b0dc0B9A9ac157A": {
       "address": "0x67b37Cf1D5328429a366e6Fb9b0dc0B9A9ac157A",
       "chainId": 11111,
