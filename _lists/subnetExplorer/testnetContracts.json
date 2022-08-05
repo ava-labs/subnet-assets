@@ -171,6 +171,17 @@
     }
   },
   "11111": {
+    "0x2544d4F44bE9C8BA5bb38d3cbEb7Bc7ADA153659": {
+      "address": "0x2544d4F44bE9C8BA5bb38d3cbEb7Bc7ADA153659",
+      "chainId": 11111,
+      "name": "Mikias Test 7",
+      "description": "This is a test contract.",
+      "contractType": "ERC-20",
+      "assetType": "Fixed Cap",
+      "symbol": "MTT7",
+      "tags": [],
+      "resourceLinks": []
+    },
     "0x67b37Cf1D5328429a366e6Fb9b0dc0B9A9ac157A": {
       "address": "0x67b37Cf1D5328429a366e6Fb9b0dc0B9A9ac157A",
       "chainId": 11111,
