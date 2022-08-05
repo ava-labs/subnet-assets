@@ -7,5 +7,6 @@
     "assetType": "Fixed Cap",
     "symbol": "MTT2",
     "tags": [],
-    "resourceLinks": []
+    "resourceLinks": [],
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/main/chains/11111/0x8469663E4336307E2530de287505388cC04fb6cE/logo.png"
 }
