@@ -2,7 +2,7 @@
     "address": "0x2544d4F44bE9C8BA5bb38d3cbEb7Bc7ADA153659",
     "chainId": 11111,
     "name": "Mikias Test 7",
-    "description": "This is a test contract.",
+    "description": "This is a test contract that Mikias is updating for the nth time.",
     "contractType": "ERC-20",
     "assetType": "Fixed Cap",
     "symbol": "MTT7",
