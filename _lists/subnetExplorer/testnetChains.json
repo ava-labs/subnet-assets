@@ -17,7 +17,7 @@
       "symbol": "JEWEL",
       "description": "JEWEL is the central token on the DFK Subnet and used to pay gas for all transactions. While it is not natively minted on the DFK Subnet, it is integral to the subnet's function.",
       "decimals": 18,
-      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/1894580/chains/335/token-logo.png"
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/ed1cbf0/chains/335/token-logo.png"
     },
     "utilityAddresses": {
       "multicall": "0x7D5746CcBD080a512Af2e8b1eFEFD61fBD29023D"
@@ -52,7 +52,7 @@
       }
     ],
     "primaryColor": "#53c26e",
-    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/1894580/chains/335/chain-logo.png"
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/ed1cbf0/chains/335/chain-logo.png"
   },
   "808": {
     "chainName": "Portal Fantasy Subnet",
@@ -72,14 +72,14 @@
       "symbol": "PFT",
       "description": "PFT is the native (gas) token of the Portal Fantasy Chain. Befriend, raise and fight alongside creatures as you explore the different worlds as a Hero. Create and design worlds, creatures, and items to be encountered by other players on their journey as an Architect. Portal Fantasy brings two roles and revolutionary game mechanics together in a modern twist to this classic genre.",
       "decimals": 18,
-      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/1894580/chains/808/token-logo.png"
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/ed1cbf0/chains/808/token-logo.png"
     },
     "utilityAddresses": {
       "multicall": "0xa95357c0d46f6d130d34d567a581725cE3bE8b38"
     },
     "officialSite": "https://portalfantasy.io/",
     "primaryColor": "#78F7FF",
-    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/1894580/chains/808/chain-logo.png"
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/ed1cbf0/chains/808/chain-logo.png"
   },
   "11111": {
     "chainName": "WAGMI Subnet",
@@ -99,7 +99,7 @@
       "symbol": "WGM",
       "decimals": 18,
       "description": "",
-      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/1894580/chains/11111/token-logo.png"
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/ed1cbf0/chains/11111/token-logo.png"
     },
     "utilityAddresses": {
       "multicall": "0x7e5f336f8baFc0bf775DafE091133A37244C285c"
@@ -115,7 +115,7 @@
       }
     ],
     "primaryColor": "#FFE769",
-    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/1894580/chains/11111/chain-logo.png"
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/ed1cbf0/chains/11111/chain-logo.png"
   },
   "31416": {
     "chainName": "Castle Crush Subnet",
@@ -135,14 +135,14 @@
       "symbol": "ACS",
       "description": "ACS is the central token on the Castle Crush chain and used to pay gas for all transactions.",
       "decimals": 18,
-      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/1894580/chains/31416/token-logo.png"
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/ed1cbf0/chains/31416/token-logo.png"
     },
     "utilityAddresses": {
       "multicall": "0x000dE1e4108d9A5C9d2d36C15f9acf1B351467bd"
     },
     "officialSite": "https://www.castlecrushgame.com/",
     "primaryColor": "#C49752",
-    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/1894580/chains/31416/chain-logo.png"
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/ed1cbf0/chains/31416/chain-logo.png"
   },
   "43113": {
     "chainName": "Avalanche (C-Chain)",
@@ -162,7 +162,7 @@
       "symbol": "AVAX",
       "decimals": 18,
       "description": "",
-      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/1894580/chains/43113/token-logo.png"
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/ed1cbf0/chains/43113/token-logo.png"
     },
     "utilityAddresses": {
       "multicall": "0xE898101ffEF388A8DA16205249a7E4977d4F034c"
@@ -174,7 +174,7 @@
       }
     },
     "primaryColor": "#f34333",
-    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/1894580/chains/43113/chain-logo.png"
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/ed1cbf0/chains/43113/chain-logo.png"
   },
   "73773": {
     "chainName": "Swimmer Network Subnet",
@@ -194,7 +194,7 @@
       "symbol": "TUS",
       "description": "TUS is the gas token on the Swimmer Chain and used to pay gas for all transactions.",
       "decimals": 18,
-      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/1894580/chains/73773/token-logo.png"
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/ed1cbf0/chains/73773/token-logo.png"
     },
     "utilityAddresses": {
       "multicall": "0x3e088976A6d37a559D2433F2cF1171a2397462a4"
@@ -224,7 +224,7 @@
       }
     ],
     "primaryColor": "#fb209a",
-    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/1894580/chains/73773/chain-logo.png"
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/ed1cbf0/chains/73773/chain-logo.png"
   },
   "432201": {
     "chainName": "Dexalot Subnet",
@@ -244,7 +244,7 @@
       "symbol": "ALOT",
       "decimals": 18,
       "description": "",
-      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/1894580/chains/432201/token-logo.png"
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/ed1cbf0/chains/432201/token-logo.png"
     },
     "utilityAddresses": {
       "multicall": "0xe07e60594653D03165402D3B491d30Fe2d2C0A6A"
@@ -278,6 +278,6 @@
       }
     ],
     "primaryColor": "#EB1357",
-    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/1894580/chains/432201/chain-logo.png"
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/ed1cbf0/chains/432201/chain-logo.png"
   }
 }
