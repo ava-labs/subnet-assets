@@ -6,6 +6,7 @@ import {
   SUBNET_EXPLORER_TESTNET_CONTRACT_LIST_FILE,
 } from './constants.mjs';
 import { createChain } from './createChain.mjs';
+import { createTokens } from './createTokens.mjs';
 import { getTokens } from './getTokens.mjs';
 
 fs.readdir(ROOT_PATH, async (err, files) => {
@@ -19,7 +20,7 @@ fs.readdir(ROOT_PATH, async (err, files) => {
         const chainInformation = createChain(chainId);
 
         const chainDirectory = path.resolve(ROOT_PATH, chainId);
-        const tokens = getTokens(chainId, chainDirectory);
+        const tokens = await createTokens(getTokens(chainId, chainDirectory));
 
         const tokenDictionary = {};
         tokens.forEach((token) => {

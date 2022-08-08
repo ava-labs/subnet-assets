@@ -8,7 +8,9 @@
       "symbol": "ACRE",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": "Arable Protocol is a synthetic yield farming protocol that is dedicated to helping yield farmers access multiple blockchains (such as Ethereum, Avalanche, Solana, Cosmos or Polygon) assets and yields on a single chain. The biggest challenge in earning high yields in the DeFi space is the need to bridge assets across chains, requiring constant bridge fees that limit returns. Arable is changing that by providing the first single chain platform that enables multi-chain farming. The platform is supported by incentivized collateral providers (aka. stakers or minters) for synthetic assets. Users receive the same rewards as they would on native chains.\r\n\r\nMany different blockchains are now supporting liquidity mining pools and providing incentive mechanisms, but the transfer of the assets between different chains takes time and fees and requires chain and bridge specific knowledge. This is leading users to feel confusing which chain to stick on for yield farming. Synthetic assets are essentially tokenized derivatives to support people to buy or sell specific assets on native assets’ price.\r\n\r\nARABLE’s goal is to provide an environment where yield farmers can access all the crypto farming assets on a single chain, where the users receive the same rewards as they would on native-chains. The environment is supported by incentivized collateral providers (aka. stakers or minters) for synthetic assets."
+      "description": "Arable Protocol is a synthetic yield farming protocol that is dedicated to helping yield farmers access multiple blockchains (such as Ethereum, Avalanche, Solana, Cosmos or Polygon) assets and yields on a single chain. The biggest challenge in earning high yields in the DeFi space is the need to bridge assets across chains, requiring constant bridge fees that limit returns. Arable is changing that by providing the first single chain platform that enables multi-chain farming. The platform is supported by incentivized collateral providers (aka. stakers or minters) for synthetic assets. Users receive the same rewards as they would on native chains.\r\n\r\nMany different blockchains are now supporting liquidity mining pools and providing incentive mechanisms, but the transfer of the assets between different chains takes time and fees and requires chain and bridge specific knowledge. This is leading users to feel confusing which chain to stick on for yield farming. Synthetic assets are essentially tokenized derivatives to support people to buy or sell specific assets on native assets’ price.\r\n\r\nARABLE’s goal is to provide an environment where yield farmers can access all the crypto farming assets on a single chain, where the users receive the same rewards as they would on native-chains. The environment is supported by incentivized collateral providers (aka. stakers or minters) for synthetic assets.",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x00EE200Df31b869a321B10400Da10b561F3ee60d/logo.png",
+      "tokenColor": "#c0c9c0"
     },
     "0x01C2086faCFD7aA38f69A6Bd8C91BEF3BB5adFCa": {
       "chainId": 43114,
@@ -18,7 +20,9 @@
       "symbol": "YAY",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x01C2086faCFD7aA38f69A6Bd8C91BEF3BB5adFCa/logo.png",
+      "tokenColor": "#242624"
     },
     "0x026187BdbC6b751003517bcb30Ac7817D5B766f8": {
       "chainId": 43114,
@@ -29,7 +33,9 @@
       "contractType": "ERC-20",
       "resourceLinks": [],
       "description": "H2O is the first stablecoin native to Avalanche. It is minted through over-collateralization using LPs from partner platforms. The H2O loans allow users to further build upon their positions by taking out an H2O loan against the LPs and using that H2O for further yields.",
-      "assetType": "Stablecoin"
+      "assetType": "Stablecoin",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x026187BdbC6b751003517bcb30Ac7817D5B766f8/logo.png",
+      "tokenColor": "#2f334e"
     },
     "0x027dbcA046ca156De9622cD1e2D907d375e53aa7": {
       "chainId": 43114,
@@ -39,7 +45,9 @@
       "symbol": "AMPL",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x027dbcA046ca156De9622cD1e2D907d375e53aa7/logo.png",
+      "tokenColor": "#0c0c0c"
     },
     "0x02D980A0D7AF3fb7Cf7Df8cB35d9eDBCF355f665": {
       "chainId": 43114,
@@ -49,7 +57,9 @@
       "symbol": "SHIB.e",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x02D980A0D7AF3fb7Cf7Df8cB35d9eDBCF355f665/logo.png",
+      "tokenColor": "#fabd5c"
     },
     "0x0659133127749Cc0616Ed6632912ddF7cc8D7545": {
       "chainId": 43114,
@@ -59,7 +69,9 @@
       "symbol": "DLAUNCH",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x0659133127749Cc0616Ed6632912ddF7cc8D7545/logo.png",
+      "tokenColor": "#e8c050"
     },
     "0x094bd7B2D99711A1486FB94d4395801C6d0fdDcC": {
       "chainId": 43114,
@@ -69,7 +81,9 @@
       "symbol": "TEDDY",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": "TEDDY is a token that captures the fee revenue generated by the Teddy Cash Protocol via staking. Teddy Cash is a decentralized borrowing protocol that allows you to draw 0% interest loans against AVAX used as collateral. Loans are paid out in TSD and need to maintain a minimum collateral ratio of only 110%.\r\n\r\nIn addition to the collateral, the loans are secured by a Stability Pool containing TSD and by fellow borrowers collectively acting as guarantors of last resort.\r\n\r\nTeddy Cash as a protocol is non-custodial, immutable, and governance-free."
+      "description": "TEDDY is a token that captures the fee revenue generated by the Teddy Cash Protocol via staking. Teddy Cash is a decentralized borrowing protocol that allows you to draw 0% interest loans against AVAX used as collateral. Loans are paid out in TSD and need to maintain a minimum collateral ratio of only 110%.\r\n\r\nIn addition to the collateral, the loans are secured by a Stability Pool containing TSD and by fellow borrowers collectively acting as guarantors of last resort.\r\n\r\nTeddy Cash as a protocol is non-custodial, immutable, and governance-free.",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x094bd7B2D99711A1486FB94d4395801C6d0fdDcC/logo.png",
+      "tokenColor": "#f5f4f2"
     },
     "0x0ebd9537A25f56713E34c45b38F421A1e7191469": {
       "chainId": 43114,
@@ -79,7 +93,9 @@
       "symbol": "OOE",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x0ebd9537A25f56713E34c45b38F421A1e7191469/logo.png",
+      "tokenColor": "#040404"
     },
     "0x0f577433Bf59560Ef2a79c124E9Ff99fCa258948": {
       "chainId": 43114,
@@ -90,7 +106,9 @@
       "contractType": "ERC-20",
       "resourceLinks": [],
       "description": "Moremoney is a protocol for borrowing stablecoin while earning interest on liquidity pool tokens and other collateral assets. The protocol can convert the most popular tokens, e.g., ETH, WBTC, USDT, AVAX, to ibTKNs\r\n\r\nMONEY is backed by a basket of decentralized crypto assets including AVAX, JOE, ETH, QI, and incentivised Trader Joe and Pangolin LP.",
-      "assetType": "Stablecoin"
+      "assetType": "Stablecoin",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x0f577433Bf59560Ef2a79c124E9Ff99fCa258948/logo.png",
+      "tokenColor": "#4ca0c1"
     },
     "0x0fEc6d8A84A85b79A1FFE0E28c1902E08b653EFE": {
       "chainId": 43114,
@@ -100,7 +118,9 @@
       "symbol": "HOOP",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x0fEc6d8A84A85b79A1FFE0E28c1902E08b653EFE/logo.png",
+      "tokenColor": "#3484f4"
     },
     "0x100Cc3a819Dd3e8573fD2E46D1E66ee866068f30": {
       "chainId": 43114,
@@ -110,7 +130,9 @@
       "symbol": "DCAU",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": "Dragon Crypto Gaming (DCG), a Game-Fi platform which offers NFTs, play-to-earn games and yield farming.Our NFT project, Tiny Dragons (https://tinydragon.games/) saw all 1000 NFTs sold out in under 1 minutes. You can now use these Tiny Dragons to fight in the Arena using DCAU.\r\n\r\nDCAU will contain our first text-based play-to-earn RPG game.The initial supply of $DCAU is ~55k tokens, and is hard capped at 155k tokens. On this layer, the community will be able to see partner NFTs joining the Tiny Dragons Arena, auto-compounding vaults, and our very own in-game NFT marketplace to accompany our main RPG text based game. ALL of these features will help to burn $DCAU and create multiple revenue streams for the platform.\r\n\r\nWe are pushing ourselves to do even better as we progress through our roadmap which will eventually reach the final stage, layer 4, the permanent layer. As DCG advances to layer 4, we will launch a slew of exciting game updates, and optimize its integrated play-to-earn and yield farming ecosystem. Join us for the ride!"
+      "description": "Dragon Crypto Gaming (DCG), a Game-Fi platform which offers NFTs, play-to-earn games and yield farming.Our NFT project, Tiny Dragons (https://tinydragon.games/) saw all 1000 NFTs sold out in under 1 minutes. You can now use these Tiny Dragons to fight in the Arena using DCAU.\r\n\r\nDCAU will contain our first text-based play-to-earn RPG game.The initial supply of $DCAU is ~55k tokens, and is hard capped at 155k tokens. On this layer, the community will be able to see partner NFTs joining the Tiny Dragons Arena, auto-compounding vaults, and our very own in-game NFT marketplace to accompany our main RPG text based game. ALL of these features will help to burn $DCAU and create multiple revenue streams for the platform.\r\n\r\nWe are pushing ourselves to do even better as we progress through our roadmap which will eventually reach the final stage, layer 4, the permanent layer. As DCG advances to layer 4, we will launch a slew of exciting game updates, and optimize its integrated play-to-earn and yield farming ecosystem. Join us for the ride!",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x100Cc3a819Dd3e8573fD2E46D1E66ee866068f30/logo.png",
+      "tokenColor": "#a6831c"
     },
     "0x120AD3e5A7c796349e591F1570D9f7980F4eA9cb": {
       "chainId": 43114,
@@ -120,7 +142,9 @@
       "symbol": "LUNA",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x120AD3e5A7c796349e591F1570D9f7980F4eA9cb/logo.png",
+      "tokenColor": "#172d53"
     },
     "0x130966628846BFd36ff31a822705796e8cb8C18D": {
       "address": "0x130966628846BFd36ff31a822705796e8cb8C18D",
@@ -131,7 +155,9 @@
       "contractType": "ERC-20",
       "resourceLinks": [],
       "description": "",
-      "assetType": "Stablecoin"
+      "assetType": "Stablecoin",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x130966628846BFd36ff31a822705796e8cb8C18D/logo.png",
+      "tokenColor": "#6f6df5"
     },
     "0x152b9d0FdC40C096757F570A51E494bd4b943E50": {
       "address": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
@@ -141,7 +167,9 @@
       "decimals": 8,
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x152b9d0FdC40C096757F570A51E494bd4b943E50/logo.png",
+      "tokenColor": "#fa9f32"
     },
     "0x164334Ed9E63FbEdC8B52E6dbD408Af4F051419f": {
       "chainId": 43114,
@@ -151,7 +179,9 @@
       "symbol": "ENXT",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x164334Ed9E63FbEdC8B52E6dbD408Af4F051419f/logo.png",
+      "tokenColor": "#1277bd"
     },
     "0x19860CCB0A68fd4213aB9D8266F7bBf05A8dDe98": {
       "chainId": 43114,
@@ -162,7 +192,9 @@
       "contractType": "ERC-20",
       "resourceLinks": [],
       "description": "",
-      "assetType": "Stablecoin"
+      "assetType": "Stablecoin",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x19860CCB0A68fd4213aB9D8266F7bBf05A8dDe98/logo.png",
+      "tokenColor": "#f3bc0c"
     },
     "0x1C20E891Bab6b1727d14Da358FAe2984Ed9B59EB": {
       "chainId": 43114,
@@ -173,7 +205,9 @@
       "contractType": "ERC-20",
       "resourceLinks": [],
       "description": "",
-      "assetType": "Stablecoin"
+      "assetType": "Stablecoin",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x1C20E891Bab6b1727d14Da358FAe2984Ed9B59EB/logo.png",
+      "tokenColor": "#1c5cfc"
     },
     "0x1DB749847C4abB991d8B6032102383e6BfD9B1c7": {
       "chainId": 43114,
@@ -183,7 +217,9 @@
       "symbol": "DON",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": "Dogeon is our first Play-to-Earn game, a project that brings joys and income to anyone out there. The project has been nested since early 2021. After lots of brainstorming and idea gathering, we decided to bring Dogeon to life and started the first line of code in March 2021. Dogeon is a Play-to-earn Dog Breeding and Racing NFT game built on Avalanche."
+      "description": "Dogeon is our first Play-to-Earn game, a project that brings joys and income to anyone out there. The project has been nested since early 2021. After lots of brainstorming and idea gathering, we decided to bring Dogeon to life and started the first line of code in March 2021. Dogeon is a Play-to-earn Dog Breeding and Racing NFT game built on Avalanche.",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x1DB749847C4abB991d8B6032102383e6BfD9B1c7/logo.png",
+      "tokenColor": "#d1ac7d"
     },
     "0x1ECd47FF4d9598f89721A2866BFEb99505a413Ed": {
       "chainId": 43114,
@@ -193,7 +229,9 @@
       "symbol": "AVME",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": "AVME is a decentralized security protocol for malicious content detection and protection against malware. AVME accomplishes this by combining two technologies that can be integrated with blockchain to deliver zero-trust and fully decentralized applications. These include sandbox nodes and virus detection through artificial intelligence/machine learning (AI/ML). "
+      "description": "AVME is a decentralized security protocol for malicious content detection and protection against malware. AVME accomplishes this by combining two technologies that can be integrated with blockchain to deliver zero-trust and fully decentralized applications. These include sandbox nodes and virus detection through artificial intelligence/machine learning (AI/ML). ",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x1ECd47FF4d9598f89721A2866BFEb99505a413Ed/logo.png",
+      "tokenColor": "#353563"
     },
     "0x1fE4751d9bDabaC8D90067056cB45AB6823d2C12": {
       "chainId": 43114,
@@ -203,7 +241,9 @@
       "symbol": "ARGON",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x1fE4751d9bDabaC8D90067056cB45AB6823d2C12/logo.png",
+      "tokenColor": "#0cc764"
     },
     "0x2147EFFF675e4A4eE1C2f918d181cDBd7a8E208f": {
       "chainId": 43114,
@@ -213,7 +253,9 @@
       "symbol": "ALPHA.e",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x2147EFFF675e4A4eE1C2f918d181cDBd7a8E208f/logo.png",
+      "tokenColor": "#163386"
     },
     "0x214DB107654fF987AD859F34125307783fC8e387": {
       "chainId": 43114,
@@ -223,7 +265,9 @@
       "symbol": "FXS",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x214DB107654fF987AD859F34125307783fC8e387/logo.png",
+      "tokenColor": "#0a0909"
     },
     "0x21c5402C3B7d40C89Cc472C9dF5dD7E51BbAb1b1": {
       "chainId": 43114,
@@ -233,7 +277,9 @@
       "symbol": "TUNDRA",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": "Yield Farm token and NFT Gamified Token "
+      "description": "Yield Farm token and NFT Gamified Token ",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x21c5402C3B7d40C89Cc472C9dF5dD7E51BbAb1b1/logo.png",
+      "tokenColor": "#d9ecea"
     },
     "0x22d4002028f537599bE9f666d1c4Fa138522f9c8": {
       "chainId": 43114,
@@ -243,7 +289,9 @@
       "symbol": "PTP",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": "Platypus' AMM facilitates seamless exchange between pegged assets. Its single-sided liquidity provision redefines the way AMM works."
+      "description": "Platypus' AMM facilitates seamless exchange between pegged assets. Its single-sided liquidity provision redefines the way AMM works.",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x22d4002028f537599bE9f666d1c4Fa138522f9c8/logo.png",
+      "tokenColor": "#13addd"
     },
     "0x249848BeCA43aC405b8102Ec90Dd5F22CA513c06": {
       "chainId": 43114,
@@ -253,7 +301,9 @@
       "symbol": "CRV.e",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x249848BeCA43aC405b8102Ec90Dd5F22CA513c06/logo.png",
+      "tokenColor": "#d1da29"
     },
     "0x260Bbf5698121EB85e7a74f2E45E16Ce762EbE11": {
       "chainId": 43114,
@@ -264,7 +314,9 @@
       "contractType": "ERC-20",
       "resourceLinks": [],
       "description": "",
-      "assetType": "Stablecoin"
+      "assetType": "Stablecoin",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x260Bbf5698121EB85e7a74f2E45E16Ce762EbE11/logo.png",
+      "tokenColor": "#4373d5"
     },
     "0x264c1383EA520f73dd837F915ef3a732e204a493": {
       "chainId": 43114,
@@ -274,7 +326,9 @@
       "symbol": "BNB",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x264c1383EA520f73dd837F915ef3a732e204a493/logo.png",
+      "tokenColor": "#f4bc2c"
     },
     "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE": {
       "chainId": 43114,
@@ -284,7 +338,9 @@
       "symbol": "sAVAX",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": "BENQI Liquid Staking is the first liquid staking protocol for Avalanche. Users stake AVAX with BENQI, and receive sAVAX, an interest bearing version of AVAX. This allows users to earn both the rewards for securing the Avalanche network and from the world of DeFi."
+      "description": "BENQI Liquid Staking is the first liquid staking protocol for Avalanche. Users stake AVAX with BENQI, and receive sAVAX, an interest bearing version of AVAX. This allows users to earn both the rewards for securing the Avalanche network and from the world of DeFi.",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE/logo.png",
+      "tokenColor": "#08b5ec"
     },
     "0x312eE43Df66d1Fd1EA28e5b28F355Da84dCA13C2": {
       "chainId": 43114,
@@ -294,7 +350,9 @@
       "symbol": "SWAPXI",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": "\"With its token, SwapXI offers an interactive ecosystem for everyone who is linked to the SwapXI token. Any income from the respective components flows directly into the token and influences the market price.\r\nSwapXI specializes in the gaming industry with the components of a games/software marketplace, a metaverse and a streaming plugin that allows cross-streaming across multiple platforms.\""
+      "description": "\"With its token, SwapXI offers an interactive ecosystem for everyone who is linked to the SwapXI token. Any income from the respective components flows directly into the token and influences the market price.\r\nSwapXI specializes in the gaming industry with the components of a games/software marketplace, a metaverse and a streaming plugin that allows cross-streaming across multiple platforms.\"",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x312eE43Df66d1Fd1EA28e5b28F355Da84dCA13C2/logo.png",
+      "tokenColor": "#0c3a64"
     },
     "0x321E7092a180BB43555132ec53AaA65a5bF84251": {
       "chainId": 43114,
@@ -304,7 +362,9 @@
       "symbol": "gOHM",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x321E7092a180BB43555132ec53AaA65a5bF84251/logo.png",
+      "tokenColor": "#e8eced"
     },
     "0x340fE1D898ECCAad394e2ba0fC1F93d27c7b717A": {
       "chainId": 43114,
@@ -314,7 +374,9 @@
       "symbol": "ORBS",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x340fE1D898ECCAad394e2ba0fC1F93d27c7b717A/logo.png",
+      "tokenColor": "#546394"
     },
     "0x346A59146b9b4a77100D369a3d18E8007A9F46a6": {
       "address": "0x346A59146b9b4a77100D369a3d18E8007A9F46a6",
@@ -325,7 +387,9 @@
       "contractType": "ERC-20",
       "resourceLinks": [],
       "description": "AVAI is an asset that is pegged to the US Dollar; in other words, a coin intended to float as close to $1.00 USD as possible. It will be backed by locking tokens as collateral in a personal Vault in a Orca Bank as well as via other mechanisms described in the <a href=\"https://docs.avai.finance/protocol/technical-overview\">technical overview</a>.\r\n\r\nThe entire process is decentralized and does not use a middleman such as a financial institution, meaning simply that the user is in full control of their funds at all times. \r\nAn Orca Bank is the contract that allows a user to deposit a specific ERC20 as collateral, granting AVAI in return. Using the USDC token as an example, if a user deposits $150 USD worth of collateral funds into a Vault, they will have the ability to borrow up to 100 AVAI, worth $100 USD. This grants them the opportunity to invest a total of $250 USD, while owing a stable $100 USD. ",
-      "assetType": "Stablecoin"
+      "assetType": "Stablecoin",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x346A59146b9b4a77100D369a3d18E8007A9F46a6/logo.png",
+      "tokenColor": "#2da998"
     },
     "0x3509f19581aFEDEff07c53592bc0Ca84e4855475": {
       "address": "0x3509f19581aFEDEff07c53592bc0Ca84e4855475",
@@ -336,7 +400,9 @@
       "contractType": "ERC-20",
       "resourceLinks": [],
       "description": "",
-      "assetType": "Stablecoin"
+      "assetType": "Stablecoin",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x3509f19581aFEDEff07c53592bc0Ca84e4855475/logo.png",
+      "tokenColor": "#fbfafb"
     },
     "0x3709E8615E02C15B096f8a9B460ccb8cA8194e86": {
       "chainId": 43114,
@@ -346,7 +412,9 @@
       "symbol": "VEE",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": "Vee Finance is a DeFi lending platform for traditional financed and crypto users alike. They are committed to bridging the gap between traditional finance and DeFi and providing users with better digital asset management services. \r\n\r\nThe mission of the project is to reduce barriers for traditional users to participate in DeFi and optimize the efficiency of global asset allocation."
+      "description": "Vee Finance is a DeFi lending platform for traditional financed and crypto users alike. They are committed to bridging the gap between traditional finance and DeFi and providing users with better digital asset management services. \r\n\r\nThe mission of the project is to reduce barriers for traditional users to participate in DeFi and optimize the efficiency of global asset allocation.",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x3709E8615E02C15B096f8a9B460ccb8cA8194e86/logo.png",
+      "tokenColor": "#f58337"
     },
     "0x37B608519F91f70F2EeB0e5Ed9AF4061722e4F76": {
       "chainId": 43114,
@@ -356,7 +424,9 @@
       "symbol": "SUSHI.e",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x37B608519F91f70F2EeB0e5Ed9AF4061722e4F76/logo.png",
+      "tokenColor": "#e1b0d5"
     },
     "0x390ba0fb0Bd3Aa2a5484001606329701148074e6": {
       "chainId": 43114,
@@ -366,7 +436,9 @@
       "symbol": "RUNE",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x390ba0fb0Bd3Aa2a5484001606329701148074e6/logo.png",
+      "tokenColor": "#19e6cc"
     },
     "0x397bBd6A0E41bdF4C3F971731E180Db8Ad06eBc1": {
       "chainId": 43114,
@@ -376,7 +448,9 @@
       "symbol": "AVXT",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": "AVXT Token is a crypto-asset that was generated on Avalanche Blockchain Platform using ERC-20 Token standard. The AVXT token is a utility token generated by farming NFTs, used to accelerate NFT farming, trading Boxes, items and newly generated Gen2 NFTs."
+      "description": "AVXT Token is a crypto-asset that was generated on Avalanche Blockchain Platform using ERC-20 Token standard. The AVXT token is a utility token generated by farming NFTs, used to accelerate NFT farming, trading Boxes, items and newly generated Gen2 NFTs.",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x397bBd6A0E41bdF4C3F971731E180Db8Ad06eBc1/logo.png",
+      "tokenColor": "#f7e9ea"
     },
     "0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc": {
       "chainId": 43114,
@@ -386,7 +460,9 @@
       "symbol": "SUSHI",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc/logo.png",
+      "tokenColor": "#e1b0d5"
     },
     "0x3Bd2B1c7ED8D396dbb98DED3aEbb41350a5b2339": {
       "chainId": 43114,
@@ -396,7 +472,9 @@
       "symbol": "UMA.e",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x3Bd2B1c7ED8D396dbb98DED3aEbb41350a5b2339/logo.png",
+      "tokenColor": "#fc4c4c"
     },
     "0x3EeFb18003D033661f84e48360eBeCD181A84709": {
       "chainId": 43114,
@@ -406,7 +484,9 @@
       "symbol": "ISA",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": "Islander (ISA) is an online learn-to-earn and decentralized platform powered by NFTs to manage and market crypto projects in a unique way. \r\n\r\nCentral to this proposition is the native token Islander (“ISA”), which serves multiple purposes: \r\n- To help projects discover, grow and maintain an audience of bonafide supporters\r\n- Allow key opinion leaders (KOLs) the opportunity to leverage their combined marketing power and earn\r\n- Create earning opportunities for content creators \r\n\r\nAdditionally: \r\n- Islander provides an intuitive toolkit for users to manage their various projects\r\n- Full support for developers\r\n- Wallets, plugins, management apps\r\n- Payment gateway platform"
+      "description": "Islander (ISA) is an online learn-to-earn and decentralized platform powered by NFTs to manage and market crypto projects in a unique way. \r\n\r\nCentral to this proposition is the native token Islander (“ISA”), which serves multiple purposes: \r\n- To help projects discover, grow and maintain an audience of bonafide supporters\r\n- Allow key opinion leaders (KOLs) the opportunity to leverage their combined marketing power and earn\r\n- Create earning opportunities for content creators \r\n\r\nAdditionally: \r\n- Islander provides an intuitive toolkit for users to manage their various projects\r\n- Full support for developers\r\n- Wallets, plugins, management apps\r\n- Payment gateway platform",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x3EeFb18003D033661f84e48360eBeCD181A84709/logo.png",
+      "tokenColor": "#e89b9f"
     },
     "0x402FD175049e95CeF2cC9ca1FECdb6d9736e690d": {
       "chainId": 43114,
@@ -416,7 +496,9 @@
       "symbol": "CATS",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x402FD175049e95CeF2cC9ca1FECdb6d9736e690d/logo.png",
+      "tokenColor": "#f18a19"
     },
     "0x408D4cD0ADb7ceBd1F1A1C33A0Ba2098E1295bAB": {
       "chainId": 43114,
@@ -426,7 +508,9 @@
       "symbol": "WBTC",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x408D4cD0ADb7ceBd1F1A1C33A0Ba2098E1295bAB/logo.png",
+      "tokenColor": "#2b263a"
     },
     "0x440aBbf18c54b2782A4917b80a1746d3A2c2Cce1": {
       "chainId": 43114,
@@ -436,7 +520,9 @@
       "symbol": "SHIBX",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x440aBbf18c54b2782A4917b80a1746d3A2c2Cce1/logo.png",
+      "tokenColor": "#bf5f4d"
     },
     "0x44754455564474A89358B2C2265883DF993b12F0": {
       "chainId": 43114,
@@ -446,7 +532,9 @@
       "symbol": "ZEE",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x44754455564474A89358B2C2265883DF993b12F0/logo.png",
+      "tokenColor": "#1847c5"
     },
     "0x45C13620B55C35A5f539d26E88247011Eb10fDbd": {
       "chainId": 43114,
@@ -456,7 +544,9 @@
       "symbol": "HCT",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": "Cross-chain Liquidity DEX on Avalanche. "
+      "description": "Cross-chain Liquidity DEX on Avalanche. ",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x45C13620B55C35A5f539d26E88247011Eb10fDbd/logo.png",
+      "tokenColor": "#edeaf2"
     },
     "0x46C54b16aF7747067f412c78eBaDaE203a26aDa0": {
       "chainId": 43114,
@@ -466,7 +556,9 @@
       "symbol": "GRT",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x46C54b16aF7747067f412c78eBaDaE203a26aDa0/logo.png",
+      "tokenColor": "#4445b0"
     },
     "0x47EB6F7525C1aA999FBC9ee92715F5231eB1241D": {
       "chainId": 43114,
@@ -476,7 +568,9 @@
       "symbol": "MELT",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": "Defrost Finance is the platform behind the next generation stablecoin and provides remunerative investment opportunities. A fully fair launch, decentralized project, its aim is to change the world of finance for good."
+      "description": "Defrost Finance is the platform behind the next generation stablecoin and provides remunerative investment opportunities. A fully fair launch, decentralized project, its aim is to change the world of finance for good.",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x47EB6F7525C1aA999FBC9ee92715F5231eB1241D/logo.png",
+      "tokenColor": "#2e334f"
     },
     "0x483416eB3aFA601B9C6385f63CeC0C82B6aBf1fb": {
       "chainId": 43114,
@@ -486,7 +580,9 @@
       "symbol": "SKILL",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x483416eB3aFA601B9C6385f63CeC0C82B6aBf1fb/logo.png",
+      "tokenColor": "#302e28"
     },
     "0x488F73cddDA1DE3664775fFd91623637383D6404": {
       "chainId": 43114,
@@ -496,7 +592,9 @@
       "symbol": "YTS",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": "\"YetiSwap is a decentralized exchange (DEX) and NFT marketplace , running on the Avalanche blockchain. Yeti Swap uses the same automated market-making (AMM) model as Uniswap and features a native governance token called YTS that is fully community driven, with users capable of trading all native Avalanche tokens. In a crowded marketplace with multiple contenders, YetiSwap offers three critically important benefits: fast and cost-efficient trades, with a fair and open token distribution system.\r\nYetiSwap is the only NFT marketplace offering royalties on Avalanche, profiting both NFT artists and collection owners.\""
+      "description": "\"YetiSwap is a decentralized exchange (DEX) and NFT marketplace , running on the Avalanche blockchain. Yeti Swap uses the same automated market-making (AMM) model as Uniswap and features a native governance token called YTS that is fully community driven, with users capable of trading all native Avalanche tokens. In a crowded marketplace with multiple contenders, YetiSwap offers three critically important benefits: fast and cost-efficient trades, with a fair and open token distribution system.\r\nYetiSwap is the only NFT marketplace offering royalties on Avalanche, profiting both NFT artists and collection owners.\"",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x488F73cddDA1DE3664775fFd91623637383D6404/logo.png",
+      "tokenColor": "#a7cadf"
     },
     "0x4960bc6032351ab87627B8F36b37B4938A44C7eF": {
       "chainId": 43114,
@@ -506,7 +604,9 @@
       "symbol": "RICH",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x4960bc6032351ab87627B8F36b37B4938A44C7eF/logo.png",
+      "tokenColor": "#8a4438"
     },
     "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB": {
       "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
@@ -516,7 +616,9 @@
       "decimals": 18,
       "resourceLinks": [],
       "chainId": 43114,
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB/logo.png",
+      "tokenColor": "#f3f3f3"
     },
     "0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084": {
       "chainId": 43114,
@@ -526,7 +628,9 @@
       "symbol": "LYD",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": "DeX and Yield Farming on Avalanche"
+      "description": "DeX and Yield Farming on Avalanche",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084/logo.png",
+      "tokenColor": "#edc4bf"
     },
     "0x4f60a160D8C2DDdaAfe16FCC57566dB84D674BD6": {
       "chainId": 43114,
@@ -536,7 +640,9 @@
       "symbol": "JEWEL",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x4f60a160D8C2DDdaAfe16FCC57566dB84D674BD6/logo.png",
+      "tokenColor": "#d1d272"
     },
     "0x4fbf0429599460D327BD5F55625E30E4fC066095": {
       "address": "0x4fbf0429599460D327BD5F55625E30E4fC066095",
@@ -547,7 +653,9 @@
       "contractType": "ERC-20",
       "resourceLinks": [],
       "description": "",
-      "assetType": "Stablecoin"
+      "assetType": "Stablecoin",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x4fbf0429599460D327BD5F55625E30E4fC066095/logo.png",
+      "tokenColor": "#ccd0c8"
     },
     "0x50b7545627a5162F82A992c33b87aDc75187B218": {
       "address": "0x50b7545627a5162F82A992c33b87aDc75187B218",
@@ -557,7 +665,9 @@
       "decimals": 8,
       "resourceLinks": [],
       "chainId": 43114,
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x50b7545627a5162F82A992c33b87aDc75187B218/logo.png",
+      "tokenColor": "#2b263a"
     },
     "0x544c42fBB96B39B21DF61cf322b5EDC285EE7429": {
       "chainId": 43114,
@@ -567,7 +677,9 @@
       "symbol": "INSUR",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x544c42fBB96B39B21DF61cf322b5EDC285EE7429/logo.png",
+      "tokenColor": "#e6f2ec"
     },
     "0x564A341Df6C126f90cf3ECB92120FD7190ACb401": {
       "chainId": 43114,
@@ -578,7 +690,9 @@
       "contractType": "ERC-20",
       "resourceLinks": [],
       "description": "",
-      "assetType": "Stablecoin"
+      "assetType": "Stablecoin",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x564A341Df6C126f90cf3ECB92120FD7190ACb401/logo.png",
+      "tokenColor": "#1f2f4e"
     },
     "0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7": {
       "address": "0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7",
@@ -588,7 +702,9 @@
       "decimals": 18,
       "resourceLinks": [],
       "chainId": 43114,
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7/logo.png",
+      "tokenColor": "#242424"
     },
     "0x5947BB275c521040051D82396192181b413227A3": {
       "address": "0x5947BB275c521040051D82396192181b413227A3",
@@ -598,7 +714,9 @@
       "decimals": 18,
       "resourceLinks": [],
       "chainId": 43114,
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x5947BB275c521040051D82396192181b413227A3/logo.png",
+      "tokenColor": "#fbfbfb"
     },
     "0x595c8481c48894771CE8FaDE54ac6Bf59093F9E8": {
       "chainId": 43114,
@@ -608,7 +726,9 @@
       "symbol": "GAJ",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x595c8481c48894771CE8FaDE54ac6Bf59093F9E8/logo.png",
+      "tokenColor": "#e4c0d1"
     },
     "0x596fA47043f99A4e0F122243B841E55375cdE0d2": {
       "chainId": 43114,
@@ -618,7 +738,9 @@
       "symbol": "ZRX.e",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x596fA47043f99A4e0F122243B841E55375cdE0d2/logo.png",
+      "tokenColor": "#fafafa"
     },
     "0x5c49b268c9841AFF1Cc3B0a418ff5c3442eE3F3b": {
       "chainId": 43114,
@@ -629,7 +751,9 @@
       "contractType": "ERC-20",
       "resourceLinks": [],
       "description": "",
-      "assetType": "Stablecoin"
+      "assetType": "Stablecoin",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x5c49b268c9841AFF1Cc3B0a418ff5c3442eE3F3b/logo.png",
+      "tokenColor": "#f2cdcd"
     },
     "0x60781C2586D68229fde47564546784ab3fACA982": {
       "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -639,7 +763,9 @@
       "decimals": 18,
       "resourceLinks": [],
       "chainId": 43114,
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x60781C2586D68229fde47564546784ab3fACA982/logo.png",
+      "tokenColor": "#040404"
     },
     "0x637afeff75ca669fF92e4570B14D6399A658902f": {
       "chainId": 43114,
@@ -649,7 +775,9 @@
       "symbol": "COOK",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x637afeff75ca669fF92e4570B14D6399A658902f/logo.png",
+      "tokenColor": "#2e3665"
     },
     "0x63a72806098Bd3D9520cC43356dD78afe5D386D9": {
       "chainId": 43114,
@@ -659,7 +787,9 @@
       "symbol": "AAVE.e",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x63a72806098Bd3D9520cC43356dD78afe5D386D9/logo.png",
+      "tokenColor": "#7285b2"
     },
     "0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654": {
       "chainId": 43114,
@@ -669,7 +799,9 @@
       "symbol": "HUSKY",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654/logo.png",
+      "tokenColor": "#e2d5d5"
     },
     "0x68e44C4619db40ae1a0725e77C02587bC8fBD1c9": {
       "chainId": 43114,
@@ -679,7 +811,9 @@
       "symbol": "SNX",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x68e44C4619db40ae1a0725e77C02587bC8fBD1c9/logo.png",
+      "tokenColor": "#0b042c"
     },
     "0x6C6f910A79639dcC94b4feEF59Ff507c2E843929": {
       "chainId": 43114,
@@ -689,7 +823,9 @@
       "symbol": "aAVAXb",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x6C6f910A79639dcC94b4feEF59Ff507c2E843929/logo.png",
+      "tokenColor": "#e1edfc"
     },
     "0x6b329326E0F6b95B93b52229b213334278D6f277": {
       "chainId": 43114,
@@ -699,7 +835,9 @@
       "symbol": "BAT",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x6b329326E0F6b95B93b52229b213334278D6f277/logo.png",
+      "tokenColor": "#fc5404"
     },
     "0x6e7f5C0b9f4432716bDd0a77a3601291b9D9e985": {
       "chainId": 43114,
@@ -709,7 +847,9 @@
       "symbol": "SPORE",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x6e7f5C0b9f4432716bDd0a77a3601291b9D9e985/logo.png",
+      "tokenColor": "#334273"
     },
     "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd": {
       "chainId": 43114,
@@ -719,7 +859,9 @@
       "symbol": "JOE",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd/logo.png",
+      "tokenColor": "#c76861"
     },
     "0x6feFd97F328342a8A840546A55FDcfEe7542F9A8": {
       "chainId": 43114,
@@ -730,7 +872,9 @@
       "contractType": "ERC-20",
       "resourceLinks": [],
       "description": "",
-      "assetType": "Stablecoin"
+      "assetType": "Stablecoin",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x6feFd97F328342a8A840546A55FDcfEe7542F9A8/logo.png",
+      "tokenColor": "#cec4aa"
     },
     "0x7086e045b78E1e72F741F25231c08d238812CF8a": {
       "chainId": 43114,
@@ -740,7 +884,9 @@
       "symbol": "RACEX",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x7086e045b78E1e72F741F25231c08d238812CF8a/logo.png",
+      "tokenColor": "#2d110c"
     },
     "0x721C299E6BF7D6a430d9bEA3364Ea197314bcE09": {
       "chainId": 43114,
@@ -750,7 +896,9 @@
       "symbol": "MILK2",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x721C299E6BF7D6a430d9bEA3364Ea197314bcE09/logo.png",
+      "tokenColor": "#161e92"
     },
     "0x7761E2338B35bCEB6BdA6ce477EF012bde7aE611": {
       "chainId": 43114,
@@ -760,7 +908,9 @@
       "symbol": "EGG",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x7761E2338B35bCEB6BdA6ce477EF012bde7aE611/logo.png",
+      "tokenColor": "#e85a58"
     },
     "0x783C08b5F26E3daf8C4681F3bf49844e425b6393": {
       "address": "0x783C08b5F26E3daf8C4681F3bf49844e425b6393",
@@ -771,7 +921,9 @@
       "contractType": "ERC-20",
       "resourceLinks": [],
       "description": "",
-      "assetType": "Stablecoin"
+      "assetType": "Stablecoin",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x783C08b5F26E3daf8C4681F3bf49844e425b6393/logo.png",
+      "tokenColor": "#141f14"
     },
     "0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE": {
       "address": "0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE",
@@ -781,7 +933,9 @@
       "decimals": 18,
       "resourceLinks": [],
       "chainId": 43114,
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE/logo.png",
+      "tokenColor": "#1a1224"
     },
     "0x7C08413cbf02202a1c13643dB173f2694e0F73f0": {
       "chainId": 43114,
@@ -791,7 +945,9 @@
       "symbol": "MAXI",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x7C08413cbf02202a1c13643dB173f2694e0F73f0/logo.png",
+      "tokenColor": "#d9d9d9"
     },
     "0x7F29e7086453ed97283893E763aE0989F4B70f8d": {
       "chainId": 43114,
@@ -801,7 +957,9 @@
       "symbol": "DGC",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x7F29e7086453ed97283893E763aE0989F4B70f8d/logo.png",
+      "tokenColor": "#e8f3e8"
     },
     "0x7b2B702706D9b361dfE3f00bD138C0CFDA7FB2Cf": {
       "chainId": 43114,
@@ -811,7 +969,9 @@
       "symbol": "PLN",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x7b2B702706D9b361dfE3f00bD138C0CFDA7FB2Cf/logo.png",
+      "tokenColor": "#fb2f56"
     },
     "0x7f041ce89A2079873693207653b24C15B5e6A293": {
       "chainId": 43114,
@@ -821,7 +981,9 @@
       "symbol": "LOOT",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x7f041ce89A2079873693207653b24C15B5e6A293/logo.png",
+      "tokenColor": "#160f16"
     },
     "0x81440C939f2C1E34fc7048E518a637205A632a74": {
       "address": "0x81440C939f2C1E34fc7048E518a637205A632a74",
@@ -831,7 +993,9 @@
       "decimals": 18,
       "resourceLinks": [],
       "chainId": 43114,
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x81440C939f2C1E34fc7048E518a637205A632a74/logo.png",
+      "tokenColor": "#f7f8fa"
     },
     "0x846D50248BAf8b7ceAA9d9B53BFd12d7D7FBB25a": {
       "chainId": 43114,
@@ -841,7 +1005,9 @@
       "symbol": "VSO",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x846D50248BAf8b7ceAA9d9B53BFd12d7D7FBB25a/logo.png",
+      "tokenColor": "#fbfbfb"
     },
     "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5": {
       "address": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
@@ -851,7 +1017,9 @@
       "decimals": 18,
       "resourceLinks": [],
       "chainId": 43114,
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5/logo.png",
+      "tokenColor": "#0b0f11"
     },
     "0x88128fd4b259552A9A1D457f435a6527AAb72d42": {
       "chainId": 43114,
@@ -861,7 +1029,9 @@
       "symbol": "MKR.e",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x88128fd4b259552A9A1D457f435a6527AAb72d42/logo.png",
+      "tokenColor": "#5cbbab"
     },
     "0x885d748C00A279B67A7749EC6b03301700dd0455": {
       "chainId": 43114,
@@ -871,7 +1041,9 @@
       "symbol": "MAXI",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x885d748C00A279B67A7749EC6b03301700dd0455/logo.png",
+      "tokenColor": "#bf203b"
     },
     "0x8B1d98A91F853218ddbb066F20b8c63E782e2430": {
       "chainId": 43114,
@@ -881,7 +1053,9 @@
       "symbol": "ORCA",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x8B1d98A91F853218ddbb066F20b8c63E782e2430/logo.png",
+      "tokenColor": "#2dac93"
     },
     "0x8D88e48465F30Acfb8daC0b3E35c9D6D7d36abaf": {
       "chainId": 43114,
@@ -891,7 +1065,9 @@
       "symbol": "CNR",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x8D88e48465F30Acfb8daC0b3E35c9D6D7d36abaf/logo.png",
+      "tokenColor": "#e3c22c"
     },
     "0x8a0cAc13c7da965a312f08ea4229c37869e85cB9": {
       "chainId": 43114,
@@ -901,7 +1077,9 @@
       "symbol": "GRT.e",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x8a0cAc13c7da965a312f08ea4229c37869e85cB9/logo.png",
+      "tokenColor": "#4445b0"
     },
     "0x8aE8be25C23833e0A01Aa200403e826F611f9CD2": {
       "chainId": 43114,
@@ -911,7 +1089,9 @@
       "symbol": "CRAFT",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x8aE8be25C23833e0A01Aa200403e826F611f9CD2/logo.png",
+      "tokenColor": "#533425"
     },
     "0x8cE2Dee54bB9921a2AE0A63dBb2DF8eD88B91dD9": {
       "chainId": 43114,
@@ -921,7 +1101,9 @@
       "symbol": "AAVE",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x8cE2Dee54bB9921a2AE0A63dBb2DF8eD88B91dD9/logo.png",
+      "tokenColor": "#7286b2"
     },
     "0x8eBAf22B6F053dFFeaf46f4Dd9eFA95D89ba8580": {
       "chainId": 43114,
@@ -931,7 +1113,9 @@
       "symbol": "UNI.e",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x8eBAf22B6F053dFFeaf46f4Dd9eFA95D89ba8580/logo.png",
+      "tokenColor": "#fceaf3"
     },
     "0x90842eb834cFD2A1DB0b1512B254a18E4D396215": {
       "chainId": 43114,
@@ -941,7 +1125,9 @@
       "symbol": "GB",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x90842eb834cFD2A1DB0b1512B254a18E4D396215/logo.png",
+      "tokenColor": "#495370"
     },
     "0x921f99719Eb6C01b4B8f0BA7973A7C24891e740A": {
       "chainId": 43114,
@@ -951,7 +1137,9 @@
       "symbol": "MAGE",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x921f99719Eb6C01b4B8f0BA7973A7C24891e740A/logo.png",
+      "tokenColor": "#649594"
     },
     "0x938FE3788222A74924E062120E7BFac829c719Fb": {
       "chainId": 43114,
@@ -961,7 +1149,9 @@
       "symbol": "APEIN",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x938FE3788222A74924E062120E7BFac829c719Fb/logo.png",
+      "tokenColor": "#f0ce88"
     },
     "0x94d649E017625dE1Aa04733aA046dE0161DF18eF": {
       "chainId": 43114,
@@ -971,7 +1161,9 @@
       "symbol": "KSHARE",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x94d649E017625dE1Aa04733aA046dE0161DF18eF/logo.png",
+      "tokenColor": "#d0dce9"
     },
     "0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17": {
       "chainId": 43114,
@@ -981,7 +1173,9 @@
       "symbol": "DYP",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17/logo.png",
+      "tokenColor": "#e40414"
     },
     "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7": {
       "chainId": 43114,
@@ -992,7 +1186,9 @@
       "contractType": "ERC-20",
       "resourceLinks": [],
       "description": "",
-      "assetType": "Stablecoin"
+      "assetType": "Stablecoin",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7/logo.png",
+      "tokenColor": "#25a47c"
     },
     "0x98443B96EA4b0858FDF3219Cd13e98C7A4690588": {
       "chainId": 43114,
@@ -1002,7 +1198,9 @@
       "symbol": "BAT.e",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x98443B96EA4b0858FDF3219Cd13e98C7A4690588/logo.png",
+      "tokenColor": "#fc5404"
     },
     "0x99519AcB025a0e0d44c3875A4BbF03af65933627": {
       "chainId": 43114,
@@ -1012,7 +1210,9 @@
       "symbol": "YFI",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x99519AcB025a0e0d44c3875A4BbF03af65933627/logo.png",
+      "tokenColor": "#0569db"
     },
     "0x9C8E99eb130AED653Ef90fED709D9C3E9cC8b269": {
       "chainId": 43114,
@@ -1022,7 +1222,9 @@
       "symbol": "HTZ",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x9C8E99eb130AED653Ef90fED709D9C3E9cC8b269/logo.png",
+      "tokenColor": "#ba7957"
     },
     "0x9E037dE681CaFA6E661e6108eD9c2bd1AA567Ecd": {
       "chainId": 43114,
@@ -1032,7 +1234,9 @@
       "symbol": "WALBT",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x9E037dE681CaFA6E661e6108eD9c2bd1AA567Ecd/logo.png",
+      "tokenColor": "#065ca4"
     },
     "0x9E3Ca00f2d4A9E5d4f0add0900de5f15050812cF": {
       "chainId": 43114,
@@ -1042,7 +1246,9 @@
       "symbol": "NFTD",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x9E3Ca00f2d4A9E5d4f0add0900de5f15050812cF/logo.png",
+      "tokenColor": "#e8f2fb"
     },
     "0x9Fda7cEeC4c18008096C2fE2B85F05dc300F94d0": {
       "chainId": 43114,
@@ -1052,7 +1258,9 @@
       "symbol": "MFI",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x9Fda7cEeC4c18008096C2fE2B85F05dc300F94d0/logo.png",
+      "tokenColor": "#343b41"
     },
     "0x9eAaC1B23d935365bD7b542Fe22cEEe2922f52dc": {
       "chainId": 43114,
@@ -1062,7 +1270,9 @@
       "symbol": "YFI.e",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0x9eAaC1B23d935365bD7b542Fe22cEEe2922f52dc/logo.png",
+      "tokenColor": "#0569db"
     },
     "0xA32608e873F9DdEF944B24798db69d80Bbb4d1ed": {
       "chainId": 43114,
@@ -1072,7 +1282,9 @@
       "symbol": "CRA",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xA32608e873F9DdEF944B24798db69d80Bbb4d1ed/logo.png",
+      "tokenColor": "#0dc0eb"
     },
     "0xA384Bc7Cdc0A93e686da9E7B8C0807cD040F4E0b": {
       "chainId": 43114,
@@ -1082,7 +1294,9 @@
       "symbol": "WOW",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xA384Bc7Cdc0A93e686da9E7B8C0807cD040F4E0b/logo.png",
+      "tokenColor": "#ddaa29"
     },
     "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664": {
       "chainId": 43114,
@@ -1092,7 +1306,9 @@
       "symbol": "USDC.e",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664/logo.png",
+      "tokenColor": "#2474cc"
     },
     "0xAafd2577Fb67366d3C89DB0d627C49D769ee2e5D": {
       "chainId": 43114,
@@ -1103,7 +1319,9 @@
       "contractType": "ERC-20",
       "resourceLinks": [],
       "description": "",
-      "assetType": "Stablecoin"
+      "assetType": "Stablecoin",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xAafd2577Fb67366d3C89DB0d627C49D769ee2e5D/logo.png",
+      "tokenColor": "#fafbfb"
     },
     "0xB00F1ad977a949a3CCc389Ca1D1282A2946963b0": {
       "chainId": 43114,
@@ -1113,7 +1331,9 @@
       "symbol": "BOOFI",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xB00F1ad977a949a3CCc389Ca1D1282A2946963b0/logo.png",
+      "tokenColor": "#ebf3f7"
     },
     "0xB0a6e056B587D0a85640b39b1cB44086F7a26A1E": {
       "chainId": 43114,
@@ -1123,7 +1343,9 @@
       "symbol": "ODDZ",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xB0a6e056B587D0a85640b39b1cB44086F7a26A1E/logo.png",
+      "tokenColor": "#207efb"
     },
     "0xB1466d4cf0DCfC0bCdDcf3500F473cdACb88b56D": {
       "chainId": 43114,
@@ -1133,7 +1355,9 @@
       "symbol": "WET",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xB1466d4cf0DCfC0bCdDcf3500F473cdACb88b56D/logo.png",
+      "tokenColor": "#8ccdea"
     },
     "0xB15f02F9Da8CD1f99E9dd375F21dc96D25ddd82C": {
       "chainId": 43114,
@@ -1143,7 +1367,9 @@
       "symbol": "HERMES",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xB15f02F9Da8CD1f99E9dd375F21dc96D25ddd82C/logo.png",
+      "tokenColor": "#caa85b"
     },
     "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7": {
       "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
@@ -1203,7 +1429,9 @@
         }
       ],
       "chainId": 43114,
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
+      "tokenColor": "#fbfbfb"
     },
     "0xB3fe5374F67D7a22886A0eE082b2E2f9d2651651": {
       "chainId": 43114,
@@ -1213,7 +1441,9 @@
       "symbol": "LINK",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xB3fe5374F67D7a22886A0eE082b2E2f9d2651651/logo.png",
+      "tokenColor": "#fbfbfb"
     },
     "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E": {
       "chainId": 43114,
@@ -1224,7 +1454,9 @@
       "contractType": "ERC-20",
       "resourceLinks": [],
       "description": "",
-      "assetType": "Stablecoin"
+      "assetType": "Stablecoin",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E/logo.png",
+      "tokenColor": "#2e7acd"
     },
     "0xBD100d061E120b2c67A24453CF6368E63f1Be056": {
       "chainId": 43114,
@@ -1234,7 +1466,9 @@
       "symbol": "iDYP",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xBD100d061E120b2c67A24453CF6368E63f1Be056/logo.png",
+      "tokenColor": "#faefee"
     },
     "0xBeC243C995409E6520D7C41E404da5dEba4b209B": {
       "chainId": 43114,
@@ -1244,7 +1478,9 @@
       "symbol": "SNX.e",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xBeC243C995409E6520D7C41E404da5dEba4b209B/logo.png",
+      "tokenColor": "#0b042c"
     },
     "0xC1d02E488a9Ce2481BFdcd797d5373Dd2E70a9C2": {
       "chainId": 43114,
@@ -1254,7 +1490,9 @@
       "symbol": "SHAKE",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xC1d02E488a9Ce2481BFdcd797d5373Dd2E70a9C2/logo.png",
+      "tokenColor": "#222a97"
     },
     "0xC38f41A296A4493Ff429F1238e030924A1542e50": {
       "address": "0xC38f41A296A4493Ff429F1238e030924A1542e50",
@@ -1264,7 +1502,9 @@
       "decimals": 18,
       "resourceLinks": [],
       "chainId": 43114,
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xC38f41A296A4493Ff429F1238e030924A1542e50/logo.png",
+      "tokenColor": "#34acfc"
     },
     "0xC7f4debC8072e23fe9259A5C0398326d8EfB7f5c": {
       "chainId": 43114,
@@ -1274,7 +1514,9 @@
       "symbol": "HeC",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xC7f4debC8072e23fe9259A5C0398326d8EfB7f5c/logo.png",
+      "tokenColor": "#d48731"
     },
     "0xC84d7bfF2555955b44BDF6A307180810412D751B": {
       "chainId": 43114,
@@ -1284,7 +1526,9 @@
       "symbol": "UMA",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xC84d7bfF2555955b44BDF6A307180810412D751B/logo.png",
+      "tokenColor": "#fc4c4c"
     },
     "0xC931f61B1534EB21D8c11B24f3f5Ab2471d4aB50": {
       "chainId": 43114,
@@ -1304,7 +1548,9 @@
       "symbol": "SPELL",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xCE1bFFBD5374Dac86a2893119683F4911a2F7814/logo.png",
+      "tokenColor": "#251d4a"
     },
     "0xCe2fbed816E320258161CeD52c2d0CEBcdFd8136": {
       "chainId": 43114,
@@ -1314,7 +1560,9 @@
       "symbol": "BRIBE",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xCe2fbed816E320258161CeD52c2d0CEBcdFd8136/logo.png",
+      "tokenColor": "#255819"
     },
     "0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64": {
       "chainId": 43114,
@@ -1325,7 +1573,9 @@
       "contractType": "ERC-20",
       "resourceLinks": [],
       "description": "",
-      "assetType": "Stablecoin"
+      "assetType": "Stablecoin",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64/logo.png",
+      "tokenColor": "#fae6e6"
     },
     "0xD4d026322C88C2d49942A75DfF920FCfbC5614C1": {
       "chainId": 43114,
@@ -1335,7 +1585,9 @@
       "symbol": "DEP",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xD4d026322C88C2d49942A75DfF920FCfbC5614C1/logo.png",
+      "tokenColor": "#e9ac25"
     },
     "0xD606199557c8Ab6F4Cc70bD03FaCc96ca576f142": {
       "chainId": 43114,
@@ -1345,7 +1597,9 @@
       "symbol": "GDL",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xD606199557c8Ab6F4Cc70bD03FaCc96ca576f142/logo.png",
+      "tokenColor": "#0c1443"
     },
     "0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454": {
       "chainId": 43114,
@@ -1355,7 +1609,9 @@
       "symbol": "FXS",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454/logo.png",
+      "tokenColor": "#f4f4f9"
     },
     "0xDC42728B0eA910349ed3c6e1c9Dc06b5FB591f98": {
       "chainId": 43114,
@@ -1366,7 +1622,9 @@
       "contractType": "ERC-20",
       "resourceLinks": [],
       "description": "",
-      "assetType": "Stablecoin"
+      "assetType": "Stablecoin",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xDC42728B0eA910349ed3c6e1c9Dc06b5FB591f98/logo.png",
+      "tokenColor": "#fcfcfc"
     },
     "0xE06fba763C2104dB5027F57f6A5Be0a0D86308af": {
       "chainId": 43114,
@@ -1376,7 +1634,9 @@
       "symbol": "AKITAX",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xE06fba763C2104dB5027F57f6A5Be0a0D86308af/logo.png",
+      "tokenColor": "#f4d5d0"
     },
     "0xE1463E8991c8A62e64b77b5Fb6B22F190344C2A9": {
       "chainId": 43114,
@@ -1386,7 +1646,9 @@
       "symbol": "POLS",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xE1463E8991c8A62e64b77b5Fb6B22F190344C2A9/logo.png",
+      "tokenColor": "#eb4c64"
     },
     "0xE54EB2C3009Fa411BF24fB017F9725b973CE36F0": {
       "chainId": 43114,
@@ -1396,7 +1658,9 @@
       "symbol": "1INCH",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xE54EB2C3009Fa411BF24fB017F9725b973CE36F0/logo.png",
+      "tokenColor": "#111b28"
     },
     "0xE6B9d092223f39013656702A40dbE6B7DeCc5746": {
       "chainId": 43114,
@@ -1406,7 +1670,9 @@
       "symbol": "ANGLE",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xE6B9d092223f39013656702A40dbE6B7DeCc5746/logo.png",
+      "tokenColor": "#d4a595"
     },
     "0xEd2b42D3C9c6E97e11755BB37df29B6375ede3EB": {
       "chainId": 43114,
@@ -1416,7 +1682,9 @@
       "symbol": "HON",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xEd2b42D3C9c6E97e11755BB37df29B6375ede3EB/logo.png",
+      "tokenColor": "#aa7cd2"
     },
     "0xF675a87397a6239eAF95Ad948670a5b19D076c59": {
       "address": "0xF675a87397a6239eAF95Ad948670a5b19D076c59",
@@ -1435,7 +1703,9 @@
       "symbol": "IME",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xF891214fdcF9cDaa5fdC42369eE4F27F226AdaD6/logo.png",
+      "tokenColor": "#1d1d1d"
     },
     "0xa5E59761eBD4436fa4d20E1A27cBa29FB2471Fc6": {
       "chainId": 43114,
@@ -1445,7 +1715,9 @@
       "symbol": "SHERPA",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xa5E59761eBD4436fa4d20E1A27cBa29FB2471Fc6/logo.png",
+      "tokenColor": "#f26068"
     },
     "0xaBC9547B534519fF73921b1FBA6E672b5f58D083": {
       "chainId": 43114,
@@ -1455,7 +1727,9 @@
       "symbol": "WOO.e",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xaBC9547B534519fF73921b1FBA6E672b5f58D083/logo.png",
+      "tokenColor": "#151c25"
     },
     "0xaEb044650278731Ef3DC244692AB9F64C78FfaEA": {
       "chainId": 43114,
@@ -1465,7 +1739,9 @@
       "symbol": "BUSD",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xaEb044650278731Ef3DC244692AB9F64C78FfaEA/logo.png",
+      "tokenColor": "#f3bc0c"
     },
     "0xab592d197ACc575D16C3346f4EB70C703F308D1E": {
       "chainId": 43114,
@@ -1475,7 +1751,9 @@
       "symbol": "FEED",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xab592d197ACc575D16C3346f4EB70C703F308D1E/logo.png",
+      "tokenColor": "#e2b575"
     },
     "0xae9d2385Ff2E2951Dd4fA061e74c4d3deDD24347": {
       "chainId": 43114,
@@ -1485,7 +1763,9 @@
       "symbol": "TOK",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xae9d2385Ff2E2951Dd4fA061e74c4d3deDD24347/logo.png",
+      "tokenColor": "#14c2dc"
     },
     "0xb27c8941a7Df8958A1778c0259f76D1F8B711C35": {
       "chainId": 43114,
@@ -1495,7 +1775,9 @@
       "symbol": "KLO",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xb27c8941a7Df8958A1778c0259f76D1F8B711C35/logo.png",
+      "tokenColor": "#fbfcfc"
     },
     "0xb2a85C5ECea99187A977aC34303b80AcbDdFa208": {
       "chainId": 43114,
@@ -1505,7 +1787,9 @@
       "symbol": "ROCO",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xb2a85C5ECea99187A977aC34303b80AcbDdFa208/logo.png",
+      "tokenColor": "#fc4c4c"
     },
     "0xb54f16fB19478766A268F172C9480f8da1a7c9C3": {
       "chainId": 43114,
@@ -1515,7 +1799,9 @@
       "symbol": "TIME",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xb54f16fB19478766A268F172C9480f8da1a7c9C3/logo.png",
+      "tokenColor": "#5d84cb"
     },
     "0xb67a9374Da03d4114a6FB8f0E7F2b82b5cB34ee3": {
       "chainId": 43114,
@@ -1525,7 +1811,9 @@
       "symbol": "AGF",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xb67a9374Da03d4114a6FB8f0E7F2b82b5cB34ee3/logo.png",
+      "tokenColor": "#4b4bed"
     },
     "0xb84527D59b6Ecb96F433029ECc890D4492C5dCe1": {
       "chainId": 43114,
@@ -1535,7 +1823,9 @@
       "symbol": "TOMB",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xb84527D59b6Ecb96F433029ECc890D4492C5dCe1/logo.png",
+      "tokenColor": "#6d3db0"
     },
     "0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a": {
       "chainId": 43114,
@@ -1545,7 +1835,9 @@
       "symbol": "DAI",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a/logo.png",
+      "tokenColor": "#fcb933"
     },
     "0xbca7f1998Dc9FFB70b086543a808960a460aBcA7": {
       "chainId": 43114,
@@ -1555,7 +1847,9 @@
       "symbol": "KITTY",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": "Revolutionizing the world of decentralized betting, Binary Cat allows users to bet on the price of crypto assets."
+      "description": "Revolutionizing the world of decentralized betting, Binary Cat allows users to bet on the price of crypto assets.",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xbca7f1998Dc9FFB70b086543a808960a460aBcA7/logo.png",
+      "tokenColor": "#aad0d0"
     },
     "0xc12e249FaBe1c5Eb7C558E5F50D187687a244E31": {
       "chainId": 43114,
@@ -1565,7 +1859,9 @@
       "symbol": "BLUE",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xc12e249FaBe1c5Eb7C558E5F50D187687a244E31/logo.png",
+      "tokenColor": "#3e8ba9"
     },
     "0xc3048E19E76CB9a3Aa9d77D8C03c29Fc906e2437": {
       "chainId": 43114,
@@ -1575,7 +1871,9 @@
       "symbol": "COMP.e",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xc3048E19E76CB9a3Aa9d77D8C03c29Fc906e2437/logo.png",
+      "tokenColor": "#040c0c"
     },
     "0xc7198437980c041c805A1EDcbA50c1Ce5db95118": {
       "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
@@ -1586,7 +1884,9 @@
       "officialSite": "https://tether.to/",
       "resourceLinks": [],
       "chainId": 43114,
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xc7198437980c041c805A1EDcbA50c1Ce5db95118/logo.png",
+      "tokenColor": "#51ae95"
     },
     "0xc7B5D72C836e718cDA8888eaf03707fAef675079": {
       "chainId": 43114,
@@ -1596,7 +1896,9 @@
       "symbol": "SWAP.e",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xc7B5D72C836e718cDA8888eaf03707fAef675079/logo.png",
+      "tokenColor": "#2098f9"
     },
     "0xcA220F1e486A8e35d6F1DCD62073Ad8DD04659ED": {
       "chainId": 43114,
@@ -1606,7 +1908,9 @@
       "symbol": "GLDB",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xcA220F1e486A8e35d6F1DCD62073Ad8DD04659ED/logo.png",
+      "tokenColor": "#d4b680"
     },
     "0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4": {
       "address": "0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4",
@@ -1616,7 +1920,9 @@
       "decimals": 18,
       "resourceLinks": [],
       "chainId": 43114,
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4/logo.png",
+      "tokenColor": "#fcf3f3"
     },
     "0xd501281565bf7789224523144Fe5D98e8B28f267": {
       "chainId": 43114,
@@ -1626,7 +1932,9 @@
       "symbol": "1INCH.e",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xd501281565bf7789224523144Fe5D98e8B28f267/logo.png",
+      "tokenColor": "#111b27"
     },
     "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70": {
       "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
@@ -1636,7 +1944,9 @@
       "decimals": 18,
       "resourceLinks": [],
       "chainId": 43114,
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xd586E7F844cEa2F87f50152665BCbc2C279D8d70/logo.png",
+      "tokenColor": "#fcb934"
     },
     "0xd9D90f882CDdD6063959A9d837B05Cb748718A05": {
       "chainId": 43114,
@@ -1646,7 +1956,9 @@
       "symbol": "MORE",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xd9D90f882CDdD6063959A9d837B05Cb748718A05/logo.png",
+      "tokenColor": "#4895c1"
     },
     "0xdb333724fAE72b4253FC3d44c8270CBBC86d147b": {
       "chainId": 43114,
@@ -1656,7 +1968,9 @@
       "symbol": "CABAG",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xdb333724fAE72b4253FC3d44c8270CBBC86d147b/logo.png",
+      "tokenColor": "#83b956"
     },
     "0xde3A24028580884448a5397872046a019649b084": {
       "chainId": 43114,
@@ -1666,7 +1980,9 @@
       "symbol": "USDT",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xde3A24028580884448a5397872046a019649b084/logo.png",
+      "tokenColor": "#24a37c"
     },
     "0xe0Ce60AF0850bF54072635e66E79Df17082A1109": {
       "chainId": 43114,
@@ -1676,7 +1992,9 @@
       "symbol": "ICE",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xe0Ce60AF0850bF54072635e66E79Df17082A1109/logo.png",
+      "tokenColor": "#3ddbfb"
     },
     "0xe19A1684873faB5Fb694CfD06607100A632fF21c": {
       "chainId": 43114,
@@ -1686,7 +2004,9 @@
       "symbol": "BAVA",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xe19A1684873faB5Fb694CfD06607100A632fF21c/logo.png",
+      "tokenColor": "#efd247"
     },
     "0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c": {
       "address": "0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c",
@@ -1696,7 +2016,9 @@
       "decimals": 18,
       "resourceLinks": [],
       "chainId": 43114,
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c/logo.png",
+      "tokenColor": "#c93a3a"
     },
     "0xeA6887e4a9CdA1B77E70129E5Fba830CdB5cdDef": {
       "chainId": 43114,
@@ -1706,7 +2028,9 @@
       "symbol": "IMX.a",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xeA6887e4a9CdA1B77E70129E5Fba830CdB5cdDef/logo.png",
+      "tokenColor": "#04b072"
     },
     "0xec3492a2508DDf4FDc0cD76F31f340b30d1793e6": {
       "chainId": 43114,
@@ -1716,7 +2040,9 @@
       "symbol": "CLY",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xec3492a2508DDf4FDc0cD76F31f340b30d1793e6/logo.png",
+      "tokenColor": "#3ea3ee"
     },
     "0xf03Dccaec9A28200A6708c686cf0b8BF26dDc356": {
       "chainId": 43114,
@@ -1726,7 +2052,9 @@
       "symbol": "YDR",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xf03Dccaec9A28200A6708c686cf0b8BF26dDc356/logo.png",
+      "tokenColor": "#d93937"
     },
     "0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15": {
       "chainId": 43114,
@@ -1736,7 +2064,9 @@
       "symbol": "ETH",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15/logo.png",
+      "tokenColor": "#f3f3f3"
     },
     "0xf32398dae246C5f672B52A54e9B413dFFcAe1A44": {
       "chainId": 43114,
@@ -1746,7 +2076,9 @@
       "symbol": "KACY",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xf32398dae246C5f672B52A54e9B413dFFcAe1A44/logo.png",
+      "tokenColor": "#814348"
     },
     "0xf39f9671906d8630812f9d9863bBEf5D523c84Ab": {
       "chainId": 43114,
@@ -1756,7 +2088,9 @@
       "symbol": "UNI",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xf39f9671906d8630812f9d9863bBEf5D523c84Ab/logo.png",
+      "tokenColor": "#fceaf3"
     },
     "0xf3EC49ACb3084618121741e4BBB20996D383E9b2": {
       "chainId": 43114,
@@ -1766,7 +2100,9 @@
       "symbol": "KING",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xf3EC49ACb3084618121741e4BBB20996D383E9b2/logo.png",
+      "tokenColor": "#fad73e"
     },
     "0xf693248F96Fe03422FEa95aC0aFbBBc4a8FdD172": {
       "chainId": 43114,
@@ -1776,7 +2112,9 @@
       "symbol": "TUS",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xf693248F96Fe03422FEa95aC0aFbBBc4a8FdD172/logo.png",
+      "tokenColor": "#d86104"
     },
     "0xf69c2fcd9128d49DfA22348C69177f9380438eB8": {
       "chainId": 43114,
@@ -1786,7 +2124,9 @@
       "symbol": "NFSG",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xf69c2fcd9128d49DfA22348C69177f9380438eB8/logo.png",
+      "tokenColor": "#bf8084"
     },
     "0xfC108f21931576a21D0b4b301935DAc80d9E5086": {
       "chainId": 43114,
@@ -1796,7 +2136,9 @@
       "symbol": "IronICE",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xfC108f21931576a21D0b4b301935DAc80d9E5086/logo.png",
+      "tokenColor": "#2c2123"
     },
     "0xfa4B6db72A650601E7Bd50a0A9f537c9E98311B2": {
       "chainId": 43114,
@@ -1806,7 +2148,9 @@
       "symbol": "HSHARES",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xfa4B6db72A650601E7Bd50a0A9f537c9E98311B2/logo.png",
+      "tokenColor": "#d4d0c1"
     },
     "0xfcc6CE74f4cd7eDEF0C5429bB99d38A3608043a5": {
       "chainId": 43114,
@@ -1816,7 +2160,9 @@
       "symbol": "FIRE",
       "contractType": "ERC-20",
       "resourceLinks": [],
-      "description": ""
+      "description": "",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/43114/0xfcc6CE74f4cd7eDEF0C5429bB99d38A3608043a5/logo.png",
+      "tokenColor": "#4b1d14"
     }
   },
   "53935": {
@@ -1828,7 +2174,9 @@
       "description": "",
       "assetType": "Unlimited Cap",
       "contractType": "ERC-20",
-      "chainId": 53935
+      "chainId": 53935,
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/53935/0x04b9dA42306B023f3572e106B11D82aAd9D32EBb/logo.png",
+      "tokenColor": "#4a637e"
     },
     "0x360d6DD540E3448371876662FBE7F1aCaf08c5Ab": {
       "address": "0x360d6DD540E3448371876662FBE7F1aCaf08c5Ab",
@@ -1838,7 +2186,9 @@
       "chainId": 53935,
       "description": "",
       "contractType": "ERC-20",
-      "assetType": "Stablecoin"
+      "assetType": "Stablecoin",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/53935/0x360d6DD540E3448371876662FBE7F1aCaf08c5Ab/logo.png",
+      "tokenColor": "#5592f1"
     },
     "0x3AD9DFE640E1A9Cc1D9B0948620820D975c3803a": {
       "address": "0x3AD9DFE640E1A9Cc1D9B0948620820D975c3803a",
@@ -1847,7 +2197,9 @@
       "symbol": "USDC",
       "chainId": 53935,
       "description": "",
-      "contractType": "ERC-20"
+      "contractType": "ERC-20",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/53935/0x3AD9DFE640E1A9Cc1D9B0948620820D975c3803a/logo.png",
+      "tokenColor": "#2474cc"
     },
     "0x3C351E1afdd1b1BC44e931E12D4E05D6125eaeCa": {
       "address": "0x3C351E1afdd1b1BC44e931E12D4E05D6125eaeCa",
@@ -1903,7 +2255,9 @@
       "description": "",
       "assetType": "Unlimited Cap",
       "contractType": "ERC-20",
-      "chainId": 53935
+      "chainId": 53935,
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/53935/0x77f2656d04E158f915bC22f07B779D94c1DC47Ff/logo.png",
+      "tokenColor": "#cdd16a"
     },
     "0x794C07912474351b3134E6D6B3B7b3b4A07cbAAa": {
       "address": "0x794C07912474351b3134E6D6B3B7b3b4A07cbAAa",
@@ -1942,7 +2296,9 @@
       "symbol": "xCRYSTAL",
       "chainId": 53935,
       "description": "",
-      "contractType": "ERC-20"
+      "contractType": "ERC-20",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/53935/0xA11f52cd55900e7faf0daca7F2BA1DF8df30AdDd/logo.png",
+      "tokenColor": "#4a637e"
     },
     "0xB57B60DeBDB0b8172bb6316a9164bd3C695F133a": {
       "address": "0xB57B60DeBDB0b8172bb6316a9164bd3C695F133a",
@@ -1951,7 +2307,9 @@
       "symbol": "AVAX",
       "chainId": 53935,
       "description": "",
-      "contractType": "ERC-20"
+      "contractType": "ERC-20",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/53935/0xB57B60DeBDB0b8172bb6316a9164bd3C695F133a/logo.png",
+      "tokenColor": "#ec4343"
     },
     "0xCCb93dABD71c8Dad03Fc4CE5559dC3D89F67a260": {
       "address": "0xCCb93dABD71c8Dad03Fc4CE5559dC3D89F67a260",
@@ -1961,14 +2319,18 @@
       "description": "",
       "assetType": "Unlimited Cap",
       "contractType": "ERC-20",
-      "chainId": 53935
+      "chainId": 53935,
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/53935/0xCCb93dABD71c8Dad03Fc4CE5559dC3D89F67a260/logo.png",
+      "tokenColor": "#cdd16a"
     },
     "0xE05c976d3f045D0E6E7A6f61083d98A15603cF6A": {
       "address": "0xE05c976d3f045D0E6E7A6f61083d98A15603cF6A",
       "name": "Synapse Bridge",
       "chainId": 53935,
       "description": "",
-      "contractType": "Other"
+      "contractType": "Other",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/53935/0xE05c976d3f045D0E6E7A6f61083d98A15603cF6A/logo.png",
+      "tokenColor": "#7f45e5"
     },
     "0xE9AbfBC143d7cef74b5b793ec5907fa62ca53154": {
       "address": "0xE9AbfBC143d7cef74b5b793ec5907fa62ca53154",
@@ -2059,7 +2421,9 @@
           "url": "https://www.coingecko.com/en/coins/treasure-under-sea"
         }
       ],
-      "chainId": 73772
+      "chainId": 73772,
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/73772/0x620FF3d705EDBc1bd03e17E6afcaC36a9779f78D/logo.png",
+      "tokenColor": "#f5c637"
     },
     "0x9ab9e81Be39b73de3CCd9408862b1Fc6D2144d2B": {
       "address": "0x9ab9e81Be39b73de3CCd9408862b1Fc6D2144d2B",
@@ -2111,7 +2475,9 @@
           "url": "https://www.coingecko.com/en/coins/treasure-under-sea"
         }
       ],
-      "chainId": 73772
+      "chainId": 73772,
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/73772/0x9c765eEE6Eff9CF1337A1846c0D93370785F6C92/logo.png",
+      "tokenColor": "#dd6704"
     },
     "0xC1a1F40D558a3E82C3981189f61EF21e17d6EB48": {
       "address": "0xC1a1F40D558a3E82C3981189f61EF21e17d6EB48",
@@ -2156,7 +2522,9 @@
           "url": "https://www.coingecko.com/en/coins/crabada"
         }
       ],
-      "chainId": 73772
+      "chainId": 73772,
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/680a16c/chains/73772/0xC1a1F40D558a3E82C3981189f61EF21e17d6EB48/logo.png",
+      "tokenColor": "#05bbec"
     }
   }
 }

@@ -4,7 +4,6 @@ import childProcess from 'child_process';
 
 export const __dirname = dirname(fileURLToPath(import.meta.url));
 export const __listsDirName = path.resolve(__dirname, '../_lists');
-export const latestGitCommitHash = childProcess.execSync('git rev-parse --short "$GITHUB_SHA"').toString().trim();
 
 const isDev = process.argv[2] === 'dev';
 const gitRef = isDev ? 'main' : childProcess.execSync('git rev-parse --short "$GITHUB_SHA"').toString().trim();
