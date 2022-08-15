@@ -1,0 +1,11 @@
+{
+    "address": "0x2f7A4a02EC400E9D82f9Afa7391BC2d0baFF6539",
+    "chainId": 11111,
+    "name": "Connor Test",
+    "description": "asdf",
+    "contractType": "ERC-20",
+    "assetType": "Fixed Cap",
+    "symbol": "CTEST",
+    "tags": [],
+    "resourceLinks": []
+}
