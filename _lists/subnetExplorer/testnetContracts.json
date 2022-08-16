@@ -179,8 +179,24 @@
       "contractType": "ERC-20",
       "assetType": "Fixed Cap",
       "symbol": "MTT",
-      "tags": [],
-      "resourceLinks": []
+      "tags": [
+        "TestTag",
+        "TestCoin"
+      ],
+      "resourceLinks": [
+        {
+          "type": "Twitter",
+          "url": "https://twitter.com/avalancheavax"
+        },
+        {
+          "type": "CoinMarketCap",
+          "url": "https://coinmarketcap.com/currencies/avalanche/"
+        },
+        {
+          "type": "Discord",
+          "url": "https://discord.com/invite/RwXY7P6"
+        }
+      ]
     }
   },
   "31416": {},
