@@ -6,6 +6,20 @@
     "contractType": "ERC-20",
     "assetType": "Fixed Cap",
     "symbol": "MTT",
-    "tags": [],
-    "resourceLinks": []
+    "officialSite": "https://www.avalabs.org/",
+    "tags": [
+        "Test",
+        "Testtokn",
+        "tkn"
+    ],
+    "resourceLinks": [
+        {
+            "type": "Twitter",
+            "url": "https://twitter.com/avalancheavax"
+        },
+        {
+            "type": "Medium",
+            "url": "https://medium.com/avalancheavax"
+        }
+    ]
 }
