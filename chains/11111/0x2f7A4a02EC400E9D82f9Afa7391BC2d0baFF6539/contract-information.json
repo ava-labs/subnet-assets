@@ -6,6 +6,7 @@
     "contractType": "ERC-20",
     "assetType": "Fixed Cap",
     "symbol": "CTEST",
+    "officialSite": "https://github.com/ava-labs/core-web-properties/pull/69/checks?check_run_id=8072537483",
     "tags": [],
     "resourceLinks": []
 }
