@@ -1,18 +1,20 @@
 export type ResourceLink = {
   type:
-    | 'Twitter'
-    | 'Facebook'
-    | 'Discord'
-    | 'Telegram'
     | 'Blog'
-    | 'Medium'
-    | 'Whitepaper'
     | 'CoinGecko'
     | 'CoinMarketCap'
+    | 'Discord'
+    | 'Documentation'
+    | 'Facebook'
+    | 'Github'
+    | 'Instagram'
     | 'LinkedIn'
+    | 'Medium'
     | 'Reddit'
     | 'Support'
-    | 'Github'
-    | 'Documentation';
+    | 'Telegram'
+    | 'TikTok'
+    | 'Twitter'
+    | 'Whitepaper';
   url: string; // uri
 };
