@@ -17,7 +17,7 @@
       "symbol": "AVAX",
       "decimals": 18,
       "description": "",
-      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/47a8a79/chains/43114/token-logo.png"
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/df0cee6/chains/43114/token-logo.png"
     },
     "utilityAddresses": {
       "multicall": "0xed386Fe855C1EFf2f843B910923Dd8846E45C5A4"
@@ -29,7 +29,7 @@
       }
     },
     "primaryColor": "#f34333",
-    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/47a8a79/chains/43114/chain-logo.png"
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/df0cee6/chains/43114/chain-logo.png"
   },
   "53935": {
     "chainName": "DFK Subnet",
@@ -49,7 +49,7 @@
       "symbol": "JEWEL",
       "description": "JEWEL is the central token on the DFK Subnet and used to pay gas for all transactions. While it is not natively minted on the DFK Subnet, it is integral to the subnet's function.",
       "decimals": 18,
-      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/47a8a79/chains/53935/token-logo.png"
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/df0cee6/chains/53935/token-logo.png"
     },
     "utilityAddresses": {
       "multicall": "0x5b24224dC16508DAD755756639E420817DD4c99E"
@@ -84,7 +84,7 @@
       }
     ],
     "primaryColor": "#53c26e",
-    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/47a8a79/chains/53935/chain-logo.png"
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/df0cee6/chains/53935/chain-logo.png"
   },
   "73772": {
     "chainName": "Swimmer Network Subnet",
@@ -104,7 +104,7 @@
       "symbol": "TUS",
       "description": "TUS is the gas token on the Swimmer Chain and used to pay gas for all transactions.",
       "decimals": 18,
-      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/47a8a79/chains/73772/token-logo.png"
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/df0cee6/chains/73772/token-logo.png"
     },
     "utilityAddresses": {
       "multicall": "0xd46175048c125eae5a7694BDa6C723b76D24e428"
@@ -134,6 +134,6 @@
       }
     ],
     "primaryColor": "#fb209a",
-    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/47a8a79/chains/73772/chain-logo.png"
+    "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/df0cee6/chains/73772/chain-logo.png"
   }
 }
