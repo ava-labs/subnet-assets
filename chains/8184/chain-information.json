@@ -1,6 +1,6 @@
 {
   "chainName": "Highrise Subnet",
-  "description": "The Highrise Blockchain brings true digital ownership to the Highrise World. Communities can launch their own towers in the Highrise World. These towers are interactive community hubs where citizens can create and participate in experiences, buy and sell virtual goods, and more. The economy of the Highrise World is backed by the $RISE token and the Highrise Blockchain.",
+  "description": "The Highrise Subnet brings true digital ownership to the Highrise World. Communities can launch their own towers in the Highrise World. These towers are interactive community hubs where citizens can create and participate in experiences, buy and sell virtual goods, and more. The economy of the Highrise World is backed by the $RISE token and the Highrise Subnet.",
   "chainId": 8184,
   "platformChainId": "2nCwfcWbhGwo9fJjsk2Sqq9NrxttyLuVm1qStNSkYvNVw5wKtJ",
   "subnetId": "dqBXezHg6wg3TJt9F2BqingcQE1ePHt57eDDaAQfinzVRv4zz",
@@ -10,9 +10,9 @@
   "wsUrl": "wss://subnets.avax.network/pocket-worlds/testnet/ws",
   "isTestnet": true,
   "networkToken": {
-    "name": "TODO",
-    "symbol": "TODO",
-    "description": "TODO",
+    "name": "Highrise World",
+    "symbol": "RISE",
+    "description": "The native token of the Highrise Subnet, backing the economy of the Highrise World",
     "decimals": 18
   },
   "utilityAddresses": {
