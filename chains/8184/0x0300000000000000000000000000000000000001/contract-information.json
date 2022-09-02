@@ -1,5 +1,5 @@
 {
-  "address": "0x0300000000000000000000000000000000000000",
+  "address": "0x0300000000000000000000000000000000000001",
   "name": "Vault",
   "chainId": 8184,
   "description": "Proxy implementation for Highrise Blockchain Vault.",
