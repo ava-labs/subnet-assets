@@ -1,0 +1,7 @@
+{
+  "address": "0x0100000000000000000000000000000000000000",
+  "name": "VaultProxy",
+  "chainId": 8184,
+  "description": "TransparentUpgradeableProxy contract deployed at blackhole address that collects gas.",
+  "contractType": "Other"
+}

@@ -1,0 +1,7 @@
+{
+  "address": "0x0300000000000000000000000000000000000000",
+  "name": "Vault",
+  "chainId": 8184,
+  "description": "Proxy implementation for Highrise Blockchain Vault.",
+  "contractType": "Other"
+}

@@ -1,0 +1,49 @@
+{
+  "chainName": "Highrise Subnet",
+  "description": "The Highrise Blockchain brings true digital ownership to the Highrise World. Communities can launch their own towers in the Highrise World. These towers are interactive community hubs where citizens can create and participate in experiences, buy and sell virtual goods, and more. The economy of the Highrise World is backed by the $RISE token and the Highrise Blockchain.",
+  "chainId": 8184,
+  "platformChainId": "2nCwfcWbhGwo9fJjsk2Sqq9NrxttyLuVm1qStNSkYvNVw5wKtJ",
+  "subnetId": "dqBXezHg6wg3TJt9F2BqingcQE1ePHt57eDDaAQfinzVRv4zz",
+  "vmId": "nz4LozKDX8QAVmAkuuvLq7cHaMeGTZXe4krnS8kCaCZExoVWE",
+  "vmName": "EVM",
+  "rpcUrl": "https://subnets.avax.network/pocket-worlds/testnet/rpc",
+  "wsUrl": "wss://subnets.avax.network/pocket-worlds/testnet/ws",
+  "isTestnet": true,
+  "networkToken": {
+    "name": "TODO",
+    "symbol": "TODO",
+    "description": "TODO",
+    "decimals": 18
+  },
+  "utilityAddresses": {
+    "multicall": "0x0B5d620cF5Bb99e1a58fF6e3628687D51c0Ac94c"
+  },
+  "officialSite": "https://www.highrise.game",
+  "resourceLinks": [
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/highrise"
+    },
+    {
+      "type": "Twitter",
+      "url": "https://twitter.com/HighriseApp"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/highrisegame"
+    },
+    {
+      "type": "Tik Tok",
+      "url": "https://www.tiktok.com/@joinhighrise"
+    },
+    {
+      "type": "Discord",
+      "url": "https://discord.com/invite/hcc"
+    },
+    {
+      "type": "Medium",
+      "url": "https://medium.com/pocketworlds"
+    }
+  ],
+  "primaryColor": "#53c26e"
+}
