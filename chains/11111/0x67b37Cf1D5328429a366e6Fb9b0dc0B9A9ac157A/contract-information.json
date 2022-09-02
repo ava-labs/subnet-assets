@@ -2,7 +2,7 @@
     "address": "0x67b37Cf1D5328429a366e6Fb9b0dc0B9A9ac157A",
     "chainId": 11111,
     "name": "Mikias Test Token 2022-09-02 - 2",
-    "description": "This is a token to test out some features being built by Mikias.",
+    "description": "This is a token to test out some features being built by Mikias.  Updated by Mark.",
     "contractType": "ERC-20",
     "assetType": "Fixed Cap",
     "symbol": "MTT",
