@@ -44,7 +44,7 @@
       "chainId": 335,
       "description": "",
       "contractType": "ERC-20",
-      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/f43b76c/chains/335/0x3C351E1afdd1b1BC44e931E12D4E05D6125eaeCa/logo.png",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/3456283/chains/335/0x3C351E1afdd1b1BC44e931E12D4E05D6125eaeCa/logo.png",
       "tokenColor": "#cdd16a"
     },
     "0x602daa4Db4778Cb958b161F11574b4A206606b4B": {
@@ -55,7 +55,7 @@
       "chainId": 335,
       "description": "",
       "contractType": "ERC-20",
-      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/f43b76c/chains/335/0x602daa4Db4778Cb958b161F11574b4A206606b4B/logo.png",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/3456283/chains/335/0x602daa4Db4778Cb958b161F11574b4A206606b4B/logo.png",
       "tokenColor": "#cdd16a"
     },
     "0x992Bdf6a1B1c91BBA89765cd7B5a60894c6180a0": {
@@ -66,7 +66,7 @@
       "chainId": 335,
       "description": "",
       "contractType": "ERC-20",
-      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/f43b76c/chains/335/0x992Bdf6a1B1c91BBA89765cd7B5a60894c6180a0/logo.png",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/3456283/chains/335/0x992Bdf6a1B1c91BBA89765cd7B5a60894c6180a0/logo.png",
       "tokenColor": "#ec4343"
     },
     "0xA4bd37AF549fb310c874d969fE2BA39D6765008f": {
@@ -91,7 +91,7 @@
       "chainId": 335,
       "description": "",
       "contractType": "ERC-20",
-      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/f43b76c/chains/335/0xa5c47B4bEb35215fB0CF0Ea6516F9921591c3aCE/logo.png",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/3456283/chains/335/0xa5c47B4bEb35215fB0CF0Ea6516F9921591c3aCE/logo.png",
       "tokenColor": "#4a637e"
     },
     "0xa92308fEfCc5dFB965B3aFf04beabF2b7014F251": {
@@ -223,7 +223,7 @@
       "symbol": "MTT5",
       "tags": [],
       "resourceLinks": [],
-      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/f43b76c/chains/11111/0xE41C7Aa055517ac433F3a0244DBaEfB6A937E127/logo.png",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/3456283/chains/11111/0xE41C7Aa055517ac433F3a0244DBaEfB6A937E127/logo.png",
       "tokenColor": "#eccb34"
     }
   },
@@ -239,7 +239,7 @@
       "resourceLinks": [],
       "chainId": 43113,
       "description": "",
-      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/f43b76c/chains/43113/0x0b9d5D9136855f6FEc3c0993feE6E9CE8a297846/logo.png",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/3456283/chains/43113/0x0b9d5D9136855f6FEc3c0993feE6E9CE8a297846/logo.png",
       "tokenColor": "#345cd4"
     },
     "0x0f2071079315Ba5a1c6d5b532a01a132c157AC83": {
@@ -251,7 +251,7 @@
       "contractType": "ERC-20",
       "resourceLinks": [],
       "description": "",
-      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/f43b76c/chains/43113/0x0f2071079315Ba5a1c6d5b532a01a132c157AC83/logo.png",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/3456283/chains/43113/0x0f2071079315Ba5a1c6d5b532a01a132c157AC83/logo.png",
       "tokenColor": "#fa9f32"
     },
     "0x1741B9C475e0861a43B03F984928082Ac4f3fB95": {
@@ -263,7 +263,7 @@
       "resourceLinks": [],
       "chainId": 43113,
       "description": "",
-      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/f43b76c/chains/43113/0x1741B9C475e0861a43B03F984928082Ac4f3fB95/logo.png",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/3456283/chains/43113/0x1741B9C475e0861a43B03F984928082Ac4f3fB95/logo.png",
       "tokenColor": "#345cd4"
     },
     "0x34B6C87bb59Eb37EFe35C8d594a234Cd8C654D50": {
@@ -275,7 +275,7 @@
       "contractType": "ERC-20",
       "resourceLinks": [],
       "description": "",
-      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/f43b76c/chains/43113/0x34B6C87bb59Eb37EFe35C8d594a234Cd8C654D50/logo.png",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/3456283/chains/43113/0x34B6C87bb59Eb37EFe35C8d594a234Cd8C654D50/logo.png",
       "tokenColor": "#fcb933"
     },
     "0x5ADD8Db0d6fafd1c6F87e8f75A4582d9C6B56dF8": {
@@ -287,7 +287,7 @@
       "contractType": "ERC-20",
       "resourceLinks": [],
       "description": "",
-      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/f43b76c/chains/43113/0x5ADD8Db0d6fafd1c6F87e8f75A4582d9C6B56dF8/logo.png",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/3456283/chains/43113/0x5ADD8Db0d6fafd1c6F87e8f75A4582d9C6B56dF8/logo.png",
       "tokenColor": "#baa488"
     },
     "0x72C14f7fB8B14040dA6E5b1B9D1B9438ebD85F58": {
@@ -299,7 +299,7 @@
       "contractType": "ERC-20",
       "resourceLinks": [],
       "description": "",
-      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/f43b76c/chains/43113/0x72C14f7fB8B14040dA6E5b1B9D1B9438ebD85F58/logo.png",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/3456283/chains/43113/0x72C14f7fB8B14040dA6E5b1B9D1B9438ebD85F58/logo.png",
       "tokenColor": "#e2b0d5"
     },
     "0x7fCDc2C1EF3e4A0bCC8155a558bB20a7218f2b05": {
@@ -311,7 +311,7 @@
       "contractType": "ERC-20",
       "resourceLinks": [],
       "description": "",
-      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/f43b76c/chains/43113/0x7fCDc2C1EF3e4A0bCC8155a558bB20a7218f2b05/logo.png",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/3456283/chains/43113/0x7fCDc2C1EF3e4A0bCC8155a558bB20a7218f2b05/logo.png",
       "tokenColor": "#f3f3f3"
     },
     "0x83080D4b5fC60e22dFFA8d14AD3BB41Dde48F199": {
@@ -323,7 +323,7 @@
       "contractType": "ERC-20",
       "resourceLinks": [],
       "description": "",
-      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/f43b76c/chains/43113/0x83080D4b5fC60e22dFFA8d14AD3BB41Dde48F199/logo.png",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/3456283/chains/43113/0x83080D4b5fC60e22dFFA8d14AD3BB41Dde48F199/logo.png",
       "tokenColor": "#fc6c04"
     },
     "0xAFDa926d549a67229D8DB529638E0BAFCDb66458": {
@@ -335,7 +335,7 @@
       "resourceLinks": [],
       "chainId": 43113,
       "description": "",
-      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/f43b76c/chains/43113/0xAFDa926d549a67229D8DB529638E0BAFCDb66458/logo.png",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/3456283/chains/43113/0xAFDa926d549a67229D8DB529638E0BAFCDb66458/logo.png",
       "tokenColor": "#049494"
     },
     "0xEa81F6972aDf76765Fd1435E119Acc0Aafc80BeA": {
@@ -347,7 +347,7 @@
       "contractType": "ERC-20",
       "resourceLinks": [],
       "description": "",
-      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/f43b76c/chains/43113/0xEa81F6972aDf76765Fd1435E119Acc0Aafc80BeA/logo.png",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/3456283/chains/43113/0xEa81F6972aDf76765Fd1435E119Acc0Aafc80BeA/logo.png",
       "tokenColor": "#514836"
     },
     "0xFbFe561E4E998A7C4F516561a2e4Ec14a702f50B": {
@@ -359,7 +359,7 @@
       "contractType": "ERC-20",
       "resourceLinks": [],
       "description": "",
-      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/f43b76c/chains/43113/0xFbFe561E4E998A7C4F516561a2e4Ec14a702f50B/logo.png",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/3456283/chains/43113/0xFbFe561E4E998A7C4F516561a2e4Ec14a702f50B/logo.png",
       "tokenColor": "#483a2e"
     },
     "0xd00ae08403B9bbb9124bB305C09058E32C39A48c": {
@@ -371,7 +371,7 @@
       "contractType": "ERC-20",
       "resourceLinks": [],
       "description": "",
-      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/f43b76c/chains/43113/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/logo.png",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/3456283/chains/43113/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/logo.png",
       "tokenColor": "#fbfbfb"
     },
     "0xf4E0A9224e8827dE91050b528F34e2F99C82Fbf6": {
@@ -383,7 +383,7 @@
       "contractType": "ERC-20",
       "resourceLinks": [],
       "description": "",
-      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/f43b76c/chains/43113/0xf4E0A9224e8827dE91050b528F34e2F99C82Fbf6/logo.png",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/3456283/chains/43113/0xf4E0A9224e8827dE91050b528F34e2F99C82Fbf6/logo.png",
       "tokenColor": "#fc057c"
     }
   },
@@ -432,7 +432,7 @@
         }
       ],
       "chainId": 73773,
-      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/f43b76c/chains/73773/0x5ee5731bDC8eDAEF16e462EfdE644bCC9a42D7E0/logo.png",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/3456283/chains/73773/0x5ee5731bDC8eDAEF16e462EfdE644bCC9a42D7E0/logo.png",
       "tokenColor": "#05bbec"
     },
     "0x6f51FE27fcD59d4940a78f5f0cEBaC3C90495B5C": {
@@ -479,7 +479,7 @@
         }
       ],
       "chainId": 73773,
-      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/f43b76c/chains/73773/0x6f51FE27fcD59d4940a78f5f0cEBaC3C90495B5C/logo.png",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/3456283/chains/73773/0x6f51FE27fcD59d4940a78f5f0cEBaC3C90495B5C/logo.png",
       "tokenColor": "#dd6704"
     },
     "0xAf27c4753a491C76c35671612eb193a21fa59352": {
@@ -526,7 +526,7 @@
         }
       ],
       "chainId": 73773,
-      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/f43b76c/chains/73773/0xAf27c4753a491C76c35671612eb193a21fa59352/logo.png",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/3456283/chains/73773/0xAf27c4753a491C76c35671612eb193a21fa59352/logo.png",
       "tokenColor": "#ecaa1f"
     }
   },
@@ -540,7 +540,7 @@
       "decimals": 6,
       "assetType": "Fixed Cap",
       "chainId": 432201,
-      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/f43b76c/chains/432201/0x0b0E3a1F937F59359795E1ACfb9FC744F21a6894/logo.png",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/3456283/chains/432201/0x0b0E3a1F937F59359795E1ACfb9FC744F21a6894/logo.png",
       "tokenColor": "#24a47c"
     },
     "0x2B21b816e82A4f186c4e9a8C9ae654ba353B91A2": {
@@ -552,7 +552,7 @@
       "decimals": 18,
       "assetType": "Fixed Cap",
       "chainId": 432201,
-      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/f43b76c/chains/432201/0x2B21b816e82A4f186c4e9a8C9ae654ba353B91A2/logo.png",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/3456283/chains/432201/0x2B21b816e82A4f186c4e9a8C9ae654ba353B91A2/logo.png",
       "tokenColor": "#fcb414"
     },
     "0x3aF43E5a9bc53Ec5cC7cF614D209ac52F26A2B8c": {
@@ -564,7 +564,7 @@
       "decimals": 18,
       "assetType": "Fixed Cap",
       "chainId": 432201,
-      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/f43b76c/chains/432201/0x3aF43E5a9bc53Ec5cC7cF614D209ac52F26A2B8c/logo.png",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/3456283/chains/432201/0x3aF43E5a9bc53Ec5cC7cF614D209ac52F26A2B8c/logo.png",
       "tokenColor": "#ec1c24"
     },
     "0x772A38B39C5991bF6b88d10218eB63295aC57B87": {
@@ -583,7 +583,7 @@
       "decimals": 18,
       "assetType": "Fixed Cap",
       "chainId": 432201,
-      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/f43b76c/chains/432201/0x8B32CF176c409d7d40838295fb225c22d3937032/logo.png",
+      "logoUri": "https://raw.githubusercontent.com/ava-labs/subnet-assets/3456283/chains/432201/0x8B32CF176c409d7d40838295fb225c22d3937032/logo.png",
       "tokenColor": "#ec4343"
     },
     "0xB4691bd740e390b584F229aCbd25aB9fcEFeB9AE": {
