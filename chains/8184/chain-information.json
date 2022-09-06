@@ -6,6 +6,8 @@
   "subnetId": "dqBXezHg6wg3TJt9F2BqingcQE1ePHt57eDDaAQfinzVRv4zz",
   "vmId": "nz4LozKDX8QAVmAkuuvLq7cHaMeGTZXe4krnS8kCaCZExoVWE",
   "vmName": "EVM",
+  "subnetExplorerUriId": "highrise",
+  "explorerUrl": "https://subnets.avax.network/highrise",
   "rpcUrl": "https://subnets.avax.network/pocket-worlds/testnet/rpc",
   "wsUrl": "wss://subnets.avax.network/pocket-worlds/testnet/ws",
   "isTestnet": true,
