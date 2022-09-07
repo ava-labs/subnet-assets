@@ -1,0 +1,7 @@
+{
+  "address": "0x0300000000000000000000000000000000000000",
+  "name": "VaultProxyAdmin",
+  "chainId": 8184,
+  "description": "Auxiliary contract assigned as admin of VaultProxy (TransparentUpgradeableProxy).",
+  "contractType": "Other"
+}
